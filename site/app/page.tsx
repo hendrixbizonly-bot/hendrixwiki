@@ -1,78 +1,94 @@
 import Link from 'next/link';
-import { articlesByCategory, loadArticles, leadSentence, loadArticle } from '@/lib/articles';
+import { articlesByCategory, leadSentence, loadArticle, loadArticles } from '@/lib/articles';
 
 export default function HomePage() {
   const articles = loadArticles();
   const groups = articlesByCategory();
-  const featured = loadArticle('core/hendrix');
-  const recent = articles.slice(0, 6);
+  const featured = loadArticle('design/design-philosophy') ?? loadArticle('core/hendrix');
+  const recent = [...articles]
+    .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt) || a.title.localeCompare(b.title))
+    .slice(0, 3);
+  const browseGroups = groups.slice(0, 6);
 
   return (
-    <>
-      <h1 className="welcome">
-        Welcome to <span>Hendrixpedia</span> <sup>v1</sup>,
-      </h1>
-      <p className="lede-center">the personal encyclopedia compiled from Hendrix&apos;s raw context.</p>
-      <p className="stats">
-        {articles.length} articles across {groups.length} categories ·{' '}
-        <Link href="/graph">Open graph</Link>
-      </p>
+    <div className="wiki-home">
+      <div className="wiki-home-main">
+        <header className="page-header">
+          <h1 className="page-title">Welcome to Hendrix Wiki</h1>
+          <p className="page-subtitle">
+            the personal knowledge base compiled from notes, projects, conversation, and work.
+          </p>
+          <p className="page-context">
+            {articles.length} articles across {groups.length} categories | <Link href="/">v1</Link> |{' '}
+            <Link href="/graph">graph view</Link>
+          </p>
+        </header>
 
-      <div className="grid">
-        <section className="card featured">
-          <header className="card-head blue">Featured article</header>
-          <div className="card-body">
-            <div className="featured-row">
-              <div className="featured-img"><div className="featured-logo">H</div></div>
-              <p>
-                <Link href="/a/core/hendrix"><strong>Hendrix</strong></Link>{' '}
-                <span className="muted">(person)</span> —{' '}
-                {featured ? leadSentence(featured.body, 240) : 'Hendrix is a Dubai-based builder.'}
-              </p>
-            </div>
-            <p><Link href="/a/core/hendrix" className="read-more">Read more →</Link></p>
+        <section className="info-box">
+          <header className="info-box-head">Featured article</header>
+          <div className="info-box-body">
+            <h2 className="feature-title">
+              <Link href={`/a/${featured?.slug ?? 'core/hendrix'}`}>{featured?.title ?? 'Hendrix'}</Link>
+            </h2>
+            <p className="feature-copy">
+              {featured
+                ? leadSentence(featured.body, 420)
+                : 'Hendrix is a Dubai-based builder with a strong bias toward design, tech, and business leverage.'}
+            </p>
+            <p className="feature-link-row">
+              <Link href={`/a/${featured?.slug ?? 'core/hendrix'}`}>Read more -&gt;</Link>
+            </p>
           </div>
         </section>
 
-        <section className="card recent">
-          <header className="card-head gray">Recently updated</header>
-          <ul className="card-body">
-            {recent.map(a => (
-              <li key={a.slug}>
-                <Link href={`/a/${a.slug}`}>{a.title}</Link>
-                <span className="date">(2026-04-20)</span>
-              </li>
-            ))}
-          </ul>
-        </section>
-
-        <section className="card about">
-          <header className="card-head gray">About</header>
-          <div className="card-body">
-            <p>Hendrixpedia is a personal knowledge wiki compiled from a single raw context file. Every article is written through Hendrix&apos;s lens — what the topic means to him, not a neutral encyclopedia entry.</p>
-            <p className="muted">Architecture: Raw → Wiki → Site. Edit <code>/Raw/context.md</code>, regenerate articles, restart.</p>
-          </div>
-        </section>
-
-        <section className="card browse">
-          <header className="card-head green">Browse by category</header>
-          <div className="card-body">
-            {groups.map(g => (
-              <div className="browse-group" key={g.key}>
-                <h4>{g.name}</h4>
-                <ul>
-                  {g.articles.slice(0, 14).map(a => (
-                    <li key={a.slug}>
-                      <Link href={`/a/${a.slug}`}>{a.title}</Link>{' '}
-                      <span className="muted">— {a.type}</span>
-                    </li>
+        <section className="info-box">
+          <header className="info-box-head">Browse by category</header>
+          <div className="info-box-body browse-sections">
+            {browseGroups.map(group => (
+              <section className="browse-section" id={group.key} key={group.key}>
+                <h3>{group.name}</h3>
+                <p className="browse-intro">
+                  This section gathers {group.articles.length} article{group.articles.length === 1 ? '' : 's'} that map how Hendrix thinks about {group.name.toLowerCase()}.
+                </p>
+                <div className="browse-items">
+                  {group.articles.slice(0, 5).map(article => (
+                    <p className="browse-item" key={article.slug}>
+                      <Link href={`/a/${article.slug}`}>{article.title}</Link>
+                      {' '}- {leadSentence(article.body, 160) || `${article.title} is one of the core entries in this section.`}
+                    </p>
                   ))}
-                </ul>
-              </div>
+                </div>
+              </section>
             ))}
           </div>
         </section>
       </div>
-    </>
+
+      <aside className="wiki-home-side">
+        <section className="info-box compact">
+          <header className="info-box-head">Recently updated</header>
+          <div className="info-box-body">
+            {recent.map(article => (
+              <p className="recent-item" key={article.slug}>
+                <Link href={`/a/${article.slug}`}>{article.title}</Link>
+                <span>({article.updatedAt})</span>
+              </p>
+            ))}
+          </div>
+        </section>
+
+        <section className="info-box compact">
+          <header className="info-box-head">About</header>
+          <div className="info-box-body">
+            <p>
+              Hendrix Wiki is a personal knowledge base built around Hendrix Huynh&apos;s raw context. The goal is not neutral encyclopedia writing. It is a structured view of what each topic means inside his system.
+            </p>
+            <p>
+              The site reads directly from <code>/wiki/articles</code>, with <Link href="/raw">Raw</Link> as the source of truth and <Link href="/schema">Schema</Link> as the writing contract.
+            </p>
+          </div>
+        </section>
+      </aside>
+    </div>
   );
 }

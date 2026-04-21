@@ -1,27 +1,23 @@
 import Link from 'next/link';
-import { KebabMenu } from './KebabMenu';
-import { SearchBox } from './SearchBox';
-import type { ManifestEntry } from '@/lib/articles';
 
-export function TopBar({ articles }: { articles: ManifestEntry[] }) {
+export function TopBar() {
   return (
     <header className="topbar">
-      <Link href="/" className="brand" aria-label="Hendrixpedia home">
-        <div className="logo-mark">H</div>
-        <div className="brand-text">
-          <div className="brand-title">Hendrixpedia</div>
-          <div className="brand-sub">The Personal Encyclopedia</div>
+      <div className="topbar-inner">
+        <div className="topbar-meta">
+          Hendrix&apos;s knowledge base (
+          <Link href="/raw">unfiltered</Link>
+          {' '}|{' '}
+          <Link href="/">v1</Link>
+          )
         </div>
-      </Link>
 
-      <nav className="tabs">
-        <Link className="tab active" href="/">Article</Link>
-        <a className="tab" href="#">Talk</a>
-      </nav>
-
-      <div className="topbar-right">
-        <SearchBox articles={articles} />
-        <KebabMenu />
+        <nav className="topbar-links" aria-label="Site">
+          <Link href="/">Home</Link>
+          <Link href="/" className="current">
+            Wiki
+          </Link>
+        </nav>
       </div>
     </header>
   );

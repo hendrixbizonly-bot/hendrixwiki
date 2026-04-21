@@ -6,37 +6,47 @@ import type { ManifestEntry } from '@/lib/articles';
 
 export function SearchView({ articles }: { articles: ManifestEntry[] }) {
   const [q, setQ] = useState('');
+
   const results = useMemo(() => {
-    const s = q.toLowerCase().trim();
-    if (!s) return articles.slice(0, 40);
-    return articles.filter(a =>
-      a.title.toLowerCase().includes(s) ||
-      a.category.toLowerCase().includes(s) ||
-      a.tags.some(t => t.toLowerCase().includes(s))
+    const search = q.toLowerCase().trim();
+    if (!search) return articles.slice(0, 40);
+
+    return articles.filter(article =>
+      article.title.toLowerCase().includes(search) ||
+      article.category.toLowerCase().includes(search) ||
+      article.tags.some(tag => tag.toLowerCase().includes(search))
     );
   }, [q, articles]);
 
   return (
-    <>
+    <div className="search-shell">
       <input
+        className="search-field"
         type="search"
-        placeholder="Search articles..."
+        placeholder="Search articles"
         value={q}
-        onChange={e => setQ(e.target.value)}
-        style={{ width: '100%', fontSize: 16, padding: '10px 14px' }}
+        onChange={event => setQ(event.target.value)}
         autoFocus
       />
-      <p className="muted" style={{ marginTop: 10 }}>
-        {q ? `${results.length} result${results.length === 1 ? '' : 's'}` : `Showing first ${Math.min(40, articles.length)} articles of ${articles.length}`}
+
+      <p className="search-summary">
+        {q
+          ? `${results.length} result${results.length === 1 ? '' : 's'}`
+          : `Showing the first ${Math.min(40, articles.length)} articles out of ${articles.length}`}
       </p>
+
       <ul className="search-list">
-        {results.map(r => (
-          <li key={r.slug}>
-            <Link href={`/a/${r.slug}`}><strong>{r.title}</strong></Link>
-            <span className="cat">{r.category} · {r.type}</span>
+        {results.map(article => (
+          <li key={article.slug}>
+            <Link href={`/a/${article.slug}`} className="search-result-title">
+              {article.title}
+            </Link>
+            <span className="search-result-meta">
+              {article.category} | {article.type}
+            </span>
           </li>
         ))}
       </ul>
-    </>
+    </div>
   );
 }

@@ -1,14 +1,17 @@
 import { readSchema } from '@/lib/articles';
 
-export const metadata = { title: 'Schema — Hendrixpedia' };
+export const metadata = { title: 'Schema - Hendrix Wiki' };
 
 export default function SchemaPage() {
   const schema = readSchema();
+
   return (
-    <>
-      <h2>Wiki schema</h2>
-      <p className="muted">Writing conventions, frontmatter format, and linking rules.</p>
+    <section>
+      <header className="page-header secondary">
+        <h1 className="page-title small">Wiki schema</h1>
+        <p className="page-subtitle">Writing conventions, frontmatter format, and linking rules.</p>
+      </header>
       <pre className="raw">{schema}</pre>
-    </>
+    </section>
   );
 }

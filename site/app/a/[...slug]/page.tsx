@@ -1,15 +1,15 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { loadArticles, loadArticle, renderArticle, CATEGORY_NAMES } from '@/lib/articles';
+import { CATEGORY_NAMES, loadArticle, loadArticles, renderArticle } from '@/lib/articles';
 
 export async function generateStaticParams() {
-  return loadArticles().map(a => ({ slug: a.slug.split('/') }));
+  return loadArticles().map(article => ({ slug: article.slug.split('/') }));
 }
 
 export async function generateMetadata({ params }: { params: { slug: string[] } }) {
   const slug = params.slug.join('/');
-  const a = loadArticle(slug);
-  return { title: a ? `${a.title} — Hendrixpedia` : 'Article — Hendrixpedia' };
+  const article = loadArticle(slug);
+  return { title: article ? `${article.title} - Hendrix Wiki` : 'Article - Hendrix Wiki' };
 }
 
 export default function ArticlePage({ params }: { params: { slug: string[] } }) {
@@ -22,16 +22,17 @@ export default function ArticlePage({ params }: { params: { slug: string[] } }) 
   const catName = CATEGORY_NAMES[article.category] || article.category;
 
   return (
-    <article>
+    <article className="article-page">
       <div className="breadcrumbs">
-        <Link href="/">Main</Link> ›{' '}
-        <Link href={`/#${article.category}`}>{catName}</Link> ›{' '}
-        <span>{article.title}</span>
+        <Link href="/">Main page</Link> {'>'} <Link href={`/#${article.category}`}>{catName}</Link> {'>'} <span>{article.title}</span>
       </div>
-      <div className="article-meta">{article.type} · category: {article.category}</div>
-      <h1 className="article-title">
-        {article.title} <span className="edit">[edit in /Raw/context.md]</span>
-      </h1>
+      <div className="article-meta">
+        {article.type} | category: {article.category} | updated {article.updatedAt}
+      </div>
+      <h1 className="article-title">{article.title}</h1>
+      <p className="article-note">
+        This page is rendered from <code>/wiki/articles/{article.slug}.md</code>. If the meaning changes, update <Link href="/raw">Raw</Link> and regenerate the wiki.
+      </p>
       <div className="article" dangerouslySetInnerHTML={{ __html: html }} />
     </article>
   );
