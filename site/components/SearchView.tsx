@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
 import type { ManifestEntry } from '@/lib/articles';
+import { CATEGORY_NAMES, SECTION_NAMES } from '@/lib/constants';
 
 export function SearchView({ articles }: { articles: ManifestEntry[] }) {
   const [q, setQ] = useState('');
@@ -13,6 +14,7 @@ export function SearchView({ articles }: { articles: ManifestEntry[] }) {
 
     return articles.filter(article =>
       article.title.toLowerCase().includes(search) ||
+      article.section.toLowerCase().includes(search) ||
       article.category.toLowerCase().includes(search) ||
       article.tags.some(tag => tag.toLowerCase().includes(search))
     );
@@ -23,7 +25,7 @@ export function SearchView({ articles }: { articles: ManifestEntry[] }) {
       <input
         className="search-field"
         type="search"
-        placeholder="Search articles"
+        placeholder="Search chapters, people, ideas, and projects"
         value={q}
         onChange={event => setQ(event.target.value)}
         autoFocus
@@ -32,7 +34,7 @@ export function SearchView({ articles }: { articles: ManifestEntry[] }) {
       <p className="search-summary">
         {q
           ? `${results.length} result${results.length === 1 ? '' : 's'}`
-          : `Showing the first ${Math.min(40, articles.length)} articles out of ${articles.length}`}
+          : `Showing the first ${Math.min(40, articles.length)} chapters out of ${articles.length}`}
       </p>
 
       <ul className="search-list">
@@ -42,7 +44,8 @@ export function SearchView({ articles }: { articles: ManifestEntry[] }) {
               {article.title}
             </Link>
             <span className="search-result-meta">
-              {article.category} | {article.type}
+              {SECTION_NAMES[article.section as keyof typeof SECTION_NAMES] || article.section} | {article.type} | stored in{' '}
+              {CATEGORY_NAMES[article.category] || article.category}
             </span>
           </li>
         ))}

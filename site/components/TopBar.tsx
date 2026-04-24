@@ -5,18 +5,13 @@ export function TopBar() {
     <header className="topbar">
       <div className="topbar-inner">
         <div className="topbar-meta">
-          Hendrix&apos;s knowledge base (
-          <Link href="/raw">unfiltered</Link>
-          {' '}|{' '}
-          <Link href="/">v1</Link>
-          )
+          a living archive built from <Link href="/raw">raw notes</Link> and arranged like a book
         </div>
 
         <nav className="topbar-links" aria-label="Site">
           <Link href="/">Home</Link>
-          <Link href="/" className="current">
-            Wiki
-          </Link>
+          <Link href="/a/meta/start-here">Start Here</Link>
+          <Link href="/a/meta/timeline">Timeline</Link>
         </nav>
       </div>
     </header>

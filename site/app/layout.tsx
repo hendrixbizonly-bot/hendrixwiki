@@ -5,8 +5,8 @@ import { TopBar } from '@/components/TopBar';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Hendrix Wiki - The Personal Encyclopedia',
-  description: 'Personal knowledge base for Hendrix Huynh, rendered in a wiki-style interface.',
+  title: 'Hendrixpedia | A Living Personal Archive',
+  description: 'A personal archive about Hendrix Huynh, organized like a nonfiction book across identity, work, ideas, media, life, and curiosity.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

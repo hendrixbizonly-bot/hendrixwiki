@@ -12,16 +12,11 @@ function SearchIcon() {
   );
 }
 
-function ChatIcon() {
+function BookIcon() {
   return (
     <svg viewBox="0 0 20 20" aria-hidden="true">
-      <path
-        d="M4 4.75h12a1 1 0 0 1 1 1V13a1 1 0 0 1-1 1H9l-4 3v-3H4a1 1 0 0 1-1-1V5.75a1 1 0 0 1 1-1Z"
-        fill="none"
-        stroke="currentColor"
-        strokeWidth="1.4"
-        strokeLinejoin="round"
-      />
+      <path d="M4.5 4.5a2 2 0 0 1 2-2h8v13h-8a2 2 0 0 0-2 2Z" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />
+      <path d="M4.5 4.5v11" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
     </svg>
   );
 }
@@ -38,31 +33,28 @@ function HistoryIcon() {
 
 export function PageTabs() {
   const pathname = usePathname();
-  const articleActive = !pathname.startsWith('/graph');
-  const graphActive = pathname.startsWith('/graph');
+  const readActive = !pathname.startsWith('/graph');
+  const mapActive = pathname.startsWith('/graph');
 
   return (
     <div className="page-toolbar">
       <nav className="page-tabs" aria-label="Page tabs">
-        <Link className={`page-tab ${articleActive ? 'active' : ''}`} href="/">
-          Article
+        <Link className={`page-tab ${readActive ? 'active' : ''}`} href="/">
+          Read
         </Link>
-        <span className="page-tab disabled" aria-disabled="true">
-          Talk
-        </span>
-        <Link className={`page-tab ${graphActive ? 'active' : ''}`} href="/graph">
-          Graph
+        <Link className={`page-tab ${mapActive ? 'active' : ''}`} href="/graph">
+          Map
         </Link>
       </nav>
 
       <div className="page-actions" aria-label="Page tools">
-        <Link className="page-action" href="/search" aria-label="Search wiki">
+        <Link className="page-action" href="/a/meta/start-here" aria-label="Open Start Here">
+          <BookIcon />
+        </Link>
+        <Link className="page-action" href="/search" aria-label="Search the archive">
           <SearchIcon />
         </Link>
-        <Link className="page-action" href="/schema" aria-label="Open schema">
-          <ChatIcon />
-        </Link>
-        <Link className="page-action" href="/random" aria-label="Open a random article">
+        <Link className="page-action" href="/random" aria-label="Open a random chapter">
           <HistoryIcon />
         </Link>
       </div>

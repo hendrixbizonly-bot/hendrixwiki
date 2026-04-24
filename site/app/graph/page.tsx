@@ -1,7 +1,7 @@
 import { Graph } from '@/components/Graph';
 import { buildTitleIndex, loadArticles } from '@/lib/articles';
 
-export const metadata = { title: 'Graph - Hendrix Wiki' };
+export const metadata = { title: 'Map | Hendrixpedia' };
 
 export default function GraphPage() {
   const articles = loadArticles();
@@ -10,7 +10,7 @@ export default function GraphPage() {
   const nodes = articles.map(article => ({
     id: article.slug,
     title: article.title,
-    category: article.category,
+    section: article.section,
   }));
 
   const seen = new Set<string>();
@@ -32,8 +32,8 @@ export default function GraphPage() {
   return (
     <section>
       <header className="page-header secondary">
-        <h1 className="page-title small">Graph</h1>
-        <p className="page-subtitle">Every node is an article. Every edge is a wiki link. Click a node to open it.</p>
+        <h1 className="page-title small">Map</h1>
+        <p className="page-subtitle">Every node is a chapter. The colors show reader-facing sections, and the links reveal how the world holds together.</p>
       </header>
       <Graph nodes={nodes} links={links} />
     </section>
