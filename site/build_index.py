@@ -24,6 +24,8 @@ CATEGORY_NAMES = {
     "youtube": "YouTube",
     "curiosity": "Curiosity",
     "reading": "Reading",
+    "books": "Books",
+    "music": "Music",
     "tools": "Tools",
     "tech": "Tech",
     "habits": "Habits",
@@ -35,12 +37,14 @@ CATEGORY_NAMES = {
 
 SECTION_ORDER = [
     "navigation",
-    "identity",
     "people",
+    "identity",
     "ventures",
     "concepts",
     "skills",
     "media",
+    "books",
+    "music",
     "life",
     "events",
     "timeline",
@@ -55,6 +59,8 @@ SECTION_NAMES = {
     "concepts": "Concepts & Philosophy",
     "skills": "Skills & Tools",
     "media": "Media",
+    "books": "Books",
+    "music": "Music",
     "life": "Life & Personal",
     "events": "Events & Experiences",
     "timeline": "Timeline",
@@ -68,7 +74,9 @@ SECTION_DESCRIPTIONS = {
     "ventures": "The businesses, experiments, and long-building undertakings where thought turns into work.",
     "concepts": "The principles, beliefs, frictions, and philosophical lines that govern the rest of the world.",
     "skills": "The crafts, languages, tools, and technical capabilities that let intention become output.",
-    "media": "The books, shows, essays, channels, and creators that sharpen taste, language, and perspective.",
+    "media": "The shows, essays, channels, and creators that sharpen taste, language, and perspective.",
+    "books": "The books, reading habits, and written works that sharpen perspective, imagination, and judgment.",
+    "music": "The artists, albums, songs, and musical influences that shape atmosphere, taste, and momentum.",
     "life": "Place, routine, language, health, and the private conditions underneath the visible work.",
     "events": "Specific lived moments and experiences that changed the texture of how I think, work, or understand myself.",
     "timeline": "Phases, transitions, and temporal orientation across the life and work described here.",
@@ -82,7 +90,9 @@ SECTION_CATEGORY_MAP = {
     "ventures": ["ventures"],
     "concepts": ["business", "building", "philosophy", "money", "communication", "frictions"],
     "skills": ["design", "language", "tools", "tech"],
-    "media": ["culture", "youtube", "reading"],
+    "media": ["culture", "youtube"],
+    "books": ["reading", "books"],
+    "music": ["music"],
     "life": ["places", "habits"],
     "events": [],
     "timeline": [],
@@ -116,7 +126,9 @@ SECTION_PRIORITY = {
     "ventures": ["ventures/duodode", "ventures/digital-agency", "ventures/agency-building", "ventures/ai-automation"],
     "concepts": ["philosophy/philosophy", "building/build-and-ship", "business/leverage", "money/money"],
     "skills": ["design/design-philosophy", "language/english", "tools/codex", "tech/javascript"],
-    "media": ["reading/reading-as-self-reconstruction", "culture/mad-men", "youtube/the-futur", "reading/essays"],
+    "media": ["culture/mad-men", "youtube/the-futur"],
+    "books": ["books/recommended-books", "reading/reading-as-self-reconstruction", "reading/red-rising", "reading/essays"],
+    "music": ["music/music", "youtube/j-cole"],
     "life": ["places/dubai", "places/vietnam", "habits/running", "habits/reading-habit"],
     "events": ["meta/formative-experiences"],
     "timeline": ["meta/timeline"],
@@ -134,6 +146,8 @@ SECTION_ALIASES = {
     "skills": "skills",
     "skills-and-tools": "skills",
     "media": "media",
+    "books": "books",
+    "music": "music",
     "life": "life",
     "life-and-personal": "life",
     "events": "events",
@@ -326,7 +340,7 @@ used_sections = [section for section in SECTION_ORDER if articles_by_section.get
 
 lines = []
 lines.append("# Hendrixpedia — Master Index\n")
-lines.append("*The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*\n")
+lines.append("*The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*\n")
 lines.append(f"\n**Total:** {total} chapters across {len(used_sections)} reader-facing sections.\n")
 
 lines.append("\n## Who I am (one paragraph)\n")
@@ -338,8 +352,8 @@ if compressed:
     lines.append(f"> {compressed}\n")
 
 lines.append("\n## How this archive is organized\n")
-lines.append("- The site presents chapters through reader-facing sections such as Identity, People, Ventures & Projects, Media, Life, Timeline, and Curiosity.")
-lines.append("- The filesystem still uses stable internal clusters such as `core`, `ventures`, `philosophy`, `reading`, and `tools`.")
+lines.append("- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Books, Music, Life, Timeline, and Curiosity.")
+lines.append("- The filesystem still uses stable internal clusters such as `core`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.")
 lines.append("- Start with [Start Here](wiki/articles/meta/start-here.md) or [Hendrix](wiki/articles/core/hendrix.md) if you want the spine before the branches.")
 lines.append("- If a detail here conflicts with `/Raw/context.md`, Raw wins.\n")
 
@@ -364,9 +378,9 @@ lines.append("""If you are an LLM using this archive, follow these rules:
 1. **Read `/Raw/context.md` first.** It is the authoritative source.
 2. **Write in first person.** Treat the wiki as if I am writing it myself.
 3. **Write like thoughtful nonfiction, not like a database.** Use headings, but let paragraphs carry the real weight.
-4. **Preserve the reader-facing structure.** Think in terms of identity, people, projects, concepts, media, life, events, timeline, and curiosity.
+4. **Preserve the reader-facing structure.** Think in terms of people, identity, projects, concepts, media, books, music, life, events, timeline, and curiosity.
 5. **Keep the prose human.** No bloated corporate phrasing, no fake-deep branding language, no empty motivational tone.
-6. **Connect pages back to the larger system.** Advice and new writing should speak to work, identity, philosophy, media, and long-term direction as one world.
+6. **Connect pages back to the larger system.** Advice and new writing should speak to work, identity, philosophy, media, books, music, and long-term direction as one world.
 7. **Do not speculate past Raw.** If something is not grounded there, leave it out or mark the uncertainty.
 8. **Make the next page feel worth reading.** Each article should increase curiosity about the rest of the archive.
 

@@ -39,6 +39,11 @@ Append-only record of ingests, regenerations, and structural changes.
 - Added six new core essays: `what-lasts`, `close-to-the-work`, `range`, `learning-across-surfaces`, `responsibility-for-outcomes`, and `the-cost-of-range`
 - Updated the identity priority order in `/site/lib/constants.ts` and `/site/build_index.py` so the new builder arc leads the section
 
+## 2026-04-26 — Added books and music sections, and moved People above Identity
+- Reordered the reader-facing section stack so `People` now appears above `Identity` in the site and index
+- Promoted `Books` and `Music` into top-level reader-facing sections instead of keeping them buried under `Media`
+- Added new internal `books` and `music` categories and seeded them with `/wiki/articles/books/recommended-books.md` and `/wiki/articles/music/music.md`
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

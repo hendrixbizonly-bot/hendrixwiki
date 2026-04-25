@@ -1,6 +1,7 @@
 ---
 title: J. Cole
 category: youtube
+section: music
 type: channel
 related: [Hendrix, Music, Ambition, Self-Overcoming, YouTube as Learning Platform]
 tags: [youtube, music, artist, ambition]

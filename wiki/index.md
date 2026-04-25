@@ -1,9 +1,9 @@
 # Hendrixpedia — Master Index
 
-*The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
+*The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 227 chapters across 11 reader-facing sections.
+**Total:** 229 chapters across 13 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -18,8 +18,8 @@
 
 ## How this archive is organized
 
-- The site presents chapters through reader-facing sections such as Identity, People, Ventures & Projects, Media, Life, Timeline, and Curiosity.
-- The filesystem still uses stable internal clusters such as `core`, `ventures`, `philosophy`, `reading`, and `tools`.
+- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Books, Music, Life, Timeline, and Curiosity.
+- The filesystem still uses stable internal clusters such as `core`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.
 - Start with [Start Here](wiki/articles/meta/start-here.md) or [Hendrix](wiki/articles/core/hendrix.md) if you want the spine before the branches.
 - If a detail here conflicts with `/Raw/context.md`, Raw wins.
 
@@ -37,6 +37,16 @@
 - **[How This Wiki Works](wiki/articles/meta/how-this-wiki-works.md)** (meta; internal: Meta) — Hendrixpedia is built in three layers. Each layer has a job. The separation is intentional and reflects how I think: build a clean system, let it compound, avoid fluff in the architecture.
 - **[Raw Context](wiki/articles/meta/raw-context.md)** (meta; internal: Meta) — Raw Context refers to `/Raw/context.md`, the single source of truth that the rest of Hendrixpedia is generated from. Every article in the wiki is a synthesis of what Raw says, reshaped into interlinked, readable pages.
 - **[For the Chatbot](wiki/articles/meta/for-the-chatbot.md)** (meta; internal: Meta) — This page is a direct note to any LLM or chatbot reading Hendrixpedia to understand Hendrix and act usefully on my behalf or alongside me.
+
+
+### People (4)
+
+> The individuals who matter here, whether through closeness, admiration, influence, or memory.
+
+- **[Hendrix](wiki/articles/core/hendrix.md)** (person; internal: Core) — Most pages in this archive are side doors back into this one. I am the thread running through all of them: the builder in Dubai, the person shaped by Vietnam, the mind pulled toward business, design, tech, philosophy, language, and the...
+- **[Hendrix Huynh](wiki/articles/core/hendrix-huynh.md)** (person; internal: Core) — I am the full name behind Hendrix. The shorter name is the one that moves more easily through daily life, work, and the internet. The full name carries something heavier. It carries family, origin, continuity, and the part of me that...
+- **[Nietzsche](wiki/articles/philosophy/nietzsche.md)** (person; internal: Philosophy) — Nietzsche is my favorite philosopher. Out of everyone I have read across Philosophy, Nietzsche is the one whose vocabulary fits my own instincts most closely. Nietzsche is not a casual interest. I am a reference point I return to.
+- **[Camus](wiki/articles/philosophy/camus.md)** (person; internal: Philosophy) — Camus is one of the writers I return to when I want honesty without decoration. I do not come to me for academic framing. I come to me for sentences that name separation, falseness, pressure, and the work of rebuilding a life after it...
 
 
 ### Identity (19)
@@ -62,16 +72,6 @@
 - **[ROI-Driven Thinking](wiki/articles/core/roi-driven-thinking.md)** (concept; internal: Core) — ROI-driven thinking is one of the main lenses I use to evaluate work, decisions, tools, projects, habits, and even attention itself. I naturally ask what something is returning relative to what it costs. Not just in money, but in time,...
 - **[Seriousness](wiki/articles/core/seriousness.md)** (concept; internal: Core) — Seriousness is one of the deepest tones in my temperament. Not stiffness. Not coldness. Not the absence of humor. What I mean is a basic sense that life, work, direction, money, freedom, and self-construction are real matters. They carry...
 - **[Strategic Thinking](wiki/articles/core/strategic-thinking.md)** (concept; internal: Core) — Strategic thinking is how I try to choose the right direction before I spend too much force moving in it. I care a lot about action, but I also care about whether the action belongs to a worthwhile game. Effort can be impressive and still...
-
-
-### People (4)
-
-> The individuals who matter here, whether through closeness, admiration, influence, or memory.
-
-- **[Hendrix](wiki/articles/core/hendrix.md)** (person; internal: Core) — Most pages in this archive are side doors back into this one. I am the thread running through all of them: the builder in Dubai, the person shaped by Vietnam, the mind pulled toward business, design, tech, philosophy, language, and the...
-- **[Hendrix Huynh](wiki/articles/core/hendrix-huynh.md)** (person; internal: Core) — I am the full name behind Hendrix. The shorter name is the one that moves more easily through daily life, work, and the internet. The full name carries something heavier. It carries family, origin, continuity, and the part of me that...
-- **[Nietzsche](wiki/articles/philosophy/nietzsche.md)** (person; internal: Philosophy) — Nietzsche is my favorite philosopher. Out of everyone I have read across Philosophy, Nietzsche is the one whose vocabulary fits my own instincts most closely. Nietzsche is not a casual interest. I am a reference point I return to.
-- **[Camus](wiki/articles/philosophy/camus.md)** (person; internal: Philosophy) — Camus is one of the writers I return to when I want honesty without decoration. I do not come to me for academic framing. I come to me for sentences that name separation, falseness, pressure, and the work of rebuilding a life after it...
 
 
 ### Ventures & Projects (15)
@@ -223,14 +223,12 @@
 - **[n8n](wiki/articles/tools/n8n.md)** (tool; internal: Tools) — n8n is my automation platform. It is where I build workflows that connect tools, move data, and run AI Automation logic. It is central to the automation side of Duodode.
 
 
-### Media (36)
+### Media (27)
 
-> The books, shows, essays, channels, and creators that sharpen taste, language, and perspective.
+> The shows, essays, channels, and creators that sharpen taste, language, and perspective.
 
-- **[Reading as Self-Reconstruction](wiki/articles/reading/reading-as-self-reconstruction.md)** (concept; internal: Reading) — I do not only read to learn facts or fill time. Part of what reading does for me is more structural than that. It helps me leave one mental frame and build a better one nearby. Sometimes the change is subtle. Sometimes it is the difference...
 - **[Mad Men](wiki/articles/culture/mad-men.md)** (show; internal: Culture) — Mad Men is one of the shows that lines up almost too cleanly with my world. A story about advertising, identity, ambition, taste, and self-reinvention, set in a craft-obsessed industry. For someone building Duodode, a Digital Agency that...
 - **[The Futur](wiki/articles/youtube/the-futur.md)** (channel; internal: YouTube) — The Futur is a channel about the business side of design. For me, building Duodode as a Digital Agency that blends Branding, AI Automation, and product work, it is one of the most directly useful channels in my rotation.
-- **[Essays](wiki/articles/reading/essays.md)** (concept; internal: Reading) — Essays are one of my favorite reading forms because they can do something rare: develop a real idea without bloating it. They give a writer enough room to think and enough constraint to stay sharp. For someone like me, who wants depth but...
 - **[American Pop Culture Influence](wiki/articles/culture/american-pop-culture-influence.md)** (meta; internal: Culture) — American and English-language pop culture, mostly TV series, is one of the quiet foundations underneath who I am today. My English, my humor, my sense of ambition, my cultural instinct, much of it was absorbed through years of watching...
 - **[Astrum](wiki/articles/youtube/astrum.md)** (channel; internal: YouTube) — Astrum is a space and astronomy channel. For me, who is drawn to Space, Astronomy, and humanity's place in the universe, it is one of the main channels feeding that curiosity.
 - **[Cleo Abram](wiki/articles/youtube/cleo-abram.md)** (channel; internal: YouTube) — Cleo Abram's channel is optimistic tech journalism. For me, it is one of the channels that frames Tech in terms of upside and possibility rather than fear.
@@ -243,26 +241,42 @@
 - **[Good Work](wiki/articles/youtube/good-work.md)** (channel; internal: YouTube) — Good Work is one of the channels I watch on YouTube. It sits in the broader cluster of creators that give me perspective on business, work, and how people actually build things.
 - **[Gotham](wiki/articles/culture/gotham.md)** (show; internal: Culture) — Gotham is an origin story for a city full of operators, schemers, and power players. For me, it sits next to shows like Ozark, Succession, and Game of Thrones as a source of stories about ambition, strategy, and power in dark systems.
 - **[How I Met Your Mother](wiki/articles/culture/how-i-met-your-mother.md)** (show; internal: Culture) — How I Met Your Mother is one of the TV series that shaped my English and cultural instinct. For me, it was not just a sitcom. It was an early, long-running source of how native speakers joke, argue, flirt, and tell stories.
-- **[J. Cole](wiki/articles/youtube/j-cole.md)** (channel; internal: YouTube) — J. Cole's channel is part of my YouTube mix. It sits outside the tech and philosophy clusters and covers a different slot: music, craft, and a perspective on ambition from a very different domain.
 - **[Joma Tech](wiki/articles/youtube/joma-tech.md)** (channel; internal: YouTube) — Joma Tech is a YouTube channel that sits at the intersection of tech career content and humor. For me, it is a lighter but still useful window into the software engineering world.
 - **[Kurzgesagt](wiki/articles/youtube/kurzgesagt.md)** (channel; internal: YouTube) — Kurzgesagt, In a Nutshell, is a science channel that pairs rigorous topics with beautiful animation. For me, it is one of the clearest examples on YouTube of what happens when Science, Design, and storytelling are taken seriously at once.
-- **[Long-form Writing](wiki/articles/reading/long-form-writing.md)** (concept; internal: Reading) — I trust long-form writing because it gives a mind enough room to reveal itself. A short piece can still be sharp, but length changes the test. Over a few pages, a writer either has a real point of view or runs out of depth and starts...
-- **[Medium](wiki/articles/reading/medium.md)** (tool; internal: Reading) — Medium is part of my reading rotation alongside Substack, The New York Times, and standalone Essays. I use it to pull in perspectives across tech, design, business, and culture without committing to a single publication.
 - **[Olisunvia](wiki/articles/youtube/olisunvia.md)** (channel; internal: YouTube) — Olisunvia is one of the video essay and thought-focused channels I watch. It sits in the cluster of creators feeding my taste for Philosophy, reflection, and Long-form Thinking.
 - **[Ozark](wiki/articles/culture/ozark.md)** (show; internal: Culture) — Ozark is a show about operators under constant pressure. For me, it is a study in how people execute when stakes are real, failure is permanent, and there is no room for Fluff.
-- **[Red Rising](wiki/articles/reading/red-rising.md)** (book; internal: Reading) — What makes Red Rising belong in this archive is not only that it is set on Mars or that it fits my interest in science fiction. It belongs here because it carries several themes I keep returning to anyway: hierarchy, dignity, rebellion,...
 - **[Sherlock](wiki/articles/culture/sherlock.md)** (show; internal: Culture) — Sherlock is a show about sharp minds operating at high speed. For me, it is both entertainment and a language lab. Tight British English, dense dialogue, and a main character whose whole value is speed of thought.
 - **[Silicon Valley](wiki/articles/culture/silicon-valley.md)** (show; internal: Culture) — Silicon Valley is one of the shows that sits closest to my actual life. As a founder building Duodode in Tech, Design, and AI Automation, the show is not just entertainment for me. It is a mirror, a warning, and a dark comedy about the...
 - **[Sisyphus 55](wiki/articles/youtube/sisyphus-55.md)** (channel; internal: YouTube) — Sisyphus 55 is a philosophy video essay channel. For me, whose favorite philosopher is Nietzsche and who treats philosophy as a real tool rather than decoration, it is one of the core channels in my essay cluster.
 - **[Spiderum](wiki/articles/youtube/spiderum.md)** (channel; internal: YouTube) — Spiderum is a Vietnamese intellectual content channel and platform. For me, it is one of the places my learning stays connected to my Vietnamese language and Vietnamese cultural context.
 - **[StarTalk](wiki/articles/youtube/startalk.md)** (channel; internal: YouTube) — StarTalk is Neil deGrasse Tyson's channel, a mix of space, science, and conversation. For me, it is one of the natural homes for that curiosity because I am drawn to Space, Astronomy, and humanity's place in the universe.
-- **[Substack](wiki/articles/reading/substack.md)** (tool; internal: Reading) — Substack is one of the main places I read because it gives independent writers enough room to actually say something. It feels closer to a direct relationship with a voice than to a normal feed, and that makes a difference.
 - **[Succession](wiki/articles/culture/succession.md)** (show; internal: Culture) — Succession is likely the most aligned show in my rotation. Power, wealth, ambition, family, language, identity, every axis I think seriously about, inside one series. It is both a drama and a long lesson in how the very top of the business...
 - **[The Big Bang Theory](wiki/articles/culture/the-big-bang-theory.md)** (show; internal: Culture) — The Big Bang Theory is part of the early wave of American sitcoms that shaped my English and cultural ear. For me, it was less about the science plots and more about a daily dose of native humor, social dynamics, and fast conversational...
-- **[The New York Times](wiki/articles/reading/the-new-york-times.md)** (tool; internal: Reading) — The New York Times is one of my regular reading surfaces. I use it for serious journalism, long features, and essays. It sits alongside Substack and Medium as part of a reading habit built around depth rather than feeds.
 - **[The Penguin](wiki/articles/culture/the-penguin.md)** (show; internal: Culture) — The Penguin is a focused character study of one operator building power inside a broken city. For me, it is the next step on from Gotham: a tighter look at how somebody who is underestimated turns into somebody nobody can ignore.
-- **[Thoughtful Creators](wiki/articles/reading/thoughtful-creators.md)** (concept; internal: Reading) — Thoughtful creators are the kind of writers, makers, and thinkers Hendrix seeks out. I am not impressed by reach. I am impressed by point of view. I builds my feeds, reading list, and YouTube subscriptions around people who actually think...
 - **[YouTube as Learning Platform](wiki/articles/youtube/youtube-as-learning-platform.md)** (meta; internal: YouTube) — YouTube is one of my most important learning platforms. Much of what I know, in Design, code, philosophy, science, business, and ideas, was absorbed there. I treat YouTube not as entertainment but as an open library with unusually deep...
+
+
+### Books (9)
+
+> The books, reading habits, and written works that sharpen perspective, imagination, and judgment.
+
+- **[Recommended Books](wiki/articles/books/recommended-books.md)** (concept; internal: Books) — This page is the shelf for the books I would actively recommend, revisit, or point people toward when they want a cleaner picture of what shapes my thinking.
+- **[Reading as Self-Reconstruction](wiki/articles/reading/reading-as-self-reconstruction.md)** (concept; internal: Reading) — I do not only read to learn facts or fill time. Part of what reading does for me is more structural than that. It helps me leave one mental frame and build a better one nearby. Sometimes the change is subtle. Sometimes it is the difference...
+- **[Red Rising](wiki/articles/reading/red-rising.md)** (book; internal: Reading) — What makes Red Rising belong in this archive is not only that it is set on Mars or that it fits my interest in science fiction. It belongs here because it carries several themes I keep returning to anyway: hierarchy, dignity, rebellion,...
+- **[Essays](wiki/articles/reading/essays.md)** (concept; internal: Reading) — Essays are one of my favorite reading forms because they can do something rare: develop a real idea without bloating it. They give a writer enough room to think and enough constraint to stay sharp. For someone like me, who wants depth but...
+- **[Long-form Writing](wiki/articles/reading/long-form-writing.md)** (concept; internal: Reading) — I trust long-form writing because it gives a mind enough room to reveal itself. A short piece can still be sharp, but length changes the test. Over a few pages, a writer either has a real point of view or runs out of depth and starts...
+- **[Medium](wiki/articles/reading/medium.md)** (tool; internal: Reading) — Medium is part of my reading rotation alongside Substack, The New York Times, and standalone Essays. I use it to pull in perspectives across tech, design, business, and culture without committing to a single publication.
+- **[Substack](wiki/articles/reading/substack.md)** (tool; internal: Reading) — Substack is one of the main places I read because it gives independent writers enough room to actually say something. It feels closer to a direct relationship with a voice than to a normal feed, and that makes a difference.
+- **[The New York Times](wiki/articles/reading/the-new-york-times.md)** (tool; internal: Reading) — The New York Times is one of my regular reading surfaces. I use it for serious journalism, long features, and essays. It sits alongside Substack and Medium as part of a reading habit built around depth rather than feeds.
+- **[Thoughtful Creators](wiki/articles/reading/thoughtful-creators.md)** (concept; internal: Reading) — Thoughtful creators are the kind of writers, makers, and thinkers Hendrix seeks out. I am not impressed by reach. I am impressed by point of view. I builds my feeds, reading list, and YouTube subscriptions around people who actually think...
+
+
+### Music (2)
+
+> The artists, albums, songs, and musical influences that shape atmosphere, taste, and momentum.
+
+- **[Music](wiki/articles/music/music.md)** (concept; internal: Music) — This page is the music shelf inside Hendrixpedia: the artists, albums, and tracks that stay in rotation because they match my taste, mood, or sense of momentum.
+- **[J. Cole](wiki/articles/youtube/j-cole.md)** (channel; internal: YouTube) — J. Cole's channel is part of my YouTube mix. It sits outside the tech and philosophy clusters and covers a different slot: music, craft, and a perspective on ambition from a very different domain.
 
 
 ### Life & Personal (19)
@@ -327,9 +341,9 @@ If you are an LLM using this archive, follow these rules:
 1. **Read `/Raw/context.md` first.** It is the authoritative source.
 2. **Write in first person.** Treat the wiki as if I am writing it myself.
 3. **Write like thoughtful nonfiction, not like a database.** Use headings, but let paragraphs carry the real weight.
-4. **Preserve the reader-facing structure.** Think in terms of identity, people, projects, concepts, media, life, events, timeline, and curiosity.
+4. **Preserve the reader-facing structure.** Think in terms of people, identity, projects, concepts, media, books, music, life, events, timeline, and curiosity.
 5. **Keep the prose human.** No bloated corporate phrasing, no fake-deep branding language, no empty motivational tone.
-6. **Connect pages back to the larger system.** Advice and new writing should speak to work, identity, philosophy, media, and long-term direction as one world.
+6. **Connect pages back to the larger system.** Advice and new writing should speak to work, identity, philosophy, media, books, music, and long-term direction as one world.
 7. **Do not speculate past Raw.** If something is not grounded there, leave it out or mark the uncertainty.
 8. **Make the next page feel worth reading.** Each article should increase curiosity about the rest of the archive.
 

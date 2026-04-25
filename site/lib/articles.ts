@@ -44,6 +44,12 @@ export type SectionGroup = {
   articles: Article[];
 };
 
+export type TocItem = {
+  id: string;
+  title: string;
+  level: number;
+};
+
 const WIKI_ROOT = path.resolve(process.cwd(), '..', 'wiki');
 const RAW_ROOT = path.resolve(process.cwd(), '..', 'Raw');
 export const ARTICLES_DIR = path.join(WIKI_ROOT, 'articles');
@@ -66,6 +72,8 @@ const SECTION_ALIASES: Record<string, SectionKey> = {
   'skills-tools': 'skills',
   skills: 'skills',
   media: 'media',
+  books: 'books',
+  music: 'music',
   'life-and-personal': 'life',
   'life-personal': 'life',
   life: 'life',
@@ -225,9 +233,334 @@ export function resolveWikiLinks(md: string, articles: Article[]): string {
   });
 }
 
+function stripInlineMarkdown(text: string): string {
+  return text
+    .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, a, b) => b || a)
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/\*([^*]+)\*/g, '$1')
+    .replace(/<[^>]+>/g, '')
+    .trim();
+}
+
+function slugifyHeading(text: string): string {
+  return stripInlineMarkdown(text)
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '') || 'section';
+}
+
+function nextUniqueId(base: string, seen: Map<string, number>): string {
+  const count = seen.get(base) || 0;
+  seen.set(base, count + 1);
+  return count === 0 ? base : `${base}-${count + 1}`;
+}
+
+function isBlockLine(line: string): boolean {
+  const trimmed = line.trim();
+  if (!trimmed) return false;
+
+  return (
+    trimmed.startsWith('#') ||
+    trimmed.startsWith('>') ||
+    trimmed.startsWith('|') ||
+    trimmed.startsWith('<') ||
+    /^[-*_]{3,}$/.test(trimmed) ||
+    /^[-*+]\s/.test(trimmed) ||
+    /^\d+\.\s/.test(trimmed)
+  );
+}
+
+function wordCount(text: string): number {
+  return stripInlineMarkdown(text).split(/\s+/).filter(Boolean).length;
+}
+
+type EmphasisCandidate = {
+  start: number;
+  end: number;
+  normalized: string;
+  priority: number;
+};
+
+const EMPHASIS_STOPWORDS = new Set([
+  'a',
+  'an',
+  'and',
+  'as',
+  'at',
+  'but',
+  'by',
+  'for',
+  'from',
+  'i',
+  'if',
+  'in',
+  'it',
+  'its',
+  'my',
+  'of',
+  'on',
+  'or',
+  'so',
+  'that',
+  'the',
+  'their',
+  'there',
+  'these',
+  'this',
+  'those',
+  'to',
+  'we',
+  'what',
+  'why',
+  'you',
+]);
+
+function cleanEmphasisText(text: string): string {
+  return stripInlineMarkdown(text).replace(/^[("'“”‘’]+|[)"'“”‘’.,;:!?]+$/g, '').trim();
+}
+
+function normalizeEmphasis(text: string): string {
+  return cleanEmphasisText(text).toLowerCase();
+}
+
+function isEligibleEmphasis(text: string): boolean {
+  const cleaned = cleanEmphasisText(text);
+  if (!cleaned) return false;
+
+  const words = cleaned.split(/\s+/).filter(Boolean);
+  if (!words.length || words.length > 5) return false;
+
+  if (words.length === 1) {
+    const token = words[0].toLowerCase();
+    const raw = words[0];
+    if (EMPHASIS_STOPWORDS.has(token) && !/^[A-Z0-9]{2,}$/.test(raw)) return false;
+  }
+
+  return true;
+}
+
+function pushCandidate(
+  candidates: EmphasisCandidate[],
+  paragraph: string,
+  start: number,
+  end: number,
+  priority: number
+) {
+  const raw = paragraph.slice(start, end);
+  const normalized = normalizeEmphasis(raw);
+  if (!normalized || !isEligibleEmphasis(raw)) return;
+  candidates.push({ start, end, normalized, priority });
+}
+
+function escapeRegExp(text: string): string {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function subjectVariants(title: string): string[] {
+  const variants = new Set<string>([title]);
+  const shortened = [
+    title.replace(/^Being an?\s+/i, ''),
+    title.replace(/^(The|A|An)\s+/i, ''),
+  ];
+
+  for (const variant of shortened) {
+    const cleaned = variant.trim();
+    if (cleaned && cleaned !== title) variants.add(cleaned);
+  }
+
+  return [...variants].filter(variant => wordCount(variant) <= 5);
+}
+
+function addSubjectCandidates(
+  candidates: EmphasisCandidate[],
+  paragraph: string,
+  article: Article
+) {
+  for (const variant of subjectVariants(article.title)) {
+    const match = new RegExp(`\\b${escapeRegExp(variant)}\\b`, 'i').exec(paragraph);
+    if (!match || match.index == null) continue;
+    pushCandidate(candidates, paragraph, match.index, match.index + match[0].length, 100);
+    break;
+  }
+
+  const definitionalMatch = /^(?:"([^"\n]{2,40})"|([A-Za-z][A-Za-z0-9'/-]*(?:\s+[A-Za-z][A-Za-z0-9'/-]*){0,4}))\s+(?:is|was|became|means|matters|fits|remains|exists|feels|looks)\b/.exec(paragraph);
+  if (definitionalMatch) {
+    const phrase = definitionalMatch[1] ?? definitionalMatch[2];
+    if (phrase) {
+      const start = definitionalMatch.index + definitionalMatch[0].indexOf(phrase);
+      pushCandidate(candidates, paragraph, start, start + phrase.length, 88);
+    }
+  }
+}
+
+function addLinkCandidates(candidates: EmphasisCandidate[], paragraph: string) {
+  for (const match of paragraph.matchAll(/\[\[([^\]]+)\]\]/g)) {
+    if (match.index == null) continue;
+    pushCandidate(candidates, paragraph, match.index, match.index + match[0].length, 82);
+  }
+}
+
+function addQuotedCandidates(candidates: EmphasisCandidate[], paragraph: string) {
+  for (const match of paragraph.matchAll(/"([^"\n]{2,40})"/g)) {
+    if (match.index == null) continue;
+    const phrase = match[1];
+    const start = match.index + match[0].indexOf(phrase);
+    pushCandidate(candidates, paragraph, start, start + phrase.length, 76);
+  }
+}
+
+function addNumberCandidates(candidates: EmphasisCandidate[], paragraph: string) {
+  const monthDatePattern = /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:,\s+\d{4})?\b/g;
+  const numberPattern = /\b\d+(?:\.\d+)?(?:\s?(?:%|percent|years?|months?|days?|weeks?|km|k|m|b))?\b/gi;
+  const acronymPattern = /\b[A-Z]{2,8}(?:\/[A-Z]{2,8})?\b/g;
+
+  for (const match of paragraph.matchAll(monthDatePattern)) {
+    if (match.index == null) continue;
+    pushCandidate(candidates, paragraph, match.index, match.index + match[0].length, 72);
+  }
+
+  for (const match of paragraph.matchAll(numberPattern)) {
+    if (match.index == null) continue;
+    pushCandidate(candidates, paragraph, match.index, match.index + match[0].length, 68);
+  }
+
+  for (const match of paragraph.matchAll(acronymPattern)) {
+    if (match.index == null) continue;
+    pushCandidate(candidates, paragraph, match.index, match.index + match[0].length, 66);
+  }
+}
+
+function rangesOverlap(a: EmphasisCandidate, b: EmphasisCandidate): boolean {
+  return a.start < b.end && b.start < a.end;
+}
+
+function editorialEmphasis(text: string, article: Article, seen: Set<string>): string {
+  if (!text.trim() || text.includes('**')) return text;
+
+  const candidates: EmphasisCandidate[] = [];
+  addSubjectCandidates(candidates, text, article);
+  addLinkCandidates(candidates, text);
+  addQuotedCandidates(candidates, text);
+  addNumberCandidates(candidates, text);
+
+  const selected: EmphasisCandidate[] = [];
+
+  for (const candidate of candidates.sort((a, b) => b.priority - a.priority || a.start - b.start)) {
+    if (seen.has(candidate.normalized)) continue;
+    if (selected.some(item => item.normalized === candidate.normalized || rangesOverlap(item, candidate))) continue;
+    selected.push(candidate);
+    if (selected.length === 2) break;
+  }
+
+  if (!selected.length) return text;
+
+  for (const item of selected) {
+    seen.add(item.normalized);
+  }
+
+  return selected
+    .sort((a, b) => b.start - a.start)
+    .reduce((result, item) => `${result.slice(0, item.start)}**${result.slice(item.start, item.end)}**${result.slice(item.end)}`, text);
+}
+
+function emphasizeMarkdownParagraphs(md: string, article: Article): string {
+  const lines = md.split('\n');
+  const output: string[] = [];
+  let paragraph: string[] = [];
+  let inCodeFence = false;
+  const seen = new Set<string>();
+
+  const flushParagraph = () => {
+    if (!paragraph.length) return;
+    output.push(editorialEmphasis(paragraph.join('\n'), article, seen));
+    paragraph = [];
+  };
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+
+    if (trimmed.startsWith('```')) {
+      flushParagraph();
+      inCodeFence = !inCodeFence;
+      output.push(line);
+      continue;
+    }
+
+    if (inCodeFence) {
+      output.push(line);
+      continue;
+    }
+
+    if (!trimmed) {
+      flushParagraph();
+      output.push(line);
+      continue;
+    }
+
+    if (isBlockLine(line)) {
+      flushParagraph();
+      output.push(line);
+      continue;
+    }
+
+    paragraph.push(line);
+  }
+
+  flushParagraph();
+  return output.join('\n');
+}
+
+export function getArticleToc(body: string): TocItem[] {
+  const lines = body.split('\n');
+  const headingMatches = lines
+    .map(line => line.match(/^(##|###)\s+(.+)$/))
+    .filter((match): match is RegExpMatchArray => match !== null);
+
+  const firstHeadingIndex = lines.findIndex(line => /^(##|###)\s+/.test(line));
+  const introLines =
+    firstHeadingIndex === -1 ? lines : lines.slice(0, firstHeadingIndex);
+  const hasIntro = introLines.some(line => line.trim() && !line.trim().startsWith('#'));
+  const firstHeadingTitle = headingMatches[0]?.[2] ? stripInlineMarkdown(headingMatches[0][2]).toLowerCase() : '';
+
+  const toc: TocItem[] = [];
+  const seenIds = new Map<string, number>();
+  seenIds.set('overview', 1);
+
+  if (hasIntro || headingMatches.length === 0) {
+    toc.push({ id: 'overview', title: firstHeadingTitle === 'overview' ? 'Top' : 'Overview', level: 2 });
+  }
+
+  for (const [, hashes, rawTitle] of headingMatches) {
+    const title = stripInlineMarkdown(rawTitle);
+    const id = nextUniqueId(slugifyHeading(title), seenIds);
+    toc.push({ id, title, level: hashes.length });
+  }
+
+  return toc;
+}
+
+function addHeadingIds(html: string, toc: TocItem[]): string {
+  const headingItems = toc.filter(item => item.id !== 'overview' && item.title !== 'Top');
+  let index = 0;
+
+  return html.replace(/<h([23])>([\s\S]*?)<\/h\1>/g, (match, level, content) => {
+    const item = headingItems[index];
+    index += 1;
+
+    if (!item) return match;
+    return `<h${level} id="${item.id}">${content}</h${level}>`;
+  });
+}
+
 export function renderArticle(article: Article, articles: Article[]): string {
-  const withLinks = resolveWikiLinks(article.body, articles);
-  return marked.parse(withLinks) as string;
+  const toc = getArticleToc(article.body);
+  const emphasizedBody = emphasizeMarkdownParagraphs(article.body, article);
+  const withLinks = resolveWikiLinks(emphasizedBody, articles);
+  const html = marked.parse(withLinks) as string;
+  return addHeadingIds(html, toc);
 }
 
 export function articlesByCategory(): Array<{ key: string; name: string; articles: Article[] }> {
@@ -334,4 +667,21 @@ export function leadSentence(body: string, maxLen = 280): string {
   }
 
   return paragraph;
+}
+
+export function shortSummary(body: string, maxWords = 10): string {
+  const source = leadSentence(body, 160);
+  if (!source) return '';
+
+  const firstSentence = source.match(/.+?[.!?](?=\s|$)/)?.[0] ?? source;
+  const words = firstSentence.trim().split(/\s+/).filter(Boolean);
+
+  if (words.length <= maxWords) {
+    return firstSentence.trim();
+  }
+
+  return words
+    .slice(0, maxWords)
+    .join(' ')
+    .replace(/[.,;:!?-]+$/g, '');
 }

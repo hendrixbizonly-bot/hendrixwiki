@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { articlesBySection, leadSentence, loadArticle, loadArticles } from '@/lib/articles';
+import { articlesBySection, leadSentence, loadArticle, loadArticles, shortSummary } from '@/lib/articles';
 
 export default function HomePage() {
   const articles = loadArticles();
@@ -15,12 +15,12 @@ export default function HomePage() {
     <div className="wiki-home">
       <div className="wiki-home-main">
         <header className="page-header wiki-home-header">
-          <h1 className="page-title home-hero-title">Welcome to Hendrixpedia</h1>
+          <h1 className="page-title home-hero-title">Hendrixpedia</h1>
           <p className="page-subtitle">
-            the personal knowledge base compiled from notes, projects, conversations, and life.
+            Personal encyclopedia compiled from notes, projects, conversations, and life.
           </p>
           <p className="page-context">
-            {articles.length} chapters across {categoryCount} categories · <Link href="/talk">v1 — talk to AI Hendrix</Link>
+            {articles.length} chapters across {categoryCount} categories · <Link href="/talk">Chat with AI Hendrix</Link>
           </p>
         </header>
 
@@ -32,7 +32,7 @@ export default function HomePage() {
             </h2>
             <p className="feature-copy">
               {featured
-                ? leadSentence(featured.body, 420)
+                ? leadSentence(featured.body, 210)
                 : 'This archive follows the shape of a life in motion: the person, the work, the ideas, the media, and the private forces underneath all of it.'}
             </p>
             <p className="feature-link-row">
@@ -51,7 +51,7 @@ export default function HomePage() {
                   {section.articles.slice(0, 6).map(article => (
                     <li className="browse-item" key={article.slug}>
                       <Link href={`/a/${article.slug}`}>{article.title}</Link>
-                      <span> — {leadSentence(article.body, 150) || `${article.title} is one of the spine chapters in this section.`}</span>
+                      <span> — {shortSummary(article.body, 10) || 'One of the section spine chapters.'}</span>
                     </li>
                   ))}
                 </ul>
@@ -78,11 +78,9 @@ export default function HomePage() {
           <header className="info-box-head">About</header>
           <div className="info-box-body">
             <p>
-              Hendrixpedia is a personal knowledge base built from raw notes, projects, essays, and lived experience. It is arranged so the reader can move from identity into work, from work into ideas, and from ideas into the media, places, and habits underneath all of it.
+              Hendrixpedia maps identity, work, ideas, media, places, and habits into one personal archive.
             </p>
-            <p>
-              Use the <Link href="/talk">Talk</Link> tab to open the live <code>index.md</code> context pack, download it, and import it into any LLM to chat with AI Hendrix.
-            </p>
+            <p>Open <Link href="/talk">Talk</Link> to download the live <code>index.md</code> pack for any LLM.</p>
           </div>
         </section>
       </aside>
