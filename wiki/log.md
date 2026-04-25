@@ -44,6 +44,11 @@ Append-only record of ingests, regenerations, and structural changes.
 - Promoted `Books` and `Music` into top-level reader-facing sections instead of keeping them buried under `Media`
 - Added new internal `books` and `music` categories and seeded them with `/wiki/articles/books/recommended-books.md` and `/wiki/articles/music/music.md`
 
+## 2026-04-26 — Added a real events category and expanded the sidebar lists
+- Added a new internal `events` category with `/wiki/articles/events/events-and-experiences.md` as its seed page
+- Mapped the reader-facing `Events & Experiences` section to both the new category and the existing formative-experience pages
+- Increased the non-navigation sidebar list count so each section shows more chapters at a glance
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

@@ -3,7 +3,7 @@
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 229 chapters across 13 reader-facing sections.
+**Total:** 230 chapters across 13 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -304,10 +304,11 @@
 - **[Working from Dubai](wiki/articles/places/working-from-dubai.md)** (concept; internal: Places) — Working from Dubai is the practical side of being based in Dubai. The tactical layer underneath the strategic base location choice. It is about what the day-to-day operating reality actually looks like.
 
 
-### Events & Experiences (1)
+### Events & Experiences (2)
 
 > Specific lived moments and experiences that changed the texture of how I think, work, or understand myself.
 
+- **[Events & Experiences](wiki/articles/events/events-and-experiences.md)** (concept; internal: Events) — This is the shelf for the lived events and experiences that changed how I think, move, or understand my own direction.
 - **[Formative Experiences](wiki/articles/meta/formative-experiences.md)** (experience; internal: Meta) — A life is not only shaped by beliefs and goals. It is also shaped by repeated experiences that teach something before a person has the language to explain it. This page gathers a few of the recurring experiences that feel formative in my...
 
 

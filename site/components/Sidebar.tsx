@@ -6,6 +6,7 @@ const navigationLinks = [
   { href: '/a/core/hendrix', label: 'About Hendrix' },
   { href: '/random', label: 'Read a random chapter' },
 ];
+const SIDEBAR_ARTICLE_LIMIT = 10;
 
 export function Sidebar() {
   const sections = articlesBySection();
@@ -30,7 +31,7 @@ export function Sidebar() {
                   <Link href={link.href}>{link.label}</Link>
                 </li>
               ))}
-              {section.key !== 'navigation' && section.articles.slice(0, 6).map(article => (
+              {section.key !== 'navigation' && section.articles.slice(0, SIDEBAR_ARTICLE_LIMIT).map(article => (
                 <li key={article.slug}>
                   <Link href={`/a/${article.slug}`}>{article.title}</Link>
                 </li>
