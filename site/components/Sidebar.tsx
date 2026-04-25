@@ -2,9 +2,11 @@ import Link from 'next/link';
 import { articlesBySection } from '@/lib/articles';
 
 const utilityLinks = [
-  { href: '/search', label: 'Search the archive' },
-  { href: '/graph', label: 'Open the map' },
+  { href: '/', label: 'Main page' },
+  { href: '/talk', label: 'Talk to AI Hendrix' },
+  { href: '/graph', label: 'Open the graph' },
   { href: '/random', label: 'Read a random chapter' },
+  { href: '/index.md', label: 'Download index.md' },
 ];
 
 export function Sidebar() {
@@ -16,11 +18,8 @@ export function Sidebar() {
         <div className="side-logo" aria-hidden="true">
           H
         </div>
-        <h2 className="side-brand-title">Hendrixpedia</h2>
-        <p className="side-brand-subtitle">A personal world in chapters</p>
-        <p className="side-brand-copy">
-          Identity, work, ideas, media, memory, and the questions still unfolding.
-        </p>
+        <h2 className="side-brand-title">Hendrix Wiki</h2>
+        <p className="side-brand-subtitle">The Personal Encyclopedia</p>
       </div>
 
       <div className="side-panel">

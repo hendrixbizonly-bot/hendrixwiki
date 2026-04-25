@@ -10,13 +10,13 @@ tags: [ux, thinking, product]
 
 UX thinking is how Hendrix reasons about the flow, structure, and purpose of a product before anything visual happens. It is the part of design that lives upstream of pixels.
 
-## What it means to him
+## What it means to me
 
 UX is not a department. It is the act of asking what the user is trying to do, what is in the way, and what the shortest honest path is to the outcome. Once those answers are clear, [[UI Design]] becomes a translation job.
 
-He does not separate UX from [[Business Strategy]]. A flow that does not create a business outcome is a flow that does not matter, no matter how elegant.
+I do not separate UX from [[Business Strategy]]. A flow that does not create a business outcome is a flow that does not matter, no matter how elegant.
 
-## How he does it
+## How I do it
 
 - Map the real user goal, not the assumed one
 - Identify the one thing that has to happen on the page
@@ -24,15 +24,15 @@ He does not separate UX from [[Business Strategy]]. A flow that does not create 
 - Test against real content and real edge cases
 - Iterate on the friction, not the aesthetic
 
-## Why it matters to him
+## Why it matters to me
 
 Inside [[Duodode]], UX thinking is the part that keeps design work tied to [[Business Value]]. Without it, the agency is just making pretty screens. With it, the agency is shipping systems that perform.
 
-It also mirrors his [[ROI-Driven Thinking|ROI mindset]]. UX is the layer where design stops being decoration and starts being leverage.
+It also mirrors my [[ROI-Driven Thinking|ROI mindset]]. UX is the layer where design stops being decoration and starts being leverage.
 
 ## How it connects
 
-UX thinking feeds [[UI Design]] and is enforced by [[Intentional Design]]. It is a core part of [[Design As Leverage]]. It is the reason Hendrix does not see himself as a visual designer alone.
+UX thinking feeds [[UI Design]] and is enforced by [[Intentional Design]]. It is a core part of [[Design As Leverage]]. It is the reason I do not see myself as a visual designer alone.
 
 ## Related
 

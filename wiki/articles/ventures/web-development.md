@@ -8,7 +8,7 @@ tags: [development, web, service, engineering]
 
 # Web Development
 
-Web development is where [[Duodode]] turns design into working product. It is the engineering side of the web work, and for [[Hendrix]], it is where [[Taste]] meets real [[Execution Over Talk|execution]].
+Web development is where [[Duodode]] turns design into working product. It is the engineering side of the web work, and for me, it is where [[Taste]] meets real [[Execution Over Talk|execution]].
 
 ## Stack
 
@@ -18,7 +18,7 @@ Web development is where [[Duodode]] turns design into working product. It is th
 - [[GSAP]] and [[Framer Motion]] for motion
 - [[Rive]] where interactive motion benefits from it
 
-Hendrix prefers using the right tool for the job rather than over-identifying with a framework. See [[Frontend Knowledge]].
+I prefer using the right tool for the job rather than over-identifying with a framework. See [[Frontend Knowledge]].
 
 ## What it covers
 

@@ -8,11 +8,11 @@ tags: [ecommerce, business, interest]
 
 # Ecommerce
 
-Ecommerce is one of [[Hendrix]]'s ongoing business interests. It sits inside his broader orientation toward [[Entrepreneurship]], [[Tech]], and [[Scale]]. It is not something he claims to be an expert at, but it is a space he pays attention to because it rewards the kind of thinking he is built for.
+Ecommerce is one of my ongoing business interests. It sits inside my broader orientation toward [[Entrepreneurship]], [[Tech]], and [[Scale]]. It is not something he claims to be an expert at, but it is a space he pays attention to because it rewards the kind of thinking I am built for.
 
-## Why he pays attention
+## Why I pays attention
 
-Ecommerce is a near-ideal sandbox for his mindset:
+Ecommerce is a near-ideal sandbox for my mindset:
 
 - Clear [[ROI]] on every decision
 - [[Systems]] decide outcomes, not personality
@@ -32,7 +32,7 @@ It is a discipline where [[Taste]], [[Strategic Thinking]], and [[Execution Over
 
 Ecommerce clients are a natural fit for the agency.
 
-## What he is wary of
+## What I am wary of
 
 - Ecommerce as a short-form hype category
 - Dropshipping-style noise dressed up as "building"
@@ -40,4 +40,4 @@ Ecommerce clients are a natural fit for the agency.
 
 ## Related
 
-[[Hendrix]] · [[Entrepreneurship]] · [[Duodode]] · [[Business Strategy]] · [[Systems]] · [[Scale]]
+Hendrix · [[Entrepreneurship]] · [[Duodode]] · [[Business Strategy]] · [[Systems]] · [[Scale]]

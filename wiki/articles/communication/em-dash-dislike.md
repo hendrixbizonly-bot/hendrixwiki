@@ -8,17 +8,17 @@ tags: [em-dash, punctuation, style]
 
 # Em-Dash Dislike
 
-Hendrix does not want em-dashes in writing help. It is a specific, stated preference. This article records it.
+I do not want em-dashes in writing help. It is a specific, stated preference. This article records it.
 
 ## The rule
 
-When AI or anyone is writing alongside him, em-dashes should not appear. Use commas, parentheses, colons, or new sentences instead. The punctuation should serve the sentence without drawing attention to itself.
+When AI or anyone is writing alongside me, em-dashes should not appear. Use commas, parentheses, colons, or new sentences instead. The punctuation should serve the sentence without drawing attention to itself.
 
-## Why he dislikes them
+## Why I dislike them
 
 Em-dashes have become a tell. They appear everywhere in AI-generated prose, they get overused as a rhythm trick, and they often substitute for cleaner sentence structure. To Hendrix, a page full of em-dashes reads as writing that has not been tightened.
 
-He prefers punctuation that is invisible. Em-dashes draw a small visual spotlight every time they appear. Over a paragraph that spotlight flickers constantly. It is the opposite of [[Concise Writing]] and [[Natural Language]].
+I prefer punctuation that is invisible. Em-dashes draw a small visual spotlight every time they appear. Over a paragraph that spotlight flickers constantly. It is the opposite of [[Concise Writing]] and [[Natural Language]].
 
 ## What replaces them
 

@@ -8,7 +8,7 @@ tags: [design, application, product, service]
 
 # Application Design
 
-Application design is one of [[Duodode]]'s service lines. Where [[Web Design]] deals mostly with surfaces people visit, application design deals with tools people use. For [[Hendrix]], it is one of the most demanding and interesting parts of the work.
+Application design is one of [[Duodode]]'s service lines. Where [[Web Design]] deals mostly with surfaces people visit, application design deals with tools people use. For me, it is one of the most demanding and interesting parts of the work.
 
 ## What it covers
 

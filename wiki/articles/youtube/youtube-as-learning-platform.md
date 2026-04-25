@@ -8,9 +8,9 @@ tags: [youtube, learning, platform, meta]
 
 # YouTube as Learning Platform
 
-YouTube is one of [[Hendrix]]'s most important learning platforms. Much of what he knows, in [[Design]], code, philosophy, science, business, and ideas, was absorbed there. He treats YouTube not as entertainment but as an open library with unusually deep content, free.
+YouTube is one of my most important learning platforms. Much of what I know, in [[Design]], code, philosophy, science, business, and ideas, was absorbed there. I treat YouTube not as entertainment but as an open library with unusually deep content, free.
 
-## What it gives him
+## What it gives me
 
 - Design and [[Tech]] skills
 - Philosophy and [[Video Essays]]
@@ -19,25 +19,25 @@ YouTube is one of [[Hendrix]]'s most important learning platforms. Much of what 
 - Exposure to sharp writers, thinkers, and operators
 - Ongoing [[English]] input
 
-## Why it works for him
+## Why it works for me
 
-He is highly self-taught. He learns fast through curiosity, repetition, and direct application. YouTube matches that mode:
+I am highly self-taught. I learn fast through curiosity, repetition, and direct application. YouTube matches that mode:
 
 - On demand
 - Searchable
 - Dense with niche expertise
-- Long-form available when he wants depth
+- Long-form available when I want depth
 - Free
 
-It fits his [[Build and Ship]] approach: watch, try, iterate, move on.
+It fits my [[Build and Ship]] approach: watch, try, iterate, move on.
 
-## How he uses it
+## How I use it
 
-He is not a passive viewer. YouTube is an input stream feeding real output:
+I am not a passive viewer. YouTube is an input stream feeding real output:
 
 - Learn a [[Tech]] concept, apply in [[Duodode]] work
 - Watch a [[Video Essay]], integrate the idea into thinking
-- Watch design or code breakdowns, upgrade his craft
+- Watch design or code breakdowns, upgrade my craft
 - Follow science and space channels to feed [[Curiosity]]
 
 ## The channels that matter
@@ -61,17 +61,17 @@ Core favorites include:
 
 ## YouTube next to AI and books
 
-YouTube sits alongside [[Books]] and [[AI Tools]] as his three main knowledge sources. Each serves a different register:
+YouTube sits alongside [[Books]] and [[AI Tools]] as my three main knowledge sources. Each serves a different register:
 
 - [[Books]]: depth, worldview, slow thinking
 - YouTube: range, demonstration, specific expertise
 - [[AI Tools]]: speed, iteration, personal feedback
 
-Together they let him learn faster than any one channel could.
+Together they let me learn faster than any one channel could.
 
-## Connection to his system
+## Connection to my system
 
-YouTube is a major reason his range is wide. For a builder who works across [[Branding]], [[AI Automation]], [[Web Development]], and [[Design]], that range is not optional. It is leverage. He treats the platform accordingly: seriously, deliberately, and without guilt.
+YouTube is a major reason my range is wide. For a builder who works across [[Branding]], [[AI Automation]], [[Web Development]], and [[Design]], that range is not optional. It is leverage. I treat the platform accordingly: seriously, deliberately, and without guilt.
 
 ## Related
 

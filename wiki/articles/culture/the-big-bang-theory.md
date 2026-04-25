@@ -8,9 +8,9 @@ tags: [tv, sitcom, english, humor, science]
 
 # The Big Bang Theory
 
-The Big Bang Theory is part of the early wave of American sitcoms that shaped [[Hendrix]]'s [[English]] and cultural ear. For him, it was less about the science plots and more about a daily dose of native humor, social dynamics, and fast conversational rhythm.
+The Big Bang Theory is part of the early wave of American sitcoms that shaped my [[English]] and cultural ear. For me, it was less about the science plots and more about a daily dose of native humor, social dynamics, and fast conversational rhythm.
 
-## What it gave him
+## What it gave me
 
 - Everyday [[English]] with a nerdier vocabulary
 - Pop culture references and American humor
@@ -21,7 +21,7 @@ See [[American Pop Culture Influence]].
 
 ## Why it stuck
 
-The show is dense with references, jokes, and quick exchanges. That density trains attention. As someone drawn to [[Science Fiction]], [[Space]], and [[Science]], he was a natural audience, even if he now watches heavier content.
+The show is dense with references, jokes, and quick exchanges. That density trains attention. As someone drawn to [[Science Fiction]], [[Space]], and [[Science]], he was a natural audience, even if I now watches heavier content.
 
 ## Themes he connects with
 
@@ -32,13 +32,13 @@ The show is dense with references, jokes, and quick exchanges. That density trai
 
 None of these are heavy, but they land.
 
-## Place in his media diet
+## Place in my media diet
 
-TBBT sits alongside [[How I Met Your Mother]] as part of the base layer. Lighter watches that built comfort with English long before he was ready for [[Mad Men]], [[Succession]], or [[Ozark]]. Not the peak of his taste now, but real foundation.
+TBBT sits alongside [[How I Met Your Mother]] as part of the base layer. Lighter watches that built comfort with English long before he was ready for [[Mad Men]], [[Succession]], or [[Ozark]]. Not the peak of my taste now, but real foundation.
 
-## Connection to his system
+## Connection to my system
 
-It is a reminder of how much of his current fluency, humor, and cultural instinct were absorbed quietly through TV. That same method still applies: he keeps watching sharper and sharper content to keep sharpening himself. See [[American Pop Culture Influence]].
+It is a reminder of how much of my current fluency, humor, and cultural instinct were absorbed quietly through TV. That same method still applies: I keep watching sharper and sharper content to keep sharpening myself. See [[American Pop Culture Influence]].
 
 ## Related
 

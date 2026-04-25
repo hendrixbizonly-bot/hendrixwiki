@@ -8,7 +8,7 @@ tags: [low-value, friction, time]
 
 # Low-Value Activity
 
-Low-value activity is anything that consumes time and attention without producing a meaningful outcome. Hendrix tries to cut it aggressively.
+Low-value activity is anything that consumes time and attention without producing a meaningful outcome. I try to cut it aggressively.
 
 ## What counts as low-value
 
@@ -20,17 +20,17 @@ Low-value activity is anything that consumes time and attention without producin
 
 It is not about laziness. It is about focus. A person can be working hard and still be doing mostly low-value activity.
 
-## The filter he uses
+## The filter I use
 
 Every activity should be tied to a clear purpose. Purpose means leverage, money, skill, relationships, or reflection. If the activity does not connect to one of those, it is a candidate for the cut.
 
-## Why it frustrates him
+## Why it frustrates me
 
-Because his time has a cost and his attention is finite. Low-value activity compounds in the wrong direction. A day of it feels productive and produces nothing. A year of it becomes a career in the wrong shape.
+Because my time has a cost and my attention is finite. Low-value activity compounds in the wrong direction. A day of it feels productive and produces nothing. A year of it becomes a career in the wrong shape.
 
-He is [[ROI-Driven Thinking|ROI-driven]] about his own time the same way he is about business. Time is capital.
+I am [[ROI-Driven Thinking|ROI-driven]] about my own time the same way I am about business. Time is capital.
 
-## How he avoids it
+## How I avoid it
 
 - [[Execution Over Talk|Execution over talk]] as default posture
 - Shipping, not planning, as the primary activity

@@ -8,11 +8,11 @@ tags: [language, learning, self-development, habit]
 
 # Language Learning
 
-Language learning is one of [[Hendrix]]'s long-running personal projects. He sees it not as a hobby but as part of [[Self-Development]]: a test of [[Consistency]], a [[Leverage|leverage]] move, and a way to expand how he thinks and reaches the world.
+Language learning is one of my long-running personal projects. I see it not as a hobby but as part of [[Self-Development]]: a test of [[Consistency]], a [[Leverage|leverage]] move, and a way to expand how I think and reaches the world.
 
-## How he frames it
+## How I frame it
 
-For Hendrix, language learning is:
+For me, language learning is:
 
 - An act of [[Consistency]] over time
 - A form of [[Self-Development]]
@@ -21,7 +21,7 @@ For Hendrix, language learning is:
 
 It is not urgent. It is structural. A language you can operate in at 30 is a channel open for the rest of your life.
 
-## His languages
+## My languages
 
 - [[Vietnamese]]: native, origin, roots
 - [[English]]: fluent, working language, still being sharpened for [[Eloquence]] and [[Articulation]]
@@ -29,25 +29,25 @@ It is not urgent. It is structural. A language you can operate in at 30 is a cha
 
 ## Method
 
-His approach is practical and built on repetition:
+My approach is practical and built on repetition:
 
 - Daily [[Duolingo]] for Spanish
 - Continuous exposure to English through [[TV Series]], [[YouTube]], [[Books]], and [[Essays]]
 - Vietnamese through life, family, and content like [[Spiderum]]
 
-He does not chase complex systems. He shows up.
+I do not chase complex systems. He shows up.
 
 ## Language as thinking
 
-He treats language as more than communication. It is the medium of thought. Sharper language means sharper thinking. That is why he wants better [[Eloquence]], [[Articulation]], and [[Precision in Speech]] in [[English]] even though he is already fluent. Fluency is the floor. Command is the goal.
+I treat language as more than communication. It is the medium of thought. Sharper language means sharper thinking. That is why I want better [[Eloquence]], [[Articulation]], and [[Precision in Speech]] in [[English]] even though I am already fluent. Fluency is the floor. Command is the goal.
 
-## Connection to his system
+## Connection to my system
 
 Language learning maps directly to [[Build and Ship]]. Start before ready. Practice daily. Accept messy early output. Let compounding do the work. It also ties to [[ROI-Driven Thinking]]: each new language adds real optionality and reach, not just a personal label.
 
 ## Why it matters for a builder
 
-He is building [[Duodode]] and operating across [[Dubai]] globally. Language range means client range, market range, and cultural range. In a world that talks a lot, people who can speak sharply in multiple languages have an edge.
+I am building [[Duodode]] and operating across [[Dubai]] globally. Language range means client range, market range, and cultural range. In a world that talks a lot, people who can speak sharply in multiple languages have an edge.
 
 ## Related
 

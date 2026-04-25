@@ -1,67 +1,40 @@
 ---
 title: Hendrixpedia
 category: meta
+section: navigation
 type: meta
-related: [Hendrix, Raw Context, How This Wiki Works, For the Chatbot]
+related: [Hendrix, Start Here, Map of the Wiki, Raw Context, How This Wiki Works, Timeline]
 tags: [meta, wiki, system]
 ---
 
 # Hendrixpedia
 
-Hendrixpedia is the personal wiki this project is. It is a structured, interlinked knowledge base about [[Hendrix]]: who he is, what he is building, how he thinks, and what he values. It is written in his lens, not as a neutral encyclopedia.
+This project exists because scattered notes are not enough. I wanted an archive that could hold a person in motion: not only facts, but work, ideas, taste, memory, habits, influences, and the structure around them. Hendrixpedia is that attempt.
 
-## The idea behind it
+## Why this archive exists
 
-The concept draws on Andrej Karpathy's "LLM Wiki" idea: a personal wiki designed to be read by both humans and LLMs. A structured, stable, interlinked body of text that a language model can load as context to act meaningfully on behalf of, or in conversation about, a specific person.
+A personal wiki can easily become two bad things. It can become a storage bin with no shape, or it can become a self-branding exercise pretending to be depth. I want neither. The point of this archive is to create a durable body of writing that is useful to read and useful to think with.
 
-Hendrix is a builder. He wants his own second brain that is:
+That means the pages have to do more than define terms. They have to reveal a world. The reader should be able to move from [[Hendrix]] into [[Duodode]], from there into [[Philosophy]], from there into the media, places, habits, and questions that keep the whole thing alive.
 
-- Readable by any LLM loading it as context.
-- Readable by him as a reference.
-- Interlinked so the system behaves like a graph, not a pile of notes.
-- Grounded in a single [[Raw Context|source of truth]], not scattered opinion.
+## What it holds
 
-## What it contains
+At the center is identity: the person, the recurring traits, the inner labels, and the ambitions underneath the visible work. Around that sits the venture layer, especially [[Duodode]], where strategy, design, code, and business value are forced into the same room. Around that again sits the intellectual and cultural layer: philosophy, reading, YouTube, television, science fiction, curiosity about space, and the more private patterns that shape taste.
 
-- Pages about his [[Identity|identity]], [[Core Drives|drives]], and values.
-- Pages about [[Duodode]] and the work he is building.
-- Pages about the places that matter: [[Dubai]], [[Vietnam]], [[UAE]].
-- Pages about the tools, tech, and stack he uses.
-- Pages about [[Philosophy|philosophy]], [[Series Influences|series]], [[YouTube]] channels, [[Books|books]], and other shaping inputs.
-- Pages about habits like [[Running]] and the [[Duolingo Streak|Duolingo streak]].
-- Pages about the wiki itself (this one).
+The result is not meant to be exhaustive in the sterile sense. It is meant to be coherent.
 
-## The three layers
+## How it is built
 
-Hendrixpedia is built as three layers. See [[How This Wiki Works]] for the full picture:
+The archive has three layers. [[Raw Context]] is the source of truth. The markdown articles are the chapter layer. The site is the reading surface that presents the material as a table of contents rather than a pile of folders.
 
-1. **Raw**: [[Raw Context]] is the source of truth.
-2. **Wiki**: these interlinked articles are generated from Raw.
-3. **Site**: a rendered interface reads the wiki.
+That separation matters. Raw can stay compressed and factual. The chapters can stay reflective and readable. The site can stay navigable.
 
-## What it is not
+## Why it matters to me
 
-- A blog.
-- A portfolio.
-- A content marketing piece.
-- A place for [[Performative Business Talk|performative business talk]].
-- A static bio.
+I like systems that compound. If a good conversation disappears, if a useful realization stays trapped in a note, or if an idea never gets linked to the rest of the thinking around it, the value leaks away. Hendrixpedia is an attempt to stop that leakage.
 
-It is a working system. It is useful. It is updated through [[Raw Context|Raw]], not by editing articles directly.
-
-## Why it matters to Hendrix
-
-Hendrixpedia fits the pattern of how he operates: build a structured, ROI-positive system once, then let it compound. It is:
-
-- A second brain he can reference.
-- A briefing doc for any LLM he works with.
-- A forcing function for [[Clarity|clarity]] about who he is and where he is going.
-- A long-running, compounding artifact of his [[Becoming|becoming]].
-
-## Connection to his system
-
-Hendrixpedia ties to [[Raw Context]], [[How This Wiki Works]], [[For the Chatbot]], and the entire graph of articles underneath. It is the meta layer that holds the rest together.
+It is also a forcing function for clarity. Writing a page well means I have to understand what something really is in my life. If I cannot explain why a person, idea, habit, or project belongs here, then I probably have not thought about it clearly enough yet.
 
 ## Related
 
-[[Raw Context]] · [[How This Wiki Works]] · [[For the Chatbot]] · [[Hendrix]] · [[Duodode]]
+[[Start Here]] · [[Map of the Wiki]] · [[Raw Context]] · [[How This Wiki Works]] · [[Timeline]] · [[Hendrix]]

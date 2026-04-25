@@ -8,11 +8,11 @@ tags: [edge, thinking, sharpness]
 
 # Mental Edge
 
-Mental edge is what [[Hendrix]] is actually after when he reads, reflects, runs, and builds. He is not collecting trivia. He is sharpening the instrument.
+Mental edge is what I am actually after when I read, reflects, runs, and builds. I am not collecting trivia. I am sharpening the instrument.
 
-## What it means to him
+## What it means to me
 
-Mental edge is the sharpness of his thinking, the speed and accuracy of his [[Judgment]], and the quality of his [[Perspective]]. It is the difference between someone who sees a situation clearly in ten seconds and someone who takes ten days. Hendrix wants to be the first person.
+Mental edge is the sharpness of my thinking, the speed and accuracy of my [[Judgment]], and the quality of my [[Perspective]]. It is the difference between someone who sees a situation clearly in ten seconds and someone who takes ten days. I want to be the first person.
 
 ## How it is built
 
@@ -37,7 +37,7 @@ In a world saturated with information, the limiting factor is not access. It is 
 - Never testing beliefs in reality
 - Low-quality inputs
 
-Hendrix is aware of these and works to avoid them.
+I am aware of these and works to avoid them.
 
 ## The link to running
 
@@ -45,11 +45,11 @@ Hendrix is aware of these and works to avoid them.
 
 ## Edge as leverage
 
-For a builder, edge is leverage. A sharper mind makes better bets, cuts wasted motion, and moves faster on good opportunities. It is one of the highest-ROI investments he can make in himself.
+For a builder, edge is leverage. A sharper mind makes better bets, cuts wasted motion, and moves faster on good opportunities. It is one of the highest-ROI investments I can make in myself.
 
 ## The test
 
-Is his thinking getting sharper over time? Is he seeing things faster? Is his [[Judgment]] better than it was a year ago? If yes, the edge is growing. If not, the inputs need to change.
+Is my thinking getting sharper over time? Is he seeing things faster? Is my [[Judgment]] better than it was a year ago? If yes, the edge is growing. If not, the inputs need to change.
 
 ## Related
 

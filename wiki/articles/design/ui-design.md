@@ -8,13 +8,13 @@ tags: [ui, interface, design]
 
 # UI Design
 
-UI design is one of the surfaces Hendrix works on, but he does not want it to be his identity. He treats UI as a tool, not a title. See [[Designer vs Builder]].
+UI design is one of the surfaces I work on, but I do not want it to be my identity. I treat UI as a tool, not a title. See [[Designer vs Builder]].
 
-## His approach
+## My approach
 
-UI is where the [[Design Philosophy]] meets the pixel. Every interface he builds is filtered through [[Intentional Design|intention]], [[Timeless Design|timelessness]], and [[Consistent Design|consistency]]. The interface is not meant to impress other designers. It is meant to do a job for a user inside a business.
+UI is where the [[Design Philosophy]] meets the pixel. Every interface I build is filtered through [[Intentional Design|intention]], [[Timeless Design|timelessness]], and [[Consistent Design|consistency]]. The interface is not meant to impress other designers. It is meant to do a job for a user inside a business.
 
-## What he cares about
+## What I care about
 
 - Hierarchy that reads in one glance
 - Typography that carries weight
@@ -24,11 +24,11 @@ UI is where the [[Design Philosophy]] meets the pixel. Every interface he builds
 
 ## Tools
 
-He works primarily in [[Figma]] for design and uses [[VS Code]], [[Next.js]], and the rest of his [[Working Stack|stack]] to ship interfaces into reality. He prefers designing close to implementation because the handoff is where most UI work goes soft.
+I work primarily in [[Figma]] for design and uses [[VS Code]], [[Next.js]], and the rest of my [[Working Stack|stack]] to ship interfaces into reality. I prefer designing close to implementation because the handoff is where most UI work goes soft.
 
-## Why it matters to him
+## Why it matters to me
 
-UI is the most visible part of a product. Good UI earns the first ten seconds of trust. Bad UI burns it. Inside [[Duodode]], UI is how [[Branding]] and [[Digital Product Work]] become tangible to the end user.
+UI am the most visible part of a product. Good UI earns the first ten seconds of trust. Bad UI burns it. Inside [[Duodode]], UI am how [[Branding]] and [[Digital Product Work]] become tangible to the end user.
 
 ## How it connects
 

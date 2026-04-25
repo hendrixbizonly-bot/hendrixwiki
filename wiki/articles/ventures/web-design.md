@@ -8,7 +8,7 @@ tags: [design, web, service]
 
 # Web Design
 
-Web design is one of [[Duodode]]'s core offerings and a surface where [[Hendrix]]'s [[Design Philosophy]] shows up most directly. For him, a website is not a brochure. It is a product, a storefront, and often the first serious test of whether a business knows what it stands for.
+Web design is one of [[Duodode]]'s core offerings and a surface where my [[Design Philosophy]] shows up most directly. For me, a website is not a brochure. It is a product, a storefront, and often the first serious test of whether a business knows what it stands for.
 
 ## What it covers
 
@@ -27,13 +27,13 @@ Intentional, timeless, consistent. A site should feel like it belongs to the bra
 
 ## Why it is more than visuals
 
-A well-designed site communicates competence before a single word is read. A badly designed site signals the opposite, no matter how strong the underlying company is. Hendrix treats web design as part of a company's [[Business Strategy]], not its cosmetics. See [[Branding]].
+A well-designed site communicates competence before a single word is read. A badly designed site signals the opposite, no matter how strong the underlying company is. I treat web design as part of a company's [[Business Strategy]], not its cosmetics. See [[Branding]].
 
 ## How it plugs into Duodode
 
 Web design pairs directly with [[Web Development]], often inside the same engagement. It frequently follows [[Branding]] and can extend into [[Application Design]] when a client needs a product experience, not just a site.
 
-## What he avoids
+## What I avoid
 
 - Sites that win awards and lose conversions
 - Over-animated pages with nothing to say

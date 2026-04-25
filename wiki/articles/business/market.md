@@ -8,7 +8,7 @@ tags: [market, strategy, business]
 
 # Market
 
-Market thinking is part of [[Hendrix]]'s [[Business Strategy|strategic]] orientation. He treats the market as the ultimate referee. An idea is only as good as what the market actually pays for, uses, or recommends.
+Market thinking is part of my [[Business Strategy|strategic]] orientation. I treat the market as the ultimate referee. An idea is only as good as what the market actually pays for, uses, or recommends.
 
 ## Why market matters
 
@@ -17,12 +17,12 @@ Market thinking is part of [[Hendrix]]'s [[Business Strategy|strategic]] orienta
 - It rewards [[Taste]], [[Execution Over Talk|execution]], and clear positioning.
 - It filters out [[Performative Business Talk]] quickly.
 
-## How he reads markets
+## How I read markets
 
 - Where is demand actually growing?
 - Where is [[Leverage]] concentrated?
 - Which parts are oversaturated with [[Fluff]] and which have room for real operators?
-- Where does his [[Competence]] and [[Taste]] give him a non-trivial edge?
+- Where does my [[Competence]] and [[Taste]] give me a non-trivial edge?
 
 These questions shape how [[Duodode]] positions itself and which clients are worth serious pursuit.
 
@@ -33,7 +33,7 @@ These questions shape how [[Duodode]] positions itself and which clients are wor
 - [[Ecommerce]]
 - Product-led and founder-led businesses that need sharp [[Branding]] and real product work
 
-## What he avoids
+## What I avoid
 
 - Markets driven almost entirely by hype
 - Races to the bottom on price
@@ -41,4 +41,4 @@ These questions shape how [[Duodode]] positions itself and which clients are wor
 
 ## Related
 
-[[Hendrix]] · [[Business Strategy]] · [[Opportunity]] · [[Duodode]] · [[ROI-Driven Thinking]] · [[Ecommerce]]
+Hendrix · [[Business Strategy]] · [[Opportunity]] · [[Duodode]] · [[ROI-Driven Thinking]] · [[Ecommerce]]

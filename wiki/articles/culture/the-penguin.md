@@ -8,22 +8,22 @@ tags: [tv, crime, power, ambition, character]
 
 # The Penguin
 
-The Penguin is a focused character study of one operator building power inside a broken city. For [[Hendrix]], it is the next step on from [[Gotham]]: a tighter look at how somebody who is underestimated turns into somebody nobody can ignore.
+The Penguin is a focused character study of one operator building power inside a broken city. For me, it is the next step on from [[Gotham]]: a tighter look at how somebody who is underestimated turns into somebody nobody can ignore.
 
-## What it gave him
+## What it gave me
 
 - A patient study of how power is actually built
 - A character shaped almost entirely by [[Self-Overcoming]]
 - Sharper [[English]] through heavy, grounded dialogue
-- A modern continuation of his [[Gotham]] investment
+- A modern continuation of my [[Gotham]] investment
 
 See [[American Pop Culture Influence]].
 
 ## Why it resonates
 
-He is drawn to characters who refuse to stay at the bottom. The show is essentially a long argument that ambition, strategy, and ruthlessness, aimed with discipline, can move someone from nothing to someone. That has obvious resonance with his own [[Ambition]] and [[ROI-Driven Thinking]], even in a very different domain.
+I am drawn to characters who refuse to stay at the bottom. The show is essentially a long argument that ambition, strategy, and ruthlessness, aimed with discipline, can move someone from nothing to someone. That has obvious resonance with my own [[Ambition]] and [[ROI-Driven Thinking]], even in a very different domain.
 
-## Themes he resonates with
+## Themes I resonate with
 
 - Underdogs who build real leverage
 - [[Ambition]] as long-term construction
@@ -33,11 +33,11 @@ He is drawn to characters who refuse to stay at the bottom. The show is essentia
 
 ## Why this character
 
-The Penguin is not a hero. He is not even sympathetic in a clean way. But the show respects how hard it is to move up in a real system. Hendrix respects that framing. He wants to build real things, not pretend versions of them.
+The Penguin is not a hero. He is not even sympathetic in a clean way. But the show respects how hard it is to move up in a real system. I respect that framing. I want to build real things, not pretend versions of them.
 
-## Connection to his system
+## Connection to my system
 
-Paired with [[Gotham]], [[Succession]], [[Ozark]], and [[Game of Thrones]], The Penguin rounds out his library of serious stories about power and execution. It reinforces his own instincts: move with intent, build leverage, do not mistake motion for progress.
+Paired with [[Gotham]], [[Succession]], [[Ozark]], and [[Game of Thrones]], The Penguin rounds out my library of serious stories about power and execution. It reinforces my own instincts: move with intent, build leverage, do not mistake motion for progress.
 
 ## Related
 

@@ -8,9 +8,9 @@ tags: [language, speech, precision, goal]
 
 # Precision in Speech
 
-Precision in speech is a specific goal for [[Hendrix]]: being able to express complex thoughts more precisely in [[English]]. Not more words. The right words.
+Precision in speech is a specific goal for me: being able to express complex thoughts more precisely in [[English]]. Not more words. The right words.
 
-## What it means to him
+## What it means to me
 
 Precision is:
 
@@ -19,7 +19,7 @@ Precision is:
 - Not padding ideas with filler
 - Letting each word carry weight
 
-It is the opposite of the bloated corporate phrasing he dislikes. See [[Communication Preferences]].
+It is the opposite of the bloated corporate phrasing I dislike. See [[Communication Preferences]].
 
 ## How it differs from eloquence and articulation
 
@@ -27,7 +27,7 @@ It is the opposite of the bloated corporate phrasing he dislikes. See [[Communic
 - [[Articulation]] is getting the idea out in real time
 - Precision is choosing the right words at the sentence level
 
-Together they form his upgrade path in [[English]].
+Together they form my upgrade path in [[English]].
 
 ## Why it matters for a builder
 
@@ -41,7 +41,7 @@ A precise sentence in a pitch is worth a page of loose explanation. For [[Duodod
 
 Sharper words mean sharper business.
 
-## How he builds it
+## How I build it
 
 Through exposure to writing that values every word:
 
@@ -50,11 +50,11 @@ Through exposure to writing that values every word:
 - [[Video Essays]] with tight scripts
 - Sharp dialogue in [[TV Series]] like [[Mad Men]], [[Succession]], and [[Sherlock]]
 
-And through writing often himself, then cutting what does not earn its place.
+And through writing often, then cutting what does not earn its place.
 
-## Connection to his system
+## Connection to my system
 
-Precision maps to his whole operating style: [[ROI-Driven Thinking]], [[No-BS]], [[Directness]], and [[Execution Over Talk]]. A precise sentence is the linguistic version of a shipped product: nothing extra, nothing missing.
+Precision maps to my whole operating style: [[ROI-Driven Thinking]], [[No-BS]], [[Directness]], and [[Execution Over Talk]]. A precise sentence is the linguistic version of a shipped product: nothing extra, nothing missing.
 
 ## Related
 

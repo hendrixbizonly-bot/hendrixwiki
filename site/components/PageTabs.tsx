@@ -12,11 +12,10 @@ function SearchIcon() {
   );
 }
 
-function BookIcon() {
+function TalkIcon() {
   return (
     <svg viewBox="0 0 20 20" aria-hidden="true">
-      <path d="M4.5 4.5a2 2 0 0 1 2-2h8v13h-8a2 2 0 0 0-2 2Z" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />
-      <path d="M4.5 4.5v11" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
+      <path d="M4.5 4.75h11a1.75 1.75 0 0 1 1.75 1.75v6a1.75 1.75 0 0 1-1.75 1.75H9l-3.5 3v-3H4.5A1.75 1.75 0 0 1 2.75 10.5v-6A1.75 1.75 0 0 1 4.5 4.75Z" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />
     </svg>
   );
 }
@@ -33,26 +32,30 @@ function HistoryIcon() {
 
 export function PageTabs() {
   const pathname = usePathname();
-  const readActive = !pathname.startsWith('/graph');
-  const mapActive = pathname.startsWith('/graph');
+  const talkActive = pathname.startsWith('/talk') || pathname.startsWith('/skill');
+  const graphActive = pathname.startsWith('/graph');
+  const articleActive = !talkActive && !graphActive;
 
   return (
     <div className="page-toolbar">
       <nav className="page-tabs" aria-label="Page tabs">
-        <Link className={`page-tab ${readActive ? 'active' : ''}`} href="/">
-          Read
+        <Link className={`page-tab ${articleActive ? 'active' : ''}`} href="/">
+          Article
         </Link>
-        <Link className={`page-tab ${mapActive ? 'active' : ''}`} href="/graph">
-          Map
+        <Link className={`page-tab ${talkActive ? 'active' : ''}`} href="/talk">
+          Talk
+        </Link>
+        <Link className={`page-tab ${graphActive ? 'active' : ''}`} href="/graph">
+          Graph
         </Link>
       </nav>
 
       <div className="page-actions" aria-label="Page tools">
-        <Link className="page-action" href="/a/meta/start-here" aria-label="Open Start Here">
-          <BookIcon />
-        </Link>
         <Link className="page-action" href="/search" aria-label="Search the archive">
           <SearchIcon />
+        </Link>
+        <Link className="page-action" href="/talk" aria-label="Open AI Hendrix talk">
+          <TalkIcon />
         </Link>
         <Link className="page-action" href="/random" aria-label="Open a random chapter">
           <HistoryIcon />

@@ -1,88 +1,209 @@
-# Hendrixpedia — Schema & Conventions
+# Hendrixpedia — Structure & Writing Contract
 
-This document defines how Hendrixpedia is structured, how it is maintained, and how it should be updated when the Raw context changes.
+Hendrixpedia should preserve the clarity of an encyclopedia while reading more like a thoughtful nonfiction book. The goal is not to sound like a database with better styling. The goal is to let a reader move through a living world: a person, his work, his ideas, his influences, his habits, his ambitions, and the questions still shaping him.
 
-## Architecture (three layers)
+## What This Archive Is
 
-1. **Raw** (`/Raw/context.md`) — the source of truth. Immutable from the wiki's perspective; the wiki is rebuilt from this file. Never edit the wiki directly to contradict Raw — edit Raw and regenerate.
-2. **Wiki** (`/wiki/articles/...`) — LLM-generated interlinked markdown pages. Each page is a synthesis of what a concept *means to Hendrix*, not a neutral encyclopedia entry.
-3. **Site** (`/site/...`) — the rendered Wikipedia-style UI. A static interface that reads the wiki manifest and markdown.
+This wiki is not only a knowledge base. It is an unfolding body of thought, identity, memory, work, taste, and direction.
 
-## Writing style for articles
+Each article should feel like a chapter inside a larger book. A page can still be practical, searchable, and structured, but it should never feel mechanically summarized or emotionally empty.
 
-Every article follows the same shape:
+## Three Layers
 
-- **Tone:** concise, sharp, grounded, no-BS. Natural English. No bloated corporate phrasing. No try-hard motivational tone. Avoid em-dashes in generated writing (Hendrix dislikes them in writing help).
-- **Voice:** third-person about Hendrix ("Hendrix sees X as..."), not second-person or first-person.
-- **Angle:** every article is written through *what this means to Hendrix*. A page on Dubai is not a page about Dubai; it is a page about what Dubai is in his life. A page on Nietzsche is not a neutral bio; it is why Nietzsche matters to him and how the ideas connect to how he lives and builds.
-- **Depth:** each article should be substantial — usually 4 to 10 sections, with at least one section connecting the topic back to his larger system (Duodode, building philosophy, money view, etc.).
-- **Linking:** liberal use of `[[Wiki Links]]`. Every proper noun, every concept that has its own page, should be linked. Linking is how the wiki becomes a graph.
+1. **Raw** (`/Raw/context.md`) is the source of truth.
+   If a fact changes, Raw changes first.
+2. **Wiki** (`/wiki/articles/...`) is the chapter layer.
+   These are written pages, not raw notes.
+3. **Site** (`/site/...`) is the reading surface.
+   It presents the archive as a table of contents rather than a software dashboard.
+
+## Two Kinds of Organization
+
+The project uses two parallel structures.
+
+### 1. Internal clusters
+
+Internal `category` values keep the filesystem organized and should remain broad, stable, and easy to maintain.
+
+Allowed internal categories:
+
+- `core`
+- `places`
+- `ventures`
+- `business`
+- `philosophy`
+- `building`
+- `design`
+- `language`
+- `culture`
+- `youtube`
+- `curiosity`
+- `reading`
+- `tools`
+- `tech`
+- `habits`
+- `money`
+- `communication`
+- `frictions`
+- `meta`
+
+### 2. Reader-facing sections
+
+The site groups those internal clusters into a cleaner table of contents that should feel like a nonfiction book.
+
+Preferred reader-facing sections:
+
+- `navigation`
+- `identity`
+- `people`
+- `ventures`
+- `concepts`
+- `skills`
+- `media`
+- `life`
+- `events`
+- `timeline`
+- `curiosity`
+
+Section intent:
+
+- **Navigation**: entry points such as Start Here, Map of the Wiki, Timeline, featured pages, or orientation chapters.
+- **Identity**: self-concepts, recurring traits, internal labels, motives, and the language used to describe the self.
+- **People**: specific people who matter personally, professionally, or intellectually.
+- **Ventures & Projects**: businesses, brands, products, side projects, experiments, and long-building undertakings.
+- **Concepts & Philosophy**: ideas, principles, frameworks, frictions, beliefs, and recurring themes.
+- **Skills & Tools**: crafts, technologies, software, languages, and working capabilities.
+- **Media**: books, channels, essays, films, shows, creators, and other cultural inputs that belong in this world.
+- **Life & Personal**: places, routines, language, health, emotional texture, and private conditions beneath the visible work.
+- **Events & Experiences**: important lived moments and specific experiences.
+- **Timeline**: eras, phases, chronology, and milestones.
+- **Curiosity**: obsessions, open questions, rabbit holes, and unfinished thought.
+
+In frontmatter, `category` remains the internal cluster. Use optional `section` only when a page needs explicit reader-facing placement, especially for Navigation, Events & Experiences, Timeline, or when a page belongs somewhere unusual.
 
 ## Frontmatter
 
-Every article starts with YAML frontmatter:
+Every article starts with YAML frontmatter.
 
 ```yaml
 ---
 title: Article Title
 category: core|places|ventures|business|philosophy|building|design|language|culture|youtube|curiosity|reading|tools|tech|habits|money|communication|frictions|meta
-type: person|place|venture|concept|tool|skill|show|channel|habit|principle|friction|meta
-related: [List of other article titles]
+section: navigation|identity|people|ventures|concepts|skills|media|life|events|timeline|curiosity   # optional
+type: person|place|venture|concept|tool|skill|show|channel|book|habit|principle|friction|meta|timeline|experience
+related: [List of related article titles]
 tags: [relevant, tags]
 ---
 ```
 
-## Section conventions
+## Article Shape
 
-Articles typically include:
+Articles should be built from sectioned prose.
 
-1. **Lede** — one paragraph stating what the topic is and why it matters to Hendrix.
-2. **Contents** — implied by headings.
-3. **Topic-specific sections** — the core of the article.
-4. **Connection to Hendrix's system** — how this ties to building, money, design, philosophy, or Duodode.
-5. **Related pages** — a short list of cross-links at the end.
+Do not write one long wall of text. Do not flatten the page into bullets either.
 
-## Wiki-link syntax
+Use headings such as these when they fit naturally:
 
-Use double brackets: `[[Target Article]]`. The renderer converts these to in-wiki links. If the target has a slug different from its title, use `[[target-slug|Display Text]]`.
+- Overview
+- Why It Matters
+- Origins
+- How It Shows Up
+- In Practice
+- Role in the Larger System
+- Related Pages
 
-## Category index
+These are examples, not a template. Do not force every page into the same structure.
 
-| Category | Description | Example articles |
-|---|---|---|
-| core | Identity, core traits, what makes him him | Hendrix, Introspection, ROI-Driven Thinking |
-| places | Locations that shape his life | Dubai, Vietnam, UAE |
-| ventures | His actual businesses and agency | Duodode, Digital Agency |
-| business | Entrepreneurship, strategy, leverage | Entrepreneurship, Scale, Leverage |
-| philosophy | Thinkers, intellectual frames | Nietzsche, Self-Overcoming, Philosophy |
-| building | Building philosophy and principles | Build and Ship, Execution Over Talk |
-| design | Design philosophy and thinking | Intentional Design, Timeless Design |
-| language | Languages he knows or is learning | English, Spanish, Vietnamese |
-| culture | TV series and pop culture influences | Silicon Valley, Succession |
-| youtube | YouTube channels he learns from | Fireship, Kurzgesagt, Exurb1a |
-| curiosity | Space, sci-fi, astronomy | Space, Science Fiction |
-| reading | Essays, Substack, NYT, Medium | Substack, The New York Times |
-| tools | Software and tools he uses | Figma, Next.js, Supabase |
-| tech | Technical skills and stacks | JavaScript, GSAP, API Testing |
-| habits | Daily practices | Running, Duolingo Streak |
-| money | His relationship to wealth | Money, Freedom, Wealth |
-| communication | How he writes and speaks | Directness, Concise Writing |
-| frictions | What he dislikes / avoids | Fluff, Performative Talk |
-| meta | The wiki itself | Hendrixpedia, Raw Context |
+## Writing Style
 
-## How to update
+Write each article like a page from a thoughtful nonfiction book.
 
-1. Edit `/Raw/context.md` only.
-2. Regenerate affected articles (ask an LLM: *"Read Raw/context.md and SCHEMA.md. Update any articles in /wiki/articles that contain stale or conflicting information."*).
-3. Add new articles in the right category folder. Add them to `/wiki/index.md` and `/site/articles.json`.
-4. Append an entry to `/wiki/log.md`.
+Core style:
 
-## Anti-patterns (do not do)
+- Write in first person, as if I am writing the page myself.
+- Use full, connected prose.
+- Let ideas emerge through observation, tension, memory, and lived relevance.
+- Keep paragraphs developed and readable.
+- Vary sentence length naturally.
+- Let the page feel authored, calm, and deliberate.
+- Preserve clarity without draining the writing of texture.
 
-- Do not write neutral encyclopedia entries. Every article is through Hendrix's lens.
-- Do not frame Hendrix mainly as a content creator or short-form person.
-- Do not reduce him to only design or UI/UX.
-- Do not use bloated motivational language or fake-deep phrasing.
-- Do not use em-dashes.
-- Do not duplicate content across articles — link instead.
-- Do not speculate beyond what is in Raw. If something is not in Raw, say so or leave it out.
+What to avoid:
+
+- database-entry writing
+- corporate bio language
+- startup manifesto tone
+- fake-deep branding copy
+- repetitive “not this, not that” contrast structures
+- rigid thesis-explanation-list rhythm
+- bullet-heavy pages
+- flat definitions that explain the subject too early
+- empty filler phrases such as “this reflects” or “this suggests” when they add nothing
+
+What to do instead:
+
+- Open naturally and with some pull.
+- Let the meaning of the subject reveal itself over a few sentences.
+- Explain why it matters in lived terms, not only conceptual terms.
+- Show how it appears in work, decisions, habits, ambition, reading, relationships, or memory.
+- Make the page feel like part of a larger world.
+
+## Article-Specific Rules
+
+### Identity pages
+
+Do not define the label too quickly. First show the pressure, limitation, or lived reality that made the label necessary.
+
+### People pages
+
+Do not reduce a person to a resume summary. Write them as a presence inside this world. Explain who they are, why they matter, and what kind of relationship or weight surrounds them.
+
+### Media pages
+
+Do not write generic reviews. Explain why the book, channel, show, essay, or creator belongs in this archive: what it sharpened, what kind of taste it represents, or what part of the world it feeds.
+
+## Formatting Rules
+
+- Headings should organize thought, not flatten it.
+- Paragraphs should dominate.
+- Bullets are allowed when they genuinely improve clarity, but they should be secondary.
+- Transitions should feel smooth.
+- The page should read like one continuous voice.
+
+## Linking
+
+Use liberal `[[Wiki Links]]` whenever another page exists or clearly should exist.
+
+Linking is not decorative. It is how the archive becomes a navigable world.
+
+## Update Workflow
+
+1. Update `/Raw/context.md` when facts, themes, or priorities change.
+2. Add or rewrite affected articles in `/wiki/articles/...`.
+3. If the page needs special reader-facing placement, add `section:` in frontmatter.
+4. Regenerate the master index with `cd site && npm run index`.
+5. Append a note to `/wiki/log.md`.
+
+## Anti-Patterns
+
+Do not do the following:
+
+- Write neutral encyclopedia entries detached from my point of view.
+- Reduce me to only one role such as designer, founder, or content person.
+- Turn the archive into motivational language or branding theater.
+- Duplicate whole ideas across pages when links would do the job.
+- Speculate beyond what is grounded in Raw.
+- Over-mechanize the writing until it stops feeling human.
+
+## Final Test
+
+Before keeping a page, ask:
+
+- Does it feel written by a human with taste?
+- Does it feel like part of a larger world?
+- Does it read like something to stay with, not just scan?
+- Does it use headings without becoming mechanical?
+- Does it avoid AI-summary voice?
+- Does it make the next page feel worth opening?
+
+If the answer is no, rewrite it.

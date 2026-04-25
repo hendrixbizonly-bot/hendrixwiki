@@ -8,7 +8,7 @@ tags: [product, digital, service]
 
 # Digital Product Work
 
-Digital product work is one of the three pillars of [[Duodode]], alongside [[Branding]] and [[AI Automation]]. For [[Hendrix]], it is the space where his [[Design Philosophy]] and technical range come together at full strength.
+Digital product work is one of the three pillars of [[Duodode]], alongside [[Branding]] and [[AI Automation]]. For me, it is the space where my [[Design Philosophy]] and technical range come together at full strength.
 
 ## What it means at Duodode
 
@@ -22,11 +22,11 @@ Digital product work covers everything involved in designing and building real p
 
 The output is not a mockup. It is a working product with [[Taste]].
 
-## Why it matters to him
+## Why it matters to me
 
-Hendrix does not want to be boxed in as "just a designer" or "just a developer". Digital product work is where those labels stop mattering. The work requires [[Strategic Thinking]], [[Design]], and engineering to hold together.
+I do not want to be boxed in as "just a designer" or "just a developer". Digital product work is where those labels stop mattering. The work requires [[Strategic Thinking]], [[Design]], and engineering to hold together.
 
-It also lets him use the full stack he has built up: [[Figma]], [[VS Code]], [[GitHub]], [[Codex]], [[Claude Code]], [[Node.js]], [[Next.js]], [[Vercel]], [[Supabase]], [[Rive]], [[GSAP]], [[Framer Motion]].
+It also lets me use the full stack I have built up: [[Figma]], [[VS Code]], [[GitHub]], [[Codex]], [[Claude Code]], [[Node.js]], [[Next.js]], [[Vercel]], [[Supabase]], [[Rive]], [[GSAP]], [[Framer Motion]].
 
 ## The standard
 

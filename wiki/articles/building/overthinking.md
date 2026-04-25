@@ -8,7 +8,7 @@ tags: [trap, friction, thinking]
 
 # Overthinking
 
-Overthinking is a trap [[Hendrix]] actively names and pushes against. It is the enemy of [[Build and Ship]]. Thinking is valuable. Overthinking is thinking that has stopped producing output.
+Overthinking is a trap I actively name and push against. It is the enemy of [[Build and Ship]]. Thinking is valuable. Overthinking is thinking that has stopped producing output.
 
 ## What overthinking looks like
 
@@ -24,9 +24,9 @@ At some point, extra thought stops sharpening the decision and starts delaying i
 
 Because it feels like diligence. It looks responsible. But the output is zero. Weeks can pass inside overthinking and nothing real is created. That is a bad trade for a builder.
 
-Hendrix is [[Introspection|introspective]] by temperament, which means he is more exposed to this trap than most. He has to actively protect against it.
+I am [[Introspection|introspective]] by temperament, which means I am more exposed to this trap than most. I have to actively protect against it.
 
-## How he resists it
+## How I resist it
 
 - Treating "not feeling ready" as a cue to start, not wait
 - Running [[Starting Before Ready]] as a default
@@ -36,7 +36,7 @@ Hendrix is [[Introspection|introspective]] by temperament, which means he is mor
 
 ## The Nietzschean angle
 
-[[Self-Overcoming]] applies here. The overthinking version of himself is a comfort state. Acting, even imperfectly, is the overcoming. [[Nietzsche]] would recognize the pattern.
+[[Self-Overcoming]] applies here. The overthinking version of myself is a comfort state. Acting, even imperfectly, is the overcoming. [[Nietzsche]] would recognize the pattern.
 
 ## What overthinking is not
 

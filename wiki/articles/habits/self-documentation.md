@@ -8,23 +8,23 @@ tags: [self-documentation, wiki, habit]
 
 # Self-Documentation
 
-Self-documentation is the habit behind this wiki. Hendrix is writing himself down on purpose.
+Self-documentation is the habit behind this wiki. I am writing myself down on purpose.
 
 ## What it is
 
-A serious, structured record of who he is, what he values, what he is building, and how he thinks. Not a diary. Not a portfolio. A living reference that gets updated as he changes.
+A serious, structured record of who I am, what I value, what I am building, and how I think. Not a diary. Not a portfolio. A living reference that gets updated as I change.
 
 This wiki, [[Hendrixpedia]], is the artifact. The habit is the practice of keeping it honest and up to date.
 
-## Why he does it
+## Why I do it
 
 Several reasons stack on each other:
 
 - [[Introspection]] becomes sharper when it has to be written
 - Patterns become visible once they are collected in one place
 - Decisions get easier when identity is already defined
-- Future versions of him can read the current version and course-correct
-- AI assistants working with him get a cleaner source of truth
+- Future versions of me can read the current version and course-correct
+- AI assistants working with me get a cleaner source of truth
 
 In short, a written self is a more useful self.
 
@@ -37,11 +37,11 @@ In short, a written self is a more useful self.
 
 It is maintained, not launched.
 
-## How it fits his system
+## How it fits my system
 
-Hendrix is already [[Introspection|introspective]] by temperament. Self-documentation turns that trait into a process. It pairs with [[Daily Practice]] and [[Curiosity As Habit]] to form a stack where thinking, learning, and recording reinforce each other.
+I am already [[Introspection|introspective]] by temperament. Self-documentation turns that trait into a process. It pairs with [[Daily Practice]] and [[Curiosity As Habit]] to form a stack where thinking, learning, and recording reinforce each other.
 
-The wiki also supports his [[ROI-Driven Thinking|ROI mindset]]. Time spent making himself legible pays back every time an AI, a collaborator, or his own future self has to align to what he values.
+The wiki also supports my [[ROI-Driven Thinking|ROI mindset]]. Time spent making myself legible pays back every time an AI, a collaborator, or my own future self has to align to what I value.
 
 ## What it captures
 

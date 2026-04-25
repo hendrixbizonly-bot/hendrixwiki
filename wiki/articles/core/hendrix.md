@@ -2,96 +2,50 @@
 title: Hendrix
 category: core
 type: person
-related: [Hendrix Huynh, Duodode, Dubai, Vietnam, Build and Ship, ROI-Driven Thinking, Nietzsche, Running]
-tags: [identity, founder, builder, profile]
+related: [Hendrix Huynh, Duodode, Dubai, Vietnam, Being a Builder, Freedom, Introspection, Running]
+tags: [identity, builder, profile, flagship]
 ---
 
 # Hendrix
 
-Hendrix is a Dubai-based, highly introspective, ROI-driven builder with a strong bias toward entrepreneurship, tech, design, and execution. He is the person this wiki is about. He is building [[Duodode]], a digital agency that blends [[Branding]], [[AI Automation]], and [[Digital Product Work]] across web and applications. He values [[Philosophy]], respects [[Money]], prefers substance over noise, and believes [[Execution Over Talk|execution matters more than talk]].
+Most pages in this archive are side doors back into this one. I am the thread running through all of them: the builder in [[Dubai]], the person shaped by [[Vietnam]], the mind pulled toward business, design, tech, philosophy, language, and the quieter internal questions that keep the work from becoming empty motion.
 
-## At a glance
+## The basic shape of me
 
-- **Preferred name:** Hendrix
-- **Full name:** [[Hendrix Huynh]]
-- **Base:** [[Dubai]], [[UAE]]
-- **Origin:** [[Vietnam]]
-- **Building:** [[Duodode]]
-- **Favorite philosopher:** [[Nietzsche]]
-- **Daily reset:** [[Running]]
-- **Current language focus:** [[Spanish]] ([[Duolingo Streak|350+ day Duolingo streak]])
+The clearest short version is that I am a builder. But even that word only works because it can hold several instincts at once. I care about design, but I do not want to be trapped inside design. I care about business because I care about leverage, ownership, and scale, not because I enjoy business language for its own sake. I care about tech because it is one of the strongest tools for turning thought into real output. I care about philosophy because I need a deeper layer underneath action or else the action eventually starts feeling thin.
 
-## Who he is
+That combination is what gives the archive its shape. Work, identity, ideas, money, language, media, habit, and curiosity are not separate compartments. They are different surfaces of the same life.
 
-Hendrix is the kind of person who thinks in systems and cares about outcomes. He does not see himself as only a designer, only a developer, or only a founder. He sees himself as a builder who uses [[Design]], [[Tech]], and [[Business Strategy]] as leverage to create something real. His mindset is shaped by a practical, results-oriented view of work that comes partly from growing up in [[Vietnam]] and being exposed to [[Asian Business Culture]], and partly from a personal temperament that values [[Clarity]], [[Competence]], and [[Seriousness]] over performance.
+## Origin and base
 
-Among his core traits: [[Ambition]], [[Introspection]], [[ROI-Driven Thinking]], [[Execution-First Mindset|execution-first]], [[Strategic Thinking|strategic]], [[No-BS]], future-oriented, serious about growth, and a strong preference for real [[Substance over Noise|substance over noise]].
+I grew up in [[Vietnam]], and that origin still sits underneath my temperament. A lot of my seriousness about work, my preference for substance over presentation, and my impatience with empty performance come from there. I did not absorb a romantic view of effort. I absorbed a practical one: effort should lead somewhere.
 
-## What he is building
+[[Dubai]] is the current coordinate. It fits the active direction of my life. It is a city with pace, ambition, motion, and global reach, and those things matter to me because I do not want a static life. Vietnam is the root. Dubai is the active ground.
 
-His current focus is [[Duodode]], a [[Digital Agency]] that combines [[Branding]], [[AI Automation]], and [[Digital Product Work]]. Duodode is not meant to be shallow agency fluff. It is meant to blend design and tech into outcomes that create [[Business Value|business value]], not just aesthetics.
+## The direction I am trying to build toward
 
-His long-term direction is larger than a single agency. He wants to [[Ambition|build something of real weight]], scale a serious company, reach [[Millionaire Goal|financial milestones]], and eventually own something big. He treats [[Entrepreneurship]] and [[Ownership]] as compounding tools, not status labels.
+What I want is not only success in the abstract. I want a life with more freedom, more authorship, more access, and more movement. I want to live in serious cities, be around serious people, and keep building without feeling trapped inside a life I did not consciously choose. That is why pages like [[Ambition]], [[Freedom]], and [[Strategic Thinking]] matter so much here. They are not decorative concepts. They are how I think about the actual shape of the road ahead.
 
-## How he works
+I am more afraid of drifting into a normal life I never chose than I am of clean failure. That fear has more force in it than most motivational language ever will.
 
-Hendrix works through [[Build and Ship|build and ship]]. He starts before feeling fully ready. He trusts that [[Momentum]] builds [[Competence]] and that real [[Feedback Loops|feedback]] comes from shipped work, not rehearsed plans. He dislikes [[Overthinking]] that disguises itself as preparation.
+## The work in front of me
 
-His working stack crosses creative, technical, and operational tools: [[Figma]], [[DaVinci Resolve]], [[VS Code]], [[GitHub]], [[Codex]], [[Claude Code]], [[Node.js]], [[Next.js]], [[Vercel]], [[Supabase]], [[n8n]], [[Rive]], [[Postman]], [[Notion]], and [[Ads Manager]]. He uses tools as leverage rather than as identity.
+Right now the main vehicle is [[Duodode]], a digital agency where branding, automation, product thinking, web work, and application work come together. I do not think of it as a decorative agency project. I think of it as the current form of a larger ambition: to build something with weight, something commercially real, and something capable of becoming much larger than the surface version people can see right now.
 
-## How he thinks
+That is why I keep returning to ideas like [[Ownership]], [[Leverage]], [[Build and Ship]], and [[Responsibility for Outcomes]]. They are not random interests. They describe the game I believe I am in.
 
-He is [[Introspection|introspective]] by nature. He reads seriously, prefers [[Books]] and [[Long-form Thinking]] over shallow internet content, and uses [[Philosophy]] (especially [[Nietzsche]]) as a tool for [[Self-Overcoming]] and sharper living. He is drawn to [[Space]], [[Astronomy]], [[Science Fiction]], and [[Video Essays]], and uses [[YouTube]] and [[AI Tools]] as major learning surfaces.
+## The inner layer underneath the work
 
-He evaluates most decisions through [[ROI]], [[Leverage]], and [[Long-term Upside]]. He wants action tied to purpose, not motion for the sake of motion.
+I am deeply [[Introspection|introspective]], but I do not want introspection to become a place to hide. I read philosophy because I want sharper judgment, not the performance of intelligence. I stay near writers like [[Nietzsche]] and [[Camus]] because they help name pressures I already feel: self-overcoming, seriousness, authenticity, solitude, and the refusal to live too cheaply.
 
-## What he values
+The same pattern exists in how I learn. Books, essays, YouTube, AI, experimentation, long-form media, and self-documentation all matter to me because they sharpen the instrument. I am not collecting inputs for the sake of collecting them. I am trying to become more capable, more articulate, and more internally honest.
 
-- [[Clarity]]
-- [[Competence]]
-- [[Execution Over Talk]]
-- [[Money]] (treated seriously, not superficially)
-- [[Taste]] grounded in real value
-- [[Self-Development]] as a long-running project
-- [[Seriousness]] without stiffness
-- [[Directness]] in communication
+## What keeps me honest
 
-## What he avoids
+Not everything important in my life is strategic in a grand sense. [[Running]] matters because it clears my mind. [[Morning Runs]] matter because they set the tone before the day gets noisy. [[Spanish]] matters because long consistency changes a person quietly. Media matters because taste and language are shaped by what I stay near. The friction pages matter because they name what I reject: fluff, fake work, performative business talk, and anything that tries to substitute surface for substance.
 
-- [[Fluff]]
-- [[Fake Work]]
-- [[Performative Business Talk]]
-- [[Low-Value Activity]]
-- [[Try-hard Language]]
-- [[Fake Motivational Tone]]
-- Em-dashes in writing help
-
-## Habits
-
-- [[Running]] as mental reset
-- [[Duolingo Streak]] (Spanish, 350+ days)
-- Daily reading across [[Books]], [[Substack]], [[Medium]], [[The New York Times]], and [[Essays]]
-- Continuous building
-
-## Communication style
-
-Hendrix prefers [[Directness|direct]], [[Concise Writing|concise]], [[Natural Language|natural]] writing. No bloated phrasing. No fake-deep tone. In personal writing he often prefers lowercase only. He wants correction and real feedback on his English, not praise. See [[Communication Preferences]], [[English Goals]], [[Tone Preferences]].
-
-## Cultural texture
-
-He grew up absorbing American and English-language TV series and pop culture, which shaped his ear for English, his sense of humor, and his cultural instinct. Specific series that matter to him include [[Silicon Valley]], [[Succession]], [[Mad Men]], [[Ozark]], [[Game of Thrones]], [[For All Mankind]], [[Sherlock]], [[How I Met Your Mother]], [[The Big Bang Theory]], [[Gotham]], and [[The Penguin]].
-
-## The shape of his ambition
-
-- Build something real, not just aesthetic
-- Become strong and capable across multiple surfaces
-- Create financial success
-- Avoid [[Mediocrity]]
-- Live with intention
-- Turn thought into action
-
-See [[Core Drives]], [[Inner Orientation]], [[Long-term Goals]].
+If there is one pattern underneath all of it, it is this: I want thought to become action without becoming shallow in the process.
 
 ## Related
 
-[[Hendrix Huynh]] · [[Duodode]] · [[Dubai]] · [[Vietnam]] · [[Nietzsche]] · [[Build and Ship]] · [[Running]] · [[ROI-Driven Thinking]] · [[Design Philosophy]] · [[English]] · [[Spanish]]
+[[Hendrix Huynh]] · [[Duodode]] · [[Dubai]] · [[Vietnam]] · [[Being a Builder]] · [[Freedom]] · [[Running]] · [[Introspection]]

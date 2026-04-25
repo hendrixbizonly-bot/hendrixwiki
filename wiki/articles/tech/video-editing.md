@@ -8,9 +8,9 @@ tags: [video, editing, production, skill]
 
 # Video Editing
 
-Video editing is part of [[Hendrix]]'s working skill set. He uses it for [[Duodode]] deliverables, ad creative, and any content that needs to land as video rather than static design.
+Video editing is part of my working skill set. I use it for [[Duodode]] deliverables, ad creative, and any content that needs to land as video rather than static design.
 
-## How he works on it
+## How I work on it
 
 Primarily through [[DaVinci Resolve]]. He edits, colors, and finishes in one tool rather than chaining apps together.
 
@@ -21,11 +21,11 @@ Primarily through [[DaVinci Resolve]]. He edits, colors, and finishes in one too
 - Content tied to product launches
 - Supporting the broader [[Branding]] work on visual systems
 
-## Why it fits his system
+## Why it fits my system
 
-Hendrix wants to be capable across the surfaces clients actually need. Video is one of those surfaces. Knowing it well means he is not outsourcing a core deliverable, which keeps quality and control tight.
+I want to be capable across the surfaces clients actually need. Video is one of those surfaces. Knowing it well means I am not outsourcing a core deliverable, which keeps quality and control tight.
 
-## How it connects to his taste
+## How it connects to my taste
 
 The same [[Design Philosophy|intentional, timeless, consistent]] standard applies to video. Good editing is restraint, pacing, and intent. Weak editing is noise with transitions. He chooses the first.
 

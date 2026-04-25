@@ -8,9 +8,9 @@ tags: [deployment, devops, tools, workflow]
 
 # Deployment Workflows
 
-Deployment workflows are how [[Hendrix]] moves work from local code to live product. He keeps this part of the stack lean so he can focus on building.
+Deployment workflows are how I move work from local code to live product. I keep this part of the stack lean so I can focus on building.
 
-## What they look like for him
+## What they look like for me
 
 - Code lives in [[GitHub]]
 - Built and deployed through [[Vercel]]
@@ -18,9 +18,9 @@ Deployment workflows are how [[Hendrix]] moves work from local code to live prod
 - Local work in [[VS Code]] pushes straight to preview and production
 - Rollbacks are one click when needed
 
-## Why it fits his workflow
+## Why it fits my workflow
 
-Deployment should be a non-event. Hendrix wants shipping to be the cheapest, fastest step of the cycle. That matches his preference for [[Build and Ship|build and ship]] and removes the gap between decision and live product.
+Deployment should be a non-event. I want shipping to be the cheapest, fastest step of the cycle. That matches my preference for [[Build and Ship|build and ship]] and removes the gap between decision and live product.
 
 ## What it unlocks
 

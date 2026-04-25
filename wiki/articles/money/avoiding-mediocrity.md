@@ -8,9 +8,9 @@ tags: [mediocrity, ambition, drive]
 
 # Avoiding Mediocrity
 
-Avoiding mediocrity is one of [[Hendrix]]'s core drives. He states it plainly. It is not a rejection of other people. It is a refusal, for himself, to live a diluted life.
+Avoiding mediocrity is one of my core drives. He states it plainly. It is not a rejection of other people. It is a refusal, for myself, to live a diluted life.
 
-## What mediocrity means to him
+## What mediocrity means to me
 
 - Defaulting into average outcomes
 - Playing small without honest reason
@@ -30,7 +30,7 @@ But the drive underneath is not just financial. It is existential.
 
 [[Nietzsche]] is directly relevant here. [[Self-Overcoming]] is a refusal to settle for the inherited, easier, more comfortable version of yourself. Avoiding mediocrity is that principle applied to an entire life.
 
-## How he avoids it
+## How I avoid it
 
 - [[Build and Ship]] as a default
 - [[Serious Thinkers]] as inputs, not trends
@@ -47,7 +47,7 @@ But the drive underneath is not just financial. It is existential.
 - Performative ambition
 - Burnout or grind for its own sake
 
-It is internal. It is about his own trajectory, not comparisons.
+It is internal. It is about my own trajectory, not comparisons.
 
 ## The honest risk
 
@@ -59,7 +59,7 @@ Pushing against mediocrity is harder than accepting it. It costs discipline, eff
 
 ## The test
 
-Is he making choices that raise the ceiling of his life or lower it? That simple question, applied over years, is the real check.
+Is he making choices that raise the ceiling of my life or lower it? That simple question, applied over years, is the real check.
 
 ## Related
 

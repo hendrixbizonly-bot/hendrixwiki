@@ -8,7 +8,7 @@ tags: [performative, business, friction]
 
 # Performative Business Talk
 
-Performative business talk is the specific dialect Hendrix finds most irritating. It is the language of people who want to sound like they are building without actually building.
+Performative business talk is the specific dialect I find most irritating. It is the language of people who want to sound like they are building without actually building.
 
 ## What it sounds like
 
@@ -20,15 +20,15 @@ Performative business talk is the specific dialect Hendrix finds most irritating
 
 It is a specific cadence. Once you hear it, you hear it everywhere.
 
-## Why it frustrates him
+## Why it frustrates me
 
 Because it is a social performance that mimics the surface of [[Entrepreneurship]] without any of the substance. It wastes the reader's time. It obscures actual thinking. And it often shields a weak underlying idea from scrutiny.
 
-He is [[No-BS]] by default. Performative talk is the exact opposite: BS as a style.
+I am [[No-BS]] by default. Performative talk is the exact opposite: BS as a style.
 
 ## What it signals
 
-When someone uses a lot of it, he treats it as a signal that the underlying work may not be real. Not always, but often enough to be a useful filter.
+When someone uses a lot of it, I treat it as a signal that the underlying work may not be real. Not always, but often enough to be a useful filter.
 
 ## What replaces it
 

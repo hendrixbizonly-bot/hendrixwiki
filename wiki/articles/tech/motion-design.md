@@ -8,15 +8,15 @@ tags: [motion, animation, design, product]
 
 # Motion Design
 
-Motion design, for [[Hendrix]], is part of communication, not decoration. He treats animation as how a product feels, not as a layer of polish added at the end.
+Motion design, for me, is part of communication, not decoration. I treat animation as how a product feels, not as a layer of polish added at the end.
 
-## His stance
+## My stance
 
 - Motion is part of the product, not a finish
 - It should support clarity and feel, not distract from them
 - Good motion is invisible until it is not there
 
-## How he works with it
+## How I work with it
 
 - Designing motion intent inside [[Figma]]
 - Implementing interactive motion with [[GSAP]] and [[Framer Motion]]
@@ -24,7 +24,7 @@ Motion design, for [[Hendrix]], is part of communication, not decoration. He tre
 - Producing linear video motion in [[DaVinci Resolve]] where needed
 - Tying motion to product logic, not just aesthetics
 
-## Why it fits his design philosophy
+## Why it fits my design philosophy
 
 [[Intentional Design]] requires intention in every layer, including motion. [[Timeless Design]] requires restraint. [[Consistent Design]] requires shared motion language. Motion gets held to the same standard as typography or color.
 

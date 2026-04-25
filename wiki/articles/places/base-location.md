@@ -8,7 +8,7 @@ tags: [concept, place, operations]
 
 # Base Location
 
-Base location is how Hendrix thinks about where he operates from, strategically. Not "where I live" as a casual fact. Where he is physically positioned matters because it affects cost, access, speed, and reach.
+Base location is how I think about where I operate from, strategically. Not "where I live" as a casual fact. Where I am physically positioned matters because it affects cost, access, speed, and reach.
 
 ## Why base matters for a builder
 
@@ -22,13 +22,13 @@ A builder's location is part of their operating stack. It affects:
 
 For someone running [[Duodode]] and thinking in terms of [[Scale|scale]] and [[Leverage|leverage]], location is not neutral.
 
-## His current base
+## My current base
 
 [[Dubai]], in the [[UAE]]. Chosen for its combination of [[Global Perspective|global reach]], business-friendly environment, infrastructure, and pace. See [[Working from Dubai]] for the day-to-day reality.
 
 ## Base as leverage
 
-Picking a base well is a one-time decision with long-running compounding effects. This fits his [[ROI-Driven Thinking|ROI-driven]] and [[Strategic Thinking|strategic]] lens: low-frequency, high-consequence choices get extra weight.
+Picking a base well is a one-time decision with long-running compounding effects. This fits my [[ROI-Driven Thinking|ROI-driven]] and [[Strategic Thinking|strategic]] lens: low-frequency, high-consequence choices get extra weight.
 
 ## What it is not
 
@@ -36,7 +36,7 @@ Picking a base well is a one-time decision with long-running compounding effects
 - A status location.
 - A temporary phase without thought behind it.
 
-## Connection to his system
+## Connection to my system
 
 Base location ties to [[Dubai]], [[UAE]], [[Working from Dubai]], [[Global Perspective]], [[Leverage]], [[Strategic Thinking]], and [[Duodode]]. It is the physical axis the work runs on.
 

@@ -8,20 +8,20 @@ tags: [meta, architecture, system]
 
 # How This Wiki Works
 
-[[Hendrixpedia]] is built in three layers. Each layer has a job. The separation is intentional and reflects how Hendrix thinks: build a clean system, let it compound, avoid [[Fluff|fluff]] in the architecture.
+[[Hendrixpedia]] is built in three layers. Each layer has a job. The separation is intentional and reflects how I think: build a clean system, let it compound, avoid [[Fluff|fluff]] in the architecture.
 
 ## The three layers
 
 ### 1. Raw
 
-`/Raw/context.md`. The source of truth. See [[Raw Context]]. This is where facts about [[Hendrix]] live. It is immutable from the wiki's perspective: the wiki is regenerated from Raw, not edited to contradict it.
+`/Raw/context.md`. The source of truth. See [[Raw Context]]. This is where facts about Hendrix live. It is immutable from the wiki's perspective: the wiki is regenerated from Raw, not edited to contradict it.
 
 ### 2. Wiki
 
 `/wiki/articles/...`. LLM-generated, interlinked markdown pages. Each page is:
 
-- Framed through what the topic means to Hendrix.
-- Written in third-person.
+- Framed through what the topic means to me.
+- Written in first person.
 - Heavy on `[[Wiki Links]]` to other pages.
 - Grounded in what Raw says.
 
@@ -34,7 +34,7 @@ tags: [meta, architecture, system]
 All articles follow the same shape, defined in `/wiki/SCHEMA.md`:
 
 - YAML frontmatter with title, category, type, related, tags.
-- Third-person voice, through Hendrix's lens.
+- First-person voice, through my lens.
 - Concise, sharp, grounded, no-BS.
 - No em-dashes, no [[Fake Motivational Tone|fake motivational tone]].
 - 4 to 10 sections, usually 400 to 900 words.
@@ -57,7 +57,7 @@ See `/wiki/SCHEMA.md` for the full conventions.
 - **Graph, not pile**: linking makes this a real second brain.
 - **LLM-friendly**: an LLM can ingest Raw, or walk the wiki graph, or read the rendered site.
 
-This matches [[Hendrix]]'s [[Strategic Thinking|strategic]] and [[ROI-Driven Thinking|ROI-driven]] way of building. One-time structural work, long-term [[Leverage|leverage]].
+This matches my [[Strategic Thinking|strategic]] and [[ROI-Driven Thinking|ROI-driven]] way of building. One-time structural work, long-term [[Leverage|leverage]].
 
 ## Anti-patterns
 
@@ -67,7 +67,7 @@ This matches [[Hendrix]]'s [[Strategic Thinking|strategic]] and [[ROI-Driven Thi
 - Speculating beyond what Raw contains.
 - Using em-dashes.
 
-## Connection to his system
+## Connection to my system
 
 This page ties to [[Hendrixpedia]], [[Raw Context]], and [[For the Chatbot]]. It is the operating manual for the wiki itself.
 

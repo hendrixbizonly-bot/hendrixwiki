@@ -100,7 +100,18 @@ SECTION_PRIORITY = {
         "meta/raw-context",
         "meta/for-the-chatbot",
     ],
-    "identity": ["core/hendrix", "core/identity", "core/becoming", "core/being-a-builder"],
+    "identity": [
+        "core/hendrix",
+        "core/being-a-builder",
+        "core/identity",
+        "core/what-lasts",
+        "core/close-to-the-work",
+        "core/range",
+        "core/responsibility-for-outcomes",
+        "core/learning-across-surfaces",
+        "core/the-cost-of-range",
+        "core/becoming",
+    ],
     "people": ["core/hendrix", "core/hendrix-huynh", "philosophy/nietzsche", "philosophy/camus"],
     "ventures": ["ventures/duodode", "ventures/digital-agency", "ventures/agency-building", "ventures/ai-automation"],
     "concepts": ["philosophy/philosophy", "building/build-and-ship", "business/leverage", "money/money"],
@@ -148,6 +159,34 @@ SUMMARY_CLEANUPS = [
     ("I rejects", "I reject"),
     ("I returns", "I return"),
     ("I am not something he", "I am not something I"),
+    (
+        "I value philosophy, reads seriously, respects money, learns heavily through YouTube and AI, prefers long-form ideas over shallow trends, and believes execution matters more than talk.",
+        "I value philosophy, read seriously, respect money, learn heavily through YouTube and AI, prefer long-form ideas over shallow trends, and believe execution matters more than talk.",
+    ),
+    (
+        "I also likes running and sees it as a way to clear my mind, reset, and think more clearly.",
+        "I also like running and see it as a way to clear my mind, reset, and think more clearly.",
+    ),
+    (
+        "I respects money, prefers substance over noise, values books and long-form thinking, likes philosophy with Nietzsche as my favorite philosopher, and is especially interested in space, sci-fi, and thoughtful video essays.",
+        "I respect money, prefer substance over noise, value books and long-form thinking, like philosophy with Nietzsche as my favorite philosopher, and am especially interested in space, sci-fi, and thoughtful video essays.",
+    ),
+    (
+        "I learn heavily from YouTube and AI and sees both as major sources of knowledge, skill-building, and leverage.",
+        "I learn heavily from YouTube and AI and see both as major sources of knowledge, skill-building, and leverage.",
+    ),
+    (
+        "I like running and sees it as a way to clear my mind.",
+        "I like running and see it as a way to clear my mind.",
+    ),
+    (
+        "I am also learning Spanish and has a 350 plus day Duolingo streak.",
+        "I am also learning Spanish and have a 350 plus day Duolingo streak.",
+    ),
+    (
+        "I prefer concise, sharp, no-BS communication and wants help turning thought into action.",
+        "I prefer concise, sharp, no-BS communication and want help turning thought into action.",
+    ),
 ]
 
 

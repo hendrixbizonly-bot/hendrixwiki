@@ -8,7 +8,7 @@ tags: [concise, writing, communication]
 
 # Concise Writing
 
-Concise writing is Hendrix's standard. Say the thing in the fewest honest words.
+Concise writing is my standard. Say the thing in the fewest honest words.
 
 ## The rule
 
@@ -24,11 +24,11 @@ A long sentence can be concise if every word pulls weight. A short sentence can 
 - Polite filler that does not carry meaning
 - Adjectives stacked for texture instead of signal
 
-## Why he prefers it
+## Why I prefer it
 
-Because it respects the reader. Dense writing rewards attention. Bloated writing punishes it. He is [[ROI-Driven Thinking|ROI-driven]] in words the same way he is in work: every word either earns its place or gets cut.
+Because it respects the reader. Dense writing rewards attention. Bloated writing punishes it. I am [[ROI-Driven Thinking|ROI-driven]] in words the same way I am in work: every word either earns its place or gets cut.
 
-## How he practices it
+## How I practices it
 
 - Writing first, then cutting by thirty percent
 - Reading the draft aloud and killing anything that stalls
@@ -37,7 +37,7 @@ Because it respects the reader. Dense writing rewards attention. Bloated writing
 
 ## How it connects
 
-Conciseness is one of the three pillars of his [[Communication Preferences]], alongside [[Directness]] and [[Natural Language]]. It supports [[Clear Over Clever]] and resists [[Fluff]].
+Conciseness is one of the three pillars of my [[Communication Preferences]], alongside [[Directness]] and [[Natural Language]]. It supports [[Clear Over Clever]] and resists [[Fluff]].
 
 ## Related
 

@@ -8,9 +8,9 @@ tags: [directness, communication, writing]
 
 # Directness
 
-Directness is Hendrix's default. He prefers communication that states the thing instead of circling it.
+Directness is my default. I prefer communication that states the thing instead of circling it.
 
-## What he means by direct
+## What I mean by direct
 
 Direct is not rude. It is accurate. A direct sentence says what the writer actually believes and what the reader actually needs. It cuts hedging, filler, and the polite apparatus that exists to soften a point until the point disappears.
 
@@ -21,18 +21,18 @@ Direct is not rude. It is accurate. A direct sentence says what the writer actua
 - Not contrarian as a style
 - Not skipping respect
 
-## Why he prefers it
+## Why I prefer it
 
 Because it saves time and preserves trust. Indirect writing makes the reader decode intent. That is extra cognitive work for no gain. Direct writing gives the reader the signal and lets them respond to it.
 
-It also fits his [[No-BS]] instinct. Hedged writing often hides fear, [[Performative Business Talk|performance]], or a weak point. Direct writing has nowhere to hide, which forces the writer to actually think.
+It also fits my [[No-BS]] instinct. Hedged writing often hides fear, [[Performative Business Talk|performance]], or a weak point. Direct writing has nowhere to hide, which forces the writer to actually think.
 
 ## Where it shows up
 
 - Working with [[Duodode]] clients
 - Internal notes and documentation
 - Pitches and proposals
-- How he asks for feedback on his own work
+- How I ask for feedback on my own work
 
 ## How it connects
 

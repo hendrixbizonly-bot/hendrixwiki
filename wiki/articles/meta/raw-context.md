@@ -12,7 +12,7 @@ Raw Context refers to `/Raw/context.md`, the single source of truth that the res
 
 ## What Raw is
 
-It is a long markdown file holding structured facts about [[Hendrix]]:
+It is a long markdown file holding structured facts about Hendrix:
 
 - Identity and names.
 - Languages and learning goals.
@@ -27,7 +27,7 @@ It is a long markdown file holding structured facts about [[Hendrix]]:
 - Working style, habits, communication preferences.
 - Money view and personal drivers.
 
-It is the canonical description of who Hendrix is at a given point in time.
+It is the canonical description of who I am at a given point in time.
 
 ## Why it is separated
 
@@ -38,7 +38,7 @@ Separating Raw from the wiki articles has real advantages:
 - The wiki becomes a view over the data, not a set of independent claims.
 - LLMs can load Raw directly for compact context, or read wiki articles for detail.
 
-This matches Hendrix's [[ROI-Driven Thinking|ROI-driven]] and [[Strategic Thinking|strategic]] style: build the system once, then let it compound.
+This matches my [[ROI-Driven Thinking|ROI-driven]] and [[Strategic Thinking|strategic]] style: build the system once, then let it compound.
 
 ## How to update it
 
@@ -59,10 +59,10 @@ Details are in [[How This Wiki Works]].
 
 It is operating data.
 
-## Connection to his system
+## Connection to my system
 
 Raw Context ties to [[Hendrixpedia]], [[How This Wiki Works]], [[For the Chatbot]], and every article in the wiki. It is the root of the whole graph.
 
 ## Related
 
-[[Hendrixpedia]] · [[How This Wiki Works]] · [[For the Chatbot]] · [[Hendrix]]
+[[Hendrixpedia]] · [[How This Wiki Works]] · [[For the Chatbot]] · Hendrix

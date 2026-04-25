@@ -8,7 +8,7 @@ tags: [agency, business-model, venture]
 
 # Digital Agency
 
-A digital agency is the form factor [[Hendrix]] chose for [[Duodode]]. It is a service business that delivers [[Branding]], [[AI Automation]], and [[Digital Product Work]] to clients. The interesting question is not what a digital agency is in general, but why he picked this form instead of going product-first.
+A digital agency is the form factor Hendrix chose for [[Duodode]]. It is a service business that delivers [[Branding]], [[AI Automation]], and [[Digital Product Work]] to clients. The interesting question is not what a digital agency is in general, but why I picked this form instead of going product-first.
 
 ## Why agency, not product
 
@@ -19,7 +19,7 @@ Products promise better long-term [[Leverage]], but they also require time, capi
 - Fast [[Feedback Loops]] on [[Taste]], execution, and market fit
 - A way to earn while building the skills and systems that eventually support larger bets
 
-He does not treat the agency as a consolation prize. He treats it as the right first move given his position.
+I do not treat the agency as a consolation prize. I treat it as the right first move given my position.
 
 ## The service model
 
@@ -38,11 +38,11 @@ An agency trades execution for money. The trap most agencies fall into is sellin
 - Without systems, it does not scale linearly with effort.
 - It can pull attention away from building owned assets.
 
-Hendrix is aware of all of these. They shape how Duodode is run. See [[Agency-vs-Product]].
+I am aware of all of these. They shape how Duodode is run. See [[Agency-vs-Product]].
 
-## Why this is the right fit for him now
+## Why this is the right fit for me now
 
-He is an [[Execution-First Mindset|execution-first]] person with strong [[Taste]] and working technical range. An agency rewards exactly that profile. It also lets him stay close to real businesses, which sharpens his [[Business Strategy|business instinct]] in ways that closed-door product work does not.
+I am an [[Execution-First Mindset|execution-first]] person with strong [[Taste]] and working technical range. An agency rewards exactly that profile. It also lets me stay close to real businesses, which sharpens my [[Business Strategy|business instinct]] in ways that closed-door product work does not.
 
 ## Related
 

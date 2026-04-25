@@ -8,13 +8,13 @@ tags: [marketing, ads, tools, growth]
 
 # Ads Manager
 
-Ads Manager is [[Hendrix]]'s tool for running paid marketing. He uses it for client campaigns through [[Duodode]] and any direct marketing operations he runs himself.
+Ads Manager is my tool for running paid marketing. I use it for client campaigns through [[Duodode]] and any direct marketing operations I run myself.
 
 ## What it is
 
 A platform for creating, managing, and analyzing paid advertising campaigns. The standard surface for running paid growth on major ad networks.
 
-## How Hendrix uses it
+## How I use it
 
 - Running and managing ad campaigns for [[Duodode]] clients
 - Testing creative built in [[Figma]] and [[DaVinci Resolve]]
@@ -22,11 +22,11 @@ A platform for creating, managing, and analyzing paid advertising campaigns. The
 - Connecting paid output to the agency's [[Branding]] and [[Digital Product Work]]
 - Feeding data back into strategy decisions
 
-## Why it fits his workflow
+## Why it fits my workflow
 
-Hendrix is [[ROI-Driven Thinking|ROI-driven]]. Paid advertising is one of the cleanest tests of whether creative and product actually convert. It forces honesty. That matches his preference for real [[Substance over Noise|substance over noise]].
+I am [[ROI-Driven Thinking|ROI-driven]]. Paid advertising is one of the cleanest tests of whether creative and product actually convert. It forces honesty. That matches my preference for real [[Substance over Noise|substance over noise]].
 
-## What it unlocks for him
+## What it unlocks for me
 
 - A service line under [[Duodode]] that is directly tied to client outcomes
 - Feedback loops between creative work and measurable results

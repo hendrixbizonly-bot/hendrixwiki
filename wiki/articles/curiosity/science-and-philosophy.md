@@ -8,13 +8,13 @@ tags: [science, philosophy, ideas, overlap]
 
 # Science and Philosophy
 
-The overlap between science and philosophy is one of [[Hendrix]]'s favorite intellectual zones. He does not treat them as separate shelves. Science gives him structure and evidence. Philosophy gives him framing and meaning. He wants both in the same conversation.
+The overlap between science and philosophy is one of my favorite intellectual zones. I do not treat them as separate shelves. Science gives me structure and evidence. Philosophy gives me framing and meaning. I want both in the same conversation.
 
-## Why the overlap matters to him
+## Why the overlap matters to me
 
 - Science without philosophy is technique without direction
 - Philosophy without science is speculation without traction
-- Together, they produce the kind of thinking that actually changes how he lives and builds
+- Together, they produce the kind of thinking that actually changes how I live and builds
 
 ## Where it shows up
 
@@ -28,9 +28,9 @@ The overlap between science and philosophy is one of [[Hendrix]]'s favorite inte
 
 [[Kurzgesagt]], [[StarTalk]], [[Cleo Abram]], [[Astrum]], [[Exurb1a]], [[Sisyphus 55]], [[Olisunvia]]. Different angles, same underlying commitment to real ideas.
 
-## How it feeds his work
+## How it feeds my work
 
-Working across both keeps his thinking layered. He can hold the practical mechanics of a [[Duodode|business]] or a [[Tech|technical]] decision while also keeping an eye on direction and meaning. It is the same instinct that pushes him toward [[Substance over Noise|substance over noise]].
+Working across both keeps my thinking layered. I can hold the practical mechanics of a [[Duodode|business]] or a [[Tech|technical]] decision while also keeping an eye on direction and meaning. It is the same instinct that pushes me toward [[Substance over Noise|substance over noise]].
 
 ## Related
 

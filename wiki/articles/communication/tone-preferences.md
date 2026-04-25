@@ -8,7 +8,7 @@ tags: [tone, communication, writing]
 
 # Tone Preferences
 
-Tone preferences are the adjectives Hendrix wants his communication to carry. Concise, clear, grounded, smart, respectful, natural, no-BS.
+Tone preferences are the adjectives I want my communication to carry. Concise, clear, grounded, smart, respectful, natural, no-BS.
 
 ## The seven words
 
@@ -36,7 +36,7 @@ Because each word balances another. Concise without respectful is curt. Smart wi
 
 - Client work through [[Duodode]]
 - His own writing and pitches
-- How he wants AI assistants to write with him
+- How I want AI assistants to write with me
 - The shape of this wiki
 
 ## How it connects

@@ -8,13 +8,13 @@ tags: [worldview, thinking, perspective]
 
 # Worldview
 
-Worldview is what [[Hendrix]] is actually trying to build when he reads. Not information, not facts, not takes. A worldview. A stable, tested, coherent way of seeing things that holds up when reality presses on it.
+Worldview is what I am actually trying to build when I read. Not information, not facts, not takes. A worldview. A stable, tested, coherent way of seeing things that holds up when reality presses on it.
 
-## What worldview means to him
+## What worldview means to me
 
-A worldview is the layer underneath opinions. It is what makes his [[Judgment]] consistent across domains. When he evaluates a business move, a design choice, a book, or a person, he is running it through a worldview, whether he names it or not.
+A worldview is the layer underneath opinions. It is what makes my [[Judgment]] consistent across domains. When I evaluate a business move, a design choice, a book, or a person, I am running it through a worldview, whether I names it or not.
 
-He wants that worldview to be sharp, honest, and earned.
+I want that worldview to be sharp, honest, and earned.
 
 ## How it is built
 
@@ -31,11 +31,11 @@ It is not built in a week. It is built across years.
 
 ## Why it matters for a builder
 
-A weak worldview leads to scattered decisions, trend-chasing, and identity drift. A strong worldview leads to focus, consistency, and [[Execution Over Talk|execution]] that is actually pointed somewhere. [[Duodode]] is built on top of his worldview, not detached from it.
+A weak worldview leads to scattered decisions, trend-chasing, and identity drift. A strong worldview leads to focus, consistency, and [[Execution Over Talk|execution]] that is actually pointed somewhere. [[Duodode]] is built on top of my worldview, not detached from it.
 
 ## How it connects to [[Perspective]] and [[Judgment]]
 
-A worldview gives him [[Perspective]]. Perspective produces [[Judgment]]. Judgment produces better decisions. The chain runs in that order.
+A worldview gives me [[Perspective]]. Perspective produces [[Judgment]]. Judgment produces better decisions. The chain runs in that order.
 
 ## What damages a worldview
 
@@ -45,9 +45,9 @@ A worldview gives him [[Perspective]]. Perspective produces [[Judgment]]. Judgme
 - Refusing to test beliefs against reality
 - Social consensus replacing thought
 
-Hendrix is suspicious of all of these.
+I am suspicious of all of these.
 
-## What a strong worldview lets him do
+## What a strong worldview lets me do
 
 - Cut through noise quickly
 - Say no faster

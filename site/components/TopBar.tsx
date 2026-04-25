@@ -4,14 +4,14 @@ export function TopBar() {
   return (
     <header className="topbar">
       <div className="topbar-inner">
+        <div className="topbar-spacer" aria-hidden="true" />
         <div className="topbar-meta">
-          a living archive built from <Link href="/raw">raw notes</Link> and arranged like a book
+          Hendrix&apos;s knowledge base (<Link href="/raw">unfiltered</Link> | <span className="topbar-version">v1</span>)
         </div>
 
         <nav className="topbar-links" aria-label="Site">
           <Link href="/">Home</Link>
-          <Link href="/a/meta/start-here">Start Here</Link>
-          <Link href="/a/meta/timeline">Timeline</Link>
+          <Link href="/a/meta/start-here">Wiki</Link>
         </nav>
       </div>
     </header>

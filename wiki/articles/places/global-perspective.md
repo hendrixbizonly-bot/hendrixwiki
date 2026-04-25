@@ -8,7 +8,7 @@ tags: [concept, perspective, cross-cultural]
 
 # Global Perspective
 
-Global perspective is a natural by-product of how Hendrix came up. [[Vietnam|Vietnamese]] origin, [[Dubai|UAE]] base, [[English|English]] fluency, heavy exposure to [[Series Influences|American and English-language series]], and regular contact with [[San Francisco|tech culture]] through media. The result is someone whose default frame is not one region.
+Global perspective is a natural by-product of how I came up. [[Vietnam|Vietnamese]] origin, [[Dubai|UAE]] base, [[English|English]] fluency, heavy exposure to [[Series Influences|American and English-language series]], and regular contact with [[San Francisco|tech culture]] through media. The result is someone whose default frame is not one region.
 
 ## What it means in practice
 
@@ -39,7 +39,7 @@ Global perspective is a natural by-product of how Hendrix came up. [[Vietnam|Vie
 
 It is the working frame of someone who has lived across contexts and paid attention.
 
-## Connection to his system
+## Connection to my system
 
 Global perspective ties to [[Dubai]], [[Vietnam]], [[San Francisco]], [[English]], [[Series Influences]], and [[Duodode]]. It is the wide-angle lens under the operating stack.
 

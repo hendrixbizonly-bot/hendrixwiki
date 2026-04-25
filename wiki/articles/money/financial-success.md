@@ -8,13 +8,13 @@ tags: [success, money, goal]
 
 # Financial Success
 
-Financial success is one of [[Hendrix]]'s core drives. He names it directly. He does not hide it behind softer language. He wants to become highly successful financially.
+Financial success is one of my core drives. He names it directly. I do not hide it behind softer language. I want to become highly successful financially.
 
-## How he frames it
+## How I frame it
 
-Financial success is not the whole point of his life. But it is a real goal, and pretending otherwise would be dishonest. He is a builder. Builders create value. Financial outcome is one of the clearest signals that real value was created.
+Financial success is not the whole point of my life. But it is a real goal, and pretending otherwise would be dishonest. I am a builder. Builders create value. Financial outcome is one of the clearest signals that real value was created.
 
-## Why he wants it
+## Why I want it
 
 - [[Freedom]] to operate without forced constraints
 - [[Scale]] to build bigger things
@@ -22,7 +22,7 @@ Financial success is not the whole point of his life. But it is a real goal, and
 - Proof that the work produces [[Real Outcomes]]
 - Capability to compound further
 
-It is ambition, not greed. The distinction matters to him.
+It is ambition, not greed. The distinction matters to me.
 
 ## What it is not
 
@@ -31,13 +31,13 @@ It is ambition, not greed. The distinction matters to him.
 - Out-competing peers for image
 - Money for its own sake
 
-If those were the point, he would be operating differently. He is not.
+If those were the point, I would be operating differently. I am not.
 
 ## The long arc
 
-[[Millionaire Goal]] is one waypoint, not the endpoint. He wants to eventually build something very large, a serious company at scale. The financial result is a function of the real output over years.
+[[Millionaire Goal]] is one waypoint, not the endpoint. I want to eventually build something very large, a serious company at scale. The financial result is a function of the real output over years.
 
-## How he plans to get there
+## How I plans to get there
 
 - [[Build and Ship]] as a default
 - [[Duodode]] as the current vehicle
@@ -51,7 +51,7 @@ Delayed gratification. Real [[Execution Over Talk|execution]]. Turning down [[Lo
 
 ## The philosophical angle
 
-Financial success is a form of [[Self-Overcoming]] applied to a full life. The mediocre version of himself would settle earlier, aim lower, or stop sooner. Going further is exactly the overcoming. [[Nietzsche]]'s frame of becoming strong and capable maps onto this directly.
+Financial success is a form of [[Self-Overcoming]] applied to a full life. The mediocre version of myself would settle earlier, aim lower, or stop sooner. Going further is exactly the overcoming. [[Nietzsche]]'s frame of becoming strong and capable maps onto this directly.
 
 ## The test
 

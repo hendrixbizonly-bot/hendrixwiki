@@ -8,26 +8,23 @@ tags: [reading, essays, long-form, writers]
 
 # Substack
 
-Substack is one of the main places [[Hendrix]] reads. It is where he finds sharp essays from independent thinkers, without the noise of a traditional feed. For a reader who prefers [[Long-form Writing|long-form]] and [[Thoughtful Creators]], it fits naturally.
+Substack is one of the main places I read because it gives independent writers enough room to actually say something. It feels closer to a direct relationship with a voice than to a normal feed, and that makes a difference.
 
-## What it is to him
+## What makes it useful
 
-- A source of serious [[Essays]]
-- A place where independent writers actually say things
-- A feed he can curate around ideas and writers he respects
-- A counterweight to shallow internet content
+For me, Substack is a strong home for [[Essays]], long-form thinking, and writers with a real point of view. I can keep a smaller, sharper reading environment there than I can on most social platforms, which matters because I am trying to protect attention, not just fill it.
 
-## How he uses it
+## How I use it
 
-He subscribes selectively. He is not trying to consume everything. He wants a small number of [[Thoughtful Creators]] whose writing sharpens his thinking, his language, and his perspective on business, philosophy, and tech.
+I subscribe selectively. I do not want volume for its own sake. I want a small number of [[Thoughtful Creators]] whose writing sharpens my thinking, my language, and my perspective on business, philosophy, design, and tech.
 
-## Why it fits him
+## Why it fits me
 
-Hendrix values [[Long-form Writing|depth]] and [[Directness]]. Substack is one of the few platforms where those two still live together. It rewards the writer who actually has something to say. That matches his taste across [[Books]], [[Video Essays]], and [[Philosophy]].
+I value [[Long-form Writing|depth]] and [[Directness]]. At its best, Substack holds both. It rewards writers who actually have something to say, which makes it fit naturally alongside [[Books]], [[Video Essays]], and the rest of my serious reading.
 
 ## Adjacent surfaces
 
-[[Medium]] and [[The New York Times]] sit in a similar zone for him. Substack leans more independent and opinionated. Each covers a different angle of the same habit: read seriously, read long, read writers with a real point of view.
+[[Medium]] and [[The New York Times]] sit in a similar zone for me. Substack leans more independent and opinionated. Each covers a different angle of the same habit: read seriously, read long, read writers with a real point of view.
 
 ## Related
 

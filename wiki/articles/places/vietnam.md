@@ -8,9 +8,9 @@ tags: [place, origin, country]
 
 # Vietnam
 
-Vietnam is where Hendrix grew up. It is his [[Origin|origin]] in the literal sense and one of the layers underneath the person building in [[Dubai]] today. A lot of his [[ROI-Driven Thinking|practical, results-oriented]] view of work was shaped there.
+Vietnam is where I grew up. It is my [[Origin|origin]] in the literal sense and one of the layers underneath the person building in [[Dubai]] today. A lot of my [[ROI-Driven Thinking|practical, results-oriented]] view of work was shaped there.
 
-## What it gave him
+## What it gave me
 
 - Exposure to [[Asian Business Culture|Asian business culture]], which is practical, effort-heavy, and outcome-oriented.
 - A baseline respect for [[Money|money]] and the real work it takes to build it.
@@ -19,20 +19,20 @@ Vietnam is where Hendrix grew up. It is his [[Origin|origin]] in the literal sen
 
 ## The shaping effect
 
-Hendrix did not absorb a fluffy, aesthetic view of business. He absorbed an operating view: effort produces outcomes, outcomes produce leverage, leverage produces freedom. That current runs through his [[No-BS|no-BS]] temperament and his [[Execution-First Mindset|execution-first mindset]] today.
+I did not absorb a fluffy, aesthetic view of business. I absorbed an operating view: effort produces outcomes, outcomes produce leverage, leverage produces freedom. That current runs through my [[No-BS|no-BS]] temperament and my [[Execution-First Mindset|execution-first mindset]] today.
 
 ## Vietnam as a continuing thread
 
-Even as his base is now [[Dubai]], Vietnam is not the past. It is one of the continuing layers of [[Identity]] and [[Home]]. He does not distance himself from it. It shows up in how he works, how he values work, and how he carries himself.
+Even as my base is now [[Dubai]], Vietnam is not the past. It is one of the continuing layers of [[Identity]] and [[Home]]. I do not distance myself from it. It shows up in how I work, how I value work, and how I carry myself.
 
 ## What this article is not
 
-Not a travel article. Not a neutral country entry. This is about what Vietnam is for Hendrix.
+Not a travel article. Not a neutral country entry. This is about what Vietnam is for me.
 
-## Connection to his system
+## Connection to my system
 
-Vietnam ties to [[Origin]], [[Hendrix Huynh]], [[Asian Business Culture]], [[Home]], [[Identity]], [[ROI-Driven Thinking]], and [[Money]]. It is the source layer under the current operating layer in [[Dubai]].
+Vietnam ties to [[Origin]], Hendrix Huynh, [[Asian Business Culture]], [[Home]], [[Identity]], [[ROI-Driven Thinking]], and [[Money]]. It is the source layer under the current operating layer in [[Dubai]].
 
 ## Related
 
-[[Origin]] · [[Hendrix Huynh]] · [[Asian Business Culture]] · [[Home]] · [[Identity]] · [[Dubai]]
+[[Origin]] · Hendrix Huynh · [[Asian Business Culture]] · [[Home]] · [[Identity]] · [[Dubai]]

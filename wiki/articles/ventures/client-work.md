@@ -8,13 +8,13 @@ tags: [clients, service, business]
 
 # Client Work
 
-Client work is how [[Duodode]] operates day to day. Every engagement is a client project until the business evolves into something else. For [[Hendrix]], client work is both the engine of the business and a discipline that sharpens his thinking.
+Client work is how [[Duodode]] operates day to day. Every engagement is a client project until the business evolves into something else. For me, client work is both the engine of the business and a discipline that sharpens my thinking.
 
-## How he relates to it
+## How I relates to it
 
-Client work is not a compromise. It is a compounding asset when done with the right clients on the right terms. He treats it as:
+Client work is not a compromise. It is a compounding asset when done with the right clients on the right terms. I treat it as:
 
-- Paid [[Feedback Loops]] on his own [[Taste]] and [[Competence]]
+- Paid [[Feedback Loops]] on my own [[Taste]] and [[Competence]]
 - Direct exposure to real businesses and real markets
 - A training ground for [[Business Strategy]] and [[Agency Building]]
 - Cash flow that funds larger ambitions, see [[Millionaire Goal]] and [[Agency-vs-Product]]
@@ -26,7 +26,7 @@ Client work is not a compromise. It is a compounding asset when done with the ri
 - A scope that lets the team ship with [[Execution Over Talk|execution]] intact
 - [[ROI]] that is visible to the client and to Duodode
 
-## What he avoids
+## What I avoid
 
 - Clients who pay for [[Fluff]]
 - Endless rounds driven by indecision
@@ -35,7 +35,7 @@ Client work is not a compromise. It is a compounding asset when done with the ri
 
 ## The tension
 
-Client work can turn into a ceiling if every hour worked is a dollar earned. Hendrix is aware of this. The answer is [[Systems]], [[Productized Services]], and careful [[Scaling an Agency|scaling]], not more volume at the same model.
+Client work can turn into a ceiling if every hour worked is a dollar earned. I am aware of this. The answer is [[Systems]], [[Productized Services]], and careful [[Scaling an Agency|scaling]], not more volume at the same model.
 
 ## Related
 

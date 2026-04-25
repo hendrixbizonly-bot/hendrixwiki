@@ -8,11 +8,11 @@ tags: [building, shipping, principle, core]
 
 # Build and Ship
 
-Build and ship is [[Hendrix]]'s core building philosophy. It is not a slogan. It is how he actually tries to operate. Build the thing. Ship the thing. Learn from what happens. Do it again.
+Build and ship is my core building philosophy. It is not a slogan. It is how I actually tries to operate. Build the thing. Ship the thing. Learn from what happens. Do it again.
 
 ## The basic shape
 
-The principle rests on a few beliefs that he takes seriously:
+The principle rests on a few beliefs that I takes seriously:
 
 - Progress beats waiting for perfect conditions
 - [[Clarity]] comes through doing, not before it
@@ -21,13 +21,13 @@ The principle rests on a few beliefs that he takes seriously:
 - Shipping creates [[Feedback Loops|feedback]], and feedback creates improvement
 - Waiting too long usually turns into disguised avoidance
 
-Put together, these give him a default behavior: move.
+Put together, these give me a default behavior: move.
 
 ## Why this and not something else
 
-A lot of people build in theory. They plan, they wait, they polish internally. Hendrix distrusts that mode because it produces no [[Real Output]]. The world does not reward the best-planned idea. It rewards the one that actually exists.
+A lot of people build in theory. They plan, they wait, they polish internally. I distrust that mode because it produces no [[Real Output]]. The world does not reward the best-planned idea. It rewards the one that actually exists.
 
-He also knows himself. He is [[Introspection|introspective]] by default. Without build and ship as a counterweight, [[Overthinking]] would eat his time. The principle is partly a discipline against his own tendencies.
+I also knows myself. I am [[Introspection|introspective]] by default. Without build and ship as a counterweight, [[Overthinking]] would eat my time. The principle is partly a discipline against my own tendencies.
 
 ## What "build" means
 
@@ -52,13 +52,13 @@ He also knows himself. He is [[Introspection|introspective]] by default. Without
 
 [[Duodode]] is the direct application of this. An agency is not a pitch deck. It is shipped work. Every project is another round of build and ship, and the agency compounds from that rhythm.
 
-## How it connects to his philosophy
+## How it connects to my philosophy
 
 Build and ship is the practical side of [[Self-Overcoming]]. You cannot overcome yourself in theory. You have to act. The principle gives philosophy somewhere to land.
 
 ## The test
 
-Did he ship something real this week? This month? This quarter? If yes, the system is working. If not, he has drifted into planning mode and needs to move.
+Did he ship something real this week? This month? This quarter? If yes, the system is working. If not, I have drifted into planning mode and needs to move.
 
 ## Related
 

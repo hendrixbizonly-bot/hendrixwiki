@@ -8,9 +8,9 @@ tags: [compounding, long-term, strategy]
 
 # Compounding
 
-Compounding is one of the ideas sitting under most of [[Hendrix]]'s long-term thinking. It is the reason he chooses certain kinds of work and avoids others. He picks the ones that pay back more than once.
+Compounding is one of the ideas sitting under most of my long-term thinking. It is the reason I choose certain kinds of work and avoids others. He picks the ones that pay back more than once.
 
-## What compounds for him
+## What compounds for me
 
 - Shipped work (reputation, portfolio, [[Client Work]])
 - [[Systems]] that outlive the effort of building them
@@ -26,14 +26,14 @@ Compounding is one of the ideas sitting under most of [[Hendrix]]'s long-term th
 - Motion that does not feed into a larger system
 - [[Fluff]] that produces no signal
 
-## Why he cares
+## Why I care
 
-Compounding is the quiet engine behind [[Leverage]], [[Scale]], and [[Wealth Building]]. Ignore it and progress feels like running in place. Respect it and time starts to work in his favor.
+Compounding is the quiet engine behind [[Leverage]], [[Scale]], and [[Wealth Building]]. Ignore it and progress feels like running in place. Respect it and time starts to work in my favor.
 
 ## The discipline
 
-Compounding only shows up if the inputs are consistent. That is why he treats [[Execution Over Talk|execution]], [[Self-Development]], and [[Running]] as ongoing practices, not campaigns.
+Compounding only shows up if the inputs are consistent. That is why I treat [[Execution Over Talk|execution]], [[Self-Development]], and [[Running]] as ongoing practices, not campaigns.
 
 ## Related
 
-[[Hendrix]] · [[Leverage]] · [[Systems]] · [[Growth]] · [[Long-term Upside]] · [[Wealth Building]]
+Hendrix · [[Leverage]] · [[Systems]] · [[Growth]] · [[Long-term Upside]] · [[Wealth Building]]

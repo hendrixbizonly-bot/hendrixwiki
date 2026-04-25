@@ -11,6 +11,7 @@ export default function GraphPage() {
     id: article.slug,
     title: article.title,
     section: article.section,
+    href: `/a/${article.slug.split('/').map(encodeURIComponent).join('/')}`,
   }));
 
   const seen = new Set<string>();
@@ -33,7 +34,7 @@ export default function GraphPage() {
     <section>
       <header className="page-header secondary">
         <h1 className="page-title small">Map</h1>
-        <p className="page-subtitle">Every node is a chapter. The colors show reader-facing sections, and the links reveal how the world holds together.</p>
+        <p className="page-subtitle">Every node is a chapter. Hover a node to trace its links in blue, drag any node to reposition it, use the zoom controls or trackpad scroll to move in and out, double-click a pinned node to release it, and click a node to open the full wiki page.</p>
       </header>
       <Graph nodes={nodes} links={links} />
     </section>

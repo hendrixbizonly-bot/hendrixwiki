@@ -8,7 +8,7 @@ tags: [communication, preferences, writing]
 
 # Communication Preferences
 
-Hendrix has a specific way he wants to be communicated with and a specific way he writes. This article is the index to that.
+I have a specific way I want to be communicated with and a specific way I write. This article is the index to that.
 
 ## The core preferences
 
@@ -26,15 +26,15 @@ Hendrix has a specific way he wants to be communicated with and a specific way h
 
 Say what you mean in the fewest honest words. That is the whole thing. Everything else is a consequence of that rule.
 
-## Why it matters to him
+## Why it matters to me
 
-Hendrix is [[No-BS]] and [[ROI-Driven Thinking|ROI-driven]]. His time and attention have a cost. Bloated writing wastes both. Clear writing is a sign of clear thinking, and clear thinking is what he cares about.
+I am [[No-BS]] and [[ROI-Driven Thinking|ROI-driven]]. My time and attention have a cost. Bloated writing wastes both. Clear writing is a sign of clear thinking, and clear thinking is what I care about.
 
 It also matters for [[Duodode]]. Client work, copy, pitches: all of it has to carry the same communication standard. Slop writing undermines [[Taste]] and [[Visual Rigor]].
 
 ## English goals
 
-He is already fluent. He wants to become more eloquent, more natural, more articulate. He wants sharper phrasing and more precise self-expression. He wants correction, not praise. See [[English Goals]].
+I am already fluent. I want to become more eloquent, more natural, more articulate. I want sharper phrasing and more precise self-expression. I want correction, not praise. See [[English Goals]].
 
 ## How it connects
 

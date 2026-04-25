@@ -9,8 +9,38 @@ Append-only record of ingests, regenerations, and structural changes.
 - Built graph view
 - Created `index.md` master catalog
 
+## 2026-04-22 — Voice migration to first person
+- Rewrote article copy from third-person Hendrix narration into first-person writing
+- Updated `/wiki/SCHEMA.md` and `/README.md` so future article generations stay in first person
+- Updated the site copy and master index generator to match the new voice
+
+## 2026-04-22 — Added screenshot-derived themes
+- Expanded `/Raw/context.md` with new recurring themes from saved screenshots and quotes
+- Added new articles for Camus, solitude, reading as self-reconstruction, and manufactured dissatisfaction
+
+## 2026-04-22 — Reframed the archive as a nonfiction-style book
+- Reorganized the site around reader-facing sections such as Identity, People, Ventures & Projects, Media, Life, Timeline, and Curiosity
+- Added orientation chapters for Start Here, Map of the Wiki, Timeline, and Formative Experiences
+- Rewrote spine articles to move the archive closer to a literary, sectioned nonfiction voice
+
+## 2026-04-22 — Added screenshot-derived chapters from the latest image set
+- Expanded `/Raw/context.md` with new themes around moral resistance, human continuity, water-like adaptability, Mars/resistance imagery, and a recent 10K PR during an 11.11 km morning run in Dubai
+- Added new chapters for Morning Runs, Hedgehog's Dilemma, Moral Resistance, Human Repetition, Why to Live, and Red Rising
+- Rewrote `/wiki/articles/habits/running.md` so the new running details fit the larger voice of the archive
+
+## 2026-04-25 — Folded the new raw essays into the archive
+- Expanded `/Raw/context.md` with stronger builder and direction/freedom detail so the source of truth matches the newer raw notes
+- Rewrote key chapters across identity, reading, philosophy, curiosity, frictions, and running to absorb the new essay material and smooth out older generated phrasing
+- Removed the article provenance note from the site so chapter pages open more naturally
+
+## 2026-04-26 — Rebuilt the identity section around the builder voice
+- Expanded `/Raw/context.md` with builder-origin, label-fit, learning-pattern, and trade-off notes so the source material better explains the identity spine
+- Rewrote the existing `/wiki/articles/core` essays in a longer first-person builder voice instead of short concept-note summaries
+- Added six new core essays: `what-lasts`, `close-to-the-work`, `range`, `learning-across-surfaces`, `responsibility-for-outcomes`, and `the-cost-of-range`
+- Updated the identity priority order in `/site/lib/constants.ts` and `/site/build_index.py` so the new builder arc leads the section
+
 ## Format for future entries
-```
+```text
 ## YYYY-MM-DD — Short description
 - what changed in Raw
 - what articles were added/updated/deprecated

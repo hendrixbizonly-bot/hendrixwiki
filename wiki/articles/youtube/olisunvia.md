@@ -8,24 +8,24 @@ tags: [youtube, philosophy, video-essay, thought]
 
 # Olisunvia
 
-Olisunvia is one of the video essay and thought-focused channels [[Hendrix]] watches. It sits in the cluster of creators feeding his taste for [[Philosophy]], reflection, and [[Long-form Thinking]].
+Olisunvia is one of the video essay and thought-focused channels I watch. It sits in the cluster of creators feeding my taste for [[Philosophy]], reflection, and [[Long-form Thinking]].
 
-## Why Hendrix watches
+## Why I watch
 
-He prefers long-form over short-form. He prefers depth over trend. Olisunvia fits that preference: it gives him ideas and perspective rather than noise.
+He prefers long-form over short-form. He prefers depth over trend. Olisunvia fits that preference: it gives me ideas and perspective rather than noise.
 
-## What it gives him
+## What it gives me
 
 - Reflective, idea-focused content
 - A slower register than tech or career channels
-- Input that supports his [[Introspection|introspective]] tendency
-- More raw material for how he thinks about life and [[Identity]]
+- Input that supports my [[Introspection|introspective]] tendency
+- More raw material for how I think about life and [[Identity]]
 
-## Fit in his essay cluster
+## Fit in my essay cluster
 
-Alongside [[Exurb1a]], [[Exurb2a]], and [[Sisyphus 55]], Olisunvia is part of how he keeps his thinking sharpened outside of pure business and tech input. Philosophy and reflection matter to him because they keep purpose clear.
+Alongside [[Exurb1a]], [[Exurb2a]], and [[Sisyphus 55]], Olisunvia is part of how I keep my thinking sharpened outside of pure business and tech input. Philosophy and reflection matter to me because they keep purpose clear.
 
-## Connection to his system
+## Connection to my system
 
 He takes [[Philosophy]] seriously, not as decoration. Channels like Olisunvia are part of how that seriousness stays nourished. See [[YouTube as Learning Platform]].
 

@@ -8,9 +8,9 @@ tags: [creators, taste, depth, perspective]
 
 # Thoughtful Creators
 
-Thoughtful creators are the kind of writers, makers, and thinkers [[Hendrix]] seeks out. He is not impressed by reach. He is impressed by point of view. He builds his feeds, reading list, and [[YouTube]] subscriptions around people who actually think before they publish.
+Thoughtful creators are the kind of writers, makers, and thinkers Hendrix seeks out. I am not impressed by reach. I am impressed by point of view. He builds my feeds, reading list, and [[YouTube]] subscriptions around people who actually think before they publish.
 
-## What defines one, in his view
+## What defines one, in my view
 
 - Real perspective, not performed opinion
 - [[Long-form Writing|Long-form]] comfort and patience with ideas
@@ -18,7 +18,7 @@ Thoughtful creators are the kind of writers, makers, and thinkers [[Hendrix]] se
 - Willingness to be specific and direct
 - Work that survives a second reading or a second viewing
 
-## Where he finds them
+## Where I find them
 
 - [[YouTube]] channels in the [[Video Essays]] orbit: [[Exurb1a]], [[Sisyphus 55]], [[Olisunvia]], [[Kurzgesagt]], [[Cleo Abram]], [[Joma Tech]], [[The Futur]], [[Good Work]]
 - Writers on [[Substack]] and [[Medium]]
@@ -27,11 +27,11 @@ Thoughtful creators are the kind of writers, makers, and thinkers [[Hendrix]] se
 
 ## Why the filter matters
 
-Hendrix optimizes his inputs because he knows inputs shape outputs. A diet of thoughtful creators sharpens his language, his thinking, and his taste. A diet of noise would do the opposite. The filter is the same one he applies to work: [[Substance over Noise|substance over noise]].
+Hendrix optimizes my inputs because I know inputs shape outputs. A diet of thoughtful creators sharpens my language, my thinking, and my taste. A diet of noise would do the opposite. The filter is the same one he applies to work: [[Substance over Noise|substance over noise]].
 
-## How it feeds his building
+## How it feeds my building
 
-The standards he admires in thoughtful creators are the standards he wants inside [[Duodode]]: [[Intentional Design|intentional]], coherent, and honest. Consuming serious work is part of how he keeps his own bar high.
+The standards he admires in thoughtful creators are the standards I want inside [[Duodode]]: [[Intentional Design|intentional]], coherent, and honest. Consuming serious work is part of how I keep my own bar high.
 
 ## Related
 

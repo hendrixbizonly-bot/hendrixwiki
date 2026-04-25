@@ -8,17 +8,17 @@ tags: [compounding, wealth, long-term]
 
 # Compounding Wealth
 
-Compounding wealth is the mechanism [[Hendrix]] relies on for the financial arc of his life. He is not trying to get rich quickly. He is trying to compound seriously over a long time.
+Compounding wealth is the mechanism I rely on for the financial arc of my life. I am not trying to get rich quickly. I am trying to compound seriously over a long time.
 
 ## The core idea
 
 Small gains, reinvested over years, become outsized gains. Skill compounds. Income compounds. Reputation compounds. Capital compounds. The builder who stays in the game the longest with the best decisions wins by a very large margin.
 
-## Why he trusts it
+## Why I trust it
 
 Because it is mathematically honest. It is not theory. It is what actually happens when capable people keep building over decades. Hype cycles come and go. Compounding keeps running.
 
-Also because it matches how he already thinks. He is [[Introspection|introspective]], [[Long-term Upside|long-term oriented]], and [[ROI-Driven Thinking|ROI-driven]]. Compounding rewards exactly those traits.
+Also because it matches how I already thinks. I am [[Introspection|introspective]], [[Long-term Upside|long-term oriented]], and [[ROI-Driven Thinking|ROI-driven]]. Compounding rewards exactly those traits.
 
 ## What compounds
 
@@ -39,7 +39,7 @@ All of these compound, and they compound into each other.
 - Letting [[Overthinking]] and [[Perfectionism]] kill [[Momentum]]
 - Losing seriousness about [[Money]]
 
-Hendrix takes all of these seriously because each one resets the compounding curve.
+I take all of these seriously because each one resets the compounding curve.
 
 ## How Duodode fits
 
@@ -55,7 +55,7 @@ Hendrix takes all of these seriously because each one resets the compounding cur
 
 ## The philosophical angle
 
-This is [[Self-Overcoming]] as a financial and professional pattern. Each year's version of him is slightly stronger than the last. That is compounding, applied to a life.
+This is [[Self-Overcoming]] as a financial and professional pattern. Each year's version of me is slightly stronger than the last. That is compounding, applied to a life.
 
 ## The test
 

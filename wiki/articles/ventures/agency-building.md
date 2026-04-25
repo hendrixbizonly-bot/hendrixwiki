@@ -8,7 +8,7 @@ tags: [agency, meta-skill, building]
 
 # Agency Building
 
-Agency building is the meta-skill behind [[Duodode]]. It is not the work of designing or coding; it is the work of designing the company that does the designing and coding. For [[Hendrix]], it is one of the primary things he is learning right now.
+Agency building is the meta-skill behind [[Duodode]]. It is not the work of designing or coding; it is the work of designing the company that does the designing and coding. For me, it is one of the primary things I am learning right now.
 
 ## What it covers
 
@@ -20,7 +20,7 @@ Agency building is the meta-skill behind [[Duodode]]. It is not the work of desi
 - [[Systems]] for operations and quality
 - Financial discipline, margin, and reinvestment
 
-## Why it matters to him
+## Why it matters to me
 
 Running an agency is different from doing the craft. [[Execution-First Mindset|Execution]] on craft alone produces a freelancer. Agency building is what turns execution into a business. It is the lever that takes Duodode from a capable studio to something with real [[Scale]] and [[Leverage]].
 
@@ -34,7 +34,7 @@ Running an agency is different from doing the craft. [[Execution-First Mindset|E
 
 ## Connection to the larger arc
 
-Agency building is the current chapter, not the final one. It is how Hendrix builds the capability and capital to eventually own larger things. See [[Agency-vs-Product]] and [[Millionaire Goal]].
+Agency building is the current chapter, not the final one. It is how I build the capability and capital to eventually own larger things. See [[Agency-vs-Product]] and [[Millionaire Goal]].
 
 ## Related
 

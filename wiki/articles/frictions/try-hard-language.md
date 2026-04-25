@@ -20,11 +20,11 @@ Try-hard language is writing that is visibly reaching. It strains for effect ins
 
 The easy tell: if the sentence feels louder than the idea inside it, it is trying too hard.
 
-## Why it frustrates him
+## Why it frustrates me
 
 Because it signals insecurity in the writer. Strong ideas do not need to shout. A sentence that respects its own content tends to sit quietly and do its job. Try-hard writing disrupts that because it is busy performing.
 
-Hendrix prefers [[Natural Language]] and [[Concise Writing]]. Try-hard language breaks both.
+I prefer [[Natural Language]] and [[Concise Writing]]. Try-hard language breaks both.
 
 ## What replaces it
 

@@ -8,27 +8,27 @@ tags: [wealth, money, long-term]
 
 # Wealth Building
 
-Wealth building is one of [[Hendrix]]'s serious long-term orientations. He respects [[Money]], not as a flex, but as a tool for freedom, capability, and [[Scale]]. Wealth building is the practical side of that view.
+Wealth building is one of my serious long-term orientations. I respect [[Money]], not as a flex, but as a tool for freedom, capability, and [[Scale]]. Wealth building is the practical side of that view.
 
-## How he thinks about it
+## How I think about it
 
-Wealth, for him, is tied to:
+Wealth, for me, is tied to:
 
 - [[Ownership]] over dependency
 - [[Leverage]] over linear labor
 - [[Systems]] that compound
 - Real outcomes, not status signals
 
-He prefers practical wealth-building over performative ambition. See [[Money]].
+I prefer practical wealth-building over performative ambition. See [[Money]].
 
-## The mechanics he believes in
+## The mechanics I believe in
 
 - Building a serious business, currently [[Duodode]]
 - Reinvesting into [[Scale]] and capability
 - Using [[AI Automation]] and [[Systems]] to compress cost and raise margin
 - Treating time, attention, and decisions as compounding assets
 
-## What he avoids
+## What I avoid
 
 - Get-rich-quick aesthetics
 - Short-term plays that trade reputation for cash
@@ -40,4 +40,4 @@ Wealth building ladders into the [[Millionaire Goal]], and from there into the l
 
 ## Related
 
-[[Hendrix]] · [[Money]] · [[Millionaire Goal]] · [[Ownership]] · [[Leverage]] · [[Compounding]]
+Hendrix · [[Money]] · [[Millionaire Goal]] · [[Ownership]] · [[Leverage]] · [[Compounding]]

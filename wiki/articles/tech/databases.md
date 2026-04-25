@@ -8,11 +8,11 @@ tags: [database, backend, data, tools]
 
 # Databases
 
-Databases are the persistence layer under [[Hendrix]]'s product work. [[Duodode]] builds real apps, not static sites, which means data has to live somewhere reliable.
+Databases are the persistence layer under my product work. [[Duodode]] builds real apps, not static sites, which means data has to live somewhere reliable.
 
-## How he works with them
+## How I work with them
 
-Primarily through [[Supabase]], which gives him Postgres with auth, storage, and APIs around it. That keeps his stack consistent from front-end to data layer without running his own infrastructure.
+Primarily through [[Supabase]], which gives me Postgres with auth, storage, and APIs around it. That keeps my stack consistent from front-end to data layer without running my own infrastructure.
 
 ## Where they show up
 
@@ -21,11 +21,11 @@ Primarily through [[Supabase]], which gives him Postgres with auth, storage, and
 - Automations in [[n8n]] that read and write shared state
 - Integrations tested through [[Postman]] and [[API Testing]]
 
-## Why this fits his approach
+## Why this fits my approach
 
-Hendrix wants tools that reduce setup and increase leverage. Managed databases like [[Supabase]] let him ship serious apps without building backend from scratch. That matches his preference for [[Build and Ship|fast shipping]] and [[Leverage|leverage]].
+I want tools that reduce setup and increase leverage. Managed databases like [[Supabase]] let me ship serious apps without building backend from scratch. That matches my preference for [[Build and Ship|fast shipping]] and [[Leverage|leverage]].
 
-## How it connects to his system
+## How it connects to my system
 
 Data is where most real products earn their weight. Strong database habits are part of building work with [[Substance over Noise|substance over noise]] and products that keep working past the launch.
 

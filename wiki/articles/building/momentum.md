@@ -8,7 +8,7 @@ tags: [momentum, building, principle]
 
 # Momentum
 
-Momentum matters to [[Hendrix]]. He treats it as a real, measurable force in how building works. Motion creates more motion. Standing still creates more standing still. The earlier he gets moving, the more compound benefit he captures.
+Momentum matters to me. I treat it as a real, measurable force in how building works. Motion creates more motion. Standing still creates more standing still. The earlier he gets moving, the more compound benefit he captures.
 
 ## Why it matters
 
@@ -16,7 +16,7 @@ Every project has a starting cost. The first actions are the hardest. Once thing
 
 Conversely, lost momentum is expensive. Restarting always costs more than continuing.
 
-## How he builds it
+## How I build it
 
 - [[Starting Before Ready]] to get into motion early
 - Small, shipped wins that stack
@@ -39,7 +39,7 @@ Conversely, lost momentum is expensive. Restarting always costs more than contin
 - [[Fluff]] meetings that produce no output
 - Waiting for ideal conditions
 
-He recognizes these and cuts them when he can.
+He recognizes these and cuts them when I can.
 
 ## The compounding effect
 

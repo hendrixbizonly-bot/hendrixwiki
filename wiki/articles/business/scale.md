@@ -8,9 +8,9 @@ tags: [scale, strategy, business]
 
 # Scale
 
-Scale is one of the directions [[Hendrix]] consistently wants to move toward. He is not interested in small wins that plateau. He is interested in building something that grows beyond the limits of one person's time.
+Scale is one of the directions I consistently want to move toward. I am not interested in small wins that plateau. I am interested in building something that grows beyond the limits of one person's time.
 
-## What scale means to him
+## What scale means to me
 
 - A business that grows without the founder being the bottleneck
 - Output that compounds rather than resets
@@ -19,7 +19,7 @@ Scale is one of the directions [[Hendrix]] consistently wants to move toward. He
 
 See [[Long-term Goals]] and [[Millionaire Goal]].
 
-## How he thinks about getting there
+## How I think about getting there
 
 - Through [[Systems]] rather than heroics
 - Through [[Leverage]] rather than volume
@@ -32,7 +32,7 @@ See [[Long-term Goals]] and [[Millionaire Goal]].
 - A bigger team with thinner margins is not scale, it is inflation.
 - A louder brand with the same underlying work is not scale, it is marketing.
 
-He filters for real compounding, not the appearance of it.
+I filter for real compounding, not the appearance of it.
 
 ## Where scale fits
 
@@ -40,4 +40,4 @@ Scale sits alongside [[Leverage]], [[Ownership]], and [[Growth]] as one of the c
 
 ## Related
 
-[[Hendrix]] · [[Leverage]] · [[Systems]] · [[Scaling an Agency]] · [[Ambition]] · [[Growth]] · [[Compounding]]
+Hendrix · [[Leverage]] · [[Systems]] · [[Scaling an Agency]] · [[Ambition]] · [[Growth]] · [[Compounding]]

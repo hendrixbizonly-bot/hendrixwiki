@@ -8,13 +8,13 @@ tags: [curiosity, habit, learning]
 
 # Curiosity As Habit
 
-Curiosity, for Hendrix, is not a mood. It is a discipline. A daily posture of asking more, reading more, and testing more.
+Curiosity, for me, is not a mood. It is a discipline. A daily posture of asking more, reading more, and testing more.
 
 ## The frame
 
-A curious person by accident learns occasionally. A curious person by practice learns continuously. Hendrix is trying to be the second kind.
+A curious person by accident learns occasionally. A curious person by practice learns continuously. I am trying to be the second kind.
 
-He treats curiosity like running or Duolingo. Something that works only if you keep showing up for it.
+I treat curiosity like running or Duolingo. Something that works only if you keep showing up for it.
 
 ## What fuels it
 
@@ -25,9 +25,9 @@ He treats curiosity like running or Duolingo. Something that works only if you k
 
 ## Where it points
 
-His curiosities cluster around [[Space]], [[Astronomy]], [[Science Fiction]], [[Philosophy]], [[Tech]], [[Design]], and [[Business Strategy]]. The cluster is wide on purpose. Crossing fields is where the most useful ideas come from.
+My curiosities cluster around [[Space]], [[Astronomy]], [[Science Fiction]], [[Philosophy]], [[Tech]], [[Design]], and [[Business Strategy]]. The cluster is wide on purpose. Crossing fields is where the most useful ideas come from.
 
-## Why it matters to him
+## Why it matters to me
 
 Because a builder needs range. Narrow expertise plus wide curiosity is a strong combination. Narrow expertise alone goes stale. Wide curiosity alone lacks traction. Together they produce something real.
 
@@ -39,7 +39,7 @@ Curiosity without execution turns into consumption. Watching, reading, and colle
 
 ## How it connects
 
-Curiosity as habit is a close relative of [[Reading Habit]] and sits inside [[Daily Practice]]. It is what keeps his [[Intellectual Preferences|intellectual life]] live instead of static.
+Curiosity as habit is a close relative of [[Reading Habit]] and sits inside [[Daily Practice]]. It is what keeps my [[Intellectual Preferences|intellectual life]] live instead of static.
 
 ## Related
 

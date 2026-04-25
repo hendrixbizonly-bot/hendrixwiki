@@ -8,30 +8,30 @@ tags: [ideas, thinking, execution]
 
 # Ideas
 
-Ideas only matter to [[Hendrix]] when they are tested in reality. He likes ideas. He reads seriously, thinks deeply, and cares about [[Philosophy]]. But he does not confuse having ideas with doing something.
+Ideas only matter to me when they are tested in reality. I like ideas. I read seriously, thinks deeply, and cares about [[Philosophy]]. But I do not confuse having ideas with doing something.
 
 ## The basic frame
 
 An idea by itself is potential. An idea that has been [[Shipping|shipped]], tested, and refined is value. He separates the two sharply.
 
-This is why his building principles include lines like "ideas only matter when they are tested in reality" and why he trusts [[Feedback Loops]] more than theory alone.
+This is why my building principles include lines like "ideas only matter when they are tested in reality" and why I trust [[Feedback Loops]] more than theory alone.
 
-## What he looks for in ideas
+## What I look for in ideas
 
 - Sharpness
 - Usefulness
 - Depth that holds up under pressure
 - A connection to how a person actually lives or builds
 
-He does not collect ideas for aesthetic pleasure. He collects them for use.
+I do not collect ideas for aesthetic pleasure. He collects them for use.
 
 ## How ideas earn their place
 
-Through [[Iteration]] and [[Real Output]]. An idea that survives contact with reality, after he has tried to apply it, becomes part of his [[Worldview]]. An idea that does not survive gets dropped, even if it was clever.
+Through [[Iteration]] and [[Real Output]]. An idea that survives contact with reality, after I have tried to apply it, becomes part of my [[Worldview]]. An idea that does not survive gets dropped, even if it was clever.
 
 ## The trap he avoids
 
-Treating idea-generation as the work. For many people, thinking about things becomes a substitute for doing them. Hendrix knows this trap and names it. [[Overthinking]] is where good ideas go to die.
+Treating idea-generation as the work. For many people, thinking about things becomes a substitute for doing them. I know this trap and names it. [[Overthinking]] is where good ideas go to die.
 
 ## Ideas and building
 
@@ -45,7 +45,7 @@ Treating idea-generation as the work. For many people, thinking about things bec
 - Direct experience from shipping
 - [[AI Tools]] as sparring partners
 
-## What ideas give him when tested
+## What ideas give me when tested
 
 - Sharper [[Judgment]]
 - Stronger [[Mental Edge]]

@@ -8,7 +8,7 @@ tags: [strategy, tension, business-model]
 
 # Agency vs Product
 
-Agency vs product is the strategic tension sitting underneath [[Duodode]]. Both models are legitimate. Both compound in different ways. For [[Hendrix]], the question is not which is objectively better. The question is which one fits where he is right now and how the two relate over time.
+Agency vs product is the strategic tension sitting underneath [[Duodode]]. Both models are legitimate. Both compound in different ways. For me, the question is not which is objectively better. The question is which one fits where I am right now and how the two relate over time.
 
 ## The two models
 
@@ -17,13 +17,13 @@ Agency vs product is the strategic tension sitting underneath [[Duodode]]. Both 
 
 ## Why agency first
 
-[[Duodode]] is an agency because it fits his current position: strong craft, real [[Taste]], working technical range, and no interest in burning years without feedback. An agency earns while he builds, exposes him to real businesses, and sharpens [[Business Strategy]].
+[[Duodode]] is an agency because it fits my current position: strong craft, real [[Taste]], working technical range, and no interest in burning years without feedback. An agency earns while I build, exposes me to real businesses, and sharpens [[Business Strategy]].
 
 See [[Digital Agency]].
 
 ## Why product eventually
 
-The long arc is larger than service revenue. Hendrix wants [[Ownership]], [[Scale]], and real [[Leverage]]. Products are often where those compound fastest. See [[Millionaire Goal]] and [[Long-term Goals]].
+The long arc is larger than service revenue. I want [[Ownership]], [[Scale]], and real [[Leverage]]. Products are often where those compound fastest. See [[Millionaire Goal]] and [[Long-term Goals]].
 
 ## How the two can connect
 

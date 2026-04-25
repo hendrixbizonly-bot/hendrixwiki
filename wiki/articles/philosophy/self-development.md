@@ -8,27 +8,27 @@ tags: [growth, self-development, long-term]
 
 # Self-Development
 
-Self-development is a long-running project for [[Hendrix]]. Not a phase, not a trend he is trying, not something with a finish line. It is the default background process of his life.
+Self-development is a long-running project for me. Not a phase, not a trend I am trying, not something with a finish line. It is the default background process of my life.
 
-## How he thinks about it
+## How I think about it
 
-Self-development for him is the continuous work of becoming stronger, sharper, and more capable. It covers the intellectual side (reading, thinking, [[Philosophy]]), the physical side ([[Running]]), the language side ([[English]] and [[Spanish]] via [[Duolingo Streak]]), and the building side ([[Build and Ship]]).
+Self-development for me is the continuous work of becoming stronger, sharper, and more capable. It covers the intellectual side (reading, thinking, [[Philosophy]]), the physical side ([[Running]]), the language side ([[English]] and [[Spanish]] via [[Duolingo Streak]]), and the building side ([[Build and Ship]]).
 
 All of it is connected. Getting better at one surface helps the others.
 
 ## Why it is framed as a project
 
-He treats it as a project because projects compound. Daily reading becomes a [[Worldview]] over years. A [[Duolingo Streak]] becomes a second language. Small [[Iteration|iterations]] in building become real [[Competence]]. He respects [[Long-term Upside]] and applies that same logic to himself.
+I treat it as a project because projects compound. Daily reading becomes a [[Worldview]] over years. A [[Duolingo Streak]] becomes a second language. Small [[Iteration|iterations]] in building become real [[Competence]]. I respect [[Long-term Upside]] and applies that same logic to myself.
 
 ## What it is not
 
-It is not self-help. It is not affirmations. It is not journaling for the sake of journaling. He does not need [[Fake Motivational Tone]] or soft advice. He needs real growth. That distinction matters.
+It is not self-help. It is not affirmations. It is not journaling for the sake of journaling. I do not need [[Fake Motivational Tone]] or soft advice. He needs real growth. That distinction matters.
 
-He also does not treat self-development as a separate box from work. Building [[Duodode]] is part of his development. Shipping something hard teaches him things reading cannot.
+I also does not treat self-development as a separate box from work. Building [[Duodode]] is part of my development. Shipping something hard teaches me things reading cannot.
 
 ## The philosophical backbone
 
-[[Self-Overcoming]] from [[Nietzsche]] sits underneath this. Self-development without self-overcoming is comfort in disguise. What he wants is the push past the easier version of himself, again and again.
+[[Self-Overcoming]] from [[Nietzsche]] sits underneath this. Self-development without self-overcoming is comfort in disguise. What I want is the push past the easier version of myself, again and again.
 
 ## Pillars of the project
 
@@ -41,7 +41,7 @@ He also does not treat self-development as a separate box from work. Building [[
 
 ## The test
 
-The test of self-development for Hendrix is simple. Is he becoming someone more capable, sharper, and more real over time? If yes, the project is working. If he is just consuming content and not changing, it is not.
+The test of self-development for me is simple. Is he becoming someone more capable, sharper, and more real over time? If yes, the project is working. If I am just consuming content and not changing, it is not.
 
 ## Related
 

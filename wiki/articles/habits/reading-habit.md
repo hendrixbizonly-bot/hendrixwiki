@@ -8,9 +8,9 @@ tags: [reading, habit, books]
 
 # Reading Habit
 
-Reading is part of how Hendrix keeps his thinking sharp. He prefers depth over trendiness and long-form over short-form.
+Reading is part of how I keep my thinking sharp. I prefer depth over trendiness and long-form over short-form.
 
-## What he reads
+## What I read
 
 - [[Books]], especially [[Philosophy]] and [[Science Fiction]]
 - [[Essays]] and long-form pieces
@@ -18,22 +18,22 @@ Reading is part of how Hendrix keeps his thinking sharp. He prefers depth over t
 - [[Medium]] for varied essays
 - [[The New York Times]] for general reporting and commentary
 
-He has a stated interest in writers and ideas that expand imagination, sharpen judgment, and reward attention.
+I have a stated interest in writers and ideas that expand imagination, sharpen judgment, and reward attention.
 
-## Why he reads
+## Why I read
 
-Not for information alone. He reads for worldview, language, and mental edge. A good book or essay leaves him with a sharper way to think about something, not just a new fact.
+Not for information alone. I read for worldview, language, and mental edge. A good book or essay leaves me with a sharper way to think about something, not just a new fact.
 
-This is why [[Nietzsche]] matters to him. Philosophy that changes how he sees is more valuable than news that updates what he sees.
+This is why [[Nietzsche]] matters to me. Philosophy that changes how I see is more valuable than news that updates what I see.
 
-## How it feeds his work
+## How it feeds my work
 
 - Better language feeds [[Concise Writing]] and [[Natural Language]]
 - Better frames feed [[Business Strategy]] and [[Design Philosophy]]
 - Better references feed [[Taste]]
 - Better questions feed [[Introspection]]
 
-Reading is leverage on the mind, and he treats it with the same [[ROI-Driven Thinking|ROI lens]] as everything else.
+Reading is leverage on the mind, and I treat it with the same [[ROI-Driven Thinking|ROI lens]] as everything else.
 
 ## Against shallow content
 

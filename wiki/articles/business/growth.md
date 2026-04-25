@@ -8,7 +8,7 @@ tags: [growth, personal, business]
 
 # Growth
 
-Growth is one of [[Hendrix]]'s core orientations. He is serious about it on both sides: personal growth and business growth. For him, the two feed each other.
+Growth is one of my core orientations. I am serious about it on both sides: personal growth and business growth. For me, the two feed each other.
 
 ## Personal growth
 
@@ -29,7 +29,7 @@ Growth here is a practice, not an event.
 
 ## Why both matter together
 
-Business growth without personal growth produces a brittle operator. Personal growth without business growth produces a well-read underachiever. Hendrix wants neither. He wants [[Compounding]] on both axes at once.
+Business growth without personal growth produces a brittle operator. Personal growth without business growth produces a well-read underachiever. I want neither. I want [[Compounding]] on both axes at once.
 
 ## The filter
 
@@ -37,10 +37,10 @@ Not all growth counts. He filters for growth that is:
 
 - Grounded in reality
 - Tied to [[ROI]]
-- Connected to his [[Core Drives]]
+- Connected to my [[Core Drives]]
 
 Growth for its own sake is closer to motion than progress.
 
 ## Related
 
-[[Hendrix]] · [[Self-Development]] · [[Scale]] · [[Compounding]] · [[Ambition]] · [[Competence]]
+Hendrix · [[Self-Development]] · [[Scale]] · [[Compounding]] · [[Ambition]] · [[Competence]]

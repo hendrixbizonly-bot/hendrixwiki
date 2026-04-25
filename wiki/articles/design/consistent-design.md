@@ -8,9 +8,9 @@ tags: [design, consistency, systems]
 
 # Consistent Design
 
-Consistent design is the third principle in Hendrix's [[Design Philosophy]]. It means every surface looks and feels like it came from the same mind.
+Consistent design is the third principle in my [[Design Philosophy]]. It means every surface looks and feels like it came from the same mind.
 
-## What consistency means to him
+## What consistency means to me
 
 Consistency is not sameness. It is coherence. The landing page, the dashboard, the invoice, the email, the pitch deck should all feel like one system. Different surfaces, same standards.
 
@@ -23,13 +23,13 @@ When a brand feels inconsistent, the message fractures. The viewer has to do ext
 - A clever one-off that breaks the system for a single moment
 - Vendors who do not share the design language
 
-Hendrix sees these as leaks. They look small and compound into a brand that feels scattered.
+I see these as leaks. They look small and compound into a brand that feels scattered.
 
-## Why it matters to him
+## Why it matters to me
 
 [[Duodode]] sells systems, not decorations. Consistency is how the agency proves it is doing systems work. A client whose surfaces cohere looks more serious, converts better, and trusts the next deliverable.
 
-It also mirrors how Hendrix thinks about identity. A [[No-BS|no-BS]] brand cannot afford a visual identity that contradicts itself.
+It also mirrors how I think about identity. A [[No-BS|no-BS]] brand cannot afford a visual identity that contradicts itself.
 
 ## How it connects
 

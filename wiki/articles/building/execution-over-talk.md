@@ -8,7 +8,7 @@ tags: [execution, principle, building]
 
 # Execution Over Talk
 
-Execution over talk is a default for [[Hendrix]]. He would rather work on the thing than discuss it. Talking about building, without building, is one of his least favorite patterns.
+Execution over talk is a default for me. I would rather work on the thing than discuss it. Talking about building, without building, is one of my least favorite patterns.
 
 ## What it means
 
@@ -18,11 +18,11 @@ Execution over talk is a default for [[Hendrix]]. He would rather work on the th
 - Meetings should exist to unblock work, not replace it
 - [[Performative Business Talk]] is a red flag
 
-## Why it matters to him
+## Why it matters to me
 
-Hendrix is [[ROI-Driven Thinking|ROI-driven]]. Talk without execution has a bad ratio. Hours disappear and nothing has changed. Execution, even imperfect, moves the state of the world forward.
+I am [[ROI-Driven Thinking|ROI-driven]]. Talk without execution has a bad ratio. Hours disappear and nothing has changed. Execution, even imperfect, moves the state of the world forward.
 
-He is also [[No-BS]]. Talk-heavy culture often slides into [[Fluff]] and fake depth. He wants the opposite: grounded, direct work.
+I am also [[No-BS]]. Talk-heavy culture often slides into [[Fluff]] and fake depth. I want the opposite: grounded, direct work.
 
 ## How it shows up
 
@@ -33,7 +33,7 @@ He is also [[No-BS]]. Talk-heavy culture often slides into [[Fluff]] and fake de
 
 ## The nuance
 
-Execution over talk does not mean no thinking. Hendrix values [[Long-form Thinking]], [[Philosophy]], and [[Introspection]]. The issue is when talk stops producing output. Thinking that feeds work is valuable. Talk that replaces work is not.
+Execution over talk does not mean no thinking. I value [[Long-form Thinking]], [[Philosophy]], and [[Introspection]]. The issue is when talk stops producing output. Thinking that feeds work is valuable. Talk that replaces work is not.
 
 ## Why people drift into talk
 

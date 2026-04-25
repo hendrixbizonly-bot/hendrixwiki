@@ -8,17 +8,17 @@ tags: [goal, money, ambition]
 
 # Millionaire Goal
 
-The millionaire goal is one of [[Hendrix]]'s concrete near-term ambitions. It is not a fantasy. It is a specific financial target that anchors a larger arc.
+The millionaire goal is one of my concrete near-term ambitions. It is not a fantasy. It is a specific financial target that anchors a larger arc.
 
 ## What it means
 
-Becoming a millionaire, for him, is a real and practical goal on the way to larger outcomes. It is a milestone that confirms the system is working: the business, the [[Systems]], the [[Leverage]], the [[Taste]], the [[Execution Over Talk|execution]].
+Becoming a millionaire, for me, is a real and practical goal on the way to larger outcomes. It is a milestone that confirms the system is working: the business, the [[Systems]], the [[Leverage]], the [[Taste]], the [[Execution Over Talk|execution]].
 
 See [[Long-term Goals]].
 
-## Why he treats it as serious
+## Why I treat it as serious
 
-He respects [[Money]] as a proxy for:
+I respect [[Money]] as a proxy for:
 
 - [[Freedom]]
 - Capability
@@ -43,4 +43,4 @@ It is a checkpoint that proves the machine works, and then the machine keeps goi
 
 ## Related
 
-[[Hendrix]] · [[Ambition]] · [[Wealth Building]] · [[Money]] · [[Duodode]] · [[Long-term Goals]]
+Hendrix · [[Ambition]] · [[Wealth Building]] · [[Money]] · [[Duodode]] · [[Long-term Goals]]

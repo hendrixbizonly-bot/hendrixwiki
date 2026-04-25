@@ -23,6 +23,7 @@ export function KebabMenu() {
       </button>
       <div className={`menu ${open ? 'show' : ''}`}>
         <Link href="/graph" onClick={() => setOpen(false)}>Graph view</Link>
+        <Link href="/talk" onClick={() => setOpen(false)}>Talk to AI Hendrix</Link>
         <Link href="/random" onClick={() => setOpen(false)}>Random article</Link>
         <Link href="/search" onClick={() => setOpen(false)}>Search</Link>
         <Link href="/raw" onClick={() => setOpen(false)}>View Raw context</Link>

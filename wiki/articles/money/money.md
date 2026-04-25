@@ -8,13 +8,13 @@ tags: [money, wealth, core]
 
 # Money
 
-[[Hendrix]] has a serious relationship with money. He respects it. He does not treat it as a dirty word or as a vanity signal. He treats it as what it actually is: a measure of freedom, scale, capability, and real-world proof.
+I have a serious relationship with money. I respect it. I do not treat it as a dirty word or as a vanity signal. I treat it as what it actually is: a measure of freedom, scale, capability, and real-world proof.
 
-## How he sees it
+## How I see it
 
-Money is not the point of his life. But it is tightly connected to the things that are:
+Money is not the point of my life. But it is tightly connected to the things that are:
 
-- [[Freedom]] to choose his direction
+- [[Freedom]] to choose my direction
 - [[Scale]] to build something real
 - [[Capability]] to act on ideas without being blocked
 - Evidence that the work is actually producing value
@@ -31,7 +31,7 @@ Respecting money means taking it seriously as an input and an output of building
 
 The balance is grounded. Respect, not worship.
 
-## Why he rejects the two common mistakes
+## Why I reject the two common mistakes
 
 First mistake: dismissing money. Common in creative and intellectual circles. He rejects it because money dismissed is usually money not earned. Pretending indifference to money often hides failure to create real value.
 
@@ -39,11 +39,11 @@ Second mistake: worshipping money. Common in hustle culture. He rejects this too
 
 ## Connection to Duodode
 
-[[Duodode]] is a business. It needs to make real money to matter. Hendrix treats revenue as one of the honest signals that the work is creating [[Business Value]]. No revenue means either the work is wrong or the positioning is wrong. That is useful information, not shame.
+[[Duodode]] is a business. It needs to make real money to matter. I treat revenue as one of the honest signals that the work is creating [[Business Value]]. No revenue means either the work is wrong or the positioning is wrong. That is useful information, not shame.
 
 ## The long arc
 
-He thinks in terms of [[Long-term Upside]] and [[Compounding Wealth]]. One good year matters. Ten good years stacked on top of each other matter more. Patience is part of his money view.
+I think in terms of [[Long-term Upside]] and [[Compounding Wealth]]. One good year matters. Ten good years stacked on top of each other matter more. Patience is part of my money view.
 
 ## What money does not replace
 

@@ -8,19 +8,19 @@ tags: [wealth, money, ambition]
 
 # Wealth
 
-Wealth, for [[Hendrix]], is not a number on a screen. It is a function. It is what allows him to live with less friction, build with more leverage, and operate with a longer time horizon.
+Wealth, for me, is not a number on a screen. It is a function. It is what allows me to live with less friction, build with more leverage, and operate with a longer time horizon.
 
-## How he defines it
+## How I defines it
 
 Wealth is the accumulated capacity to make decisions without being forced. A person with wealth can choose their work, their pace, their risks, and their environment. A person without it is reacting to constraints.
 
-That is the real point: control over his own life.
+That is the real point: control over my own life.
 
 ## The distinction from money
 
-[[Money]] is the unit. Wealth is the state. You can have high income and low wealth if everything gets spent or consumed. You can have modest income and real wealth if the foundation compounds. Hendrix prefers the second.
+[[Money]] is the unit. Wealth is the state. You can have high income and low wealth if everything gets spent or consumed. You can have modest income and real wealth if the foundation compounds. I prefer the second.
 
-## How he thinks about building it
+## How I think about building it
 
 - Through [[Duodode]] and the businesses that follow it
 - Through [[Compounding Wealth]] over years, not months
@@ -35,15 +35,15 @@ That is the real point: control over his own life.
 - Luxury as identity
 - Performance of success without real assets behind it
 
-He has no interest in that version. It is [[Fluff]] dressed up as outcome.
+I have no interest in that version. It is [[Fluff]] dressed up as outcome.
 
-## Why it matters to him
+## Why it matters to me
 
 Wealth is instrumental. It enables [[Freedom]], [[Scale]], and [[Real Outcomes]]. It is also a direct signal that the work is creating real value, because the market is willing to pay for it. That second piece is honest feedback.
 
 ## The ambition
 
-He wants serious wealth. [[Millionaire Goal]] and then well beyond. Not for status. To build something with real weight, to live without financial friction, to compound opportunity across decades.
+I want serious wealth. [[Millionaire Goal]] and then well beyond. Not for status. To build something with real weight, to live without financial friction, to compound opportunity across decades.
 
 ## The philosophy behind it
 

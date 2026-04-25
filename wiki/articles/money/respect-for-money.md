@@ -8,7 +8,7 @@ tags: [respect, money, attitude]
 
 # Respect for Money
 
-[[Hendrix]] respects money. He does not worship it. He does not dismiss it. He sits in the middle ground that most people fail to reach.
+I respect money. I do not worship it. I do not dismiss it. He sits in the middle ground that most people fail to reach.
 
 ## What respect looks like
 
@@ -17,7 +17,7 @@ tags: [respect, money, attitude]
 - Not treating it as the only thing that matters
 - Tracking it honestly
 - Charging real prices for real work
-- Not performing wealth he does not have
+- Not performing wealth I do not have
 - Not apologizing for wanting it
 
 This is a grounded, adult attitude. It does not need drama in either direction.
@@ -28,7 +28,7 @@ Worship distorts thinking. Dismissal blocks outcomes. Respect keeps money in its
 
 A respectful frame also makes money honest. When money is respected, the person earning it does not lie about it, exaggerate it, or hide behind [[Fluff]] about why it does not count.
 
-## How it shows up in his life
+## How it shows up in my life
 
 - [[Duodode]] priced to reflect real [[Business Value]]
 - Decisions weighed by [[ROI]] and [[Long-term Upside]]
@@ -38,7 +38,7 @@ A respectful frame also makes money honest. When money is respected, the person 
 
 ## The cultural piece
 
-Some of this comes from having been exposed to [[Asian Business Culture]] growing up in [[Vietnam]]. A practical, results-oriented view of work and money is part of that background. It shaped how he sees ambition, effort, and outcome.
+Some of this comes from having been exposed to [[Asian Business Culture]] growing up in [[Vietnam]]. A practical, results-oriented view of work and money is part of that background. It shaped how I see ambition, effort, and outcome.
 
 ## What respect is not
 

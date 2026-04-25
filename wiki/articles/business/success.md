@@ -8,9 +8,9 @@ tags: [success, values, definition]
 
 # Success
 
-Success is a word [[Hendrix]] uses carefully. For him it is not a vibe or a social signal. It has a specific shape.
+Success is a word I use carefully. For me it is not a vibe or a social signal. It has a specific shape.
 
-## How he defines it
+## How I defines it
 
 Success is the combination of:
 
@@ -30,7 +30,7 @@ See [[Core Drives]].
 - Not a title
 - Not borrowed from someone else's definition
 
-He is specifically allergic to [[Performative Business Talk]] and success framed as lifestyle branding.
+I am specifically allergic to [[Performative Business Talk]] and success framed as lifestyle branding.
 
 ## Why it matters
 
@@ -38,8 +38,8 @@ He cares about success because mediocrity is the default outcome of an unintenti
 
 ## How it connects
 
-Success sits at the intersection of [[Ambition]], [[Money]], [[Ownership]], and his [[Inner Orientation]]. It is the target his [[ROI-Driven Thinking]] aims at.
+Success sits at the intersection of [[Ambition]], [[Money]], [[Ownership]], and my [[Inner Orientation]]. It is the target my [[ROI-Driven Thinking]] aims at.
 
 ## Related
 
-[[Hendrix]] · [[Ambition]] · [[Money]] · [[Mediocrity]] · [[Ownership]] · [[Millionaire Goal]]
+Hendrix · [[Ambition]] · [[Money]] · [[Mediocrity]] · [[Ownership]] · [[Millionaire Goal]]

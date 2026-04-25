@@ -8,7 +8,7 @@ tags: [productization, scaling, services, business-model]
 
 # Productized Services
 
-Productized services is the bridge between an [[Digital Agency|agency]] and a product. It means taking repeatable client work, packaging it into a defined offer with a fixed scope and price, and delivering it through [[Systems]] instead of custom-fitting every engagement. For [[Hendrix]], it is one of the most obvious levers for scaling [[Duodode]] without trading sleep for revenue.
+Productized services is the bridge between an [[Digital Agency|agency]] and a product. It means taking repeatable client work, packaging it into a defined offer with a fixed scope and price, and delivering it through [[Systems]] instead of custom-fitting every engagement. For me, it is one of the most obvious levers for scaling [[Duodode]] without trading sleep for revenue.
 
 ## Why it fits Duodode
 
@@ -27,7 +27,7 @@ Nothing here is decided. These are the kinds of shapes the offer could take. See
 
 ## The ROI lens
 
-Hendrix evaluates productization through [[ROI]] and [[Leverage]]. A productized service earns its place when it compresses delivery time, raises margin, or unlocks a new client tier, without sacrificing the quality that defines [[Duodode]].
+I evaluate productization through [[ROI]] and [[Leverage]]. A productized service earns its place when it compresses delivery time, raises margin, or unlocks a new client tier, without sacrificing the quality that defines [[Duodode]].
 
 ## The risk
 

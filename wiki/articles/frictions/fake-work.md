@@ -8,7 +8,7 @@ tags: [fake-work, friction, dislike]
 
 # Fake Work
 
-Fake work is any activity that looks like progress but does not produce anything real. Hendrix finds it actively draining.
+Fake work is any activity that looks like progress but does not produce anything real. I find it actively draining.
 
 ## What fake work looks like
 
@@ -21,15 +21,15 @@ Fake work is any activity that looks like progress but does not produce anything
 
 It often looks busy. That is the trick. Output volume is not the same as outcome volume.
 
-## The test he uses
+## The test I use
 
 Would anyone notice if this activity stopped? If the honest answer is no, it is fake work.
 
 The second test: is there a shipped artifact at the end? If not, the activity is either reflection (fine) or theatre (not fine).
 
-## Why it frustrates him
+## Why it frustrates me
 
-Because he is [[Execution-First Mindset|execution-first]] and [[ROI-Driven Thinking|ROI-driven]]. Fake work wastes the two things he values most: time and momentum. It also corrodes morale. People know when they are doing fake work. Doing it for long makes them weaker, not stronger.
+Because I am [[Execution-First Mindset|execution-first]] and [[ROI-Driven Thinking|ROI-driven]]. Fake work wastes the two things I value most: time and momentum. It also corrodes morale. People know when they are doing fake work. Doing it for long makes them weaker, not stronger.
 
 ## Where it creeps in
 
@@ -38,7 +38,7 @@ Because he is [[Execution-First Mindset|execution-first]] and [[ROI-Driven Think
 - Design communities optimizing for craft portfolios
 - Teams that confuse activity with progress
 
-He is careful to keep [[Duodode]] on the other side of this line. The agency sells outcomes, not motion.
+I am careful to keep [[Duodode]] on the other side of this line. The agency sells outcomes, not motion.
 
 ## How it connects
 

@@ -8,7 +8,7 @@ tags: [design, philosophy, principles, flagship]
 
 # Design Philosophy
 
-Hendrix's design philosophy rests on three principles: [[Intentional Design|intentional]], [[Timeless Design|timeless]], and [[Consistent Design|consistent]]. It is not a mood board or a visual style. It is a filter for decisions. Every pixel, every word, every interaction is judged against those three words before it is allowed to stay.
+my design philosophy rests on three principles: [[Intentional Design|intentional]], [[Timeless Design|timeless]], and [[Consistent Design|consistent]]. It is not a mood board or a visual style. It is a filter for decisions. Every pixel, every word, every interaction is judged against those three words before it is allowed to stay.
 
 ## The three principles
 
@@ -18,9 +18,9 @@ Hendrix's design philosophy rests on three principles: [[Intentional Design|inte
 
 ## Where it comes from
 
-It comes from how Hendrix thinks about work in general. He is [[ROI-Driven Thinking|ROI-driven]], [[Execution Over Talk|execution-first]], and [[No-BS|allergic to fluff]]. He does not respect [[Fake Work|work for work's sake]]. Design, in his view, has to earn its place by creating [[Business Value|real outcomes]]. The three principles are the cheapest way to keep design honest.
+It comes from how I think about work in general. I am [[ROI-Driven Thinking|ROI-driven]], [[Execution Over Talk|execution-first]], and [[No-BS|allergic to fluff]]. I do not respect [[Fake Work|work for work's sake]]. Design, in my view, has to earn its place by creating [[Business Value|real outcomes]]. The three principles are the cheapest way to keep design honest.
 
-He also sees design as only one leverage point inside a bigger system. Look at [[Design As Leverage]] and [[Designer vs Builder]] for that side of it.
+I also sees design as only one leverage point inside a bigger system. Look at [[Design As Leverage]] and [[Designer vs Builder]] for that side of it.
 
 ## How it shows up in Duodode
 
@@ -34,11 +34,11 @@ He also sees design as only one leverage point inside a bigger system. Look at [
 - [[Performative Business Talk|Aesthetic noise]] with nothing underneath
 - [[Fluff]] in visual form
 
-## How it connects to the rest of his system
+## How it connects to the rest of my system
 
-The philosophy mirrors the [[Build and Ship|build and ship]] mindset: ship things that are real, not things that are pretty. It mirrors his [[Money View]]: design should compound, not decorate. It mirrors his [[Taste]]: sharp, grounded, serious. It mirrors his [[Communication Preferences|communication style]]: [[Directness|direct]], [[Concise Writing|concise]], no theatre.
+The philosophy mirrors the [[Build and Ship|build and ship]] mindset: ship things that are real, not things that are pretty. It mirrors my [[Money View]]: design should compound, not decorate. It mirrors my [[Taste]]: sharp, grounded, serious. It mirrors my [[Communication Preferences|communication style]]: [[Directness|direct]], [[Concise Writing|concise]], no theatre.
 
-Design is not separate from his life. It is a way of thinking about everything.
+Design is not separate from my life. It is a way of thinking about everything.
 
 ## Why three principles and not ten
 

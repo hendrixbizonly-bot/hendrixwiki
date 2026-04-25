@@ -28,15 +28,15 @@ Working from Dubai is the practical side of being based in [[Dubai]]. The tactic
 
 ## The friction of it
 
-Dubai is not friction-free. Costs are real. Pace is real. Noise from the [[Performative Business Talk|performative side]] of local business culture is real. Hendrix filters through this with [[No-BS|no-BS]] and [[ROI-Driven Thinking|ROI-driven]] defaults.
+Dubai is not friction-free. Costs are real. Pace is real. Noise from the [[Performative Business Talk|performative side]] of local business culture is real. I filter through this with [[No-BS|no-BS]] and [[ROI-Driven Thinking|ROI-driven]] defaults.
 
-## Why it fits him
+## Why it fits me
 
-A base that rewards [[Ambition|ambition]], [[Seriousness|seriousness]], and [[Execution-First Mindset|execution]], and that places him within reach of a [[Global Perspective|global surface]], matches how he wants to work. It is not neutral location. It is chosen location.
+A base that rewards [[Ambition|ambition]], [[Seriousness|seriousness]], and [[Execution-First Mindset|execution]], and that places me within reach of a [[Global Perspective|global surface]], matches how I want to work. It is not neutral location. It is chosen location.
 
-## Connection to his system
+## Connection to my system
 
-Working from Dubai ties to [[Dubai]], [[UAE]], [[Base Location]], [[Duodode]], [[Global Perspective]], and his broader [[Execution-First Mindset|execution-first]] working style.
+Working from Dubai ties to [[Dubai]], [[UAE]], [[Base Location]], [[Duodode]], [[Global Perspective]], and my broader [[Execution-First Mindset|execution-first]] working style.
 
 ## Related
 

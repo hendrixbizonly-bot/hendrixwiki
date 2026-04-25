@@ -8,39 +8,24 @@ tags: [fluff, friction, dislike]
 
 # Fluff
 
-Fluff is one of Hendrix's main frictions. It is the soft tissue that accumulates in writing, meetings, pitches, and products when nobody has the discipline to cut it.
+I dislike fluff because it steals seriousness from the room. It fills space while pretending to add value, and the longer it stays unchallenged, the more a whole system begins to mistake surface for substance.
 
-## What fluff is
+## What I mean by it
 
-Fluff is content that takes up space without doing work. A paragraph that could be one sentence. A slide that restates the previous slide. A feature that nobody asked for. A tagline that sounds nice and says nothing.
+Fluff is anything that takes up attention without doing real work. It can appear in writing, products, meetings, branding, business language, or strategy decks. Sometimes it looks harmless. Sometimes it even looks polished. That is part of why it survives.
 
-Fluff is not always obvious. Some of it looks professional. That is why it survives so long in agencies, decks, and product roadmaps.
+What makes it frustrating is not just that it is empty. It is that it often disguises emptiness as professionalism.
 
-## How he detects it
+## Why it bothers me so much
 
-- Remove it and check if anything is lost
-- If the answer is no, it was fluff
-- If the answer is "a little", it was probably still fluff
+Part of it is practical. Fluff wastes time, energy, and attention, which means it wastes [[ROI-Driven Thinking|ROI]]. But part of it is also aesthetic and moral. Once a person or a company starts tolerating too much fluff, standards soften. The next weak sentence stays. The next unnecessary feature stays. The next meeting without consequence stays. Before long, the whole culture starts drifting.
 
-He applies the same test to his own work. Especially to his own work.
+## How I try to resist it
 
-## Why it frustrates him
+My resistance usually takes the same form across different surfaces. Cut the sentence down. Remove the feature that does not matter. End the meeting earlier. Ask what changes if this element disappears. If the answer is almost nothing, it probably should not be there.
 
-Because it wastes [[ROI-Driven Thinking|ROI]]. Fluff costs time to produce, time to consume, and time to maintain. None of that cost creates an outcome. It is pure loss dressed up in adjectives.
-
-It also degrades [[Taste]]. Once fluff is tolerated in a system, the standard slides. The next piece of fluff has an easier time getting through.
-
-## How he avoids it
-
-- [[Concise Writing|Concise writing]] by default
-- [[Intentional Design|Intentional design]] that has to justify every element
-- Short meetings with clear outcomes
-- [[Execution Over Talk|Execution-biased]] working rhythms
-
-## How it connects
-
-Fluff is the opposite of [[Substance over Noise]]. It overlaps with [[Fake Work]], [[Performative Business Talk]], and [[Low-Value Activity]]. Cutting fluff is the cheapest upgrade to almost any output.
+That filter connects directly to [[Concise Writing]], [[Intentional Design]], and [[Execution Over Talk]]. They are all, in different ways, attempts to keep the work honest.
 
 ## Related
 
-[[Fake Work]] · [[Performative Business Talk]] · [[Low-Value Activity]] · [[No-BS]] · [[Substance over Noise]]
+[[Fake Work]] · [[Performative Business Talk]] · [[Low-Value Activity]] · [[No-BS]] · [[Substance Over Noise]]

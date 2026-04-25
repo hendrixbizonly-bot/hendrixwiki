@@ -8,7 +8,7 @@ tags: [place, base, city]
 
 # Dubai
 
-Dubai is Hendrix's base. It is where he lives, builds [[Duodode]], and operates from. For him, Dubai is not a backdrop. It is a deliberate coordinate: the arena he chose to build inside.
+Dubai is my base. It is where I live, build [[Duodode]], and operate from. For me, Dubai is not a backdrop. It is a deliberate coordinate: the arena I chose to build inside.
 
 ## Why Dubai
 
@@ -24,21 +24,21 @@ It sits at a useful intersection: fast-moving business culture, global reach, ta
 
 ## Dubai as arena
 
-It is also a place that rewards [[Seriousness|seriousness]] and punishes [[Fluff|fluff]] over time. Lots of noise, lots of [[Performative Business Talk|performance]], and underneath that, real operators doing real work. Hendrix aims to belong in the second group.
+It is also a place that rewards [[Seriousness|seriousness]] and punishes [[Fluff|fluff]] over time. Lots of noise, lots of [[Performative Business Talk|performance]], and underneath that, real operators doing real work. I aim to belong in the second group.
 
 ## The move from Vietnam
 
-Hendrix came from [[Vietnam]]. Dubai is not a rejection of [[Origin|origin]]. It is an extension of what that [[Asian Business Culture|practical, outcome-driven]] mindset can reach when placed in a bigger arena. [[Home|Home]] in the full sense still contains both.
+I came from [[Vietnam]]. Dubai is not a rejection of [[Origin|origin]]. It is an extension of what that [[Asian Business Culture|practical, outcome-driven]] mindset can reach when placed in a bigger arena. [[Home|Home]] in the full sense still contains both.
 
 ## What Dubai is not
 
-- An aesthetic he is performing.
-- A status location he moved to for show.
+- An aesthetic I am performing.
+- A status location I moved to for show.
 - A short phase.
 
 It is a working [[Base Location|base]], chosen for operational reasons.
 
-## Connection to his system
+## Connection to my system
 
 Dubai ties to [[UAE]], [[Base Location]], [[Working from Dubai]], [[Global Perspective]], [[Duodode]], and [[Ambition]]. It is the physical layer of the larger [[Becoming|becoming]] project.
 

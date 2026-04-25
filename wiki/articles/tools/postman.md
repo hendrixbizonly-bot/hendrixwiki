@@ -8,13 +8,13 @@ tags: [api, testing, tools, backend]
 
 # Postman
 
-Postman is [[Hendrix]]'s tool for API testing. He uses it to test endpoints, verify integrations, and debug anything touching HTTP across his stack.
+Postman is my tool for API testing. I use it to test endpoints, verify integrations, and debug anything touching HTTP across my stack.
 
 ## What it is
 
 An API client for sending requests, inspecting responses, and organizing collections of endpoints.
 
-## How Hendrix uses it
+## How I use it
 
 - Testing [[Supabase]] endpoints and webhooks
 - Verifying third-party API integrations used in [[n8n]] flows
@@ -22,11 +22,11 @@ An API client for sending requests, inspecting responses, and organizing collect
 - Maintaining collections for repeatable test cases
 - Exploring new APIs before wiring them into code
 
-## Why it fits his workflow
+## Why it fits my workflow
 
-A real builder needs to see what the API is actually returning, not what the code assumes. Postman gives him that visibility. It keeps debugging grounded in reality, which matches his preference for evidence over assumptions.
+A real builder needs to see what the API am actually returning, not what the code assumes. Postman gives me that visibility. It keeps debugging grounded in reality, which matches my preference for evidence over assumptions.
 
-## What it unlocks for him
+## What it unlocks for me
 
 - Faster debugging cycles
 - Confidence in integrations before shipping

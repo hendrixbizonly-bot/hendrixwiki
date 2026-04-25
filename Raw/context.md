@@ -26,7 +26,7 @@ language_learning:
 - sees language learning as part of self-development, consistency, and long-term growth
 
 ## short introduction
-Hendrix is a Dubai-based, highly introspective.ROI-driven builder with a strong bias toward entrepreneurship, tech, design, and execution. He is building Duodode, a digital agency that blends branding, AI automation, and digital product work. He values philosophy, respects money, prefers substance over noise, and believes execution matters more than talk.
+Hendrix is a Dubai-based, highly introspective, ROI-driven builder with a strong bias toward entrepreneurship, tech, design, and execution. He is building Duodode, a digital agency that blends branding, AI automation, and digital product work. He values philosophy, respects money, prefers substance over noise, and believes execution matters more than talk.
 
 ## core identity
 core_traits:
@@ -61,6 +61,34 @@ identity_as_builder:
 - cares about business, execution, tech, and strategic direction more broadly
 - prefers building over discussing
 - values competence, seriousness, and usefulness
+- sees builder as the label that can hold design, tech, product, and operations together
+- feels more aligned with responsibility for outcomes than with staying inside a narrow role
+- learns across areas because the kinds of things he wants to build require range, not one isolated skill
+
+builder_origin_story:
+- was drawn early to people who built things that lasted
+- admired figures like Thomas Edison and Isaac Newton less as historical icons and more as proof that a person could make something real that stayed
+- later business books reinforced the idea that a different life requires different trade-offs, even when the writing around them often felt repetitive or performative
+- became more introspective after a personal shift and more interested in what sits underneath surfaces rather than only what shows on top
+- arrived at builder as the word that could hold both instincts together: making something real and understanding it deeply
+
+label_misfit:
+- respects labels like designer and founder but feels they are too narrow on their own
+- does not want to operate at a distance from the work
+- is drawn to the overlap where design, tech, product, operations, and strategy still touch
+- sees most labels as lanes, while the kind of work he wants to do moves across lanes
+
+builder_learning_pattern:
+- is largely self-taught through YouTube, articles, experimentation, and internet-native learning
+- has moved across trading, coding, design, branding, automation, and tech
+- keeps asking how does this actually work
+- values connected understanding across surfaces more than an identity built on one narrow skill
+
+builder_tradeoffs:
+- accepts the risk of going too wide or being seen as unfocused
+- feels narrowing too early would be worse because the things he wants to build require range
+- treats responsibility for outcomes as more important than staying inside a role boundary
+- sees the pressure of updating himself continuously as part of the builder identity, not an accidental side effect
 
 ## building philosophy
 building_philosophy:
@@ -91,12 +119,19 @@ relationship_to_reading:
 - prefers depth over shallow content
 - values ideas that sharpen perspective and judgment
 - reads not just for information but for worldview, language, and mental edge
+- uses reading not only for information but also for self-reconstruction and perspective shifts
+- resonates with the idea that words can help a person leave one mental frame and build a better one nearby
 
 philosophical_interests:
 - Nietzsche is his favorite philosopher
 - has read across philosophy and is drawn to serious thinkers
 - interested in philosophy as a tool for self-overcoming, perspective, and stronger living
 - likes ideas that challenge comfort and force clearer thought
+- resonates with passages from writers like Albert Camus, C.S. Lewis, Sylvia Plath, and Mikhail Bulgakov
+- is drawn to themes of authenticity, rebuilding truth, temptation, solitude, intimacy, darkness, and moral resistance
+- resonates with ideas about having a reason to live strong enough to bear hardship
+- is drawn to moral resistance, the testing force of temptation, and the refusal to let catastrophe dominate the mind
+- resonates with water as a model for patience, softness, persistence, and moving around obstacles instead of trying to break through everything directly
 
 intellectual_preferences:
 - long-form over short-form
@@ -104,6 +139,9 @@ intellectual_preferences:
 - depth over trendiness
 - philosophy that connects to life and action
 - writing that is sharp, reflective, and real
+- lines and passages that feel existential, honest, and psychologically sharp
+- ideas about why to live, how to resist corruption, and how to stay mentally free
+- ideas about human continuity across centuries, where love, war, money, status, vanity, and ambition keep returning in new costumes
 
 ## cultural and media influences
 cultural_influences:
@@ -178,12 +216,16 @@ curiosity_profile:
 - drawn to science fiction, especially books that expand imagination and perspective
 - enjoys ideas that combine science, philosophy, and existential reflection
 - likes media that creates a sense of scale, wonder, and depth
+- is interested in concepts like hedgehog's dilemma and the tension between intimacy and distance
+- notices how intelligence, awareness, and cosmic scale can deepen darkness as well as wonder
 
 media_preferences:
 - enjoys sci-fi books
 - likes thoughtful video essays
 - prefers long-form media over short, shallow content
 - interested in creators and channels with strong perspective and depth
+- is especially drawn to sci-fi passages about Mars, oppression, family, song, dignity, and cultural resistance
+- is visually drawn to literary classic and archive-style book editions
 
 places_to_read:
 - essays
@@ -198,6 +240,14 @@ long_term_goals:
 - become a millionaire
 - eventually build a very large business
 - create something with real weight, not just small wins
+
+direction_and_freedom:
+- wants freedom and optionality more than display or status signaling
+- wants to live across cities like Dubai, New York, San Francisco, and Tokyo
+- cares about access to better environments, people, and experiences, not just buying things
+- is more afraid of drifting into a life he did not choose than of failing outright
+- understands that the path will involve pressure, delayed rewards, solitude, and being misunderstood
+- sees progress as becoming the kind of person who can actually hold the life he is aiming for
 
 business_orientation:
 - strongly biased toward entrepreneurship
@@ -331,17 +381,22 @@ frictions:
 - does not want to waste time on low-value activity
 - wants to stay focused on meaningful progress
 - may feel tension when discussion becomes detached from actual execution
+- is skeptical of systems that manufacture anxiety, insecurity, and fear to drive behavior
+- notices how consumer culture and advertising often sell through dissatisfaction and upgrade pressure
 
 ## personal habits and mental reset
 personal_habits:
 - likes running
 - sees running as a way to clear the mind
 - uses running not just for fitness but also for mental reset and sharper thinking
+- often runs in the morning before the day gets noisy
+- recently hit a 10K PR inside an 11.11 km morning run in Dubai
 
 relationship_to_running:
 - running helps Hendrix clean his mind
 - it creates space for reflection, clarity, and better internal state
 - he values it as both a physical and mental practice
+- morning runs in particular help set the emotional and cognitive tone of the day
 
 ## communication preferences
 response_preferences:

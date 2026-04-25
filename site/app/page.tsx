@@ -1,37 +1,31 @@
 import Link from 'next/link';
-import { articlesBySection, leadSentence, loadArticle, loadArticles, type Article } from '@/lib/articles';
-
-const guideSlugs = ['meta/start-here', 'meta/map-of-the-wiki', 'meta/timeline', 'meta/formative-experiences'];
+import { articlesBySection, leadSentence, loadArticle, loadArticles } from '@/lib/articles';
 
 export default function HomePage() {
   const articles = loadArticles();
   const sections = articlesBySection();
+  const categoryCount = new Set(articles.map(article => article.category)).size;
   const featured = loadArticle('meta/start-here') ?? loadArticle('core/hendrix');
-  const guides = guideSlugs
-    .map(slug => loadArticle(slug))
-    .filter((article): article is Article => article !== null);
   const recent = [...articles]
     .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt) || a.title.localeCompare(b.title))
-    .slice(0, 4);
+    .slice(0, 3);
   const tableOfContents = sections.filter(section => section.key !== 'navigation');
 
   return (
     <div className="wiki-home">
       <div className="wiki-home-main">
-        <header className="page-header">
-          <h1 className="page-title">Hendrixpedia</h1>
+        <header className="page-header wiki-home-header">
+          <h1 className="page-title home-hero-title">Welcome to Hendrixpedia</h1>
           <p className="page-subtitle">
-            A living book of identity, work, ideas, taste, memory, and direction.
+            the personal knowledge base compiled from notes, projects, conversations, and life.
           </p>
           <p className="page-context">
-            {articles.length} chapters across {sections.length} reader-facing sections |{' '}
-            <Link href="/graph">map view</Link> | <Link href="/raw">raw notes</Link> |{' '}
-            <Link href="/schema">writing contract</Link>
+            {articles.length} chapters across {categoryCount} categories · <Link href="/talk">v1 — talk to AI Hendrix</Link>
           </p>
         </header>
 
         <section className="info-box">
-          <header className="info-box-head">Opening Chapter</header>
+          <header className="info-box-head">Featured article</header>
           <div className="info-box-body">
             <h2 className="feature-title">
               <Link href={`/a/${featured?.slug ?? 'core/hendrix'}`}>{featured?.title ?? 'Hendrix'}</Link>
@@ -42,40 +36,25 @@ export default function HomePage() {
                 : 'This archive follows the shape of a life in motion: the person, the work, the ideas, the media, and the private forces underneath all of it.'}
             </p>
             <p className="feature-link-row">
-              <Link href={`/a/${featured?.slug ?? 'core/hendrix'}`}>Begin reading -&gt;</Link>
+              <Link href={`/a/${featured?.slug ?? 'core/hendrix'}`}>Read more -&gt;</Link>
             </p>
           </div>
         </section>
 
         <section className="info-box">
-          <header className="info-box-head">Orientation</header>
-          <div className="info-box-body browse-sections">
-            {guides.map(article => (
-              <section className="browse-section" key={article.slug}>
-                <h3>
-                  <Link href={`/a/${article.slug}`}>{article.title}</Link>
-                </h3>
-                <p className="browse-intro">{leadSentence(article.body, 220)}</p>
-              </section>
-            ))}
-          </div>
-        </section>
-
-        <section className="info-box">
-          <header className="info-box-head">The Table of Contents</header>
-          <div className="info-box-body browse-sections">
+          <header className="info-box-head">Browse by category</header>
+          <div className="info-box-body category-browser">
             {tableOfContents.map(section => (
-              <section className="browse-section" id={section.key} key={section.key}>
+              <section className="category-browser-group" id={section.key} key={section.key}>
                 <h3>{section.name}</h3>
-                <p className="browse-intro">{section.description}</p>
-                <div className="browse-items">
-                  {section.articles.slice(0, 4).map(article => (
-                    <p className="browse-item" key={article.slug}>
+                <ul className="category-browser-list">
+                  {section.articles.slice(0, 6).map(article => (
+                    <li className="browse-item" key={article.slug}>
                       <Link href={`/a/${article.slug}`}>{article.title}</Link>
-                      {' '}- {leadSentence(article.body, 170) || `${article.title} is one of the spine chapters in this section.`}
-                    </p>
+                      <span> — {leadSentence(article.body, 150) || `${article.title} is one of the spine chapters in this section.`}</span>
+                    </li>
                   ))}
-                </div>
+                </ul>
               </section>
             ))}
           </div>
@@ -96,13 +75,13 @@ export default function HomePage() {
         </section>
 
         <section className="info-box compact">
-          <header className="info-box-head">About This Archive</header>
+          <header className="info-box-head">About</header>
           <div className="info-box-body">
             <p>
-              Hendrixpedia is not meant to read like a flat database. It is a structured personal archive arranged so the reader can move from identity into work, from work into ideas, and from ideas into the books, media, places, and habits that keep the whole world coherent.
+              Hendrixpedia is a personal knowledge base built from raw notes, projects, essays, and lived experience. It is arranged so the reader can move from identity into work, from work into ideas, and from ideas into the media, places, and habits underneath all of it.
             </p>
             <p>
-              The filesystem still keeps internal clusters inside <code>/wiki/articles</code>, but the site now presents them as a reader-facing table of contents. The goal is clarity without losing atmosphere.
+              Use the <Link href="/talk">Talk</Link> tab to open the live <code>index.md</code> context pack, download it, and import it into any LLM to chat with AI Hendrix.
             </p>
           </div>
         </section>

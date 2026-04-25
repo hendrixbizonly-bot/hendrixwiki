@@ -8,13 +8,13 @@ tags: [framework, frontend, react, tools]
 
 # Next.js
 
-Next.js is [[Hendrix]]'s front-end framework of choice. It is the default way he builds web and product surfaces for [[Duodode]], and it plugs directly into [[Vercel]] for deployment and [[Supabase]] for backend.
+Next.js is my front-end framework of choice. It is the default way I build web and product surfaces for [[Duodode]], and it plugs directly into [[Vercel]] for deployment and [[Supabase]] for backend.
 
 ## What it is
 
 A React-based framework for building full web applications. It handles routing, rendering, data fetching, and deployment in one cohesive model.
 
-## How Hendrix uses it
+## How I use it
 
 - Building websites and product UIs for [[Duodode]] clients
 - Shipping full apps with backend routes and data layers
@@ -22,11 +22,11 @@ A React-based framework for building full web applications. It handles routing, 
 - Deploying through [[Vercel]] with no extra ops
 - Writing the front-end in modern [[JavaScript]] inside [[VS Code]]
 
-## Why it fits his workflow
+## Why it fits my workflow
 
-Next.js compresses the distance between idea and deployed product. That is exactly the point for a [[Build and Ship|build and ship]] operator. It also fits his preference for using the right tool for the job rather than over-identifying with any one framework (see [[Frontend Knowledge]] in [[Hendrix]]).
+Next.js compresses the distance between idea and deployed product. That is exactly the point for a [[Build and Ship|build and ship]] operator. It also fits my preference for using the right tool for the job rather than over-identifying with any one framework (see [[Frontend Knowledge]] in Hendrix).
 
-## What it unlocks for him
+## What it unlocks for me
 
 - Production-grade apps from a small setup
 - Native integration with [[Vercel]] for one-command deploys

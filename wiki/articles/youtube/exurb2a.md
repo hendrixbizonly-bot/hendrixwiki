@@ -8,26 +8,26 @@ tags: [youtube, philosophy, video-essay]
 
 # Exurb2a
 
-Exurb2a is a companion channel to [[Exurb1a]]. For [[Hendrix]], it is part of the same cluster: long-form essay-style content that treats big questions with craft and personality.
+Exurb2a is a companion channel to [[Exurb1a]]. For me, it is part of the same cluster: long-form essay-style content that treats big questions with craft and personality.
 
-## Why Hendrix watches
+## Why I watch
 
-He already follows [[Exurb1a]] for philosophical and existential video essays. Exurb2a gives him more of that voice, more range, and more of the same kind of reflection he values.
+I already follow [[Exurb1a]] for philosophical and existential video essays. Exurb2a gives me more of that voice, more range, and more of the same kind of reflection I value.
 
-## What it gives him
+## What it gives me
 
-- Additional depth from a voice he trusts
+- Additional depth from a voice I trust
 - Off-format ideas that do not fit the main channel
-- More reps for his taste in [[Long-form Thinking]]
+- More reps for my taste in [[Long-form Thinking]]
 - [[English]] at a literary register
 
-## Fit in his philosophy cluster
+## Fit in my philosophy cluster
 
 Exurb2a sits next to [[Exurb1a]], [[Sisyphus 55]], and [[Olisunvia]]. Together they form a small but serious library of thought on [[YouTube]].
 
-## Connection to his system
+## Connection to my system
 
-More content from a creator he respects equals more reinforcement of the instinct to think carefully about life, meaning, and direction. That keeps his [[Introspection]] sharp. See [[Philosophy]] and [[YouTube as Learning Platform]].
+More content from a creator I respect equals more reinforcement of the instinct to think carefully about life, meaning, and direction. That keeps my [[Introspection]] sharp. See [[Philosophy]] and [[YouTube as Learning Platform]].
 
 ## Related
 

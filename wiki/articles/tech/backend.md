@@ -8,18 +8,18 @@ tags: [backend, server, data, tools]
 
 # Backend
 
-Backend, for [[Hendrix]], is everything that lives behind the UI: data, auth, logic, and integration. He is not trying to be a backend specialist. He is trying to be capable enough to ship real full-stack products under [[Duodode]].
+Backend, for me, is everything that lives behind the UI: data, auth, logic, and integration. I am not trying to be a backend specialist. I am trying to be capable enough to ship real full-stack products under [[Duodode]].
 
-## How he approaches it
+## How I approach it
 
 - Keeps it lean by leaning on [[Supabase]] for data and auth
 - Uses [[Next.js]] server routes where app logic needs to run
 - Runs automation and integration work through [[n8n]]
 - Verifies everything through [[Postman]] and [[API Testing]]
 
-## Why this stance fits him
+## Why this stance fits me
 
-Hendrix is a builder, not a backend purist. He cares about outcomes. Staying capable across [[Frontend Frameworks|front-end]] and [[Backend]] with the help of modern tools and [[AI-Assisted Development]] lets him ship products without a bigger team.
+I am a builder, not a backend purist. He cares about outcomes. Staying capable across [[Frontend Frameworks|front-end]] and [[Backend]] with the help of modern tools and [[AI-Assisted Development]] lets me ship products without a bigger team.
 
 ## Where it matters
 

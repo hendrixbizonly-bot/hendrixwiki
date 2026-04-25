@@ -1,30 +1,50 @@
 # Hendrixpedia
 
-A personal Wikipedia-style knowledge base for Hendrix Huynh, compiled from a single raw context file. Every article is written through Hendrix's lens — what the topic means to him, not a neutral encyclopedia entry.
+Hendrixpedia is a personal archive built from a single raw context file and rendered as a wiki. It should feel less like a database and more like a structured nonfiction book about a person, his work, his ideas, his taste, and the world orbiting around him.
 
-Built as a Next.js app that reads markdown directly from `/wiki/articles`. Inspired by Andrej Karpathy's LLM Wiki pattern: *the wiki is a persistent, compounding artifact*. Less RAG, more LLM.
+Every article is written in first person. The aim is clarity without flattening the prose.
 
 ## Three-layer architecture
 
+```text
+Raw/context.md          <- the only source of truth
+     |
+     v
+wiki/articles/*/*.md    <- interlinked chapter-like articles
+     |
+     v
+site/                   <- Next.js reading surface
 ```
-Raw/context.md          ← the only file you edit
-     │
-     ▼
-wiki/articles/*/*.md    ← LLM-generated, interlinked articles
-     │
-     ▼
-site/                   ← Next.js app (renders the wiki)
-```
+
+## Internal Clusters vs Reader-Facing Sections
+
+The filesystem keeps stable internal clusters such as `core`, `ventures`, `philosophy`, `tools`, and `reading`.
+
+The site presents those pages through broader reader-facing sections:
+
+- Navigation
+- Identity
+- People
+- Ventures & Projects
+- Concepts & Philosophy
+- Skills & Tools
+- Media
+- Life & Personal
+- Events & Experiences
+- Timeline
+- Curiosity
+
+That split lets the project stay maintainable on disk while reading more like a deliberate table of contents.
 
 ## Folder layout
 
-```
-Hendrix/
+```text
+hendrixwiki/
 ├── Raw/
-│   └── context.md                 ← edit this
+│   └── context.md
 ├── wiki/
 │   ├── SCHEMA.md
-│   ├── index.md                   ← master catalog for LLMs
+│   ├── index.md
 │   ├── log.md
 │   └── articles/
 │       ├── core/ places/ ventures/ business/
@@ -32,25 +52,12 @@ Hendrix/
 │       ├── language/ culture/ youtube/
 │       ├── curiosity/ reading/ tools/ tech/
 │       └── habits/ money/ communication/ frictions/ meta/
-└── site/                          ← Next.js 14 app
+└── site/
     ├── app/
-    │   ├── layout.tsx
-    │   ├── page.tsx               (home)
-    │   ├── a/[...slug]/page.tsx   (article)
-    │   ├── graph/page.tsx
-    │   ├── raw/page.tsx
-    │   ├── schema/page.tsx
-    │   ├── search/page.tsx
-    │   ├── random/page.tsx
-    │   └── index.md/route.ts      (LLM export)
     ├── components/
-    │   ├── TopBar.tsx Sidebar.tsx
-    │   ├── KebabMenu.tsx SearchBox.tsx
-    │   ├── SearchView.tsx Graph.tsx
-    ├── lib/articles.ts
-    ├── build_index.py             (regenerates wiki/index.md)
-    ├── package.json
-    └── next.config.mjs
+    ├── lib/
+    ├── build_index.py
+    └── package.json
 ```
 
 ## Run locally
@@ -59,42 +66,24 @@ Hendrix/
 cd site
 npm install
 npm run dev
-# open http://localhost:3000
 ```
 
-## Build for production
-
-```bash
-cd site
-npm run build
-npm start
-```
+Open `http://localhost:3000`.
 
 ## Update workflow
 
-When your context changes:
-
 1. Edit `/Raw/context.md`.
-2. Ask any LLM: *"Read `/Raw/context.md` and `/wiki/SCHEMA.md`. Update or add articles in `/wiki/articles/` to reflect any changes. Follow SCHEMA exactly."*
-3. Regenerate the LLM-facing index: `cd site && npm run index`.
-4. Append a line to `/wiki/log.md`.
-5. Restart `npm run dev`. The Next.js app reads the wiki directly from disk, so all pages reflect changes on next load.
+2. Rewrite or add affected chapters in `/wiki/articles/`.
+3. Keep `/wiki/SCHEMA.md` as the writing contract.
+4. Regenerate the master index with `cd site && npm run index`.
+5. Append a note to `/wiki/log.md`.
 
-## For any chatbot
+## Writing rules in one breath
 
-Point it at `/Raw/context.md` + `/wiki/index.md` (or fetch from `/index.md` when the app is running). The index is designed so a single read gives any LLM the full picture.
-
-## Stack
-
-- Next.js 14 (App Router, TypeScript)
-- `gray-matter` for frontmatter
-- `marked` for markdown rendering
-- Zero client-side state beyond a small kebab menu, search box, and force-directed graph
-
-## Philosophy
-
-- Every article is third-person about Hendrix, through his lens.
-- No fake-deep language. No motivational tone. No em-dashes.
-- Liberal cross-linking. The wiki is a graph.
-- Articles tell you what a topic *means to him*, not what it means generally.
-- Raw is the source of truth. The wiki is a projection of Raw.
+- First person.
+- Sectioned prose.
+- Paragraphs before bullets.
+- Rich, reflective, human writing.
+- No flat database voice.
+- No fake-deep startup language.
+- Every page should feel like part of a larger world.

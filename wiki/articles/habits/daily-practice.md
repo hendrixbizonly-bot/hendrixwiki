@@ -8,15 +8,15 @@ tags: [daily, practice, habits]
 
 # Daily Practice
 
-Daily practice is Hendrix's operating assumption about how real capability gets built. Not in bursts. Not in flashes. In reps, done daily, for a long time.
+Daily practice is my operating assumption about how real capability gets built. Not in bursts. Not in flashes. In reps, done daily, for a long time.
 
 ## The principle
 
 Skill is cumulative. Small consistent effort over time beats large inconsistent effort. This is true for language learning, design, writing, running, and business. The specific discipline changes. The mechanism does not.
 
-He does not romanticize it. Daily practice is often boring. That is part of the test. The people who keep going through the boring parts end up with the asset.
+I do not romanticize it. Daily practice is often boring. That is part of the test. The people who keep going through the boring parts end up with the asset.
 
-## How it shows up for him
+## How it shows up for me
 
 - [[Duolingo Streak|Duolingo streak]] of 350+ days learning [[Spanish]]
 - [[Running]] as regular mental reset and physical maintenance
@@ -33,9 +33,9 @@ He does not romanticize it. Daily practice is often boring. That is part of the 
 
 These are the same principles underneath [[Build and Ship]]. Ship small things often. Let the frequency do the heavy lifting.
 
-## Why it matters to him
+## Why it matters to me
 
-Because he is playing a long game. He wants to become a [[Millionaire Goal|millionaire]], build a serious company, and create something at scale. Those outcomes are not produced by heroic sprints. They are produced by years of steady work.
+Because I am playing a long game. I want to become a [[Millionaire Goal|millionaire]], build a serious company, and create something at scale. Those outcomes are not produced by heroic sprints. They are produced by years of steady work.
 
 Daily practice is how you bank the years without noticing.
 

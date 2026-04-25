@@ -16,19 +16,19 @@ A reset is a deliberate pause that changes your internal state. It is not rest i
 
 Scrolling is not a reset. Sleep is only partially one. A reset is something that switches the mode of thinking, not something that stops thinking entirely.
 
-## Why he needs it
+## Why I needs it
 
-Because he builds across multiple disciplines at once: [[Design]], [[Tech]], [[Business Strategy]], client work through [[Duodode]]. Context-switching has a cost. Without regular resets, the cost compounds until decisions get worse and output gets sloppier.
+Because I build across multiple disciplines at once: [[Design]], [[Tech]], [[Business Strategy]], client work through [[Duodode]]. Context-switching has a cost. Without regular resets, the cost compounds until decisions get worse and output gets sloppier.
 
 Mental reset is maintenance for a [[Builder|builder]]. Skipping it is not toughness. It is negligence.
 
-## His main reset
+## My main reset
 
 [[Running]] is the primary one. It combines physical movement, simple action, and time away from screens. The combination is efficient. Forty minutes of running can unload several hours of accumulated noise.
 
 ## Why it is not optional
 
-Hendrix is [[ROI-Driven Thinking|ROI-driven]] about his own time. A reset that takes an hour and produces four hours of sharper work is a good trade. A person who skips resets pays for it in worse decisions later. He would rather pay the cost now on his terms.
+I am [[ROI-Driven Thinking|ROI-driven]] about my own time. A reset that takes an hour and produces four hours of sharper work is a good trade. A person who skips resets pays for it in worse decisions later. I would rather pay the cost now on my terms.
 
 ## How it connects
 

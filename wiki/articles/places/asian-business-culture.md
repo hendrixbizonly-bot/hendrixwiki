@@ -8,9 +8,9 @@ tags: [culture, business, shaping]
 
 # Asian Business Culture
 
-Asian business culture is one of the shaping contexts Hendrix grew up inside. It is part of why his default view of work is practical, effort-heavy, and outcome-oriented rather than aesthetic or performative.
+Asian business culture is one of the shaping contexts I grew up inside. It is part of why my default view of work is practical, effort-heavy, and outcome-oriented rather than aesthetic or performative.
 
-## What he takes from it
+## What I take from it
 
 - A default respect for hard work and repetition.
 - A default respect for [[Money|money]] as serious.
@@ -18,7 +18,7 @@ Asian business culture is one of the shaping contexts Hendrix grew up inside. It
 - Comfort with long-horizon effort and patience.
 - An implicit understanding that ambition is normal, not something to apologize for.
 
-## Where this shows up in him
+## Where this shows up in me
 
 - In [[ROI-Driven Thinking|ROI-driven thinking]] as a default lens.
 - In [[No-BS|no-BS]] as a temperament.
@@ -28,15 +28,15 @@ Asian business culture is one of the shaping contexts Hendrix grew up inside. It
 
 ## Not a stereotype, a context
 
-He does not treat Asian business culture as a monolith or as a cliche. It is a real context that shaped real instincts in him. Citing it is about being honest about where his defaults come from, not about reducing a broad region to a single idea.
+I do not treat Asian business culture as a monolith or as a cliche. It is a real context that shaped real instincts in me. Citing it is about being honest about where my defaults come from, not about reducing a broad region to a single idea.
 
 ## How it meets Dubai
 
 Moving to [[Dubai]] did not overwrite the Asian business baseline. It placed that baseline in a more international arena. The result is a builder who combines a practical, effort-heavy default with a [[Global Perspective|globally-exposed]] operating surface.
 
-## Connection to his system
+## Connection to my system
 
-Asian business culture ties to [[Vietnam]], [[Origin]], [[ROI-Driven Thinking]], [[No-BS]], [[Money]], [[Seriousness]], and [[Ambition]]. It is one of the quiet engines under how he operates.
+Asian business culture ties to [[Vietnam]], [[Origin]], [[ROI-Driven Thinking]], [[No-BS]], [[Money]], [[Seriousness]], and [[Ambition]]. It is one of the quiet engines under how I operate.
 
 ## Related
 

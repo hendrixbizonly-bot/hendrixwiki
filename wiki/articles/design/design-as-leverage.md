@@ -8,7 +8,7 @@ tags: [leverage, design, business]
 
 # Design As Leverage
 
-Design as leverage is how Hendrix frames design inside a business system. Design is not the point. It is a multiplier on everything else.
+Design as leverage is how I frame design inside a business system. Design is not the point. It is a multiplier on everything else.
 
 ## The frame
 
@@ -16,11 +16,11 @@ A good brand, a good product UI, and a good system of visual decisions make ever
 
 That is leverage. And like all leverage, it compounds.
 
-## Why he thinks this way
+## Why I think this way
 
-Hendrix is [[ROI-Driven Thinking|ROI-driven]] and [[Execution-First Mindset|execution-first]]. He does not care about design as an identity or as a creative outlet alone. He cares about what design does. Inside a business, design either creates outcomes or it is an expense.
+I am [[ROI-Driven Thinking|ROI-driven]] and [[Execution-First Mindset|execution-first]]. I do not care about design as an identity or as a creative outlet alone. He cares about what design does. Inside a business, design either creates outcomes or it is an expense.
 
-He is also suspicious of design communities that talk about craft in a vacuum. Craft without leverage is a hobby. Craft plugged into a business is a weapon.
+I am also suspicious of design communities that talk about craft in a vacuum. Craft without leverage is a hobby. Craft plugged into a business is a weapon.
 
 ## How Duodode uses it
 
@@ -35,7 +35,7 @@ He is also suspicious of design communities that talk about craft in a vacuum. C
 
 ## How it connects
 
-This is the bigger-picture version of [[Design Philosophy]]. It is the reason Hendrix refuses to be boxed in as only a designer (see [[Designer vs Builder]]). It links design back to [[Money]], [[Leverage]], and [[Long-term Upside]].
+This is the bigger-picture version of [[Design Philosophy]]. It is the reason I refuse to be boxed in as only a designer (see [[Designer vs Builder]]). It links design back to [[Money]], [[Leverage]], and [[Long-term Upside]].
 
 ## Related
 

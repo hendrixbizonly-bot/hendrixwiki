@@ -8,22 +8,22 @@ tags: [reading, news, essays, journalism]
 
 # The New York Times
 
-The New York Times is one of [[Hendrix]]'s regular reading surfaces. He uses it for serious journalism, long features, and essays. It sits alongside [[Substack]] and [[Medium]] as part of a reading habit built around [[Long-form Writing|depth]] rather than feeds.
+The New York Times is one of my regular reading surfaces. I use it for serious journalism, long features, and essays. It sits alongside [[Substack]] and [[Medium]] as part of a reading habit built around [[Long-form Writing|depth]] rather than feeds.
 
-## What it is to him
+## What it is to me
 
 - A source of serious reporting
 - A place for long features and [[Essays]]
-- A window into global context for his work in [[Dubai]] and beyond
+- A window into global context for my work in [[Dubai]] and beyond
 - A counterweight to fast, shallow news
 
-## How he uses it
+## How I use it
 
-He does not treat it as a doomscroll. He reads selectively. Features, opinion from writers he respects, and long pieces on tech, business, culture, and the [[Future of Humanity]]. The goal is informed context, not constant alert.
+I do not treat it as a doomscroll. I read selectively. Features, opinion from writers I respect, and long pieces on tech, business, culture, and the [[Future of Humanity]]. The goal is informed context, not constant alert.
 
-## Why it fits him
+## Why it fits me
 
-Hendrix wants sharper thinking and better articulation in [[English]]. Good long-form journalism is one of the inputs that supports both. It also pairs with his interest in [[Thoughtful Creators]] and [[Long-form Writing]].
+I want sharper thinking and better articulation in [[English]]. Good long-form journalism is one of the inputs that supports both. It also pairs with my interest in [[Thoughtful Creators]] and [[Long-form Writing]].
 
 ## Related
 

@@ -8,9 +8,9 @@ tags: [natural, language, writing]
 
 # Natural Language
 
-Natural language is how Hendrix wants writing to sound. Like a sharp person talking, not a brand voice reading off a script.
+Natural language is how I want writing to sound. Like a sharp person talking, not a brand voice reading off a script.
 
-## What natural means to him
+## What natural means to me
 
 Natural writing uses the words a thoughtful person would actually use in conversation. It does not reach for a thesaurus. It does not dress up a simple point in corporate vocabulary. It sounds like the author is present in the sentence.
 
@@ -23,11 +23,11 @@ Natural writing uses the words a thoughtful person would actually use in convers
 
 Natural writing can still be formal when the situation calls for it. The test is whether the voice feels real or whether it feels manufactured.
 
-## Why he prefers it
+## Why I prefer it
 
-Because manufactured writing is instantly detectable and immediately discounted. He is allergic to [[Bloated Corporate Phrasing|corporate phrasing]] and [[Try-hard Language]]. Natural writing bypasses both and lands harder.
+Because manufactured writing is instantly detectable and immediately discounted. I am allergic to [[Bloated Corporate Phrasing|corporate phrasing]] and [[Try-hard Language]]. Natural writing bypasses both and lands harder.
 
-It also supports how he wants to develop his English. He wants to sound more natural and articulate, not more formal. See [[English Goals]].
+It also supports how I want to develop my English. I want to sound more natural and articulate, not more formal. See [[English Goals]].
 
 ## How it connects
 

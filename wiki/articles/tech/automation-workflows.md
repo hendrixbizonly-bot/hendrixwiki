@@ -8,13 +8,13 @@ tags: [automation, workflows, ai, systems]
 
 # Automation Workflows
 
-Automation workflows are one of the service lines and internal tools of [[Duodode]]. [[Hendrix]] uses them to turn manual processes into systems, for clients and for the agency itself.
+Automation workflows are one of the service lines and internal tools of [[Duodode]]. I use them to turn manual processes into systems, for clients and for the agency itself.
 
-## Why they matter to him
+## Why they matter to me
 
-Hendrix thinks in systems and [[Leverage|leverage]]. Manual work that happens repeatedly is a target. Turning it into automation means a small team can do the work of a larger one without losing quality.
+I think in systems and [[Leverage|leverage]]. Manual work that happens repeatedly is a target. Turning it into automation means a small team can do the work of a larger one without losing quality.
 
-## How he builds them
+## How I build them
 
 - Designing flows in [[n8n]]
 - Connecting [[Supabase]] data, webhooks, and third-party APIs
@@ -29,7 +29,7 @@ Hendrix thinks in systems and [[Leverage|leverage]]. Manual work that happens re
 - Marketing operations tied to [[Ads Manager]]
 - Data movement between tools that do not natively integrate
 
-## Why they fit his mindset
+## Why they fit my mindset
 
 Automation is a direct translation of [[Build and Ship|build and ship]] into business infrastructure. You ship a flow, it runs forever, and the leverage compounds.
 

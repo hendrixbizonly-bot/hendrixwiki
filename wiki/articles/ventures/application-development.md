@@ -8,7 +8,7 @@ tags: [development, application, engineering, service]
 
 # Application Development
 
-Application development is Duodode's engineering-heavy service line. It is the work of building real applications on top of [[Application Design]], using modern stacks and [[AI-Assisted Development]]. For [[Hendrix]], it is a natural extension of his belief that design and tech should ship together.
+Application development is Duodode's engineering-heavy service line. It is the work of building real applications on top of [[Application Design]], using modern stacks and [[AI-Assisted Development]]. For me, it is a natural extension of my belief that design and tech should ship together.
 
 ## Stack
 

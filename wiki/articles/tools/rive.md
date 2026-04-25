@@ -8,13 +8,13 @@ tags: [animation, motion, tools, interaction]
 
 # Rive
 
-Rive is [[Hendrix]]'s tool for interactive animation. He uses it where motion needs to be responsive, stateful, or embedded into a product rather than rendered as a flat video.
+Rive is my tool for interactive animation. I use it where motion needs to be responsive, stateful, or embedded into a product rather than rendered as a flat video.
 
 ## What it is
 
 An animation tool that produces interactive, runtime-driven animations with state machines. Output runs natively inside web and app products.
 
-## How Hendrix uses it
+## How I use it
 
 - Interactive animations for [[Duodode]] product work
 - State-driven UI elements that react to input
@@ -22,16 +22,16 @@ An animation tool that produces interactive, runtime-driven animations with stat
 - Complementing code-level motion in [[GSAP]] and [[Framer Motion]]
 - Extending the visual language from [[Figma]] into runtime
 
-## Why it fits his workflow
+## Why it fits my workflow
 
 Rive solves a problem that static tools cannot. It produces motion that behaves. For a builder who sees animation as [[Motion Design|communication]] rather than decoration, that is the right lens.
 
-## What it unlocks for him
+## What it unlocks for me
 
 - Rich interactive UI without writing all motion logic by hand
 - A design-to-runtime pipeline for animations
 - Product surfaces that feel alive without feeling busy
-- Another expression of his [[Design Philosophy|intentional, timeless, consistent]] standard
+- Another expression of my [[Design Philosophy|intentional, timeless, consistent]] standard
 
 ## Related
 

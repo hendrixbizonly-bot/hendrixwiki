@@ -8,9 +8,9 @@ tags: [tv, crime, operators, strategy, pressure]
 
 # Ozark
 
-Ozark is a show about operators under constant pressure. For [[Hendrix]], it is a study in how people execute when stakes are real, failure is permanent, and there is no room for [[Fluff]].
+Ozark is a show about operators under constant pressure. For me, it is a study in how people execute when stakes are real, failure is permanent, and there is no room for [[Fluff]].
 
-## What it gave him
+## What it gave me
 
 - A portrait of [[Strategic Thinking]] under pressure
 - Characters who execute instead of talk
@@ -21,9 +21,9 @@ See [[American Pop Culture Influence]].
 
 ## Why it resonates
 
-He is drawn to [[Execution Over Talk]]. Ozark is full of people who cannot afford bad execution. Every decision carries weight. That pressure reveals who can actually think, plan, and move. As a builder, he respects that shape of character even when it is wrapped in fiction.
+I am drawn to [[Execution Over Talk]]. Ozark is full of people who cannot afford bad execution. Every decision carries weight. That pressure reveals who can actually think, plan, and move. As a builder, I respect that shape of character even when it is wrapped in fiction.
 
-## Themes he resonates with
+## Themes I resonate with
 
 - [[Operators]] under real stakes
 - Strategy as survival
@@ -33,11 +33,11 @@ He is drawn to [[Execution Over Talk]]. Ozark is full of people who cannot affor
 
 ## Operators vs talkers
 
-The show constantly separates real operators from noise. Hendrix reads it through that lens. He is trying to be the kind of person who moves under pressure, not the one who narrates.
+The show constantly separates real operators from noise. I read it through that lens. I am trying to be the kind of person who moves under pressure, not the one who narrates.
 
-## Connection to his system
+## Connection to my system
 
-Ozark aligns with his [[Money]] view (serious, consequential, real) and his [[Build and Ship]] instinct in a harsher register. It also shows the cost of operating at scale, which informs how he thinks about the long path for [[Duodode]] and beyond. See [[Succession]] for another angle on the same themes.
+Ozark aligns with my [[Money]] view (serious, consequential, real) and my [[Build and Ship]] instinct in a harsher register. It also shows the cost of operating at scale, which informs how I think about the long path for [[Duodode]] and beyond. See [[Succession]] for another angle on the same themes.
 
 ## Related
 
