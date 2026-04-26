@@ -13,6 +13,7 @@ OUT = ROOT / "wiki" / "index.md"
 
 CATEGORY_NAMES = {
     "core": "Core",
+    "people": "People",
     "places": "Places",
     "ventures": "Ventures",
     "business": "Business",
@@ -87,7 +88,7 @@ SECTION_DESCRIPTIONS = {
 SECTION_CATEGORY_MAP = {
     "navigation": ["meta"],
     "identity": ["core"],
-    "people": [],
+    "people": ["people"],
     "ventures": ["ventures"],
     "concepts": ["business", "building", "philosophy", "money", "communication", "frictions"],
     "skills": ["design", "language", "tools", "tech"],
@@ -123,7 +124,7 @@ SECTION_PRIORITY = {
         "core/the-cost-of-range",
         "core/becoming",
     ],
-    "people": ["core/hendrix", "core/hendrix-huynh", "philosophy/nietzsche", "philosophy/camus"],
+    "people": [],
     "ventures": ["ventures/duodode", "ventures/digital-agency", "ventures/agency-building", "ventures/ai-automation"],
     "concepts": ["philosophy/philosophy", "building/build-and-ship", "business/leverage", "money/money"],
     "skills": ["design/design-philosophy", "language/english", "tools/codex", "tech/javascript"],
@@ -271,12 +272,18 @@ def resolve_section(category: str, type_: str, slug: str, explicit: str | None) 
         return "timeline"
     if slug == "meta/formative-experiences":
         return "events"
-    if type_ == "person":
-        return "people"
     for key in SECTION_ORDER:
         if category in SECTION_CATEGORY_MAP[key]:
             return key
     return "identity"
+
+
+def truthy(value) -> bool:
+    if isinstance(value, bool):
+        return value
+    if value is None:
+        return False
+    return str(value).strip().lower() in {"1", "true", "yes", "on"}
 
 
 def to_first_person(text: str) -> str:
@@ -314,11 +321,14 @@ for cat_dir in sorted(ARTICLES_DIR.iterdir()):
     for md in sorted(cat_dir.glob("*.md")):
         text = md.read_text(encoding="utf-8")
         fm, body = parse(text)
+        if truthy(fm.get("hidden")) or fm.get("redirectTo"):
+            continue
         title = fm.get("title") or md.stem.replace("-", " ").title()
         type_ = fm.get("type", "concept")
         slug = f"{category}/{md.stem}"
         section = resolve_section(category, type_, slug, fm.get("section"))
-        summary = to_first_person(one_line_summary(body))
+        raw_summary = one_line_summary(body)
+        summary = raw_summary if section == "people" else to_first_person(raw_summary)
         articles_by_section.setdefault(section, []).append(
             {
                 "title": title,
@@ -331,6 +341,10 @@ for cat_dir in sorted(ARTICLES_DIR.iterdir()):
         )
 
 for section, items in articles_by_section.items():
+    if section == "people":
+        items.sort(key=lambda item: item["title"])
+        continue
+
     priorities = {slug: index for index, slug in enumerate(SECTION_PRIORITY.get(section, []))}
     items.sort(key=lambda item: (priorities.get(item["slug"], 10_000), item["title"]))
 
@@ -358,7 +372,7 @@ if compressed:
 
 lines.append("\n## How this archive is organized\n")
 lines.append("- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Books, Music, Life, Timeline, and Curiosity.")
-lines.append("- The filesystem still uses stable internal clusters such as `core`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.")
+lines.append("- The filesystem still uses stable internal clusters such as `core`, `people`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.")
 lines.append("- Start with [Start Here](wiki/articles/meta/start-here.md) or [Hendrix](wiki/articles/core/hendrix.md) if you want the spine before the branches.")
 lines.append("- If a detail here conflicts with `/Raw/context.md`, Raw wins.\n")
 

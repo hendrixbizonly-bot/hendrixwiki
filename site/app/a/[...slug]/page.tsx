@@ -1,6 +1,13 @@
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
-import { getArticleToc, loadArticle, loadArticles, renderArticle, sectionName } from '@/lib/articles';
+import { notFound, redirect } from 'next/navigation';
+import {
+  getArticleToc,
+  getRelatedArticles,
+  loadArticle,
+  loadArticles,
+  renderArticle,
+  sectionName,
+} from '@/lib/articles';
 
 export async function generateStaticParams() {
   return loadArticles().map(article => ({ slug: article.slug.split('/') }));
@@ -9,18 +16,23 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { slug: string[] } }) {
   const slug = params.slug.join('/');
   const article = loadArticle(slug);
-  return { title: article ? `${article.title} | Hendrixpedia` : 'Chapter | Hendrixpedia' };
+  const target = article?.redirectTo ? loadArticle(article.redirectTo) : article;
+  return { title: target ? `${target.title} | Hendrixpedia` : 'Chapter | Hendrixpedia' };
 }
 
 export default function ArticlePage({ params }: { params: { slug: string[] } }) {
   const slug = params.slug.join('/');
   const article = loadArticle(slug);
   if (!article) notFound();
+  if (article.redirectTo) {
+    redirect(`/a/${article.redirectTo.split('/').map(encodeURIComponent).join('/')}`);
+  }
 
   const articles = loadArticles();
   const html = renderArticle(article, articles);
   const section = sectionName(article.section);
   const toc = getArticleToc(article.body);
+  const relatedArticles = getRelatedArticles(article, articles);
 
   return (
     <div className="article-shell">
@@ -53,11 +65,26 @@ export default function ArticlePage({ params }: { params: { slug: string[] } }) 
           <header className="info-box-head">About this page</header>
           <div className="info-box-body">
             <p>
-              Part of <Link href={`/#${article.section}`}>{section}</Link> — {article.related.length} linked articles.
+              Part of <Link href={`/#${article.section}`}>{section}</Link> — {relatedArticles.length} linked articles.
             </p>
             <p>{article.tags.length} tags · updated {article.updatedAt}</p>
           </div>
         </section>
+
+        {relatedArticles.length > 0 ? (
+          <section className="info-box compact">
+            <header className="info-box-head">Related articles</header>
+            <div className="info-box-body">
+              <ul className="info-list">
+                {relatedArticles.map(relatedArticle => (
+                  <li key={relatedArticle.slug}>
+                    <Link href={`/a/${relatedArticle.slug}`}>{relatedArticle.title}</Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </section>
+        ) : null}
       </aside>
     </div>
   );

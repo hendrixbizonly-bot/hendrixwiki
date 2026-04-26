@@ -2,7 +2,8 @@
 title: Hendrix
 category: core
 type: person
-related: [Hendrix Huynh, Duodode, Dubai, Vietnam, Being a Builder, Freedom, Introspection, Running]
+aliases: [Hendrix Huynh]
+related: [Duodode, Dubai, Vietnam, Being a Builder, Freedom, Introspection, Running]
 tags: [identity, builder, profile, flagship]
 ---
 
@@ -48,4 +49,4 @@ If there is one pattern underneath all of it, it is this: I want thought to beco
 
 ## Related
 
-[[Hendrix Huynh]] · [[Duodode]] · [[Dubai]] · [[Vietnam]] · [[Being a Builder]] · [[Freedom]] · [[Running]] · [[Introspection]]
+[[Duodode]] · [[Dubai]] · [[Vietnam]] · [[Being a Builder]] · [[Freedom]] · [[Running]] · [[Introspection]]

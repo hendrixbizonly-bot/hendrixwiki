@@ -18,7 +18,7 @@ site/                   <- Next.js reading surface
 
 ## Internal Clusters vs Reader-Facing Sections
 
-The filesystem keeps stable internal clusters such as `core`, `ventures`, `philosophy`, `tools`, and `reading`.
+The filesystem keeps stable internal clusters such as `core`, `people`, `ventures`, `philosophy`, `tools`, and `reading`.
 
 The site presents those pages through broader reader-facing sections:
 

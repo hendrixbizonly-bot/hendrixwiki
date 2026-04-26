@@ -14,6 +14,7 @@ export function SearchView({ articles }: { articles: ManifestEntry[] }) {
 
     return articles.filter(article =>
       article.title.toLowerCase().includes(search) ||
+      article.aliases.some(alias => alias.toLowerCase().includes(search)) ||
       article.section.toLowerCase().includes(search) ||
       article.category.toLowerCase().includes(search) ||
       article.tags.some(tag => tag.toLowerCase().includes(search))

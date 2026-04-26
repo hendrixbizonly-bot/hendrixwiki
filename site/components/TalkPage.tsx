@@ -1,9 +1,9 @@
 import Link from 'next/link';
-import { articlesBySection, loadArticles, readMasterIndex } from '@/lib/articles';
+import { articlesBySection, loadArticles, readMasterIndex, visibleArticles } from '@/lib/articles';
 
 export function TalkPage() {
   const skill = readMasterIndex();
-  const articles = loadArticles();
+  const articles = visibleArticles(loadArticles());
   const sections = articlesBySection();
 
   return (

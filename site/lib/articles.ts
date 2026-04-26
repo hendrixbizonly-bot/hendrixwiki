@@ -31,10 +31,13 @@ export type Article = {
   section: SectionKey;
   type: string;
   updatedAt: string;
+  aliases: string[];
   related: string[];
   tags: string[];
   body: string;
   file: string;
+  redirectTo: string | null;
+  hidden: boolean;
 };
 
 export type SectionGroup = {
@@ -54,7 +57,18 @@ const WIKI_ROOT = path.resolve(process.cwd(), '..', 'wiki');
 const RAW_ROOT = path.resolve(process.cwd(), '..', 'Raw');
 export const ARTICLES_DIR = path.join(WIKI_ROOT, 'articles');
 
-let cache: Article[] | null = null;
+type ArticleCache = {
+  signature: string;
+  articles: Article[];
+};
+
+type ArticleFileEntry = {
+  categoryDir: string;
+  file: string;
+  stat: fs.Stats;
+};
+
+let cache: ArticleCache | null = null;
 
 const SECTION_ALIASES: Record<string, SectionKey> = {
   navigation: 'navigation',
@@ -114,7 +128,6 @@ function inferSection({
 
   if (slug === 'meta/timeline') return 'timeline';
   if (slug === 'meta/formative-experiences') return 'events';
-  if (type === 'person') return 'people';
 
   for (const key of SECTION_ORDER) {
     if (SECTION_CATEGORY_MAP[key].includes(category)) {
@@ -126,6 +139,10 @@ function inferSection({
 }
 
 function sortArticlesForSection(section: SectionKey, articles: Article[]): Article[] {
+  if (section === 'people') {
+    return [...articles].sort((a, b) => a.title.localeCompare(b.title));
+  }
+
   const priorities = SECTION_PRIORITY_SLUGS[section] || [];
   const priorityIndex = new Map(priorities.map((slug, index) => [slug, index]));
 
@@ -153,67 +170,151 @@ export function categoryName(category: string): string {
   return CATEGORY_NAMES[category] || category;
 }
 
-export function loadArticles(): Article[] {
-  if (cache) return cache;
-
-  const articles: Article[] = [];
+function collectArticleFiles(): { entries: ArticleFileEntry[]; signature: string } {
   if (!fs.existsSync(ARTICLES_DIR)) {
-    cache = [];
-    return cache;
+    return { entries: [], signature: '' };
   }
 
-  for (const cat of fs.readdirSync(ARTICLES_DIR)) {
-    const catDir = path.join(ARTICLES_DIR, cat);
+  const entries: ArticleFileEntry[] = [];
+
+  for (const categoryDir of fs.readdirSync(ARTICLES_DIR).sort()) {
+    const catDir = path.join(ARTICLES_DIR, categoryDir);
     if (!fs.statSync(catDir).isDirectory()) continue;
 
-    for (const fileName of fs.readdirSync(catDir)) {
+    for (const fileName of fs.readdirSync(catDir).sort()) {
       if (!fileName.endsWith('.md')) continue;
 
       const file = path.join(catDir, fileName);
-      const raw = fs.readFileSync(file, 'utf8');
-      const stat = fs.statSync(file);
-      const { data, content } = matter(raw);
-      const stem = fileName.replace(/\.md$/, '');
-      const slug = `${cat}/${stem}`;
-      const category = (data.category as string) || cat;
-      const type = (data.type as string) || 'concept';
-
-      articles.push({
-        title: (data.title as string) || stem.replace(/-/g, ' '),
-        slug,
-        category,
-        section: inferSection({
-          category,
-          type,
-          slug,
-          section: data.section as string | undefined,
-        }),
-        type,
-        updatedAt: stat.mtime.toISOString().slice(0, 10),
-        related: (data.related as string[]) || [],
-        tags: (data.tags as string[]) || [],
-        body: content,
+      entries.push({
+        categoryDir,
         file,
+        stat: fs.statSync(file),
       });
     }
   }
 
+  const signature = entries
+    .map(({ file, stat }) => {
+      const relative = path.relative(ARTICLES_DIR, file).replace(/\\/g, '/');
+      return `${relative}:${stat.size}:${stat.mtimeMs}`;
+    })
+    .join('|');
+
+  return { entries, signature };
+}
+
+export function loadArticles(): Article[] {
+  const { entries, signature } = collectArticleFiles();
+  if (cache?.signature === signature) return cache.articles;
+
+  const articles: Article[] = [];
+  if (!entries.length) {
+    cache = { signature, articles };
+    return articles;
+  }
+
+  for (const { categoryDir, file, stat } of entries) {
+    const raw = fs.readFileSync(file, 'utf8');
+    const { data, content } = matter(raw);
+    const stem = path.basename(file).replace(/\.md$/, '');
+    const slug = `${categoryDir}/${stem}`;
+    const category = (data.category as string) || categoryDir;
+    const type = (data.type as string) || 'concept';
+    const normalizeList = (value: unknown): string[] => {
+      if (Array.isArray(value)) {
+        return value
+          .map(item => String(item).trim())
+          .filter(Boolean);
+      }
+
+      if (typeof value === 'string' && value.trim()) {
+        return [value.trim()];
+      }
+
+      return [];
+    };
+
+    articles.push({
+      title: (data.title as string) || stem.replace(/-/g, ' '),
+      slug,
+      category,
+      section: inferSection({
+        category,
+        type,
+        slug,
+        section: data.section as string | undefined,
+      }),
+      type,
+      updatedAt: stat.mtime.toISOString().slice(0, 10),
+      aliases: normalizeList(data.aliases),
+      related: normalizeList(data.related),
+      tags: normalizeList(data.tags),
+      body: content,
+      file,
+      redirectTo:
+        typeof data.redirectTo === 'string' && data.redirectTo.trim()
+          ? data.redirectTo.trim()
+          : null,
+      hidden: Boolean(data.hidden),
+    });
+  }
+
   articles.sort((a, b) => a.title.localeCompare(b.title));
-  cache = articles;
-  return cache;
+  cache = { signature, articles };
+  return articles;
 }
 
 export function loadArticle(slug: string): Article | null {
   return loadArticles().find(article => article.slug === slug) || null;
 }
 
+function normalizeLookup(value: string): string {
+  return value.trim().toLowerCase();
+}
+
+function stemFromSlug(slug: string): string {
+  return slug.split('/').pop() ?? slug;
+}
+
+function canonicalSlugFor(
+  slug: string,
+  articleIndex: Map<string, Article>,
+  seen = new Set<string>()
+): string {
+  if (seen.has(slug)) return slug;
+
+  const article = articleIndex.get(slug);
+  if (!article?.redirectTo || !articleIndex.has(article.redirectTo)) {
+    return slug;
+  }
+
+  seen.add(slug);
+  return canonicalSlugFor(article.redirectTo, articleIndex, seen);
+}
+
+export function visibleArticles(articles: Article[] = loadArticles()): Article[] {
+  return articles.filter(article => !article.hidden && !article.redirectTo);
+}
+
 export function buildTitleIndex(articles: Article[]): Map<string, string> {
   const index = new Map<string, string>();
+  const articleIndex = new Map(articles.map(article => [article.slug, article]));
 
   for (const article of articles) {
-    index.set(article.title.toLowerCase(), article.slug);
-    const stem = article.slug.split('/').pop()!;
-    index.set(stem.replace(/-/g, ' ').toLowerCase(), article.slug);
+    const canonicalSlug = canonicalSlugFor(article.slug, articleIndex);
+    const names = new Set<string>([
+      article.title,
+      ...article.aliases,
+      stemFromSlug(article.slug),
+      stemFromSlug(article.slug).replace(/-/g, ' '),
+      article.slug,
+    ]);
+
+    for (const name of names) {
+      const normalized = normalizeLookup(name);
+      if (!normalized) continue;
+      index.set(normalized, canonicalSlug);
+    }
   }
 
   return index;
@@ -232,6 +333,49 @@ export function resolveWikiLinks(md: string, articles: Article[]): string {
     }
 
     return `<span class="wikilink missing" title="Article not yet written">${label}</span>`;
+  });
+}
+
+export function extractWikiLinkTargets(md: string): string[] {
+  const targets: string[] = [];
+
+  for (const match of md.matchAll(/\[\[([^\]]+)\]\]/g)) {
+    const inner = match[1]?.trim();
+    if (!inner) continue;
+
+    const [target] = inner.split('|').map(part => part.trim());
+    if (target) {
+      targets.push(target);
+    }
+  }
+
+  return targets;
+}
+
+export function getRelatedArticles(article: Article, articles: Article[] = loadArticles()): Article[] {
+  const titleIndex = buildTitleIndex(articles);
+  const articleIndex = new Map(articles.map(item => [item.slug, item]));
+  const visibleIndex = new Map(visibleArticles(articles).map(item => [item.slug, item]));
+  const seen = new Set<string>();
+  const currentSlug = canonicalSlugFor(article.slug, articleIndex);
+
+  return article.related.flatMap(target => {
+    const cleaned = target.trim();
+    const slug = articleIndex.has(cleaned)
+      ? canonicalSlugFor(cleaned, articleIndex)
+      : titleIndex.get(normalizeLookup(cleaned));
+
+    if (!slug || slug === currentSlug || seen.has(slug)) {
+      return [];
+    }
+
+    const relatedArticle = visibleIndex.get(slug);
+    if (!relatedArticle) {
+      return [];
+    }
+
+    seen.add(slug);
+    return [relatedArticle];
   });
 }
 
@@ -469,6 +613,10 @@ function editorialEmphasis(text: string, article: Article, seen: Set<string>): s
 }
 
 function emphasizeMarkdownParagraphs(md: string, article: Article): string {
+  if (article.section === 'people') {
+    return md;
+  }
+
   const lines = md.split('\n');
   const output: string[] = [];
   let paragraph: string[] = [];
@@ -566,7 +714,7 @@ export function renderArticle(article: Article, articles: Article[]): string {
 }
 
 export function articlesByCategory(): Array<{ key: string; name: string; articles: Article[] }> {
-  const articles = loadArticles();
+  const articles = visibleArticles(loadArticles());
   const groups: Record<string, Article[]> = {};
 
   for (const article of articles) {
@@ -579,7 +727,7 @@ export function articlesByCategory(): Array<{ key: string; name: string; article
 }
 
 export function articlesBySection(): SectionGroup[] {
-  const articles = loadArticles();
+  const articles = visibleArticles(loadArticles());
   const groups = new Map<SectionKey, Article[]>();
 
   for (const article of articles) {
@@ -598,14 +746,14 @@ export function articlesBySection(): SectionGroup[] {
     }));
 }
 
-export type ManifestEntry = Pick<Article, 'title' | 'slug' | 'category' | 'section' | 'type' | 'updatedAt' | 'related' | 'tags'>;
+export type ManifestEntry = Pick<Article, 'title' | 'slug' | 'category' | 'section' | 'type' | 'updatedAt' | 'aliases' | 'related' | 'tags'>;
 
 export function getManifest(): {
   articles: ManifestEntry[];
   categories: Array<{ key: string; name: string }>;
   sections: Array<{ key: SectionKey; name: string }>;
 } {
-  const articles = loadArticles().map(({ body, file, ...rest }) => rest);
+  const articles = visibleArticles(loadArticles()).map(({ body, file, redirectTo, hidden, ...rest }) => rest);
   const categories = CATEGORY_ORDER
     .filter(key => articles.some(article => article.category === key))
     .map(key => ({ key, name: categoryName(key) }));

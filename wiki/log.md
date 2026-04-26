@@ -49,6 +49,11 @@ Append-only record of ingests, regenerations, and structural changes.
 - Mapped the reader-facing `Events & Experiences` section to both the new category and the existing formative-experience pages
 - Increased the non-navigation sidebar list count so each section shows more chapters at a glance
 
+## 2026-04-26 â€” Added the first People article set from `People.txt`
+- Added a new internal `people` category to the site constants and writing contract so person pages can live in their own cluster
+- Split `c:\Users\User\Downloads\People.txt` into 18 separate markdown chapters under `/wiki/articles/people/`
+- Rebuilt `/wiki/index.md` so the new People pages appear in the master catalog
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

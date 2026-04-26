@@ -28,6 +28,7 @@ Internal `category` values keep the filesystem organized and should remain broad
 Allowed internal categories:
 
 - `core`
+- `people`
 - `places`
 - `ventures`
 - `business`
@@ -88,13 +89,20 @@ Every article starts with YAML frontmatter.
 ```yaml
 ---
 title: Article Title
-category: core|places|ventures|business|philosophy|building|design|language|culture|youtube|curiosity|reading|tools|tech|habits|money|communication|frictions|meta
+category: core|people|places|ventures|business|philosophy|building|design|language|culture|youtube|curiosity|reading|tools|tech|habits|money|communication|frictions|meta
 section: navigation|identity|people|ventures|concepts|skills|media|life|events|timeline|curiosity   # optional
 type: person|place|venture|concept|tool|skill|show|channel|book|habit|principle|friction|meta|timeline|experience
+aliases: [Alternate titles that should resolve to this page]   # optional
 related: [List of related article titles]
 tags: [relevant, tags]
+redirectTo: category/slug   # optional, for hidden redirects or canonical merges
+hidden: false   # optional, keep true for redirects or pages that should not appear in navigation
 ---
 ```
+
+Use `aliases` when one canonical page should absorb alternate names, nicknames, or shorter references.
+
+If a duplicate file exists only to preserve an old title or URL, mark it with `redirectTo` and `hidden: true` so links still resolve without creating duplicate sidebar or graph entries.
 
 ## Article Shape
 
@@ -157,6 +165,8 @@ Do not define the label too quickly. First show the pressure, limitation, or liv
 ### People pages
 
 Do not reduce a person to a resume summary. Write them as a presence inside this world. Explain who they are, why they matter, and what kind of relationship or weight surrounds them.
+
+Do not force every person into the same headings. Let the structure follow the role: collaborator, mentor, long-term friend, roommate, brief encounter, or intellectual influence.
 
 ### Media pages
 

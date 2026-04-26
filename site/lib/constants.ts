@@ -1,5 +1,6 @@
 export const CATEGORY_NAMES: Record<string, string> = {
   core: 'Core',
+  people: 'People',
   places: 'Places',
   ventures: 'Ventures',
   business: 'Business',
@@ -24,7 +25,7 @@ export const CATEGORY_NAMES: Record<string, string> = {
 };
 
 export const CATEGORY_ORDER = [
-  'core', 'places', 'ventures', 'business',
+  'core', 'people', 'places', 'ventures', 'business',
   'philosophy', 'building', 'design',
   'language', 'culture', 'youtube',
   'curiosity', 'reading', 'books', 'music', 'events',
@@ -35,6 +36,7 @@ export const CATEGORY_ORDER = [
 
 export const CATEGORY_COLORS: Record<string, string> = {
   core: '#3f5f8f',
+  people: '#6e7c4a',
   places: '#557a62',
   ventures: '#9c5b3f',
   business: '#7a4f3d',
@@ -127,7 +129,7 @@ export const SECTION_COLORS: Record<SectionKey, string> = {
 export const SECTION_CATEGORY_MAP: Record<SectionKey, string[]> = {
   navigation: ['meta'],
   identity: ['core'],
-  people: [],
+  people: ['people'],
   ventures: ['ventures'],
   concepts: ['business', 'building', 'philosophy', 'money', 'communication', 'frictions'],
   skills: ['design', 'language', 'tools', 'tech'],
@@ -163,7 +165,7 @@ export const SECTION_PRIORITY_SLUGS: Partial<Record<SectionKey, string[]>> = {
     'core/the-cost-of-range',
     'core/becoming',
   ],
-  people: ['core/hendrix', 'core/hendrix-huynh', 'philosophy/nietzsche', 'philosophy/camus'],
+  people: [],
   ventures: ['ventures/duodode', 'ventures/digital-agency', 'ventures/agency-building', 'ventures/ai-automation'],
   concepts: ['philosophy/philosophy', 'building/build-and-ship', 'business/leverage', 'money/money'],
   skills: ['design/design-philosophy', 'language/english', 'tools/codex', 'tech/javascript'],

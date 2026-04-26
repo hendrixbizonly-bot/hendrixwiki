@@ -1,11 +1,12 @@
 import { Graph } from '@/components/Graph';
-import { buildTitleIndex, loadArticles } from '@/lib/articles';
+import { buildTitleIndex, extractWikiLinkTargets, loadArticles, visibleArticles } from '@/lib/articles';
 
 export const metadata = { title: 'Map | Hendrixpedia' };
 
 export default function GraphPage() {
-  const articles = loadArticles();
-  const titleIndex = buildTitleIndex(articles);
+  const allArticles = loadArticles();
+  const articles = visibleArticles(allArticles);
+  const titleIndex = buildTitleIndex(allArticles);
 
   const nodes = articles.map(article => ({
     id: article.slug,
@@ -18,7 +19,12 @@ export default function GraphPage() {
   const links: Array<{ source: string; target: string }> = [];
 
   for (const article of articles) {
-    for (const rel of article.related) {
+    const connections = new Set<string>([
+      ...article.related,
+      ...extractWikiLinkTargets(article.body),
+    ]);
+
+    for (const rel of connections) {
       const slug = titleIndex.get(rel.toLowerCase());
       if (!slug || slug === article.slug) continue;
 

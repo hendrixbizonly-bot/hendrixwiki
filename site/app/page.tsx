@@ -1,8 +1,8 @@
 import Link from 'next/link';
-import { articlesBySection, leadSentence, loadArticle, loadArticles, shortSummary } from '@/lib/articles';
+import { articlesBySection, leadSentence, loadArticle, loadArticles, shortSummary, visibleArticles } from '@/lib/articles';
 
 export default function HomePage() {
-  const articles = loadArticles();
+  const articles = visibleArticles(loadArticles());
   const sections = articlesBySection();
   const categoryCount = new Set(articles.map(article => article.category)).size;
   const featured = loadArticle('meta/start-here') ?? loadArticle('core/hendrix');

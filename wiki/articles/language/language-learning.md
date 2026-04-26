@@ -1,54 +1,24 @@
 ---
 title: Language Learning
 category: language
-type: concept
-related: [Hendrix, English, Vietnamese, Spanish, Duolingo, Duolingo Streak, Self-Development, Consistency, Eloquence]
-tags: [language, learning, self-development, habit]
+type: skill
+related: ["John", "English", "Vietnamese", "Global Perspective"]
+tags: ["language", "learning", "skill"]
 ---
 
 # Language Learning
 
-Language learning is one of my long-running personal projects. I see it not as a hobby but as part of [[Self-Development]]: a test of [[Consistency]], a [[Leverage|leverage]] move, and a way to expand how I think and reaches the world.
+[[Language Learning]] matters to me because every new language changes what the world feels like. It is not only about vocabulary. It is about access, rhythm, confidence, and the ability to move across different rooms without feeling locked out of them.
 
-## How I frame it
+That idea became more vivid when I met [[John]]. He was one of the first real polyglots I had known up close, and seeing that in ordinary conversation made the whole subject feel less abstract. It showed me that languages are not side hobbies. They open different social worlds and different ways of thinking.
 
-For me, language learning is:
+My relationship with [[English]] made this obvious first, but the deeper lesson is broader. Language learning compounds. It sharpens listening, expression, and cultural sensitivity all at once.
 
-- An act of [[Consistency]] over time
-- A form of [[Self-Development]]
-- A way to expand cultural and intellectual range
-- A long-term compounding asset
-
-It is not urgent. It is structural. A language you can operate in at 30 is a channel open for the rest of your life.
-
-## My languages
-
-- [[Vietnamese]]: native, origin, roots
-- [[English]]: fluent, working language, still being sharpened for [[Eloquence]] and [[Articulation]]
-- [[Spanish]]: currently learning via [[Duolingo]], anchored by a 350 plus day [[Duolingo Streak]]
-
-## Method
-
-My approach is practical and built on repetition:
-
-- Daily [[Duolingo]] for Spanish
-- Continuous exposure to English through [[TV Series]], [[YouTube]], [[Books]], and [[Essays]]
-- Vietnamese through life, family, and content like [[Spiderum]]
-
-I do not chase complex systems. He shows up.
-
-## Language as thinking
-
-I treat language as more than communication. It is the medium of thought. Sharper language means sharper thinking. That is why I want better [[Eloquence]], [[Articulation]], and [[Precision in Speech]] in [[English]] even though I am already fluent. Fluency is the floor. Command is the goal.
-
-## Connection to my system
-
-Language learning maps directly to [[Build and Ship]]. Start before ready. Practice daily. Accept messy early output. Let compounding do the work. It also ties to [[ROI-Driven Thinking]]: each new language adds real optionality and reach, not just a personal label.
-
-## Why it matters for a builder
-
-I am building [[Duodode]] and operating across [[Dubai]] globally. Language range means client range, market range, and cultural range. In a world that talks a lot, people who can speak sharply in multiple languages have an edge.
+I connect it strongly to [[Global Perspective]] because the two keep feeding each other.
 
 ## Related
 
-[[English]] · [[Vietnamese]] · [[Spanish]] · [[Duolingo]] · [[Duolingo Streak]] · [[Eloquence]] · [[Articulation]] · [[Precision in Speech]] · [[Self-Development]]
+- [[John]]
+- [[English]]
+- [[Vietnamese]]
+- [[Global Perspective]]
