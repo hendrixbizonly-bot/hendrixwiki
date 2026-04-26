@@ -1,6 +1,6 @@
 ---
 title: Application Design
-category: ventures
+category: design
 type: concept
 related: [Duodode, Application Development, Web Design, Design Philosophy, Figma]
 tags: [design, application, product, service]

@@ -1,6 +1,6 @@
 ---
 title: Web Development
-category: ventures
+category: tech
 type: concept
 related: [Duodode, Web Design, Next.js, Vercel, Application Development, JavaScript]
 tags: [development, web, service, engineering]

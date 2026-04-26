@@ -1,6 +1,6 @@
 ---
 title: Application Development
-category: ventures
+category: tech
 type: concept
 related: [Duodode, Application Design, Web Development, Next.js, Supabase, JavaScript]
 tags: [development, application, engineering, service]

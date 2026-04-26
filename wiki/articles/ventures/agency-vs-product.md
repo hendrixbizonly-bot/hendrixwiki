@@ -1,6 +1,6 @@
 ---
 title: Agency vs Product
-category: ventures
+category: business
 type: concept
 related: [Duodode, Digital Agency, Productized Services, Leverage, Ownership, Scale]
 tags: [strategy, tension, business-model]

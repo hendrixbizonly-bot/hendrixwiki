@@ -6,7 +6,8 @@ export const metadata = { title: 'Map | Hendrixpedia' };
 export default function GraphPage() {
   const allArticles = loadArticles();
   const articles = visibleArticles(allArticles);
-  const titleIndex = buildTitleIndex(allArticles);
+  const titleIndex = buildTitleIndex(articles);
+  const visibleSlugs = new Set(articles.map(article => article.slug));
 
   const nodes = articles.map(article => ({
     id: article.slug,
@@ -26,7 +27,7 @@ export default function GraphPage() {
 
     for (const rel of connections) {
       const slug = titleIndex.get(rel.toLowerCase());
-      if (!slug || slug === article.slug) continue;
+      if (!slug || !visibleSlugs.has(slug) || slug === article.slug) continue;
 
       const key = [article.slug, slug].sort().join('|');
       if (seen.has(key)) continue;

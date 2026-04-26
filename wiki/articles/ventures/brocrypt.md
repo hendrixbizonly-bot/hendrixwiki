@@ -2,6 +2,7 @@
 title: Brocrypt
 category: ventures
 type: venture
+hidden: true
 related: ["Roshan", "Dubai", "Entrepreneurship"]
 tags: ["venture", "startup", "dubai"]
 ---

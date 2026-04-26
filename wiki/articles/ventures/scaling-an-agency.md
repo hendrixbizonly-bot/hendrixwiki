@@ -1,6 +1,6 @@
 ---
 title: Scaling an Agency
-category: ventures
+category: business
 type: concept
 related: [Duodode, Agency Building, Productized Services, Systems, Leverage, Scale]
 tags: [scaling, agency, business]

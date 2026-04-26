@@ -1,6 +1,6 @@
 ---
 title: Agency Building
-category: ventures
+category: business
 type: skill
 related: [Duodode, Digital Agency, Scaling an Agency, Systems, Leverage, Business Strategy]
 tags: [agency, meta-skill, building]

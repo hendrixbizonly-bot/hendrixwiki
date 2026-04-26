@@ -3,7 +3,7 @@
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 153 chapters across 13 reader-facing sections.
+**Total:** 154 chapters across 13 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -76,31 +76,19 @@
 - **[Seriousness](wiki/articles/core/seriousness.md)** (concept; internal: Core) - Seriousness is one of the oldest tones in me. I do not mean stiffness or constant intensity. I mean that I have a hard time treating the important parts of life like decoration.
 
 
-### Ventures & Projects (18)
+### Ventures & Projects (6)
 
 > The businesses, experiments, and long-building undertakings where thought turns into work.
 
-- **[Duodode](wiki/articles/ventures/duodode.md)** (venture; internal: Ventures) - Duodode is the current container for a large part of my ambition. On the surface it is a digital agency, but that description is too thin on its own. What matters is why this form exists right now and what I am trying to prove through it.
-- **[Digital Agency](wiki/articles/ventures/digital-agency.md)** (concept; internal: Ventures) - A digital agency is the form factor Hendrix chose for Duodode. It is a service business that delivers Branding, AI Automation, and Digital Product Work to clients. The interesting question is not what a digital agency is in general, but...
-- **[Agency Building](wiki/articles/ventures/agency-building.md)** (skill; internal: Ventures) - Agency building is the meta-skill behind Duodode. It is not the work of designing or coding; it is the work of designing the company that does the designing and coding. For me, it is one of the primary things I am learning right now.
-- **[AI Automation](wiki/articles/ventures/ai-automation.md)** (concept; internal: Ventures) - AI automation is one of Duodode's four service lines and one of my most practical bets on where leverage is moving. It is not a trend I follow. It is a layer I build with.
-- **[Agency vs Product](wiki/articles/ventures/agency-vs-product.md)** (concept; internal: Ventures) - Agency vs product is the strategic tension sitting underneath Duodode. Both models are legitimate. Both compound in different ways. For me, the question is not which is objectively better. The question is which one fits where I am right...
-- **[Application Design](wiki/articles/ventures/application-design.md)** (concept; internal: Ventures) - Application design is one of Duodode's service lines. Where Web Design deals mostly with surfaces people visit, application design deals with tools people use. For me, it is one of the most demanding and interesting parts of the work.
-- **[Application Development](wiki/articles/ventures/application-development.md)** (concept; internal: Ventures) - Application development is Duodode's engineering-heavy service line. It is the work of building real applications on top of Application Design, using modern stacks and AI-Assisted Development. For me, it is a natural extension of my belief...
-- **[Branding](wiki/articles/ventures/branding.md)** (concept; internal: Ventures) - Branding is one of Duodode's core service lines and one of the disciplines I think most seriously about. For me, branding is not decoration. It is the layer where Strategic Thinking, Taste, and Clarity show up together.
-- **[Brocrypt](wiki/articles/ventures/brocrypt.md)** (venture; internal: Ventures) - Brocrypt sits in my mind through Roshan. The venture matters because it reflects the same thing I respect in him personally: consistency without unnecessary noise.
-- **[Client Work](wiki/articles/ventures/client-work.md)** (concept; internal: Ventures) - Client work is how Duodode operates day to day. Every engagement is a client project until the business evolves into something else. For me, client work is both the engine of the business and a discipline that sharpens my thinking.
-- **[Creative Services](wiki/articles/ventures/creative-services.md)** (concept; internal: Ventures) - Creative services is the umbrella term for the design-heavy side of what Duodode does. It covers Branding, Web Design, Application Design, motion, and the Taste layer on top of everything. For me, it is one half of the agency; Tech and AI...
-- **[Digital Product Work](wiki/articles/ventures/digital-product-work.md)** (concept; internal: Ventures) - Digital product work is one of the three pillars of Duodode, alongside Branding and AI Automation. For me, it is the space where my Design Philosophy and technical range come together at full strength.
-- **[Hyped Indie](wiki/articles/ventures/hyped-indie.md)** (venture; internal: Ventures) - Hyped Indie belongs to the early builder period when work still felt half-experimental and half-personal. I do not remember it as a polished company story. I remember it as part of the stretch where ideas were starting to leave my head and...
-- **[Productized Services](wiki/articles/ventures/productized-services.md)** (concept; internal: Ventures) - Productized services is the bridge between an agency and a product. It means taking repeatable client work, packaging it into a defined offer with a fixed scope and price, and delivering it through Systems instead of custom-fitting every...
-- **[Scaling an Agency](wiki/articles/ventures/scaling-an-agency.md)** (concept; internal: Ventures) - Scaling an agency is the problem of making the business grow without the founder becoming the bottleneck. For me, it is the central strategic question for Duodode once the craft and positioning are solid.
-- **[Simplifly](wiki/articles/ventures/simplifly.md)** (venture; internal: Ventures) - Simplifly belongs to the current builder chapter around Shaurya. What makes it memorable to me is not only the product itself, but the speed and seriousness with which it was being shaped.
-- **[Web Design](wiki/articles/ventures/web-design.md)** (concept; internal: Ventures) - Web design is one of Duodode's core offerings and a surface where my Design Philosophy shows up most directly. For me, a website is not a brochure. It is a product, a storefront, and often the first serious test of whether a business knows...
-- **[Web Development](wiki/articles/ventures/web-development.md)** (concept; internal: Ventures) - Web development is where Duodode turns design into working product. It is the engineering side of the web work, and for me, it is where Taste meets real execution.
+- **[Duodode](wiki/articles/ventures/duodode.md)** (venture; internal: Ventures) - Duodode is the place where my current working life becomes concrete. From the outside it can be described as a design agency, and that is technically true, but the name means more to me than a service label. It is the environment where my...
+- **[Hyped Indie](wiki/articles/ventures/hyped-indie.md)** (venture; internal: Ventures) - Hyped Indie was an indie game publishing attempt from an earlier phase of my life, back when ideas were arriving faster than structure. It carried energy, curiosity, and real interest in the indie scene, but it also carried my inexperience...
+- **[Simplifly](wiki/articles/ventures/simplifly.md)** (venture; internal: Ventures) - Simplifly was a product project built around an unconventional eSIM idea for pilots and travelers. My role in it was on the design side, but the reason it stayed with me has less to do with screens alone and more to do with the kind of...
+- **[Astro View](wiki/articles/ventures/astro-view.md)** (venture; internal: Ventures) - Astro View is a personal astronomy learning app idea built around a simple desire: I want to point at the sky and understand what I am looking at. I like the idea of turning wonder into something a little more usable. The stars already...
+- **[Ecom Stores](wiki/articles/ventures/ecom-stores.md)** (venture; internal: Ventures) - Ecom Stores was not one clean venture with one clean story. It was a cluster of attempts during university, a period when I kept trying to build something in ecommerce and kept learning through failure instead of through a clear win. I...
+- **[YouTube Channel](wiki/articles/ventures/youtube-channel.md)** (venture; internal: Ventures) - This was a private and fairly low-key experiment around content. I did not need to turn it into a public identity story. What mattered was that it existed as a place where I could test expression, pacing, and the relationship between...
 
 
-### Concepts & Philosophy (6)
+### Concepts & Philosophy (12)
 
 > The operating system: the principles, frames, and philosophical lines that shape how I think, decide, and build.
 
@@ -108,8 +96,14 @@
 - **[Builder](wiki/articles/core/being-a-builder.md)** (concept; internal: Core) - The word came late. The pattern came first.
 - **[Becoming](wiki/articles/core/becoming.md)** (concept; internal: Core) - I rarely think of myself as finished.
 - **[Self-Overcoming](wiki/articles/philosophy/self-overcoming.md)** (concept; internal: Philosophy) - This is the philosophical idea that stays closest to my actual life.
+- **[Hedgehog's Dilemma](wiki/articles/philosophy/hedgehogs-dilemma.md)** (concept; internal: Philosophy) - Some ideas stay alive because they explain a tension I already recognize before I have the language for it. Hedgehog's Dilemma is one of those. The image is simple enough to remember forever: living beings need warmth, but closeness also...
 - **[Build and Ship](wiki/articles/building/build-and-ship.md)** (principle; internal: Building) - I lean on this principle because I know how easy it is to stay in thought too long.
 - **[Execution Over Talk](wiki/articles/building/execution-over-talk.md)** (principle; internal: Building) - I lose interest quickly when the conversation starts replacing the work.
+- **[Small Things Are Not Small](wiki/articles/philosophy/small-things-are-not-small.md)** (concept; internal: Philosophy) - > "To create an apple pie, you must first create a universe."
+- **[Making Space](wiki/articles/philosophy/making-space.md)** (concept; internal: Philosophy) - I used to think productivity meant filling every hour until the day looked full enough to count.
+- **[Reading and the Mind](wiki/articles/philosophy/reading-and-the-mind.md)** (concept; internal: Philosophy) - When I stop reading for too long, I can feel something in my thinking get smaller.
+- **[Language as Thought](wiki/articles/philosophy/language-as-thought.md)** (concept; internal: Philosophy) - I do not really believe thought comes first in some pure form and then gets translated into words after.
+- **[We Come from Stars](wiki/articles/philosophy/we-come-from-stars.md)** (concept; internal: Philosophy) - I keep coming back to this idea because it changes the feeling of existence for me.
 
 
 ### Skills & Tools (20)
@@ -225,14 +219,21 @@
 - **[Working from Dubai](wiki/articles/places/working-from-dubai.md)** (concept; internal: Places) - Working from Dubai is the practical side of being based in Dubai. The tactical layer underneath the strategic base location choice. It is about what the day-to-day operating reality actually looks like.
 
 
-### Events & Experiences (4)
+### Events & Experiences (11)
 
 > Specific lived moments and experiences that changed the texture of how I think, work, or understand myself.
 
-- **[Events & Experiences](wiki/articles/events/events-and-experiences.md)** (concept; internal: Events) - This is the shelf for the lived events and experiences that changed how I think, move, or understand my own direction.
-- **[Formative Experiences](wiki/articles/meta/formative-experiences.md)** (experience; internal: Meta) - A life is not only shaped by beliefs and goals. It is also shaped by repeated experiences that teach something before a person has the language to explain it. This page gathers a few of the recurring experiences that feel formative in my...
-- **[YEC](wiki/articles/events/yec.md)** (experience; internal: Events) - YEC was not just a university club to me. It was one of the places where responsibility became real. Leadership, planning, hosting, speaking, and carrying something with other people all became much more concrete there.
-- **[YEC The Connection 2023](wiki/articles/events/yec-the-connection-2023.md)** (event; internal: Events) - YEC The Connection 2023 stays with me because it gathered a lot of things into one moment: preparation, leadership, language, nerves, and the feeling of stepping into something larger than ordinary campus life.
+- **[YEC The Connection 2023](wiki/articles/events/yec-the-connection-2023.md)** (event; internal: Events) - What I remember first is the pressure before the event actually began. By the time people saw the lights, the speaker, and the crowd, most of the real work had already happened backstage. I had prepared the event with Van Anh, and that...
+- **[YEC Club Pitch](wiki/articles/events/yec-club-pitch.md)** (event; internal: Events) - The YEC Club Pitch stays in my mind because it was the first time I spoke publicly in English in front of a crowd that large. There were more than six hundred students there, and I could feel the difference between speaking in a classroom...
+- **[Campari Italy's National Day Event](wiki/articles/events/campari-italys-national-day-event.md)** (event; internal: Events) - I remember the Campari Italy's National Day Event because it was the first major event I joined while working in Trade Marketing. Until then, a lot of work still felt like preparation, theory, or small-scale responsibility. This was...
+- **[The Clash Tournament](wiki/articles/events/the-clash-tournament.md)** (event; internal: Events) - The Clash Tournament is one of those memories that stays bright because it was competitive, social, and unexpectedly clean in the way it came together. We played as the Duodode team, with Jack, Brian, and Jake, and we ended up winning the...
+- **[Covid-19 Running Habit](wiki/articles/events/covid-19-running-habit.md)** (event; internal: Events) - During Covid-19, running stopped being a casual activity and became a real habit in my life. That period changed the shape of my days for a lot of people, and I felt that disruption too. Running became one of the few things that felt clean...
+- **[Learning How to Code](wiki/articles/events/learning-how-to-code.md)** (event; internal: Events) - When I started learning how to code, I had no technical background at all. That is one reason I remember the process so clearly. It did not feel like moving naturally from one existing strength into another. It felt like walking into a...
+- **[DaVinci Resolve Crash](wiki/articles/events/davinci-resolve-crash.md)** (event; internal: Events) - I remember the DaVinci Resolve crash because it turned a normal editing session into a stubborn technical problem that would not let go. I was working in the Fusion page when the whole thing broke, and from there it became less about...
+- **[Bai Dinh Summer Retreat](wiki/articles/events/bai-dinh-summer-retreat.md)** (event; internal: Events) - The Bai Dinh Summer Retreat stays with me because it was one of the rare times life became quieter in a very deliberate way. I spent a week at Bai Dinh Pagoda, staying there, eating there, and moving through the rhythm of the place instead...
+- **[Solo Trekking](wiki/articles/events/solo-trekking.md)** (event; internal: Events) - I have had two solo trekking experiences that stayed with me: one in Mushrif Park in Dubai and one in the mountains of Fujairah. I connect them in memory because both gave me the same internal feeling. Once I am far enough into the walk,...
+- **[Dubai Mallathon](wiki/articles/events/dubai-mallathon.md)** (event; internal: Events) - The Dubai Mallathon matters to me because it was my first half marathon and because finishing twenty-one kilometers changes the scale of what a run feels like. Running inside a mall made the setting a little unusual, but the real memory is...
+- **[Nevermind Cobuild](wiki/articles/events/nevermind-cobuild.md)** (event; internal: Events) - Nevermind Cobuild stays with me because it was one of the places where Dubai stopped feeling like only a location and became more of a builder environment. It was a founder community, but what matters in memory is not the label. What...
 
 
 ### Timeline (1)

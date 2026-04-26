@@ -1,6 +1,6 @@
 ---
 title: Branding
-category: ventures
+category: design
 type: concept
 related: [Duodode, Design Philosophy, Web Design, Creative Services, Taste]
 tags: [branding, design, service]

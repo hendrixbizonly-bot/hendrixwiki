@@ -1,6 +1,6 @@
 ---
 title: Creative Services
-category: ventures
+category: business
 type: concept
 related: [Duodode, Branding, Web Design, Application Design, Taste, Design Philosophy]
 tags: [creative, services, design]

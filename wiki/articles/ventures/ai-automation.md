@@ -1,6 +1,6 @@
 ---
 title: AI Automation
-category: ventures
+category: tech
 type: concept
 related: [Duodode, n8n, Systems, Leverage, AI Tools, Productized Services]
 tags: [ai, automation, service, leverage]

@@ -1,6 +1,6 @@
 ---
 title: Digital Agency
-category: ventures
+category: business
 type: concept
 related: [Duodode, Hendrix, Agency Building, Agency-vs-Product, Client Work, Scale, Leverage]
 tags: [agency, business-model, venture]

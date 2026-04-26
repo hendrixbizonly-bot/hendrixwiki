@@ -1,6 +1,6 @@
 ---
 title: Productized Services
-category: ventures
+category: business
 type: concept
 related: [Duodode, Scaling an Agency, Systems, Leverage, Agency-vs-Product, AI Automation]
 tags: [productization, scaling, services, business-model]

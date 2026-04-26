@@ -1,6 +1,6 @@
 ---
 title: Digital Product Work
-category: ventures
+category: building
 type: concept
 related: [Duodode, Application Design, Application Development, Web Design, Web Development, Design Philosophy]
 tags: [product, digital, service]

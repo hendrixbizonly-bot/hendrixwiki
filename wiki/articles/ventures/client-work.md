@@ -1,6 +1,6 @@
 ---
 title: Client Work
-category: ventures
+category: business
 type: concept
 related: [Duodode, Digital Agency, Productized Services, Agency Building, ROI-Driven Thinking]
 tags: [clients, service, business]
