@@ -2,37 +2,36 @@
 title: Vercel
 category: tools
 type: tool
-related: [Next.js, GitHub, Node.js, Deployment Workflows, Supabase]
-tags: [deployment, hosting, tools, infrastructure]
+related: [Next.js, GitHub, Supabase, VS Code, Node.js]
+tags: [deployment, hosting, infrastructure, tool]
 ---
 
 # Vercel
 
-Vercel is my deployment platform. It is where [[Next.js]] projects for [[Duodode]] go live. It gives me production infrastructure without running ops.
+## How I Got Into It
 
-## What it is
+I used to think of deployment as the stressful last step. Vercel changed that. Once I started working with modern web stacks, it became the obvious place to push things live without turning every launch into an operations project.
 
-A platform for deploying modern web applications. Connects to [[GitHub]], handles builds, previews, edge, and domains in one place.
+That mattered to me because I care a lot about keeping momentum.
 
-## How I use it
+## The Learning Process
 
-- Deploying client sites and products from [[GitHub]]
-- Generating preview URLs for in-progress work
-- Running production for [[Duodode]] apps
-- Pairing with [[Supabase]] for full-stack deployments
-- Removing the hosting question from my workflow
+The tool itself is approachable, but production still teaches its own lessons. Environment variables, domains, preview links, figuring out why something works locally and fails after deployment. That part still makes you earn it.
 
-## Why it fits my workflow
+What Vercel did was make those lessons feel manageable instead of overwhelming.
 
-I want to spend energy on building, not on infrastructure. Vercel makes deployment a one-command problem. That is exactly the kind of [[Leverage|leverage]] he looks for in a tool.
+## How I Use It Now
 
-## What it unlocks for me
+I use Vercel to deploy projects, especially work built with [[Next.js]]. It fits naturally with [[GitHub]], and it keeps the path from local work in [[VS Code]] to a live URL pretty short.
 
-- Instant deploys and rollbacks
-- Preview links for client feedback loops
-- Global performance by default
-- A clean path from [[VS Code]] commit to live URL
+That short path matters. I like being able to test real things in real environments quickly.
+
+## What It Changed
+
+It made shipping feel normal. That is probably the biggest change. A project does not have to sit in limbo after the build is done. It can go live, get tested, and keep moving.
+
+It also made my stack feel more complete because deployment stopped feeling separate from development. It became part of the same flow.
 
 ## Related
 
-[[Next.js]] · [[GitHub]] · [[Node.js]] · [[Deployment Workflows]] · [[Supabase]]
+[[Next.js]] · [[GitHub]] · [[Supabase]] · [[VS Code]] · [[Node.js]]

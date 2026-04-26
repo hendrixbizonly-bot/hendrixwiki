@@ -1,6 +1,7 @@
 ---
 title: Introspection
 category: core
+section: concepts
 type: concept
 related: [Hendrix, Identity, Becoming, Clarity, Running, Philosophy]
 tags: [mindset, reflection, inner-life]

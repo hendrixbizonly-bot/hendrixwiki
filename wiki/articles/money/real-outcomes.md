@@ -1,6 +1,7 @@
 ---
 title: Real Outcomes
 category: money
+hidden: true
 type: concept
 related: [Real Output, Money, ROI-Driven Thinking, Substance Over Noise, Execution Over Talk, No-BS]
 tags: [outcomes, money, principle]

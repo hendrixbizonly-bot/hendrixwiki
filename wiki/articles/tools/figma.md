@@ -2,37 +2,36 @@
 title: Figma
 category: tools
 type: tool
-related: [Duodode, Design Philosophy, Intentional Design, Rive, Interaction Design, Motion Design]
-tags: [design, tools, ui, product]
+related: [Design, Duodode, VS Code, Rive Animation, Next.js]
+tags: [design, ui, product, tool]
 ---
 
 # Figma
 
-Figma is my primary design tool. It is where most of the visual work for [[Duodode]] lives: branding systems, interface design, product screens, and iteration on client work. For a designer building across [[Branding]] and [[Digital Product Work]], Figma is the default workbench.
+## How I Got Into It
 
-## What it is
+I learned Figma the same way I learned a lot of practical things: through YouTube, then by sitting with it long enough for it to stop feeling foreign. Once I started doing real design work, it became obvious very quickly that this was where most of that work would live.
 
-A collaborative design tool that runs in the browser. Vector, components, auto layout, prototyping, and shared files in one place.
+I did not come into it from a formal design background. I came into it because I needed a place to think visually, test ideas, and make things that looked like they belonged in the real world. Figma became that place.
 
-## How I use it
+## The Learning Process
 
-- Designing [[Branding]] systems and product UI
-- Building design systems and component libraries for client work
-- Prototyping interactions before handing off to code
-- Collaborating with clients and teammates in shared files
-- Documenting [[Intentional Design|intentional]] decisions alongside the visuals
+The hardest part at the beginning was not drawing rectangles or choosing colors. It was learning how to think in systems instead of screens. Auto layout, components, reusable structure, spacing that stays consistent. That part took more repetition than I expected.
 
-## Why it fits my workflow
+I also learned that taste alone is not enough. You still need structure. You still need to know how to build a file that makes sense when you come back to it later, or when someone else opens it. That was a good lesson for me because it pushed my idea of [[Design]] away from decoration and closer to discipline.
 
-Figma removes friction. No file versioning. No handoff pain. Real-time collaboration. That matches my [[Build and Ship|build and ship]] instinct: set up, move fast, ship. It is also native to how modern product teams work, which is where [[Duodode]] operates.
+## How I Use It Now
 
-## What it unlocks for me
+Most of my design work happens in Figma. Brand systems, UI directions, landing pages, app screens, rough ideas that later become real products. If I am working on something visual for [[Duodode]], there is a good chance it starts there.
 
-- Faster iteration on [[Design Philosophy|intentional, timeless, consistent]] systems
-- Clean handoff into [[VS Code]] and [[Next.js]] builds
-- A shared visual language with clients without meeting fatigue
-- A base layer for motion work in [[Rive]] and code-level motion in [[GSAP]] or [[Framer Motion]]
+It also sits right in the middle of how I work with code. I can think through a screen in Figma, then move into [[VS Code]] and [[Next.js]] when it is time to make it real. When motion is involved, it also connects naturally to [[Rive Animation]].
+
+## What It Changed
+
+Figma gave me a reliable surface for turning vague visual instinct into something concrete. Before that, a lot of design thinking stayed in my head. After that, it had somewhere to go.
+
+It also changed the speed of iteration for me. I could test, adjust, compare, and keep moving without making design feel heavy. That mattered because a lot of my learning has happened by building, not by waiting until I felt fully prepared.
 
 ## Related
 
-[[Duodode]] · [[Design Philosophy]] · [[Intentional Design]] · [[Rive]] · [[Interaction Design]] · [[Motion Design]] · [[VS Code]]
+[[Design]] · [[Duodode]] · [[VS Code]] · [[Rive Animation]] · [[Next.js]]

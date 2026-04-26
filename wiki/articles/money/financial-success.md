@@ -1,6 +1,7 @@
 ---
 title: Financial Success
 category: money
+hidden: true
 type: concept
 related: [Money, Wealth, Freedom, Practical Ambition, Avoiding Mediocrity, Real Outcomes]
 tags: [success, money, goal]

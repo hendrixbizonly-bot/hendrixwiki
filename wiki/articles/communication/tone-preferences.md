@@ -1,6 +1,7 @@
 ---
 title: Tone Preferences
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Directness, Natural Language, No-BS]
 tags: [tone, communication, writing]

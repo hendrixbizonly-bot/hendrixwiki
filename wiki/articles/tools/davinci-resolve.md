@@ -2,36 +2,36 @@
 title: DaVinci Resolve
 category: tools
 type: tool
-related: [Video Editing, Duodode, Motion Design, Ads Manager]
-tags: [video, editing, tools, production]
+related: [Paid Marketing, Duodode, Figma]
+tags: [video, editing, production, tool]
 ---
 
 # DaVinci Resolve
 
-DaVinci Resolve is my video editing tool. I use it for the video side of [[Duodode]] and any personal video work. It is a full editing, color, and post suite, and it is powerful enough to grow into as my output scales.
+## How I Got Into It
 
-## What it is
+I learned DaVinci Resolve from YouTube. At first it felt like a lot of software for someone who just wanted to cut video and make it look clean. Then I kept using it, and the depth started to feel like an advantage instead of a burden.
 
-A professional video editing and color grading application. One of the few tools that can handle everything from simple cuts to high-end color and finishing in a single app.
+That is usually how good tools work. They look heavy before they become familiar.
 
-## How I use it
+## The Learning Process
 
-- Editing marketing and brand videos for [[Duodode]] clients
-- Color grading to hit a consistent visual standard
-- Producing content that plugs into [[Ads Manager]] campaigns
-- Cutting personal or experimental video work
+The part that gave me the most trouble in the beginning was the Fusion page. It felt like a different language. I remember opening it and feeling like I had skipped several chapters somehow.
 
-## Why it fits my workflow
+It makes more sense to me now, mostly because I stopped expecting it to feel simple right away. Once I accepted that some parts needed time, the learning process got easier.
 
-I want tools with real depth. Resolve has it. Starting on a serious editor means I do not have to switch later as my needs grow. That matches my preference for [[Leverage|leverage]] and [[Long-term Upside|long-term]] choices.
+## How I Use It Now
 
-## What it unlocks for me
+I use Resolve when I need to edit video seriously, whether that is client work, creative assets, or anything that needs more control than a lightweight editor would give me. It is part of the stack around [[Paid Marketing]] too, because good ads usually need clean video and quick iterations.
 
-- High-quality video output without paying for multiple tools
-- A real path from edit to final color without exporting between apps
-- Capability for client work that needs more than a quick cut
-- Another surface where my [[Design Philosophy|intentional, timeless, consistent]] standard applies
+It also fits the way I already think visually. A lot of the taste work I do in [[Figma]] carries over into editing choices, rhythm, pacing, and what I cut out.
+
+## What It Changed
+
+It made video feel less intimidating. Before Resolve, video editing sat in my head as something specialized and separate. After spending time with it, it felt like another creative surface I could learn through repetition.
+
+It also taught me patience. Some tools do not reward you instantly. Resolve was one of the better reminders of that.
 
 ## Related
 
-[[Video Editing]] · [[Duodode]] · [[Motion Design]] · [[Ads Manager]]
+[[Paid Marketing]] · [[Duodode]] · [[Figma]]

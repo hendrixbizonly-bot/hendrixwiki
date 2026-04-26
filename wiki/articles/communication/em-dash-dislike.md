@@ -1,6 +1,7 @@
 ---
 title: Em-Dash Dislike
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Natural Language, Concise Writing]
 tags: [em-dash, punctuation, style]

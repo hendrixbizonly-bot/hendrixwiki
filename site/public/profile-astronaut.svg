@@ -1,0 +1,21 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="77" fill="#243C87" stroke="#EEE9DD" stroke-width="6"/>
+  <path d="M21 60C34 63 42 63 52 61C60 59 65 59 71 61" stroke="#EEE9DD" stroke-width="5" stroke-linecap="round"/>
+  <path d="M107 36C120 37 128 44 132 56" stroke="#EEE9DD" stroke-width="5" stroke-linecap="round"/>
+  <path d="M58 92L67 72L79 62L91 63L103 73L108 92L102 115L89 129H74L60 115L58 92Z" fill="#F6F2E9" stroke="#243C87" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M72 53C72 40 82 30 95 30C108 30 118 40 118 53C118 66 108 76 95 76C82 76 72 66 72 53Z" fill="#F6F2E9" stroke="#243C87" stroke-width="5"/>
+  <circle cx="95" cy="53" r="13" fill="#243C87"/>
+  <path d="M80 69L62 87C58 91 58 97 62 101C66 105 72 105 76 101L89 87" fill="#F6F2E9"/>
+  <path d="M80 69L62 87C58 91 58 97 62 101C66 105 72 105 76 101L89 87" stroke="#243C87" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M103 69L120 79C126 83 128 92 123 98C119 104 111 105 105 101L92 89" fill="#F6F2E9"/>
+  <path d="M103 69L120 79C126 83 128 92 123 98C119 104 111 105 105 101L92 89" stroke="#243C87" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M73 116L69 135C68 141 72 146 78 146H82C88 146 92 141 91 135L88 116" fill="#F6F2E9"/>
+  <path d="M73 116L69 135C68 141 72 146 78 146H82C88 146 92 141 91 135L88 116" stroke="#243C87" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M89 116L95 134C97 140 103 143 108 141L111 140C117 138 120 132 118 126L109 108" fill="#F6F2E9"/>
+  <path d="M89 116L95 134C97 140 103 143 108 141L111 140C117 138 120 132 118 126L109 108" stroke="#243C87" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M67 94H74" stroke="#243C87" stroke-width="5" stroke-linecap="round"/>
+  <path d="M105 89H112" stroke="#243C87" stroke-width="5" stroke-linecap="round"/>
+  <path d="M32 98L35 102L40 101L37 106L39 111L34 109L29 112L30 106L26 102L31 101L32 98Z" fill="#F6F2E9" stroke="#243C87" stroke-width="2"/>
+  <path d="M45 32L47 35L51 34L49 38L51 42L47 40L43 42L44 38L41 34L45 35L45 32Z" fill="#F6F2E9" stroke="#243C87" stroke-width="2"/>
+  <path d="M126 106L127.5 108.5L130.5 108L129 110.5L130.5 113L127.5 112.5L125 115L125.5 111.5L123 110L126 109.5L126 106Z" fill="#F6F2E9" stroke="#243C87" stroke-width="1.5"/>
+</svg>

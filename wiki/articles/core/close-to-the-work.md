@@ -1,6 +1,7 @@
 ---
 title: Close to the Work
 category: core
+section: concepts
 type: concept
 related: [Being a Builder, Execution-First Mindset, Responsibility for Outcomes, Duodode, Designer vs Builder]
 tags: [builder, execution, work, proximity]

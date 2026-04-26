@@ -1,6 +1,7 @@
 ---
 title: ROI-Driven Thinking
 category: core
+section: concepts
 type: concept
 related: [Hendrix, Execution-First Mindset, Strategic Thinking, Leverage, Money, No-BS]
 tags: [mindset, decision-making, value]

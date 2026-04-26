@@ -1,6 +1,7 @@
 ---
 title: Respect for Money
 category: money
+hidden: true
 type: concept
 related: [Money, Wealth, Practical Ambition, Financial Success, Real Outcomes, Long-term Upside]
 tags: [respect, money, attitude]

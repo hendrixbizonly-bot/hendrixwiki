@@ -2,37 +2,36 @@
 title: Node.js
 category: tools
 type: tool
-related: [Next.js, JavaScript, Vercel, VS Code, GitHub, Backend]
-tags: [node, javascript, runtime, tools]
+related: [JavaScript, Next.js, GitHub, Vercel, n8n Workflow with VPS]
+tags: [node, javascript, runtime, tool]
 ---
 
 # Node.js
 
-Node.js is the JavaScript runtime underneath most of my technical work. It is what powers [[Next.js]] on the server, scripts I run locally, and tooling across my stack.
+## How I Got Into It
 
-## What it is
+Node.js became part of my stack because JavaScript kept leading me there. Once I was building more seriously, it was hard to avoid. Scripts, package tooling, local servers, framework runtimes, a lot of the modern web world assumes Node is in the background.
 
-A JavaScript runtime that lets JS run outside the browser. The default engine for modern web and product tooling.
+So I learned it less as an isolated subject and more as part of learning how the whole development environment actually works.
 
-## How I use it
+## The Learning Process
 
-- Running [[Next.js]] apps in development and production
-- Executing build tools, scripts, and CLI utilities
-- Supporting API work tested through [[Postman]]
-- Providing the runtime underneath deployments to [[Vercel]]
-- Acting as the default language context for anything involving [[JavaScript]]
+The early confusion was mostly about context. Browser JavaScript made sense to me faster. Node.js took a little longer because I had to understand what changes when the code is running outside the browser and why that matters.
 
-## Why it fits my workflow
+I also had to get more comfortable with packages, scripts, terminals, and the general messiness that comes with real project tooling. That learning was worth it because it made the rest of the stack feel far less magical.
 
-Most of my stack assumes Node. Sticking close to it means fewer context switches and a tighter loop between front-end and back-end work. That matches my bias toward [[Leverage|leverage]] and clean workflows.
+## How I Use It Now
 
-## What it unlocks for me
+Node.js sits under a lot of my daily work now. It powers local development, scripts, project tooling, parts of [[Next.js]], and the technical side of systems like [[n8n Workflow with VPS]].
 
-- One language across most of my product surface
-- Fast iteration between local and deployed environments
-- Access to a massive ecosystem of packages
-- A foundation for the rest of my [[Working Stack|working stack]]
+It is one of those layers I may not think about constantly, but I feel it every time I build.
+
+## What It Changed
+
+It connected front-end work to the larger environment around it. Before that, it was easier to think only in terms of pages and UI. Node.js helped me think more like a builder working with a full system.
+
+It also made my stack feel more unified. Staying close to [[JavaScript]] while still moving into backend-adjacent work gave me a lot of leverage.
 
 ## Related
 
-[[Next.js]] · [[JavaScript]] · [[Vercel]] · [[VS Code]] · [[GitHub]] · [[Backend]] · [[Deployment Workflows]]
+[[JavaScript]] · [[Next.js]] · [[GitHub]] · [[Vercel]] · [[n8n Workflow with VPS]]

@@ -1,6 +1,7 @@
 ---
 title: Directness
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Concise Writing, Clear Over Clever, No-BS]
 tags: [directness, communication, writing]

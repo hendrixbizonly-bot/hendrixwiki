@@ -1,6 +1,7 @@
 ---
 title: Compounding Wealth
 category: money
+hidden: true
 type: concept
 related: [Long-term Upside, Wealth, Money, Financial Success, Practical Ambition, Self-Development]
 tags: [compounding, wealth, long-term]

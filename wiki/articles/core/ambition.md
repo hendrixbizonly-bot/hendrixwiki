@@ -1,6 +1,7 @@
 ---
 title: Ambition
 category: core
+section: concepts
 type: concept
 related: [Hendrix, Future Orientation, Being a Builder, Freedom, Duodode, Becoming]
 tags: [drive, ambition, goals]

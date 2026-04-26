@@ -54,6 +54,11 @@ Append-only record of ingests, regenerations, and structural changes.
 - Split `c:\Users\User\Downloads\People.txt` into 18 separate markdown chapters under `/wiki/articles/people/`
 - Rebuilt `/wiki/index.md` so the new People pages appear in the master catalog
 
+## 2026-04-26 - Curated the Skills & Tools section around the approved list
+- Replaced the raw Skills & Tools section dump with a fixed 20-item curated order in `/site/lib/constants.ts`, `/site/lib/articles.ts`, and `/site/build_index.py`
+- Rewrote or added approved pages for Figma, Claude and Codex, HTML/CSS, Postman API Testing, Rive Animation, n8n Workflow with VPS, Bartending, Paid Marketing, Public Speaking, and the rest of the approved stack
+- Converted true duplicates such as `Codex`, `Claude Code`, `HTML`, `CSS`, `Postman`, and `API Testing` into hidden redirects so old links still resolve without cluttering navigation
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

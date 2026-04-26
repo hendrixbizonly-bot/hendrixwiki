@@ -1,6 +1,7 @@
 ---
 title: Money
 category: money
+hidden: true
 type: concept
 related: [Wealth, Freedom, Financial Success, Respect for Money, Long-term Upside, Compounding Wealth]
 tags: [money, wealth, core]

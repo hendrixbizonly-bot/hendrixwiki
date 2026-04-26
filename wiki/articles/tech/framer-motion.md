@@ -2,36 +2,36 @@
 title: Framer Motion
 category: tech
 type: tool
-related: [GSAP, Motion Design, Interaction Design, Next.js, Frontend Frameworks]
+related: [Next.js, GSAP, Rive Animation, Figma, Interaction Design]
 tags: [animation, motion, react, library]
 ---
 
 # Framer Motion
 
-Framer Motion is my default motion library inside React-based work. It pairs naturally with [[Next.js]] and is fast to reach for on component-level motion.
+## How I Got Into It
 
-## What it is
+Framer Motion became the thing I reached for when I wanted UI to feel finished without making motion the whole project. It sat naturally inside the kind of React and [[Next.js]] work I was already doing, so it made sense quickly.
 
-A React animation library focused on declarative motion, gestures, and transitions. Designed to feel native to component code.
+That fit mattered. I like tools that slip into the workflow I already have.
 
-## How I use it
+## The Learning Process
 
-- Component-level motion inside [[Duodode]] products
-- Page transitions and state-driven animation in [[Next.js]]
-- Interaction feedback that lives inside the component model
-- Working alongside [[GSAP]] when a job needs heavier control or [[Rive]] when motion needs to be interactive
+The main learning was not the syntax. It was learning restraint. Motion is easy to overdo. Good motion supports the interface instead of asking for attention every second.
 
-## Why it fits my workflow
+I also had to get used to thinking in states and transitions instead of only static screens. That changed the way I designed interactions.
 
-Framer Motion sits where most of my front-end work already is. That keeps motion close to the components it serves, which is the right place for [[Interaction Design]] to live.
+## How I Use It Now
 
-## What it unlocks
+I use Framer Motion for UI animation, transitions, and interaction details that need to live close to the component itself. It works well when the motion belongs directly inside a product surface rather than as a separate animated system.
 
-- Fast implementation of [[Motion Design]] intent from [[Figma]]
-- Clean, component-native transitions
-- Less glue code between state and animation
-- A consistent motion grammar across a product
+It also pairs well with work that starts in [[Figma]] and later moves into code.
+
+## What It Changed
+
+It made motion feel more reachable inside day-to-day product work. I did not have to treat animation like a giant special project every time.
+
+It also improved how I think about polish. Not decorative polish, but the kind that makes a UI feel more intentional.
 
 ## Related
 
-[[GSAP]] · [[Motion Design]] · [[Interaction Design]] · [[Next.js]] · [[Frontend Frameworks]] · [[Design Philosophy]]
+[[Next.js]] · [[GSAP]] · [[Rive Animation]] · [[Figma]] · [[Interaction Design]]

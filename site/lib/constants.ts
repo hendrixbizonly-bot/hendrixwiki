@@ -77,6 +77,7 @@ export const SECTION_ORDER = [
 ] as const;
 
 export type SectionKey = (typeof SECTION_ORDER)[number];
+export type CuratedSectionEntry = string | { slug: string; title?: string };
 
 export const SECTION_NAMES: Record<SectionKey, string> = {
   navigation: 'Navigation',
@@ -96,10 +97,10 @@ export const SECTION_NAMES: Record<SectionKey, string> = {
 
 export const SECTION_DESCRIPTIONS: Record<SectionKey, string> = {
   navigation: 'Entry points, orientation pages, and the chapters that explain how to move through the archive.',
-  identity: 'The inner spine: self-concepts, recurring traits, motives, and the language I use to describe my own shape.',
+  identity: 'The self-description layer: the chapters that answer who I am, what keeps returning in me, and what kind of person I am still becoming.',
   people: 'The individuals who matter here, whether through family, influence, admiration, collaboration, or memory.',
   ventures: 'The businesses, experiments, and long-building undertakings where thought turns into work and direction becomes concrete.',
-  concepts: 'The frameworks, principles, beliefs, frictions, and philosophical positions that quietly govern the rest of the world.',
+  concepts: 'The operating system: the principles, frames, and philosophical lines that shape how I think, decide, and build.',
   skills: 'The crafts, capabilities, technologies, and working instruments that let ideas become output.',
   media: 'The shows, channels, essays, and broader cultural inputs that sharpen taste, language, and perspective.',
   books: 'The books, reading habits, and written works that sharpen perspective, imagination, and judgment.',
@@ -156,18 +157,24 @@ export const SECTION_PRIORITY_SLUGS: Partial<Record<SectionKey, string[]>> = {
   identity: [
     'core/hendrix',
     'core/being-a-builder',
-    'core/identity',
     'core/what-lasts',
-    'core/close-to-the-work',
-    'core/range',
     'core/responsibility-for-outcomes',
     'core/learning-across-surfaces',
     'core/the-cost-of-range',
     'core/becoming',
+    'core/competence',
+    'core/seriousness',
   ],
   people: [],
   ventures: ['ventures/duodode', 'ventures/digital-agency', 'ventures/agency-building', 'ventures/ai-automation'],
-  concepts: ['philosophy/philosophy', 'building/build-and-ship', 'business/leverage', 'money/money'],
+  concepts: [
+    'philosophy/philosophy',
+    'core/being-a-builder',
+    'core/becoming',
+    'philosophy/self-overcoming',
+    'building/build-and-ship',
+    'building/execution-over-talk',
+  ],
   skills: ['design/design-philosophy', 'language/english', 'tools/codex', 'tech/javascript'],
   media: ['culture/mad-men', 'youtube/the-futur'],
   books: ['books/recommended-books', 'reading/reading-as-self-reconstruction', 'reading/red-rising', 'reading/essays'],
@@ -176,4 +183,48 @@ export const SECTION_PRIORITY_SLUGS: Partial<Record<SectionKey, string[]>> = {
   events: ['events/events-and-experiences', 'meta/formative-experiences'],
   timeline: ['meta/timeline'],
   curiosity: ['curiosity/space', 'curiosity/science-fiction', 'curiosity/wonder'],
+};
+
+export const SECTION_CURATED_SLUGS: Partial<Record<SectionKey, CuratedSectionEntry[]>> = {
+  identity: [
+    'core/hendrix',
+    'core/being-a-builder',
+    'core/what-lasts',
+    'core/responsibility-for-outcomes',
+    'core/learning-across-surfaces',
+    'core/the-cost-of-range',
+    'core/becoming',
+    'core/competence',
+    'core/seriousness',
+  ],
+  concepts: [
+    'philosophy/philosophy',
+    { slug: 'core/being-a-builder', title: 'Builder' },
+    'core/becoming',
+    'philosophy/self-overcoming',
+    'building/build-and-ship',
+    'building/execution-over-talk',
+  ],
+  skills: [
+    'tools/figma',
+    'tools/claude-and-codex',
+    'tools/vs-code',
+    'tech/html-css',
+    'tech/javascript',
+    'tools/postman-api-testing',
+    'tools/rive',
+    'tools/davinci-resolve',
+    'tools/n8n',
+    'tools/next-js',
+    'tools/node-js',
+    'tools/supabase',
+    'tools/vercel',
+    'tools/github',
+    'language/duolingo',
+    'tech/framer-motion',
+    'tech/gsap',
+    'culture/bartending',
+    'business/paid-marketing',
+    'communication/public-speaking',
+  ],
 };

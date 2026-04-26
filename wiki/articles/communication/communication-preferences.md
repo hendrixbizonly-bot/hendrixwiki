@@ -1,6 +1,7 @@
 ---
 title: Communication Preferences
 category: communication
+hidden: true
 type: concept
 related: [Directness, Concise Writing, Natural Language, Tone Preferences, Lowercase Writing, Em-Dash Dislike, Clear Over Clever]
 tags: [communication, preferences, writing]

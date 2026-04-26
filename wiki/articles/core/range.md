@@ -1,6 +1,7 @@
 ---
 title: Range
 category: core
+section: concepts
 type: concept
 related: [Being a Builder, Learning Across Surfaces, Competence, The Cost of Range, Designer vs Builder]
 tags: [builder, range, identity, capability]

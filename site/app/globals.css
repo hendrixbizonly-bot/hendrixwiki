@@ -134,13 +134,16 @@ pre {
   height: 78px;
   margin: 0 auto 10px;
   border-radius: 999px;
-  background: #cfd5de;
-  color: #6d727b;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-serif);
-  font-size: 40px;
+  overflow: hidden;
+  border: 1px solid #cfd5de;
+  background: #f7f3ea;
+}
+
+.side-logo-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .side-brand-title {
@@ -688,6 +691,39 @@ pre {
   color: var(--color-text-muted);
   font-size: 14px;
   line-height: 1.65;
+}
+
+.talk-note.compact {
+  margin: 14px 0 0;
+}
+
+.talk-dropdown {
+  border: 1px solid var(--color-border-accent);
+  background: var(--color-surface-base);
+}
+
+.talk-dropdown .info-box-body {
+  border-top: 1px solid var(--color-border-accent);
+}
+
+.talk-dropdown-toggle {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+}
+
+.talk-dropdown-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.talk-dropdown-toggle::after {
+  content: '+';
+  float: right;
+  font-size: 14px;
+}
+
+.talk-dropdown[open] .talk-dropdown-toggle::after {
+  content: '-';
 }
 
 .talk-raw {

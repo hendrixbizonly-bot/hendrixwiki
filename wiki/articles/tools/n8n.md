@@ -1,38 +1,38 @@
 ---
-title: n8n
+title: n8n Workflow with VPS
 category: tools
 type: tool
-related: [Automation Workflows, AI Automation, Duodode, Postman, Supabase]
-tags: [automation, workflows, tools, n8n]
+aliases: [n8n]
+related: [Shaurya, Supabase, Postman API Testing, Node.js, Duodode]
+tags: [automation, workflows, vps, tool]
 ---
 
-# n8n
+# n8n Workflow with VPS
 
-n8n is my automation platform. It is where I build workflows that connect tools, move data, and run [[AI Automation]] logic. It is central to the automation side of [[Duodode]].
+## How I Got Into It
 
-## What it is
+This one is tied to [[Shaurya]] for me. He was the person who pulled me closer to it. Before that, automation was interesting in theory. After that, it started to feel like something I could actually run, host, and use in a real way.
 
-A workflow automation tool that connects apps and APIs through a visual editor, with room for custom code when needed.
+What made it especially interesting was the VPS part. I liked that it was not only a visual workflow surface. It also pushed me closer to infrastructure, hosting, and taking ownership of the whole setup.
 
-## How I use it
+## The Learning Process
 
-- Building [[AI Automation]] workflows for [[Duodode]] clients
-- Connecting tools like [[Supabase]], webhooks, and third-party APIs
-- Automating internal agency operations
-- Prototyping automations before productizing them
-- Running scheduled and event-driven flows
+The early difficulty was not the interface. It was getting comfortable with the whole chain around it. Server setup, environment variables, webhooks, credentials, figuring out why something worked in one step and failed in another. That part was more real than the glossy idea of automation.
 
-## Why it fits my workflow
+But that was also why it was valuable. It stopped being abstract very quickly.
 
-I think in systems. n8n turns manual workflows into leverage. That maps directly to my mindset: scalable, useful, grounded in reality. It is also self-hostable, which keeps options open.
+## How I Use It Now
 
-## What it unlocks for me
+I use n8n to build workflows that connect tools, move data around, and remove repetitive work. It fits naturally with things like [[Supabase]], APIs checked through [[Postman API Testing]], and parts of the stack that would otherwise stay disconnected.
 
-- Productized automation as a real service line under [[Duodode]]
-- Faster internal ops without hiring for manual work
-- A visual surface for connecting AI models into real business workflows
-- A tool that compounds as more connections and flows get built
+It also fits how I think inside [[Duodode]]. If something repetitive can become a system, I want to at least explore that.
+
+## What It Changed
+
+It changed automation from an idea I respected into a capability I could actually use. That matters because there is a big difference between knowing something is possible and knowing how to get it running.
+
+It also made me more comfortable getting closer to the technical side of systems work. Hosting it on a VPS made the learning stick.
 
 ## Related
 
-[[Automation Workflows]] · [[AI Automation]] · [[Duodode]] · [[Postman]] · [[Supabase]]
+[[Shaurya]] · [[Supabase]] · [[Postman API Testing]] · [[Node.js]] · [[Duodode]]

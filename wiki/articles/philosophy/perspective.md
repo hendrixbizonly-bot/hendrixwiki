@@ -1,6 +1,7 @@
 ---
 title: Perspective
 category: philosophy
+hidden: true
 type: concept
 related: [Worldview, Judgment, Philosophy, Mental Edge, Long-form Thinking, Nietzsche]
 tags: [perspective, thinking, clarity]

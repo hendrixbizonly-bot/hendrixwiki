@@ -1,6 +1,7 @@
 ---
 title: Worldview
 category: philosophy
+hidden: true
 type: concept
 related: [Philosophy, Perspective, Judgment, Long-form Thinking, Serious Thinkers, Mental Edge]
 tags: [worldview, thinking, perspective]

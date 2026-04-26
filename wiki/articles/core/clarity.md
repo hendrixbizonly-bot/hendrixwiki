@@ -1,6 +1,7 @@
 ---
 title: Clarity
 category: core
+section: concepts
 type: concept
 related: [Hendrix, No-BS, Directness, Competence, Introspection, Execution-First Mindset]
 tags: [value, thinking, communication]

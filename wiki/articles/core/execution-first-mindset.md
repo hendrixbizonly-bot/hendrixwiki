@@ -1,6 +1,7 @@
 ---
 title: Execution-First Mindset
 category: core
+section: concepts
 type: concept
 related: [Hendrix, Build and Ship, ROI-Driven Thinking, Strategic Thinking, No-BS, Momentum]
 tags: [mindset, building, execution]

@@ -1,6 +1,7 @@
 ---
 title: Mental Edge
 category: philosophy
+hidden: true
 type: concept
 related: [Philosophy, Nietzsche, Perspective, Judgment, Self-Development, Long-form Thinking]
 tags: [edge, thinking, sharpness]

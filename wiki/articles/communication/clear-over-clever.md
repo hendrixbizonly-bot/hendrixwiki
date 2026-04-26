@@ -1,6 +1,7 @@
 ---
 title: Clear Over Clever
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Directness, Concise Writing, Natural Language]
 tags: [clarity, communication, writing]

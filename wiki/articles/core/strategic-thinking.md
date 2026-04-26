@@ -1,6 +1,7 @@
 ---
 title: Strategic Thinking
 category: core
+section: concepts
 type: concept
 related: [Hendrix, ROI-Driven Thinking, Execution-First Mindset, Leverage, Future Orientation, Duodode]
 tags: [mindset, strategy, thinking]

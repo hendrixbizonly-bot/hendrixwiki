@@ -2,37 +2,36 @@
 title: GitHub
 category: tools
 type: tool
-related: [VS Code, Vercel, Next.js, Node.js, Deployment Workflows, AI-Assisted Development]
-tags: [git, version-control, tools, development]
+related: [VS Code, Next.js, Node.js, Vercel, Claude and Codex]
+tags: [git, version-control, collaboration, tool]
 ---
 
 # GitHub
 
-GitHub is where I store and manages code. Every [[Duodode]] project, every experiment, and every build I run through [[VS Code]] lives behind it. It is the backbone of my technical workflow.
+## How I Got Into It
 
-## What it is
+GitHub became necessary as soon as the work became real. Once code matters, once projects start changing over time, and once collaboration enters the picture, you need somewhere reliable for that history to live.
 
-A hosted platform for git repositories, with collaboration, deployment integrations, and issue tracking built on top.
+So for me GitHub was less of a novelty and more of a growing-up part of building.
 
-## How I use it
+## The Learning Process
 
-- Version control for all project code
-- Deployment pipelines into [[Vercel]]
-- Collaboration on client and internal work
-- A clean history of changes across projects
-- A trusted home for work built with [[AI-Assisted Development]]
+The difficult part was not the website itself. It was learning git well enough that I stopped feeling like I was moving files around with crossed fingers. Commits, branches, merges, pull requests, preserving history. That took some real repetition.
 
-## Why it fits my workflow
+I still think that learning curve is healthy. It teaches respect for the work and for process without turning everything into ceremony.
 
-Every serious modern stack assumes GitHub. Tying the rest of my tools to it ([[VS Code]], [[Vercel]], [[Next.js]]) means everything plugs in without extra plumbing. That matches my preference for tools that create [[Leverage|leverage]] and remove friction.
+## How I Use It Now
 
-## What it unlocks for me
+GitHub is where I store code, track changes, collaborate, and connect projects to deployment. It sits right beside [[VS Code]], and it is part of the normal flow into [[Vercel]] and the rest of my stack.
 
-- Safe, reversible building
-- Instant deployment through connected services
-- A shared surface for client projects
-- A track record of work that compounds over time
+It also matters more now that [[Claude and Codex]] are part of how I build, because the value of AI help goes up when the underlying workflow stays organized.
+
+## What It Changed
+
+It made my work feel safer and more legible. That is important when you are learning fast and changing a lot of things. You can move without feeling reckless.
+
+It also gave me a better sense of continuity. Projects stop feeling disposable when there is history behind them.
 
 ## Related
 
-[[VS Code]] · [[Vercel]] · [[Next.js]] · [[Node.js]] · [[Deployment Workflows]] · [[AI-Assisted Development]]
+[[VS Code]] · [[Next.js]] · [[Node.js]] · [[Vercel]] · [[Claude and Codex]]

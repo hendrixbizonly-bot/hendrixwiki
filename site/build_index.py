@@ -71,10 +71,10 @@ SECTION_NAMES = {
 
 SECTION_DESCRIPTIONS = {
     "navigation": "Entry points, orientation pages, and the chapters that explain how to move through the archive.",
-    "identity": "The inner spine: self-concepts, recurring traits, motives, and the language used to describe the self.",
+    "identity": "The self-description layer: the chapters that answer who I am, what keeps returning in me, and what kind of person I am still becoming.",
     "people": "The individuals who matter here, whether through closeness, admiration, influence, or memory.",
     "ventures": "The businesses, experiments, and long-building undertakings where thought turns into work.",
-    "concepts": "The principles, beliefs, frictions, and philosophical lines that govern the rest of the world.",
+    "concepts": "The operating system: the principles, frames, and philosophical lines that shape how I think, decide, and build.",
     "skills": "The crafts, languages, tools, and technical capabilities that let intention become output.",
     "media": "The shows, essays, channels, and creators that sharpen taste, language, and perspective.",
     "books": "The books, reading habits, and written works that sharpen perspective, imagination, and judgment.",
@@ -115,18 +115,24 @@ SECTION_PRIORITY = {
     "identity": [
         "core/hendrix",
         "core/being-a-builder",
-        "core/identity",
         "core/what-lasts",
-        "core/close-to-the-work",
-        "core/range",
         "core/responsibility-for-outcomes",
         "core/learning-across-surfaces",
         "core/the-cost-of-range",
         "core/becoming",
+        "core/competence",
+        "core/seriousness",
     ],
     "people": [],
     "ventures": ["ventures/duodode", "ventures/digital-agency", "ventures/agency-building", "ventures/ai-automation"],
-    "concepts": ["philosophy/philosophy", "building/build-and-ship", "business/leverage", "money/money"],
+    "concepts": [
+        "philosophy/philosophy",
+        "core/being-a-builder",
+        "core/becoming",
+        "philosophy/self-overcoming",
+        "building/build-and-ship",
+        "building/execution-over-talk",
+    ],
     "skills": ["design/design-philosophy", "language/english", "tools/codex", "tech/javascript"],
     "media": ["culture/mad-men", "youtube/the-futur"],
     "books": ["books/recommended-books", "reading/reading-as-self-reconstruction", "reading/red-rising", "reading/essays"],
@@ -135,6 +141,50 @@ SECTION_PRIORITY = {
     "events": ["events/events-and-experiences", "meta/formative-experiences"],
     "timeline": ["meta/timeline"],
     "curiosity": ["curiosity/space", "curiosity/science-fiction", "curiosity/wonder"],
+}
+
+SECTION_CURATED = {
+    "identity": [
+        "core/hendrix",
+        "core/being-a-builder",
+        "core/what-lasts",
+        "core/responsibility-for-outcomes",
+        "core/learning-across-surfaces",
+        "core/the-cost-of-range",
+        "core/becoming",
+        "core/competence",
+        "core/seriousness",
+    ],
+    "concepts": [
+        "philosophy/philosophy",
+        {"slug": "core/being-a-builder", "title": "Builder"},
+        "core/becoming",
+        "philosophy/self-overcoming",
+        "building/build-and-ship",
+        "building/execution-over-talk",
+    ],
+    "skills": [
+        "tools/figma",
+        "tools/claude-and-codex",
+        "tools/vs-code",
+        "tech/html-css",
+        "tech/javascript",
+        "tools/postman-api-testing",
+        "tools/rive",
+        "tools/davinci-resolve",
+        "tools/n8n",
+        "tools/next-js",
+        "tools/node-js",
+        "tools/supabase",
+        "tools/vercel",
+        "tools/github",
+        "language/duolingo",
+        "tech/framer-motion",
+        "tech/gsap",
+        "culture/bartending",
+        "business/paid-marketing",
+        "communication/public-speaking",
+    ]
 }
 
 SECTION_ALIASES = {
@@ -340,13 +390,37 @@ for cat_dir in sorted(ARTICLES_DIR.iterdir()):
             }
         )
 
+all_visible_articles = {
+    item["slug"]: item
+    for items in articles_by_section.values()
+    for item in items
+}
+
 for section, items in articles_by_section.items():
     if section == "people":
         items.sort(key=lambda item: item["title"])
-        continue
+    else:
+        priorities = {slug: index for index, slug in enumerate(SECTION_PRIORITY.get(section, []))}
+        items.sort(key=lambda item: (priorities.get(item["slug"], 10_000), item["title"]))
 
-    priorities = {slug: index for index, slug in enumerate(SECTION_PRIORITY.get(section, []))}
-    items.sort(key=lambda item: (priorities.get(item["slug"], 10_000), item["title"]))
+    curated = SECTION_CURATED.get(section)
+    if curated:
+        curated_items = []
+        for entry in curated:
+            if isinstance(entry, str):
+                slug = entry
+                title = None
+            else:
+                slug = entry.get("slug")
+                title = entry.get("title")
+            item = all_visible_articles.get(slug)
+            if not item:
+                continue
+            curated_item = dict(item)
+            if title:
+                curated_item["title"] = title
+            curated_items.append(curated_item)
+        articles_by_section[section] = curated_items
 
 raw_text = RAW.read_text(encoding="utf-8") if RAW.exists() else ""
 identity_match = re.search(r"## one paragraph identity summary\s*\n(.*?)(\n##|\Z)", raw_text, re.S)
@@ -354,7 +428,7 @@ identity_summary = to_first_person(identity_match.group(1).strip()) if identity_
 compressed_match = re.search(r"## compressed assistant profile\s*\n.*?\n\n(Hendrix.+?)(\n##|\Z)", raw_text, re.S)
 compressed = to_first_person(compressed_match.group(1).strip()) if compressed_match else ""
 
-total = sum(len(items) for items in articles_by_section.values())
+total = len({item["slug"] for items in articles_by_section.values() for item in items})
 used_sections = [section for section in SECTION_ORDER if articles_by_section.get(section)]
 
 lines = []

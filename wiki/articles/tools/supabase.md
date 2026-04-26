@@ -2,37 +2,36 @@
 title: Supabase
 category: tools
 type: tool
-related: [Next.js, Vercel, Databases, Backend, Node.js, Postman]
-tags: [backend, database, auth, tools]
+related: [Next.js, Vercel, Postman API Testing, Node.js, GitHub]
+tags: [backend, database, auth, tool]
 ---
 
 # Supabase
 
-Supabase is my go-to backend and database layer. I use it to add data, auth, and storage to [[Next.js]] apps without standing up a separate backend.
+## How I Got Into It
 
-## What it is
+Supabase became part of my stack because I wanted a backend and database layer that felt practical, not heavy. I was building enough that I needed something real, but I did not want the whole project to turn into infrastructure work before the product itself even had a chance.
 
-An open-source backend built on Postgres. Provides database, auth, storage, and APIs with a clean developer experience.
+That balance is what pulled me toward it.
 
-## How I use it
+## The Learning Process
 
-- Data layer for [[Duodode]] apps and client projects
-- Auth for products that need login flows
-- Pairing with [[Next.js]] deployed on [[Vercel]]
-- Testing endpoints through [[Postman]]
-- Prototyping ideas that would otherwise need a full backend setup
+The learning was not only about the dashboard or the database tables. The real challenge was understanding the parts that matter after the demo works: auth, data structure, permissions, and not setting things up carelessly just because the tooling feels convenient.
 
-## Why it fits my workflow
+That was a good pressure. It forced me to take backend responsibilities more seriously without needing a giant custom setup from day one.
 
-Supabase compresses backend work. For a lean operator who wants [[Leverage|leverage]] and [[Build and Ship|fast shipping]], that compression matters. It keeps me focused on product and direction instead of infrastructure.
+## How I Use It Now
 
-## What it unlocks for me
+I use Supabase as backend and database infrastructure for products that need real data, auth, and a working system behind the UI. It fits especially well with [[Next.js]] and deployment through [[Vercel]], which keeps the stack tight.
 
-- Full-stack apps without a dedicated backend team
-- Real [[Databases|databases]] with sane defaults
-- Faster prototyping for internal tools and client MVPs
-- A stable base for serious products, not just demos
+When I need to inspect or test the edges of it, [[Postman API Testing]] becomes part of that loop too.
+
+## What It Changed
+
+It made full-stack building feel much more reachable. Before that, backend work could feel like a separate mountain. Supabase brought it closer to the rest of my workflow.
+
+It also changed the speed at which I can move from idea to usable product. That matters a lot in how I work.
 
 ## Related
 
-[[Next.js]] · [[Vercel]] · [[Databases]] · [[Backend]] · [[Node.js]] · [[Postman]]
+[[Next.js]] · [[Vercel]] · [[Postman API Testing]] · [[Node.js]] · [[GitHub]]

@@ -1,6 +1,7 @@
 ---
 title: No-BS
 category: core
+section: concepts
 type: concept
 related: [Hendrix, Clarity, Directness, Execution-First Mindset, Fluff, Seriousness]
 tags: [temperament, communication, values]

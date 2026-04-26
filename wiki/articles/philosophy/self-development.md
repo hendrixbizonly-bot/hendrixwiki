@@ -1,6 +1,7 @@
 ---
 title: Self-Development
 category: philosophy
+hidden: true
 type: concept
 related: [Self-Overcoming, Philosophy, Nietzsche, Mental Edge, Long-form Thinking, Build and Ship]
 tags: [growth, self-development, long-term]

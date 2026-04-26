@@ -1,6 +1,7 @@
 ---
 title: Serious Thinkers
 category: philosophy
+hidden: true
 type: concept
 related: [Philosophy, Nietzsche, Depth Over Trendiness, Substance Over Noise, Intellectual Life, Long-form Thinking]
 tags: [thinkers, philosophy, depth]

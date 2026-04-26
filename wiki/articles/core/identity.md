@@ -1,7 +1,9 @@
 ---
 title: Identity
 category: core
+section: concepts
 type: concept
+hidden: true
 related: [Hendrix, Hendrix Huynh, Being a Builder, Becoming, Introspection, Range]
 tags: [identity, self, core]
 ---

@@ -1,6 +1,7 @@
 ---
 title: Freedom
 category: money
+hidden: true
 type: concept
 related: [Money, Wealth, Financial Success, Long-term Upside, Practical Ambition, Respect for Money]
 tags: [freedom, money, outcome]

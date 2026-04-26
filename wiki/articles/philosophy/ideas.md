@@ -1,6 +1,7 @@
 ---
 title: Ideas
 category: philosophy
+hidden: true
 type: concept
 related: [Philosophy, Long-form Thinking, Build and Ship, Execution Over Talk, Worldview, Real Output]
 tags: [ideas, thinking, execution]

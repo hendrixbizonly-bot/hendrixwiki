@@ -1,6 +1,7 @@
 ---
 title: Wealth
 category: money
+hidden: true
 type: concept
 related: [Money, Freedom, Financial Success, Compounding Wealth, Long-term Upside, Practical Ambition]
 tags: [wealth, money, ambition]

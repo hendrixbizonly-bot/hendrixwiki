@@ -1,6 +1,7 @@
 ---
 title: Practical Ambition
 category: money
+hidden: true
 type: concept
 related: [Ambition, Money, Financial Success, Real Outcomes, ROI-Driven Thinking, No-BS]
 tags: [ambition, practical, money]

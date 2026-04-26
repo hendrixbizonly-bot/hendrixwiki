@@ -2,6 +2,7 @@
 title: Design Philosophy
 category: design
 type: principle
+aliases: [Design]
 related: [Intentional Design, Timeless Design, Consistent Design, Taste, Duodode, Hendrix]
 tags: [design, philosophy, principles, flagship]
 ---

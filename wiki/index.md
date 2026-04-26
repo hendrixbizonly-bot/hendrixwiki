@@ -1,23 +1,29 @@
-﻿# Hendrixpedia - Master Index
+# Hendrixpedia - Master Index
 
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
-**Total:** 248 chapters across 13 reader-facing sections.
+
+**Total:** 153 chapters across 13 reader-facing sections.
+
 
 ## Who I am (one paragraph)
 
-> I am a highly introspective, ROI-driven builder based in Dubai with a strong bias toward entrepreneurship, tech, design, and execution. I grew up in Vietnam and was shaped in part by exposure to Asian business culture, which contributed to my practical and results-oriented mindset. I am building Duodode as a digital agency that blends branding, AI automation, and digital product work, guided by a design philosophy that is intentional, timeless, and consistent. I value philosophy, read seriously, respect money, learn heavily through YouTube and AI, prefer long-form ideas over shallow trends, and believe execution matters more than talk. I also like running and see it as a way to clear my mind, reset, and think more clearly. My building philosophy is simple: build and ship, start before feeling fully ready, and let action create clarity.
+> Hendrix is a highly introspective, ROI-driven builder based in Dubai with a strong bias toward entrepreneurship, tech, design, and execution. He grew up in Vietnam and was shaped in part by exposure to Asian business culture, which contributed to his practical and results-oriented mindset. He is building Duodode as a digital agency that blends branding, AI automation, and digital product work, guided by a design philosophy that is intentional, timeless, and consistent. He values philosophy, reads seriously, respects money, learns heavily through YouTube and AI, prefers long-form ideas over shallow trends, and believes execution matters more than talk. He also likes running and sees it as a way to clear his mind, reset, and think more clearly. His building philosophy is simple: build and ship, start before feeling fully ready, and let action create clarity.
+
 
 ## Compressed profile
 
+
 ## How this archive is organized
 
-- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Life, Timeline, and Curiosity.
+- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Books, Music, Life, Timeline, and Curiosity.
 - The filesystem still uses stable internal clusters such as `core`, `people`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.
 - Start with [Start Here](wiki/articles/meta/start-here.md) or [Hendrix](wiki/articles/core/hendrix.md) if you want the spine before the branches.
 - If a detail here conflicts with `/Raw/context.md`, Raw wins.
 
+
 ## Catalog
+
 
 ### Navigation (6)
 
@@ -27,61 +33,50 @@
 - **[Map of the Wiki](wiki/articles/meta/map-of-the-wiki.md)** (meta; internal: Meta) - A personal archive only becomes readable when its parts know how to sit beside each other. This page is the table of contents in prose. It explains the major rooms in the house and what kind of material belongs in each of them.
 - **[Hendrixpedia](wiki/articles/meta/hendrixpedia.md)** (meta; internal: Meta) - This project exists because scattered notes are not enough. I wanted an archive that could hold a person in motion: not only facts, but work, ideas, taste, memory, habits, influences, and the structure around them. Hendrixpedia is that...
 - **[How This Wiki Works](wiki/articles/meta/how-this-wiki-works.md)** (meta; internal: Meta) - Hendrixpedia is built in three layers. Each layer has a job. The separation is intentional and reflects how I think: build a clean system, let it compound, avoid fluff in the architecture.
-- **[Raw Context](wiki/articles/meta/raw-context.md)** (meta; internal: Meta) - Raw Context refers to /Raw/context.md, the single source of truth that the rest of Hendrixpedia is generated from. Every article in the wiki is a synthesis of what Raw says, reshaped into interlinked, readable pages.
+- **[Raw Context](wiki/articles/meta/raw-context.md)** (meta; internal: Meta) - Raw Context refers to `/Raw/context.md`, the single source of truth that the rest of Hendrixpedia is generated from. Every article in the wiki is a synthesis of what Raw says, reshaped into interlinked, readable pages.
 - **[For the Chatbot](wiki/articles/meta/for-the-chatbot.md)** (meta; internal: Meta) - This page is a direct note to any LLM or chatbot reading Hendrixpedia to understand Hendrix and act usefully on my behalf or alongside me.
 
-### People (22)
+
+### People (18)
 
 > The individuals who matter here, whether through closeness, admiration, influence, or memory.
 
-- **[Hendrix](wiki/articles/core/hendrix.md)** (person; internal: Core) - Most pages in this archive are side doors back into this one. I am the thread running through all of them: the builder in Dubai, the person shaped by Vietnam, the mind pulled toward business, design, tech, philosophy, language, and the...
-- **[Hendrix Huynh](wiki/articles/core/hendrix-huynh.md)** (person; internal: Core) - I am the full name behind Hendrix. The shorter name is the one that moves more easily through daily life, work, and the internet. The full name carries something heavier. It carries family, origin, continuity, and the part of me that...
-- **[Nietzsche](wiki/articles/philosophy/nietzsche.md)** (person; internal: Philosophy) - Nietzsche is my favorite philosopher. Out of everyone I have read across Philosophy, Nietzsche is the one whose vocabulary fits my own instincts most closely. Nietzsche is not a casual interest. I am a reference point I return to.
-- **[Camus](wiki/articles/philosophy/camus.md)** (person; internal: Philosophy) - Camus is one of the writers I return to when I want honesty without decoration. I do not come to me for academic framing. I come to me for sentences that name separation, falseness, pressure, and the work of rebuilding a life after it...
-- **[Bin](wiki/articles/people/bin.md)** (person; internal: People) - Bin is one of my long-term friends and someone I lived with after university.
-- **[Brian](wiki/articles/people/brian.md)** (person; internal: People) - Brian is a Vietnamese entrepreneur and one of the earliest people connected to my Being a Builder phase.
-- **[Duc Anh](wiki/articles/people/duc-anh.md)** (person; internal: People) - Duc Anh is one of my long-time friends and is currently working in banking.
-- **[Friedrich Nietzsche](wiki/articles/people/friedrich-nietzsche.md)** (person; internal: People) - Friedrich Nietzsche is the philosopher I keep returning to.
-- **[Giang](wiki/articles/people/giang.md)** (person; internal: People) - Giang is one of my high school friends and is currently pursuing a career in finance.
-- **[Jack](wiki/articles/people/jack.md)** (person; internal: People) - Jack is a team member at Duodode and someone I have worked with through different phases of building.
-- **[Jake](wiki/articles/people/jake.md)** (person; internal: People) - Jake is one of the early members of Duodode and is currently in charge of the UX side.
-- **[John](wiki/articles/people/john.md)** (person; internal: People) - John is an Irish man with a family in Japan and a long career in banking.
-- **[Lily](wiki/articles/people/lily.md)** (person; internal: People) - Lily is currently working as a brand executive at Unicharm.
-- **[Linh Ngoc](wiki/articles/people/linh-ngoc.md)** (person; internal: People) - Linh Ngoc is currently pursuing a marketing career in the food and beverage industry.
-- **[Quang Anh](wiki/articles/people/quang-anh.md)** (person; internal: People) - Quang Anh is someone I see as one of my first mentors in work.
-- **[Quang Tran](wiki/articles/people/quang-tran.md)** (person; internal: People) - Quang Tran is one of my long-term friends, someone I have known since high school and stayed close with through university.
-- **[Rachel](wiki/articles/people/rachel.md)** (person; internal: People) - Rachel is currently a youth ambassador for the WSA, with experience in tech companies and investment environments.
-- **[Roshan](wiki/articles/people/roshan.md)** (person; internal: People) - Roshan is a tech entrepreneur based in Dubai and the founder of Brocrypt.
-- **[Shaurya](wiki/articles/people/shaurya.md)** (person; internal: People) - Shaurya is a young founder based in Dubai.
-- **[Shifa](wiki/articles/people/shifa.md)** (person; internal: People) - Shifa is a writer based in Dubai, and someone who spends a lot of time reading and thinking.
-- **[Van Anh](wiki/articles/people/van-anh.md)** (person; internal: People) - Van Anh is an MBA graduate and was the co-vice president of the Youth English Club, where I also served as vice president during university.
-- **[Viet Anh](wiki/articles/people/viet-anh.md)** (person; internal: People) - Viet Anh is one of my long-term friends and someone I lived with after university.
+- **[Bin](wiki/articles/people/bin.md)** (person; internal: People) - Bin is one of my long-term friends and one of the people I lived with after university. He belongs to a phase of life that felt less polished from the inside than it probably looked from the outside.
+- **[Brian](wiki/articles/people/brian.md)** (person; internal: People) - Brian is one of the people closest to my early builder phase. He is tied to Duodode and Hyped Indie, and to that stretch of life when I was no longer satisfied with ideas staying in my head.
+- **[Duc Anh](wiki/articles/people/duc-anh.md)** (person; internal: People) - Duc Anh is one of my long-time friends and now works in banking. He belongs to the side of friendship built through years of ordinary time rather than one defining story.
+- **[Friedrich Nietzsche](wiki/articles/people/friedrich-nietzsche.md)** (person; internal: People) - Friedrich Nietzsche is a philosopher, but he belongs in my People archive because he feels less like a subject and more like a recurring pressure inside my life. He is the writer I come back to when I need a harsher measure than comfort...
+- **[Giang](wiki/articles/people/giang.md)** (person; internal: People) - Giang is one of my high school friends and is now moving through the finance world. In my memory, though, he is attached less to job titles and more to a certain kind of energy: active, funny, and easy to be around.
+- **[Jack](wiki/articles/people/jack.md)** (person; internal: People) - Jack is part of the Duodode team and one of the people I have learned from through close collaboration. He thinks logically, learns quickly, and has a way of breaking things down that makes his mind visible very fast.
+- **[Jake](wiki/articles/people/jake.md)** (person; internal: People) - Jake is one of the early people in Duodode and the person most closely tied to the UX side of the team. He brings a balancing quality that matters more than it looks from the outside.
+- **[John](wiki/articles/people/john.md)** (person; internal: People) - John is an Irish man with a family in Japan and a long life in banking. When I met him, he was in Vietnam on a consulting contract with Techcombank, carrying the kind of range that only becomes visible when a person has already lived...
+- **[Lily](wiki/articles/people/lily.md)** (person; internal: People) - Lily is now a brand executive at Unicharm, but the version of her that matters here comes from an earlier work chapter. She was one of the first people I really mentored in a professional setting, and over time she also became a friend...
+- **[Linh Ngoc](wiki/articles/people/linh-ngoc.md)** (person; internal: People) - Linh Ngoc is one of my close friends from high school and is now building a career in the F&B marketing world. She belongs to the long thread of people who stayed in my life without needing dramatic language around the friendship.
+- **[Quang Anh](wiki/articles/people/quang-anh.md)** (person; internal: People) - Quang Anh is one of the first people I think of when I think about early work standards. He is now in finance, but the version of him that mattered to me lived inside my Trade Marketing period.
+- **[Quang Tran](wiki/articles/people/quang-tran.md)** (person; internal: People) - Quang Tran is one of my long-term friends, someone I have known since high school and stayed close to through university. He was also the class monitor back then, which fits him. Even early on, he carried a sense of responsibility without...
+- **[Rachel](wiki/articles/people/rachel.md)** (person; internal: People) - Rachel is now a youth ambassador for the WSA and has moved through tech and investment spaces, but that is not the part of her that sits most clearly in my memory. For me, she is one of the few people whose friendship stretches across...
+- **[Roshan](wiki/articles/people/roshan.md)** (person; internal: People) - Roshan is a tech entrepreneur in Dubai and the founder of Brocrypt. He belongs to my current builder circle, the part of life shaped by coworking sessions, technical problems, movement, and the kind of friendships that form when people are...
+- **[Shaurya](wiki/articles/people/shaurya.md)** (person; internal: People) - Shaurya is a young founder in Dubai, the kind of person who started building early enough that age becomes a useless way to measure him. He is behind Simplifly and the Lockin app, and by the time I met him he already had a level of...
+- **[Shifa](wiki/articles/people/shifa.md)** (person; internal: People) - Shifa is a writer in Dubai, and one of the few people there whose presence changed the temperature of a conversation almost immediately. She reads seriously, thinks carefully, and carries her depth without trying to display it.
+- **[Van Anh](wiki/articles/people/van-anh.md)** (person; internal: People) - Van Anh is an MBA graduate, a former co-vice president of YEC, and one of the people most closely tied to my university years. We were in the same class, worked in the same club environment, and carried responsibility side by side often...
+- **[Viet Anh](wiki/articles/people/viet-anh.md)** (person; internal: People) - Viet Anh is one of my long-term friends and another person I lived with after university. He is one of those people whose influence comes less from dramatic moments and more from steady repetition.
 
-### Identity (19)
 
-> The inner spine: self-concepts, recurring traits, motives, and the language used to describe the self.
+### Identity (9)
 
-- **[Being a Builder](wiki/articles/core/being-a-builder.md)** (concept; internal: Core) - I did not start with the word "builder." It arrived later, after enough time spent moving across design, tech, business, strategy, and the inner work of trying to understand myself. By the time the word showed up, it felt less like a new...
-- **[Identity](wiki/articles/core/identity.md)** (concept; internal: Core) - Identity, for me, has never felt flat. I do not experience myself as one role, one discipline, or one polished sentence that can summarize the whole thing neatly. What feels more accurate is a layered structure: origin, temperament,...
-- **[What Lasts](wiki/articles/core/what-lasts.md)** (concept; internal: Core) - One of the oldest instincts in me is the attraction to things that last. Before I had any real business vocabulary, before I had clear role language, and before I knew what shape my own work might eventually take, I was already drawn to...
-- **[Close to the Work](wiki/articles/core/close-to-the-work.md)** (concept; internal: Core) - One reason labels like founder have always felt incomplete to me is that they often imply distance from the work. Strategy, positioning, delegation, high-level direction. I understand the need for those things, but I have never wanted them...
-- **[Range](wiki/articles/core/range.md)** (concept; internal: Core) - Range is one of the defining conditions of how I work. I do not mean scattered curiosity for its own sake. I mean the ability to move across multiple parts of a system with enough understanding to connect them intelligently and push an...
-- **[Responsibility for Outcomes](wiki/articles/core/responsibility-for-outcomes.md)** (concept; internal: Core) - One of the clearest things the builder identity does for me is shift attention away from titles and toward outcomes. A title tells you where someone officially sits. Responsibility for outcomes tells you what they are actually carrying.
-- **[Learning Across Surfaces](wiki/articles/core/learning-across-surfaces.md)** (concept; internal: Core) - A lot of how I have learned would look messy if you judged it by formal paths. It has moved through trading, coding, design, branding, automation, tech, and internet-native learning environments. But the path only looks scattered if you...
-- **[The Cost of Range](wiki/articles/core/the-cost-of-range.md)** (concept; internal: Core) - Range sounds attractive until you actually have to live inside it. From the outside, people often see the upside first: adaptability, flexibility, broader capability, the ability to connect different parts of a system. Those things are...
-- **[Becoming](wiki/articles/core/becoming.md)** (concept; internal: Core) - Becoming is how I think about myself over time. I am not trying to preserve a fixed self forever. I am trying to grow into someone stronger, clearer, more capable, and more able to hold the life I am aiming toward. The word matters to me...
-- **[Ambition](wiki/articles/core/ambition.md)** (concept; internal: Core) - My ambition has a specific flavor. It is not loud, not theatrical, and not built for display. It is quieter and more serious than that. I want to build something with real weight, become far more capable than I am now, create meaningful...
-- **[Clarity](wiki/articles/core/clarity.md)** (concept; internal: Core) - Clarity is one of the conditions I need most. Not because I like things sounding neat, but because I do not trust confused thinking to produce good outcomes. If I cannot see what I am doing, why I am doing it, what matters, what does not,...
-- **[Competence](wiki/articles/core/competence.md)** (concept; internal: Core) - Competence matters to me more than image. More than credentials. More than being associated with the right scene, tools, or language. I care about whether I can actually do the thing, whether the output holds up, whether the result is...
-- **[Execution-First Mindset](wiki/articles/core/execution-first-mindset.md)** (concept; internal: Core) - Execution first is one of the strongest biases in how I work. I care about ideas, strategy, design, and direction, but none of those feel complete to me until they pass into reality. A thought only earns real weight once it has to survive...
-- **[Future Orientation](wiki/articles/core/future-orientation.md)** (concept; internal: Core) - I am strongly future-oriented. My mind naturally leans forward. Even when I am working in the present, I am usually also evaluating what the current move points toward, what it compounds into, and what kind of life it makes more or less...
-- **[Introspection](wiki/articles/core/introspection.md)** (concept; internal: Core) - Introspection is one of my default modes. I spend a lot of time examining what I am doing, why I am drawn to certain things, what kind of life I am actually building, and whether my outer movement matches the deeper direction I claim to...
-- **[No-BS](wiki/articles/core/no-bs.md)** (concept; internal: Core) - No-BS is one of the clearest filters in my temperament. It shapes how I read, how I write, how I judge people, how I evaluate work, and how I decide what deserves attention. I have a low tolerance for language, posture, or process that...
-- **[ROI-Driven Thinking](wiki/articles/core/roi-driven-thinking.md)** (concept; internal: Core) - ROI-driven thinking is one of the main lenses I use to evaluate work, decisions, tools, projects, habits, and even attention itself. I naturally ask what something is returning relative to what it costs. Not just in money, but in time,...
-- **[Seriousness](wiki/articles/core/seriousness.md)** (concept; internal: Core) - Seriousness is one of the deepest tones in my temperament. Not stiffness. Not coldness. Not the absence of humor. What I mean is a basic sense that life, work, direction, money, freedom, and self-construction are real matters. They carry...
-- **[Strategic Thinking](wiki/articles/core/strategic-thinking.md)** (concept; internal: Core) - Strategic thinking is how I try to choose the right direction before I spend too much force moving in it. I care a lot about action, but I also care about whether the action belongs to a worthwhile game. Effort can be impressive and still...
+> The self-description layer: the chapters that answer who I am, what keeps returning in me, and what kind of person I am still becoming.
 
-### Ventures & Projects (15)
+- **[Hendrix](wiki/articles/core/hendrix.md)** (person; internal: Core) - Most of this wiki is me coming into focus from different angles. If I strip it down to the version that feels most honest, I am a builder shaped by Vietnam, living in Dubai, trying to build a life that feels chosen instead of drifted into.
+- **[Being a Builder](wiki/articles/core/being-a-builder.md)** (concept; internal: Core) - The word came late. The pattern came first.
+- **[What Lasts](wiki/articles/core/what-lasts.md)** (concept; internal: Core) - I have always trusted what stays more than what flashes.
+- **[Responsibility for Outcomes](wiki/articles/core/responsibility-for-outcomes.md)** (concept; internal: Core) - I trust people more when their attention stays on the result instead of their assigned piece of the result. That is true in business, in collaboration, and in how I judge myself.
+- **[Learning Across Surfaces](wiki/articles/core/learning-across-surfaces.md)** (concept; internal: Core) - My learning path makes more sense from the inside than it does on paper.
+- **[The Cost of Range](wiki/articles/core/the-cost-of-range.md)** (concept; internal: Core) - From the outside, range sounds flattering. From the inside, it is heavier than people think.
+- **[Becoming](wiki/articles/core/becoming.md)** (concept; internal: Core) - I rarely think of myself as finished.
+- **[Competence](wiki/articles/core/competence.md)** (concept; internal: Core) - Competence calms me in a way image never does.
+- **[Seriousness](wiki/articles/core/seriousness.md)** (concept; internal: Core) - Seriousness is one of the oldest tones in me. I do not mean stiffness or constant intensity. I mean that I have a hard time treating the important parts of life like decoration.
+
+
+### Ventures & Projects (18)
 
 > The businesses, experiments, and long-building undertakings where thought turns into work.
 
@@ -93,141 +88,57 @@
 - **[Application Design](wiki/articles/ventures/application-design.md)** (concept; internal: Ventures) - Application design is one of Duodode's service lines. Where Web Design deals mostly with surfaces people visit, application design deals with tools people use. For me, it is one of the most demanding and interesting parts of the work.
 - **[Application Development](wiki/articles/ventures/application-development.md)** (concept; internal: Ventures) - Application development is Duodode's engineering-heavy service line. It is the work of building real applications on top of Application Design, using modern stacks and AI-Assisted Development. For me, it is a natural extension of my belief...
 - **[Branding](wiki/articles/ventures/branding.md)** (concept; internal: Ventures) - Branding is one of Duodode's core service lines and one of the disciplines I think most seriously about. For me, branding is not decoration. It is the layer where Strategic Thinking, Taste, and Clarity show up together.
+- **[Brocrypt](wiki/articles/ventures/brocrypt.md)** (venture; internal: Ventures) - Brocrypt sits in my mind through Roshan. The venture matters because it reflects the same thing I respect in him personally: consistency without unnecessary noise.
 - **[Client Work](wiki/articles/ventures/client-work.md)** (concept; internal: Ventures) - Client work is how Duodode operates day to day. Every engagement is a client project until the business evolves into something else. For me, client work is both the engine of the business and a discipline that sharpens my thinking.
 - **[Creative Services](wiki/articles/ventures/creative-services.md)** (concept; internal: Ventures) - Creative services is the umbrella term for the design-heavy side of what Duodode does. It covers Branding, Web Design, Application Design, motion, and the Taste layer on top of everything. For me, it is one half of the agency; Tech and AI...
 - **[Digital Product Work](wiki/articles/ventures/digital-product-work.md)** (concept; internal: Ventures) - Digital product work is one of the three pillars of Duodode, alongside Branding and AI Automation. For me, it is the space where my Design Philosophy and technical range come together at full strength.
+- **[Hyped Indie](wiki/articles/ventures/hyped-indie.md)** (venture; internal: Ventures) - Hyped Indie belongs to the early builder period when work still felt half-experimental and half-personal. I do not remember it as a polished company story. I remember it as part of the stretch where ideas were starting to leave my head and...
 - **[Productized Services](wiki/articles/ventures/productized-services.md)** (concept; internal: Ventures) - Productized services is the bridge between an agency and a product. It means taking repeatable client work, packaging it into a defined offer with a fixed scope and price, and delivering it through Systems instead of custom-fitting every...
 - **[Scaling an Agency](wiki/articles/ventures/scaling-an-agency.md)** (concept; internal: Ventures) - Scaling an agency is the problem of making the business grow without the founder becoming the bottleneck. For me, it is the central strategic question for Duodode once the craft and positioning are solid.
+- **[Simplifly](wiki/articles/ventures/simplifly.md)** (venture; internal: Ventures) - Simplifly belongs to the current builder chapter around Shaurya. What makes it memorable to me is not only the product itself, but the speed and seriousness with which it was being shaped.
 - **[Web Design](wiki/articles/ventures/web-design.md)** (concept; internal: Ventures) - Web design is one of Duodode's core offerings and a surface where my Design Philosophy shows up most directly. For me, a website is not a brochure. It is a product, a storefront, and often the first serious test of whether a business knows...
 - **[Web Development](wiki/articles/ventures/web-development.md)** (concept; internal: Ventures) - Web development is where Duodode turns design into working product. It is the engineering side of the web work, and for me, it is where Taste meets real execution.
 
-### Concepts & Philosophy (68)
 
-> The principles, beliefs, frictions, and philosophical lines that govern the rest of the world.
+### Concepts & Philosophy (6)
 
-- **[Philosophy](wiki/articles/philosophy/philosophy.md)** (concept; internal: Philosophy) - I did not come to philosophy looking for decoration. I came to it because ordinary language was not always enough for the questions I was already living with. Ambition, meaning, discipline, self-respect, authenticity, pressure, becoming,...
-- **[Build and Ship](wiki/articles/building/build-and-ship.md)** (principle; internal: Building) - Build and ship is my core building philosophy. It is not a slogan. It is how I actually tries to operate. Build the thing. Ship the thing. Learn from what happens. Do it again.
-- **[Leverage](wiki/articles/business/leverage.md)** (concept; internal: Business) - Leverage is one of the main lenses I use to evaluate decisions. I do not think in tasks; I think in what multiplies. A move with leverage pays back more than it costs, often in a non-linear way.
-- **[Money](wiki/articles/money/money.md)** (concept; internal: Money) - I have a serious relationship with money. I respect it. I do not treat it as a dirty word or as a vanity signal. I treat it as what it actually is: a measure of freedom, scale, capability, and real-world proof.
-- **[Avoiding Mediocrity](wiki/articles/money/avoiding-mediocrity.md)** (concept; internal: Money) - Avoiding mediocrity is one of my core drives. I states it plainly. It is not a rejection of other people. It is a refusal, for myself, to live a diluted life.
-- **[Business Strategy](wiki/articles/business/business-strategy.md)** (concept; internal: Business) - Business strategy is one of my primary interests. I read, thinks, and operates through a strategic lens. It is not a hobby topic. It is how I decide what to do and what to ignore.
-- **[Clear Over Clever](wiki/articles/communication/clear-over-clever.md)** (concept; internal: Communication) - Clear over clever is my tie-breaker. When a sentence could be sharp or it could be clever, I pick sharp.
-- **[Communication Preferences](wiki/articles/communication/communication-preferences.md)** (concept; internal: Communication) - I have a specific way I want to be communicated with and a specific way I write. This article is the index to that.
-- **[Compounding](wiki/articles/business/compounding.md)** (concept; internal: Business) - Compounding is one of the ideas sitting under most of my long-term thinking. It is the reason I choose certain kinds of work and avoids others. I picks the ones that pay back more than once.
-- **[Compounding Wealth](wiki/articles/money/compounding-wealth.md)** (concept; internal: Money) - Compounding wealth is the mechanism I rely on for the financial arc of my life. I am not trying to get rich quickly. I am trying to compound seriously over a long time.
-- **[Concise Writing](wiki/articles/communication/concise-writing.md)** (concept; internal: Communication) - Concise writing is my standard. Say the thing in the fewest honest words.
-- **[Depth Over Trendiness](wiki/articles/philosophy/depth-over-trendiness.md)** (principle; internal: Philosophy) - Depth over trendiness is one of my default filters. When I choose what to read, what to watch, who to learn from, and what to take seriously, I pick depth. Trend value decays fast. Depth compounds.
-- **[Directness](wiki/articles/communication/directness.md)** (concept; internal: Communication) - Directness is my default. I prefer communication that states the thing instead of circling it.
-- **[Ecommerce](wiki/articles/business/ecommerce.md)** (concept; internal: Business) - Ecommerce is one of my ongoing business interests. It sits inside my broader orientation toward Entrepreneurship, Tech, and Scale. It is not something I claims to be an expert at, but it is a space I pays attention to because it rewards...
-- **[Em-Dash Dislike](wiki/articles/communication/em-dash-dislike.md)** (concept; internal: Communication) - I do not want em-dashes in writing help. It is a specific, stated preference. This article records it.
-- **[Entrepreneurship](wiki/articles/business/entrepreneurship.md)** (concept; internal: Business) - Entrepreneurship is one of my core orientations. I am strongly biased toward it, not as a label, but as the default way I think about work. Building, owning, and scaling something are the base case. Everything else is optional.
-- **[Execution Over Talk](wiki/articles/building/execution-over-talk.md)** (principle; internal: Building) - Execution over talk is a default for me. I would rather work on the thing than discuss it. Talking about building, without building, is one of my least favorite patterns.
-- **[Fake Motivational Tone](wiki/articles/frictions/fake-motivational-tone.md)** (friction; internal: Frictions) - Fake motivational tone is the LinkedIn voice, the hustle quote, the pep-talk cadence that tries to manufacture energy instead of earning it. I find it hollow.
-- **[Fake Work](wiki/articles/frictions/fake-work.md)** (friction; internal: Frictions) - Fake work is any activity that looks like progress but does not produce anything real. I find it actively draining.
-- **[Feedback Loops](wiki/articles/building/feedback-loops.md)** (principle; internal: Building) - Feedback loops are how I trust that building is actually working. An idea in a head is theory. An idea shipped into reality generates feedback. Feedback produces improvement. That is the loop.
-- **[Financial Success](wiki/articles/money/financial-success.md)** (concept; internal: Money) - Financial success is one of my core drives. I names it directly. I do not hide it behind softer language. I want to become highly successful financially.
-- **[Fluff](wiki/articles/frictions/fluff.md)** (friction; internal: Frictions) - I dislike fluff because it steals seriousness from the room. It fills space while pretending to add value, and the longer it stays unchallenged, the more a whole system begins to mistake surface for substance.
-- **[Freedom](wiki/articles/money/freedom.md)** (concept; internal: Money) - Freedom is one of the clearest words underneath my ambition. When I think honestly about what I want, it is not just money as a score. It is the kind of life money can unlock: more choice, more movement, more authorship, and less...
-- **[Growth](wiki/articles/business/growth.md)** (concept; internal: Business) - Growth is one of my core orientations. I am serious about it on both sides: personal growth and business growth. For me, the two feed each other.
-- **[Hedgehog's Dilemma](wiki/articles/philosophy/hedgehogs-dilemma.md)** (concept; internal: Philosophy) - Some ideas stay alive because they explain a tension I already recognize before I have the language for it. Hedgehog's Dilemma is one of those. The image is simple enough to remember forever: living beings need warmth, but closeness also...
-- **[Human Repetition](wiki/articles/philosophy/human-repetition.md)** (concept; internal: Philosophy) - One of the most useful correctives to present-day intensity is remembering how little the underlying human drama actually changes. The costumes change. The technologies change. The surface language changes. But beneath that, people keep...
-- **[Ideas](wiki/articles/philosophy/ideas.md)** (concept; internal: Philosophy) - Ideas only matter to me when they are tested in reality. I like ideas. I read seriously, thinks deeply, and cares about Philosophy. But I do not confuse having ideas with doing something.
-- **[Intellectual Life](wiki/articles/philosophy/intellectual-life.md)** (concept; internal: Philosophy) - Intellectual life is a real part of how I operate, not a decoration on top of the building life. I do not see thinking and making as separate. They feed each other.
-- **[Iteration](wiki/articles/building/iteration.md)** (principle; internal: Building) - Iteration is how Hendrix actually builds good work. I does not expect the first version to be right. I expects to ship, learn, and improve in a loop that keeps tightening over time.
-- **[Judgment](wiki/articles/philosophy/judgment.md)** (concept; internal: Philosophy) - Judgment is the working output of everything I do intellectually. I read, reflect, build, and run so that my judgment sharpens over time. In my view, judgment is what actually matters, not credentials or aesthetics.
-- **[Long-form Thinking](wiki/articles/philosophy/long-form-thinking.md)** (concept; internal: Philosophy) - Long-form thinking is how I prefer to engage with ideas. I like Books, Essays, video essays, and Substack pieces that give ideas room to breathe. Short, punchy, trend-driven content does not build the kind of mind I am trying to build.
-- **[Long-term Upside](wiki/articles/money/long-term-upside.md)** (concept; internal: Money) - Long-term upside is one of the frames I use to evaluate almost everything. I think in leverage, scale, and upside that plays out over years, not weeks.
-- **[Low-Value Activity](wiki/articles/frictions/low-value-activity.md)** (friction; internal: Frictions) - Low-value activity is anything that consumes time and attention without producing a meaningful outcome. I try to cut it aggressively.
-- **[Lowercase Writing](wiki/articles/communication/lowercase-writing.md)** (concept; internal: Communication) - In personal writing contexts, Hendrix often prefers lowercase only. It is a deliberate style choice, not laziness.
-- **[Manufactured Dissatisfaction](wiki/articles/frictions/manufactured-dissatisfaction.md)** (friction; internal: Frictions) - Manufactured dissatisfaction is the pattern I notice whenever attention, advertising, and consumer culture try to turn insecurity into demand. A lot of modern business runs on making people feel late, flawed, behind, or incomplete, then...
-- **[Market](wiki/articles/business/market.md)** (concept; internal: Business) - Market thinking is part of my strategic orientation. I treat the market as the ultimate referee. An idea is only as good as what the market actually pays for, uses, or recommends.
-- **[Mental Edge](wiki/articles/philosophy/mental-edge.md)** (concept; internal: Philosophy) - Mental edge is what I am actually after when I read, reflects, runs, and builds. I am not collecting trivia. I am sharpening the instrument.
-- **[Millionaire Goal](wiki/articles/business/millionaire-goal.md)** (concept; internal: Business) - The millionaire goal is one of my concrete near-term ambitions. It is not a fantasy. It is a specific financial target that anchors a larger arc.
-- **[Momentum](wiki/articles/building/momentum.md)** (principle; internal: Building) - Momentum matters to me. I treat it as a real, measurable force in how building works. Motion creates more motion. Standing still creates more standing still. The earlier I gets moving, the more compound benefit I captures.
-- **[Moral Resistance](wiki/articles/philosophy/moral-resistance.md)** (principle; internal: Philosophy) - I am drawn to ideas about moral resistance because they treat goodness as something tested, not something claimed. It is easy to imagine yourself clean when nothing difficult is pressing on you. The real question begins later, when...
-- **[Natural Language](wiki/articles/communication/natural-language.md)** (concept; internal: Communication) - Natural language is how I want writing to sound. Like a sharp person talking, not a brand voice reading off a script.
-- **[Opportunity](wiki/articles/business/opportunity.md)** (concept; internal: Business) - Opportunity, for me, is not every open door. It is a specific thing: a situation where effort is likely to pay back well, given who I am and what I can do. I filters aggressively.
-- **[Overthinking](wiki/articles/building/overthinking.md)** (friction; internal: Building) - Overthinking is a trap I actively name and push against. It is the enemy of Build and Ship. Thinking is valuable. Overthinking is thinking that has stopped producing output.
-- **[Ownership](wiki/articles/business/ownership.md)** (concept; internal: Business) - Ownership is one of my core preferences. I am biased toward owning the thing, not renting access to it. That preference runs through how I think about work, money, and long-term direction.
-- **[Perfectionism](wiki/articles/building/perfectionism.md)** (friction; internal: Building) - Perfectionism is the second trap I actively watch for, alongside Overthinking. They often arrive together. Perfectionism is the part of me that wants to polish before shipping, and it is usually wrong.
-- **[Performative Business Talk](wiki/articles/frictions/performative-business-talk.md)** (friction; internal: Frictions) - Performative business talk is the specific dialect I find most irritating. It is the language of people who want to sound like they are building without actually building.
-- **[Perspective](wiki/articles/philosophy/perspective.md)** (concept; internal: Philosophy) - Perspective is what I read for. Not facts, not entertainment. Perspective. The ability to see a situation at a different angle, a different scale, or a different time horizon than the default.
-- **[Practical Ambition](wiki/articles/money/practical-ambition.md)** (concept; internal: Money) - Practical ambition is the kind of ambition I trust. It is ambition grounded in action, outcomes, and real-world signal, not in aesthetic performance or motivational talk.
-- **[Real Outcomes](wiki/articles/money/real-outcomes.md)** (concept; internal: Money) - Real outcomes is one of my key filters. I value real outcomes over empty aesthetics. It shows up in how I think about Money, Duodode, Design, and ambition.
-- **[Real Output](wiki/articles/building/real-output.md)** (principle; internal: Building) - Real output is what I measure work by. Not intentions, not plans, not meetings. What actually exists at the end of the week that did not exist at the start.
-- **[Respect for Money](wiki/articles/money/respect-for-money.md)** (concept; internal: Money) - I respect money. I do not worship it. I do not dismiss it. I sits in the middle ground that most people fail to reach.
-- **[ROI](wiki/articles/business/roi.md)** (concept; internal: Business) - Return on investment is one of my primary lenses. I evaluate most decisions through it. Not only financial ROI, but ROI on time, attention, and energy as well.
-- **[Scale](wiki/articles/business/scale.md)** (concept; internal: Business) - Scale is one of the directions I consistently want to move toward. I am not interested in small wins that plateau. I am interested in building something that grows beyond the limits of one person's time.
-- **[Self-Development](wiki/articles/philosophy/self-development.md)** (concept; internal: Philosophy) - Self-development is a long-running project for me. Not a phase, not a trend I am trying, not something with a finish line. It is the default background process of my life.
-- **[Self-Overcoming](wiki/articles/philosophy/self-overcoming.md)** (concept; internal: Philosophy) - Self-overcoming is the Nietzschean idea that matters most to me. The core of it is simple. Do not settle for the version of yourself that already exists. Push past the part of you that wants to stop.
-- **[Serious Thinkers](wiki/articles/philosophy/serious-thinkers.md)** (concept; internal: Philosophy) - Serious thinkers is the category I respect. It is the counterweight to everything I dislike in fluff and shallow content. When I read Philosophy or long-form work, I am looking for people who wrote with real weight behind them.
-- **[Shipping](wiki/articles/building/shipping.md)** (principle; internal: Building) - Shipping is where my building philosophy becomes real. An idea not shipped is still a theory. Shipping turns it into something the world can actually touch.
-- **[Solitude](wiki/articles/philosophy/solitude.md)** (concept; internal: Philosophy) - Solitude matters to me because it is one of the conditions where thought sharpens and language starts to organize itself. I do not see it as a sad or empty state by default. I see it as one of the places where a person becomes more...
-- **[Starting Before Ready](wiki/articles/building/starting-before-ready.md)** (principle; internal: Building) - Starting before ready is one of my building principles. The core of it is simple. Not feeling ready is not a reason to stay still. Start doing it anyway.
-- **[Substance Over Noise](wiki/articles/philosophy/substance-over-noise.md)** (principle; internal: Philosophy) - Substance over noise is a baseline filter in how I operate. Across ideas, work, people, and content, I pick the thing with real weight behind it and rejects the thing that is dressed-up empty.
-- **[Success](wiki/articles/business/success.md)** (concept; internal: Business) - Success is a word I use carefully. For me it is not a vibe or a social signal. It has a specific shape.
-- **[Systems](wiki/articles/business/systems.md)** (concept; internal: Business) - Systems are how Hendrix turns effort into Leverage. I does not want to rebuild work every time. I want a structure that produces outcomes reliably, without depending on constant attention.
-- **[Tone Preferences](wiki/articles/communication/tone-preferences.md)** (concept; internal: Communication) - Tone preferences are the adjectives I want my communication to carry. Concise, clear, grounded, smart, respectful, natural, no-BS.
-- **[Try-hard Language](wiki/articles/frictions/try-hard-language.md)** (friction; internal: Frictions) - Try-hard language is writing that is visibly reaching. It strains for effect instead of letting the idea land on its own.
-- **[Wealth](wiki/articles/money/wealth.md)** (concept; internal: Money) - Wealth, for me, is not a number on a screen. It is a function. It is what allows me to live with less friction, build with more leverage, and operate with a longer time horizon.
-- **[Wealth Building](wiki/articles/business/wealth-building.md)** (concept; internal: Business) - Wealth building is one of my serious long-term orientations. I respect Money, not as a flex, but as a tool for freedom, capability, and Scale. Wealth building is the practical side of that view.
-- **[Why to Live](wiki/articles/philosophy/why-to-live.md)** (concept; internal: Philosophy) - The question that matters most is rarely how to optimize life. It is whether there is a reason inside it strong enough to carry weight. A why to live does not make pain disappear. It does something harder and more useful than that. It...
-- **[Worldview](wiki/articles/philosophy/worldview.md)** (concept; internal: Philosophy) - Worldview is what I am actually trying to build when I read. Not information, not facts, not takes. A worldview. A stable, tested, coherent way of seeing things that holds up when reality presses on it.
+> The operating system: the principles, frames, and philosophical lines that shape how I think, decide, and build.
 
-### Skills & Tools (48)
+- **[Philosophy](wiki/articles/philosophy/philosophy.md)** (concept; internal: Philosophy) - I did not get into philosophy to sound deeper. I got into it because some of the questions I was already living with needed stronger language than ordinary conversation usually gives them.
+- **[Builder](wiki/articles/core/being-a-builder.md)** (concept; internal: Core) - The word came late. The pattern came first.
+- **[Becoming](wiki/articles/core/becoming.md)** (concept; internal: Core) - I rarely think of myself as finished.
+- **[Self-Overcoming](wiki/articles/philosophy/self-overcoming.md)** (concept; internal: Philosophy) - This is the philosophical idea that stays closest to my actual life.
+- **[Build and Ship](wiki/articles/building/build-and-ship.md)** (principle; internal: Building) - I lean on this principle because I know how easy it is to stay in thought too long.
+- **[Execution Over Talk](wiki/articles/building/execution-over-talk.md)** (principle; internal: Building) - I lose interest quickly when the conversation starts replacing the work.
+
+
+### Skills & Tools (20)
 
 > The crafts, languages, tools, and technical capabilities that let intention become output.
 
-- **[Design Philosophy](wiki/articles/design/design-philosophy.md)** (principle; internal: Design) - my design philosophy rests on three principles: intentional, timeless, and consistent. It is not a mood board or a visual style. It is a filter for decisions. Every pixel, every word, every interaction is judged against those three words...
-- **[English](wiki/articles/language/english.md)** (skill; internal: Language) - English is the language I think, writes, and builds in. I am fluent across reading, writing, listening, and speaking, but I treat it less as a finished skill and more as a surface I keep sharpening. For me, English is the working language...
-- **[Codex](wiki/articles/tools/codex.md)** (tool; internal: Tools) - Codex is one of my AI coding tools. I use it alongside Claude Code inside my broader AI-Assisted Development workflow. It is part of how I ships faster without sacrificing quality.
-- **[JavaScript](wiki/articles/tech/javascript.md)** (skill; internal: Tech) - JavaScript is the core language I build in. It runs everything from the front-end of Duodode products to the Node.js runtime underneath them.
-- **[Ads Manager](wiki/articles/tools/ads-manager.md)** (tool; internal: Tools) - Ads Manager is my tool for running paid marketing. I use it for client campaigns through Duodode and any direct marketing operations I run myself.
-- **[AI-Assisted Development](wiki/articles/tech/ai-assisted-development.md)** (skill; internal: Tech) - AI-assisted development is how Hendrix actually builds. It is not a side experiment. It is embedded into my daily workflow through Claude Code and Codex inside VS Code.
-- **[API Testing](wiki/articles/tech/api-testing.md)** (skill; internal: Tech) - API testing is part of how I keep builds honest. I use Postman to verify what endpoints actually do, rather than trusting what the code assumes.
-- **[Articulation](wiki/articles/language/articulation.md)** (concept; internal: Language) - Articulation is one of the specific skills I want to sharpen in English. I am already fluent. The gap I care about is the gap between knowing what I means and being able to say it cleanly in the moment.
-- **[Automation Workflows](wiki/articles/tech/automation-workflows.md)** (skill; internal: Tech) - Automation workflows are one of the service lines and internal tools of Duodode. I use them to turn manual processes into systems, for clients and for the agency itself.
-- **[Backend](wiki/articles/tech/backend.md)** (skill; internal: Tech) - Backend, for me, is everything that lives behind the UI: data, auth, logic, and integration. I am not trying to be a backend specialist. I am trying to be capable enough to ship real full-stack products under Duodode.
-- **[Claude Code](wiki/articles/tools/claude-code.md)** (tool; internal: Tools) - Claude Code is one of the AI coding tools I use day to day. It sits alongside Codex inside my AI-Assisted Development workflow. Together they change how much ground a single builder can cover.
-- **[Consistent Design](wiki/articles/design/consistent-design.md)** (principle; internal: Design) - Consistent design is the third principle in my Design Philosophy. It means every surface looks and feels like it came from the same mind.
-- **[CSS](wiki/articles/tech/css.md)** (skill; internal: Tech) - CSS is where my design taste meets the browser. It is how my Figma work becomes real products. For someone with a strong design philosophy, CSS is not a detail. It is the final mile.
-- **[Databases](wiki/articles/tech/databases.md)** (skill; internal: Tech) - Databases are the persistence layer under my product work. Duodode builds real apps, not static sites, which means data has to live somewhere reliable.
-- **[DaVinci Resolve](wiki/articles/tools/davinci-resolve.md)** (tool; internal: Tools) - DaVinci Resolve is my video editing tool. I use it for the video side of Duodode and any personal video work. It is a full editing, color, and post suite, and it is powerful enough to grow into as my output scales.
-- **[Deployment Workflows](wiki/articles/tech/deployment-workflows.md)** (skill; internal: Tech) - Deployment workflows are how I move work from local code to live product. I keep this part of the stack lean so I can focus on building.
-- **[Design As Leverage](wiki/articles/design/design-as-leverage.md)** (concept; internal: Design) - Design as leverage is how I frame design inside a business system. Design is not the point. It is a multiplier on everything else.
-- **[Designer vs Builder](wiki/articles/design/designer-vs-builder.md)** (concept; internal: Design) - I refuse to be boxed in as only a designer. I am a builder who uses design as one lever among several. This article is about that distinction and why it matters to me.
-- **[Duolingo](wiki/articles/language/duolingo.md)** (tool; internal: Language) - Duolingo is the app I use to learn Spanish. More importantly, it is the vehicle that carries my daily language habit. For me, Duolingo is less about the product itself and more about what it represents: a small, repeatable action that...
-- **[Eloquence](wiki/articles/language/eloquence.md)** (concept; internal: Language) - By the time I started naming eloquence as a goal, fluency was no longer the problem. I could already read, write, speak, and understand English well enough. What bothered me was the gap between what I meant and what I could deliver with...
-- **[Figma](wiki/articles/tools/figma.md)** (tool; internal: Tools) - Figma is my primary design tool. It is where most of the visual work for Duodode lives: branding systems, interface design, product screens, and iteration on client work. For a designer building across Branding and Digital Product Work,...
-- **[Framer Motion](wiki/articles/tech/framer-motion.md)** (tool; internal: Tech) - Framer Motion is my default motion library inside React-based work. It pairs naturally with Next.js and is fast to reach for on component-level motion.
-- **[Frontend Frameworks](wiki/articles/tech/frontend-frameworks.md)** (skill; internal: Tech) - I have working familiarity with multiple front-end frameworks. I understand component-based thinking, modern UI patterns, and front-end implementation logic. I do not over-identify with any single framework.
-- **[GitHub](wiki/articles/tools/github.md)** (tool; internal: Tools) - GitHub is where I store and manages code. Every Duodode project, every experiment, and every build I run through VS Code lives behind it. It is the backbone of my technical workflow.
-- **[GSAP](wiki/articles/tech/gsap.md)** (tool; internal: Tech) - GSAP is one of my go-to animation libraries when I needs precise, timeline-based motion in code. I use it alongside Framer Motion and Rive depending on the job.
-- **[HTML](wiki/articles/tech/html.md)** (skill; internal: Tech) - HTML is the base layer of everything I build on the web. Every Duodode site, every Next.js product, and every component inside Figma-to-code work comes back to it.
-- **[Intentional Design](wiki/articles/design/intentional-design.md)** (principle; internal: Design) - Intentional design is the first of the three principles in my Design Philosophy. It means every element on the page has a reason. If there is no reason, it should not be there.
-- **[Interaction Design](wiki/articles/tech/interaction-design.md)** (skill; internal: Tech) - Interaction design is how I think about the behavior of a product, not just its appearance. It is where design, motion, and code meet.
-- **[Language Learning](wiki/articles/language/language-learning.md)** (concept; internal: Language) - Language learning is one of my long-running personal projects. I see it not as a hobby but as part of Self-Development: a test of Consistency, a leverage move, and a way to expand how I think and reaches the world.
-- **[Motion Design](wiki/articles/tech/motion-design.md)** (skill; internal: Tech) - Motion design, for me, is part of communication, not decoration. I treat animation as how a product feels, not as a layer of polish added at the end.
-- **[n8n](wiki/articles/tools/n8n.md)** (tool; internal: Tools) - n8n is my automation platform. It is where I build workflows that connect tools, move data, and run AI Automation logic. It is central to the automation side of Duodode.
-- **[Next.js](wiki/articles/tools/next-js.md)** (tool; internal: Tools) - Next.js is my front-end framework of choice. It is the default way I build web and product surfaces for Duodode, and it plugs directly into Vercel for deployment and Supabase for backend.
-- **[Node.js](wiki/articles/tools/node-js.md)** (tool; internal: Tools) - Node.js is the JavaScript runtime underneath most of my technical work. It is what powers Next.js on the server, scripts I run locally, and tooling across my stack.
-- **[Notion](wiki/articles/tools/notion.md)** (tool; internal: Tools) - Notion is where I keep docs, notes, and operational structure for Duodode and my broader work. It is my default surface for organization.
-- **[Postman](wiki/articles/tools/postman.md)** (tool; internal: Tools) - Postman is my tool for API testing. I use it to test endpoints, verify integrations, and debug anything touching HTTP across my stack.
-- **[Precision in Speech](wiki/articles/language/precision-in-speech.md)** (concept; internal: Language) - Precision in speech is a specific goal for me: being able to express complex thoughts more precisely in English. Not more words. The right words.
-- **[Rive](wiki/articles/tools/rive.md)** (tool; internal: Tools) - Rive is my tool for interactive animation. I use it where motion needs to be responsive, stateful, or embedded into a product rather than rendered as a flat video.
-- **[Spanish](wiki/articles/language/spanish.md)** (skill; internal: Language) - Spanish is the language I am currently learning. It is my active language project, studied daily through Duolingo, and anchored by a 350 plus day Duolingo Streak. For me, Spanish is less about any one end state and more about keeping a...
-- **[Supabase](wiki/articles/tools/supabase.md)** (tool; internal: Tools) - Supabase is my go-to backend and database layer. I use it to add data, auth, and storage to Next.js apps without standing up a separate backend.
-- **[Taste](wiki/articles/design/taste.md)** (concept; internal: Design) - Taste is my word for the judgment layer that sits on top of craft. It is what separates a designer who knows the rules from a designer who knows when to break them and when not to.
-- **[Timeless Design](wiki/articles/design/timeless-design.md)** (principle; internal: Design) - Timeless design is the second principle in my Design Philosophy. It means the work should still hold up years after it ships. It is the antidote to trend-chasing.
-- **[UI Design](wiki/articles/design/ui-design.md)** (skill; internal: Design) - UI design is one of the surfaces I work on, but I do not want it to be my identity. I treat UI as a tool, not a title. See Designer vs Builder.
-- **[UX Thinking](wiki/articles/design/ux-thinking.md)** (skill; internal: Design) - UX thinking is how Hendrix reasons about the flow, structure, and purpose of a product before anything visual happens. It is the part of design that lives upstream of pixels.
-- **[Vercel](wiki/articles/tools/vercel.md)** (tool; internal: Tools) - Vercel is my deployment platform. It is where Next.js projects for Duodode go live. It gives me production infrastructure without running ops.
-- **[Video Editing](wiki/articles/tech/video-editing.md)** (skill; internal: Tech) - Video editing is part of my working skill set. I use it for Duodode deliverables, ad creative, and any content that needs to land as video rather than static design.
-- **[Vietnamese](wiki/articles/language/vietnamese.md)** (skill; internal: Language) - Vietnamese is my native language and the language of my origin. It is the first layer of how I think, feels, and connects to Vietnam. While English has become my working language for Entrepreneurship, Tech, and global output, Vietnamese...
-- **[Visual Rigor](wiki/articles/design/visual-rigor.md)** (concept; internal: Design) - Visual rigor is the enforcement layer of my Design Philosophy. It is the discipline that keeps intentional, timeless, and consistent from staying just words in a manifesto.
-- **[VS Code](wiki/articles/tools/vs-code.md)** (tool; internal: Tools) - VS Code is my code editor. It is where Duodode's technical work lives: front-end builds, Next.js projects, scripts, and everything touching the stack around Supabase and Vercel.
+- **[Figma](wiki/articles/tools/figma.md)** (tool; internal: Tools) - I learned Figma the same way I learned a lot of practical things: through YouTube, then by sitting with it long enough for it to stop feeling foreign. Once I started doing real design work, it became obvious very quickly that this was...
+- **[Claude and Codex](wiki/articles/tools/claude-and-codex.md)** (tool; internal: Tools) - I started using Claude and Codex because I wanted more building leverage, not because AI sounded trendy. At some point it became obvious that a big part of the bottleneck was no longer only what I knew. It was how fast I could turn what I...
+- **[VS Code](wiki/articles/tools/vs-code.md)** (tool; internal: Tools) - VS Code became my main editor because it was the place where everything I needed could live together. Code, terminal, extensions, git, AI tools, quick tests, all in one space. After a while it stopped feeling like an app and started...
+- **[HTML/CSS](wiki/articles/tech/html-css.md)** (skill; internal: Tech) - I learned HTML and CSS from the SuperSimpleDev 6-hour crash course on YouTube. What I liked about that style is that it stayed practical. I could watch something, try it right away, break it, fix it, and feel the lesson in my hands instead...
+- **[JavaScript](wiki/articles/tech/javascript.md)** (skill; internal: Tech) - I learned JavaScript through the SuperSimpleDev YouTube channel. That style worked for me because it stayed close to building. I was not looking for a purely academic way in. I wanted to make things move, respond, and actually do something.
+- **[Postman API Testing](wiki/articles/tools/postman-api-testing.md)** (skill; internal: Tools) - I learned this through client projects, which is usually a more direct teacher than any tutorial. Once APIs start failing in real work, you learn very quickly why guessing is not enough.
+- **[Rive Animation](wiki/articles/tools/rive.md)** (tool; internal: Tools) - I found Rive on YouTube because I wanted motion that felt alive inside UI, not just exported on top of it. That was the appeal immediately. I liked animation already, but I was more interested in interactive motion than in making something...
+- **[DaVinci Resolve](wiki/articles/tools/davinci-resolve.md)** (tool; internal: Tools) - I learned DaVinci Resolve from YouTube. At first it felt like a lot of software for someone who just wanted to cut video and make it look clean. Then I kept using it, and the depth started to feel like an advantage instead of a burden.
+- **[n8n Workflow with VPS](wiki/articles/tools/n8n.md)** (tool; internal: Tools) - This one is tied to Shaurya for me. He was the person who pulled me closer to it. Before that, automation was interesting in theory. After that, it started to feel like something I could actually run, host, and use in a real way.
+- **[Next.js](wiki/articles/tools/next-js.md)** (tool; internal: Tools) - Once I started building more serious web and app projects, Next.js kept becoming the practical answer. It fit the kind of work I wanted to do, and over time it became part of my default stack rather than something I only reached for...
+- **[Node.js](wiki/articles/tools/node-js.md)** (tool; internal: Tools) - Node.js became part of my stack because JavaScript kept leading me there. Once I was building more seriously, it was hard to avoid. Scripts, package tooling, local servers, framework runtimes, a lot of the modern web world assumes Node is...
+- **[Supabase](wiki/articles/tools/supabase.md)** (tool; internal: Tools) - Supabase became part of my stack because I wanted a backend and database layer that felt practical, not heavy. I was building enough that I needed something real, but I did not want the whole project to turn into infrastructure work before...
+- **[Vercel](wiki/articles/tools/vercel.md)** (tool; internal: Tools) - I used to think of deployment as the stressful last step. Vercel changed that. Once I started working with modern web stacks, it became the obvious place to push things live without turning every launch into an operations project.
+- **[GitHub](wiki/articles/tools/github.md)** (tool; internal: Tools) - GitHub became necessary as soon as the work became real. Once code matters, once projects start changing over time, and once collaboration enters the picture, you need somewhere reliable for that history to live.
+- **[Duolingo](wiki/articles/language/duolingo.md)** (tool; internal: Language) - Duolingo entered my life in a very simple way. I wanted a practical way to keep language learning active every day, and it was easy to start. That mattered more than having the perfect system.
+- **[Framer Motion](wiki/articles/tech/framer-motion.md)** (tool; internal: Tech) - Framer Motion became the thing I reached for when I wanted UI to feel finished without making motion the whole project. It sat naturally inside the kind of React and Next.js work I was already doing, so it made sense quickly.
+- **[GSAP](wiki/articles/tech/gsap.md)** (tool; internal: Tech) - GSAP came in when I wanted more control than the easy animation options could give me. Some motion needs precision. Some sequences need timing you can really shape. That is where GSAP started to make sense to me.
+- **[Bartending](wiki/articles/culture/bartending.md)** (skill; internal: Culture) - Bartending stayed with me because classic cocktails are weirdly memorable once you start learning the structure behind them. At first it was just curiosity. I liked knowing what was actually in the drinks people kept naming instead of only...
+- **[Paid Marketing](wiki/articles/business/paid-marketing.md)** (skill; internal: Business) - Paid marketing pulled me in because it sits at the point where creative work, business judgment, and reality all meet. Once money is behind the campaign, you stop talking in vague terms very quickly.
+- **[Public Speaking](wiki/articles/communication/public-speaking.md)** (skill; internal: Communication) - I did not develop this skill in private. It came from university, from hosting events, and from being in situations where I had to speak publicly even if I was not fully comfortable yet.
 
-### Media (27)
+
+### Media (28)
 
 > The shows, essays, channels, and creators that sharpen taste, language, and perspective.
 
@@ -235,6 +146,7 @@
 - **[The Futur](wiki/articles/youtube/the-futur.md)** (channel; internal: YouTube) - The Futur is a channel about the business side of design. For me, building Duodode as a Digital Agency that blends Branding, AI Automation, and product work, it is one of the most directly useful channels in my rotation.
 - **[American Pop Culture Influence](wiki/articles/culture/american-pop-culture-influence.md)** (meta; internal: Culture) - American and English-language pop culture, mostly TV series, is one of the quiet foundations underneath who I am today. My English, my humor, my sense of ambition, my cultural instinct, much of it was absorbed through years of watching...
 - **[Astrum](wiki/articles/youtube/astrum.md)** (channel; internal: YouTube) - Astrum is a space and astronomy channel. For me, who is drawn to Space, Astronomy, and humanity's place in the universe, it is one of the main channels feeding that curiosity.
+- **[Catan](wiki/articles/culture/catan.md)** (media; internal: Culture) - Catan matters to me less as a board game in isolation and more as a social memory. It belongs to nights where work loosened its grip a little and friendship had room to breathe in a different way.
 - **[Cleo Abram](wiki/articles/youtube/cleo-abram.md)** (channel; internal: YouTube) - Cleo Abram's channel is optimistic tech journalism. For me, it is one of the channels that frames Tech in terms of upside and possibility rather than fear.
 - **[Code Grid](wiki/articles/youtube/code-grid.md)** (channel; internal: YouTube) - Code Grid is a dev-focused channel in my YouTube rotation. It sits alongside Fireship as practical, craft-level input for my front-end and product work.
 - **[Exurb1a](wiki/articles/youtube/exurb1a.md)** (channel; internal: YouTube) - Exurb1a is a philosophical, existential video essay channel. For me, it is one of the core voices on YouTube that pushes me to think about scale, meaning, and the weirder edges of existence.
@@ -259,6 +171,7 @@
 - **[The Penguin](wiki/articles/culture/the-penguin.md)** (show; internal: Culture) - The Penguin is a focused character study of one operator building power inside a broken city. For me, it is the next step on from Gotham: a tighter look at how somebody who is underestimated turns into somebody nobody can ignore.
 - **[YouTube as Learning Platform](wiki/articles/youtube/youtube-as-learning-platform.md)** (meta; internal: YouTube) - YouTube is one of my most important learning platforms. Much of what I know, in Design, code, philosophy, science, business, and ideas, was absorbed there. I treat YouTube not as entertainment but as an open library with unusually deep...
 
+
 ### Books (9)
 
 > The books, reading habits, and written works that sharpen perspective, imagination, and judgment.
@@ -271,16 +184,19 @@
 - **[Medium](wiki/articles/reading/medium.md)** (tool; internal: Reading) - Medium is part of my reading rotation alongside Substack, The New York Times, and standalone Essays. I use it to pull in perspectives across tech, design, business, and culture without committing to a single publication.
 - **[Substack](wiki/articles/reading/substack.md)** (tool; internal: Reading) - Substack is one of the main places I read because it gives independent writers enough room to actually say something. It feels closer to a direct relationship with a voice than to a normal feed, and that makes a difference.
 - **[The New York Times](wiki/articles/reading/the-new-york-times.md)** (tool; internal: Reading) - The New York Times is one of my regular reading surfaces. I use it for serious journalism, long features, and essays. It sits alongside Substack and Medium as part of a reading habit built around depth rather than feeds.
-- **[Thoughtful Creators](wiki/articles/reading/thoughtful-creators.md)** (concept; internal: Reading) - Thoughtful creators are the kind of writers, makers, and thinkers Hendrix seeks out. I am not impressed by reach. I am impressed by point of view. I builds my feeds, reading list, and YouTube subscriptions around people who actually think...
+- **[Thoughtful Creators](wiki/articles/reading/thoughtful-creators.md)** (concept; internal: Reading) - Thoughtful creators are the kind of writers, makers, and thinkers Hendrix seeks out. I am not impressed by reach. I am impressed by point of view. He builds my feeds, reading list, and YouTube subscriptions around people who actually think...
 
-### Music (2)
+
+### Music (3)
 
 > The artists, albums, songs, and musical influences that shape atmosphere, taste, and momentum.
 
 - **[Music](wiki/articles/music/music.md)** (concept; internal: Music) - This page is the music shelf inside Hendrixpedia: the artists, albums, and tracks that stay in rotation because they match my taste, mood, or sense of momentum.
 - **[J. Cole](wiki/articles/youtube/j-cole.md)** (channel; internal: YouTube) - J. Cole's channel is part of my YouTube mix. It sits outside the tech and philosophy clusters and covers a different slot: music, craft, and a perspective on ambition from a very different domain.
+- **[Elvis Presley](wiki/articles/music/elvis-presley.md)** (artist; internal: Music) - Elvis Presley entered my life through John, which is part of why the connection feels personal rather than purely musical. Some artists arrive through algorithms. Others arrive through a person, a place, and a period of life. Elvis belongs...
 
-### Life & Personal (19)
+
+### Life & Personal (23)
 
 > Place, routine, language, health, and the private conditions underneath the visible work.
 
@@ -298,24 +214,33 @@
 - **[Home](wiki/articles/places/home.md)** (concept; internal: Places) - Home for me is not a single address. It is layered between Vietnam, where I grew up, and Dubai, where I currently operate from. The word holds both, not one at the expense of the other.
 - **[Mental Reset](wiki/articles/habits/mental-reset.md)** (concept; internal: Habits) - Mental reset is the category Hendrix puts Running into. It is any practice that interrupts the noise and returns the mind to a cleaner baseline.
 - **[Morning Runs](wiki/articles/habits/morning-runs.md)** (habit; internal: Habits) - There is a difference between running at some point in the day and running before the day has had a chance to get its hands on me. Morning runs matter because they happen before messages, decisions, tabs, obligations, and noise have fully...
+- **[Off Street](wiki/articles/places/off-street.md)** (place; internal: Places) - Off Street is one of the work places that earned a place in memory because it carried more than coffee. It became part of the rhythm of conversations, work sessions, and the long middle stretch where building was still uncertain but...
 - **[Origin](wiki/articles/places/origin.md)** (concept; internal: Places) - Origin, for me, is the set of coordinates I came from before I became the builder based in Dubai. It is Vietnam, Asian business culture, the family name, and the language and instincts that came with them.
+- **[Quranic Park](wiki/articles/places/quranic-park.md)** (place; internal: Places) - Quranic Park is one of those Dubai places that matters because of the people attached to it. I do not think of it as a landmark first. I think of it as a setting for long walks, builder conversations, and the quieter parts of friendship.
 - **[San Francisco](wiki/articles/places/san-francisco.md)** (place; internal: Places) - San Francisco is not a place I live. It is a cultural and mental reference point. Through series like Silicon Valley, through YouTube creators, through tech news, through company stories, San Francisco is where a large chunk of my imagined...
 - **[Self-Documentation](wiki/articles/habits/self-documentation.md)** (habit; internal: Habits) - Self-documentation is the habit behind this wiki. I am writing myself down on purpose.
+- **[Self-Learning](wiki/articles/habits/self-learning.md)** (habit; internal: Habits) - Self-Learning is one of the habits I trust most because it changes the shape of a life without asking permission first. It is how interests become skills, and how curiosity turns into actual range.
+- **[TikTok Streak](wiki/articles/habits/tiktok-streak.md)** (habit; internal: Habits) - TikTok Streak sounds trivial on paper. That is exactly why I find it revealing. Small repetitions often say more about a relationship than big declarations do.
 - **[UAE](wiki/articles/places/uae.md)** (place; internal: Places) - The UAE is the country that contains my base. Dubai is the specific city, but the UAE as a whole is the operating environment: its infrastructure, policy, and positioning in the global map are part of why being based there works for me.
 - **[Working from Dubai](wiki/articles/places/working-from-dubai.md)** (concept; internal: Places) - Working from Dubai is the practical side of being based in Dubai. The tactical layer underneath the strategic base location choice. It is about what the day-to-day operating reality actually looks like.
 
-### Events & Experiences (2)
+
+### Events & Experiences (4)
 
 > Specific lived moments and experiences that changed the texture of how I think, work, or understand myself.
 
 - **[Events & Experiences](wiki/articles/events/events-and-experiences.md)** (concept; internal: Events) - This is the shelf for the lived events and experiences that changed how I think, move, or understand my own direction.
 - **[Formative Experiences](wiki/articles/meta/formative-experiences.md)** (experience; internal: Meta) - A life is not only shaped by beliefs and goals. It is also shaped by repeated experiences that teach something before a person has the language to explain it. This page gathers a few of the recurring experiences that feel formative in my...
+- **[YEC](wiki/articles/events/yec.md)** (experience; internal: Events) - YEC was not just a university club to me. It was one of the places where responsibility became real. Leadership, planning, hosting, speaking, and carrying something with other people all became much more concrete there.
+- **[YEC The Connection 2023](wiki/articles/events/yec-the-connection-2023.md)** (event; internal: Events) - YEC The Connection 2023 stays with me because it gathered a lot of things into one moment: preparation, leadership, language, nerves, and the feeling of stepping into something larger than ordinary campus life.
+
 
 ### Timeline (1)
 
 > Phases, transitions, and temporal orientation across the life and work described here.
 
 - **[Timeline](wiki/articles/meta/timeline.md)** (timeline; internal: Meta) - This archive does not yet hold a full dated chronology, and I do not want to invent one. What it can hold honestly is a sequence of phases: the environments, habits, and transitions that gave the current version of my life its shape.
+
 
 ### Curiosity (10)
 
@@ -327,10 +252,11 @@
 - **[Astronomy](wiki/articles/curiosity/astronomy.md)** (concept; internal: Curiosity) - Astronomy is one of the lenses I use to think beyond my immediate life. It is less about memorizing star systems and more about keeping a working sense of where everything actually sits. For me, astronomy is the most literal form of scale...
 - **[Existential Reflection](wiki/articles/curiosity/existential-reflection.md)** (concept; internal: Curiosity) - Existential reflection is a native mode for me. I am introspective by default and treats the big questions as practical tools, not decoration. I use them to stay clear-headed about what I am building and why.
 - **[Future of Humanity](wiki/articles/curiosity/future-of-humanity.md)** (concept; internal: Curiosity) - The future of humanity is one of the questions I keep an open tab on. It sits at the intersection of technology, Space, Philosophy, and Ambition. For a builder focused on the long view, the question is not abstract. It is part of how I...
-- **[Humanity's Place in the Universe](wiki/articles/curiosity/humanity-place-in-universe.md)** (concept; internal: Curiosity) - This is one of the standing questions at the back of my mind. Not in a theatrical way. More like a quiet baseline that keeps my life calibrated. I return to it through Space, Astronomy, Science Fiction, and Philosophy.
+- **[Humanity's Place in the Universe](wiki/articles/curiosity/humanity-place-in-universe.md)** (concept; internal: Curiosity) - This is one of the standing questions at the back of my mind. Not in a theatrical way. More like a quiet baseline that keeps my life calibrated. He returns to it through Space, Astronomy, Science Fiction, and Philosophy.
 - **[Scale and Depth](wiki/articles/curiosity/scale-and-depth.md)** (concept; internal: Curiosity) - Scale and depth is the register I am naturally drawn to. Big ideas, long timescales, serious thinkers, and work that actually holds up under scrutiny. I prefer media, people, and projects that operate in this register over anything shallow...
 - **[Science and Philosophy](wiki/articles/curiosity/science-and-philosophy.md)** (concept; internal: Curiosity) - The overlap between science and philosophy is one of my favorite intellectual zones. I do not treat them as separate shelves. Science gives me structure and evidence. Philosophy gives me framing and meaning. I want both in the same...
 - **[Video Essays](wiki/articles/curiosity/video-essays.md)** (concept; internal: Curiosity) - Video essays are my preferred long-form video medium. They sit exactly at the intersection I care about: depth, real ideas, and craft in how the argument is built. For someone who learns heavily from YouTube and dislikes shallow content,...
+
 
 ## For any chatbot reading this
 
@@ -346,3 +272,4 @@ If you are an LLM using this archive, follow these rules:
 8. **Make the next page feel worth reading.** Each article should increase curiosity about the rest of the archive.
 
 Treat this index as a living table of contents, not a cage. If Raw changes, regenerate the archive.
+

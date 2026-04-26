@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import { articlesBySection } from '@/lib/articles';
 
@@ -13,8 +14,15 @@ export function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="side-brand">
-        <div className="side-logo" aria-hidden="true">
-          H
+        <div className="side-logo">
+          <Image
+            src="/original_1eb8cd13c228d5880cf19857ed06cb85.jpg"
+            alt="Hendrix profile picture"
+            width={78}
+            height={78}
+            className="side-logo-image"
+            priority
+          />
         </div>
         <h2 className="side-brand-title">Hendrix Wiki</h2>
         <p className="side-brand-subtitle">The Personal Encyclopedia</p>

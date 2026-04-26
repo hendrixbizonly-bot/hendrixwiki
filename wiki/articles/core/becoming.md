@@ -2,46 +2,35 @@
 title: Becoming
 category: core
 type: concept
-related: [Hendrix, Identity, Self-Development, Introspection, Ambition, Being a Builder]
+related: [Hendrix, Being a Builder, Competence, Self-Overcoming, Shaurya, Brian]
 tags: [inner-life, growth, project]
 ---
 
 # Becoming
 
-Becoming is how I think about myself over time. I am not trying to preserve a fixed self forever. I am trying to grow into someone stronger, clearer, more capable, and more able to hold the life I am aiming toward. The word matters to me because it keeps identity active instead of decorative.
+I rarely think of myself as finished.
 
-## Why I need this frame
+That is not self-rejection. It is just the clearest description of how I experience my own life. The current version of me is real, but it is also transitional. I can feel the distance between what I already am and what I still need to grow into if I want the life I keep pointing toward.
 
-If I only used the language of identity, it would be too easy to act as though the current version of me were already complete. Becoming corrects that. It reminds me that what I am right now is real, but not final. It keeps the future open without making the present fake.
+## How it feels in practice
 
-That matters because the life I want is larger than the life I have already built. I cannot want more weight, more freedom, more responsibility, and more range without also accepting that I have to become capable of carrying those things.
+Becoming is not dramatic most of the time. It looks like skill built slowly enough that other people barely notice the change at first. It looks like taste becoming sharper. It looks like carrying more responsibility without panicking. It looks like staying with hard things longer. It looks like learning how to hold ambition without letting it turn theatrical.
 
-## What becoming includes for me
+That is why this page touches so many other parts of the wiki. Building [[Duodode]] is part of becoming. Getting better at [[Competence|the actual work]] is part of becoming. The same goes for the quieter layers: how I speak, how I think, who I trust, what I keep returning to when things get unclear.
 
-It includes competence, judgment, language, discipline, emotional weight, physical grounding, business ability, and the capacity to stay steady while things are unclear. It includes becoming better at building, but it also includes becoming better at thinking, articulating, choosing, and withstanding.
+## Why I need the word
 
-That is why this page touches so many parts of the archive. [[Spanish]] belongs to becoming. [[Running]] belongs to becoming. [[Duodode]] belongs to becoming. [[Introspection]], [[Ambition]], and [[Being a Builder]] all belong to becoming too.
+I need this word because identity by itself can get too static. If I only speak in terms of who I am, it becomes easier to protect the current version of myself. Becoming keeps a little pressure in the system. It reminds me that more will be required from me later than has been required so far.
 
-## The builder version of becoming
+That pressure has often been sharpened by people around me. [[Brian]] and [[Shaurya]] both belong to different stages of that process. Being around people who are pushing in their own direction changes the standard, even if nobody says it out loud.
 
-For me, becoming is not an abstract self-help project. It is tied directly to work. If I want to build larger things, I have to become the kind of person who can hold larger systems without collapsing into confusion, ego, or avoidance. If I want more freedom, I have to become someone who can use freedom well rather than waste it. If I want range, I have to become someone capable of integrating that range into something coherent.
-
-This is why becoming is inseparable from actual output. I do not believe much in becoming through fantasy. I believe in becoming through repeated contact with reality.
-
-## Why introspection is not enough
-
-I am introspective by temperament, which means I can see the danger clearly here. Reflection can help becoming, but it can also imitate it. A person can spend a long time narrating growth without really changing much at all. That is one of the reasons I lean so hard on building, shipping, and staying close to the work. Action is where the self gets tested.
-
-Thought helps name the next version. Work helps build it.
-
-## The emotional side of it
-
-Becoming is not always clean or inspiring. Sometimes it looks like uncertainty, slowness, repetition, and the frustration of seeing the distance between the person you are and the person you are trying to grow into. I accept that. I would rather live inside that tension than settle too early into a smaller version of myself just because it is easier to explain.
-
-## Why the page stays central
-
-This page matters because it holds the longer arc. [[Identity]] tells me who I am. Becoming tells me what direction that identity is still moving in. Without becoming, identity gets rigid. Without identity, becoming gets vague. I need both.
+I do not always enjoy the tension inside becoming. But I trust it more than comfort.
 
 ## Related
 
-[[Identity]] · [[Self-Development]] · [[Introspection]] · [[Ambition]] · [[Being a Builder]] · [[Future Orientation]]
+- [[Hendrix]]
+- [[Being a Builder]]
+- [[Competence]]
+- [[Self-Overcoming]]
+- [[Shaurya]]
+- [[Brian]]

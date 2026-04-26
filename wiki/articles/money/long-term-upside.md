@@ -1,6 +1,7 @@
 ---
 title: Long-term Upside
 category: money
+hidden: true
 type: concept
 related: [Compounding Wealth, Money, Wealth, ROI-Driven Thinking, Practical Ambition, Financial Success]
 tags: [long-term, upside, money]

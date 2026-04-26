@@ -1,6 +1,7 @@
 ---
 title: Lowercase Writing
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Natural Language, Tone Preferences]
 tags: [lowercase, writing, style]

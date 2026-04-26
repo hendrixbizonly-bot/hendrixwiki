@@ -1,6 +1,7 @@
 ---
 title: Concise Writing
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Directness, Clear Over Clever, Natural Language]
 tags: [concise, writing, communication]

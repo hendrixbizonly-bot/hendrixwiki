@@ -6,8 +6,10 @@ import {
   CATEGORY_NAMES,
   CATEGORY_ORDER,
   CATEGORY_COLORS,
+  type CuratedSectionEntry,
   SECTION_CATEGORY_MAP,
   SECTION_DESCRIPTIONS,
+  SECTION_CURATED_SLUGS,
   SECTION_NAMES,
   SECTION_ORDER,
   SECTION_PRIORITY_SLUGS,
@@ -19,6 +21,7 @@ export {
   CATEGORY_ORDER,
   CATEGORY_COLORS,
   SECTION_DESCRIPTIONS,
+  SECTION_CURATED_SLUGS,
   SECTION_NAMES,
   SECTION_ORDER,
   SECTION_PRIORITY_SLUGS,
@@ -333,6 +336,26 @@ export function resolveWikiLinks(md: string, articles: Article[]): string {
     }
 
     return `<span class="wikilink missing" title="Article not yet written">${label}</span>`;
+  });
+}
+
+function arrangeArticlesForSection(
+  section: SectionKey,
+  sectionArticles: Article[],
+  allArticles: Article[]
+): Article[] {
+  const curated = SECTION_CURATED_SLUGS[section];
+  if (!curated?.length) {
+    return sortArticlesForSection(section, sectionArticles);
+  }
+
+  const articleBySlug = new Map(allArticles.map(article => [article.slug, article]));
+
+  return curated.flatMap(entry => {
+    const spec: Extract<CuratedSectionEntry, { slug: string }> =
+      typeof entry === 'string' ? { slug: entry } : entry;
+    const article = articleBySlug.get(spec.slug);
+    return article ? [{ ...article, title: spec.title || article.title }] : [];
   });
 }
 
@@ -737,13 +760,13 @@ export function articlesBySection(): SectionGroup[] {
   }
 
   return SECTION_ORDER
-    .filter(key => (groups.get(key) || []).length)
     .map(key => ({
       key,
       name: sectionName(key),
       description: sectionDescription(key),
-      articles: sortArticlesForSection(key, groups.get(key) || []),
-    }));
+      articles: arrangeArticlesForSection(key, groups.get(key) || [], articles),
+    }))
+    .filter(section => section.articles.length);
 }
 
 export type ManifestEntry = Pick<Article, 'title' | 'slug' | 'category' | 'section' | 'type' | 'updatedAt' | 'aliases' | 'related' | 'tags'>;

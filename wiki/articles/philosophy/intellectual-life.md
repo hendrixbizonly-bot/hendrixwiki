@@ -1,6 +1,7 @@
 ---
 title: Intellectual Life
 category: philosophy
+hidden: true
 type: concept
 related: [Philosophy, Long-form Thinking, Serious Thinkers, Worldview, Mental Edge, Ideas]
 tags: [intellectual, reading, life]

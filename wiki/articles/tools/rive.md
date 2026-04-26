@@ -1,38 +1,38 @@
 ---
-title: Rive
+title: Rive Animation
 category: tools
 type: tool
-related: [Motion Design, Interaction Design, Figma, GSAP, Framer Motion]
-tags: [animation, motion, tools, interaction]
+aliases: [Rive]
+related: [Figma, Framer Motion, GSAP, Next.js, Interaction Design]
+tags: [animation, motion, interaction, tool]
 ---
 
-# Rive
+# Rive Animation
 
-Rive is my tool for interactive animation. I use it where motion needs to be responsive, stateful, or embedded into a product rather than rendered as a flat video.
+## How I Got Into It
 
-## What it is
+I found Rive on YouTube because I wanted motion that felt alive inside UI, not just exported on top of it. That was the appeal immediately. I liked animation already, but I was more interested in interactive motion than in making something that only played once.
 
-An animation tool that produces interactive, runtime-driven animations with state machines. Output runs natively inside web and app products.
+Rive felt like the bridge between design and behavior.
 
-## How I use it
+## The Learning Process
 
-- Interactive animations for [[Duodode]] product work
-- State-driven UI elements that react to input
-- Motion that lives inside the product, not rendered to video
-- Complementing code-level motion in [[GSAP]] and [[Framer Motion]]
-- Extending the visual language from [[Figma]] into runtime
+The difficult part at the beginning was understanding that interactive animation needs a different mindset. It is not only about making something look smooth. It also has to respond properly. State machines, triggers, logic, and timing all matter.
 
-## Why it fits my workflow
+That took me a little while. Once it clicked, Rive made a lot more sense.
 
-Rive solves a problem that static tools cannot. It produces motion that behaves. For a builder who sees animation as [[Motion Design|communication]] rather than decoration, that is the right lens.
+## How I Use It Now
 
-## What it unlocks for me
+I use Rive when I want a product surface to feel more interactive without hard-coding every detail from scratch. It works well as an extension of work that starts in [[Figma]] and later moves into actual UI.
 
-- Rich interactive UI without writing all motion logic by hand
-- A design-to-runtime pipeline for animations
-- Product surfaces that feel alive without feeling busy
-- Another expression of my [[Design Philosophy|intentional, timeless, consistent]] standard
+I do not use it for everything. Sometimes [[Framer Motion]] or [[GSAP]] is the better answer. But when I want animation to behave like part of the interface, Rive is usually where my mind goes.
+
+## What It Changed
+
+It changed how I think about motion in product work. Before, animation could feel like polish. After Rive, it felt more like interface design.
+
+It also made me more interested in the space between design and code. That area keeps showing up in my work, and Rive sits right there.
 
 ## Related
 
-[[Motion Design]] · [[Interaction Design]] · [[Figma]] · [[GSAP]] · [[Framer Motion]]
+[[Figma]] · [[Framer Motion]] · [[GSAP]] · [[Next.js]] · [[Interaction Design]]

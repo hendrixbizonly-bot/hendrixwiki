@@ -2,37 +2,36 @@
 title: Next.js
 category: tools
 type: tool
-related: [Node.js, Vercel, JavaScript, Frontend Frameworks, VS Code, Supabase]
-tags: [framework, frontend, react, tools]
+related: [VS Code, JavaScript, Node.js, Supabase, Vercel, GitHub]
+tags: [framework, frontend, react, tool]
 ---
 
 # Next.js
 
-Next.js is my front-end framework of choice. It is the default way I build web and product surfaces for [[Duodode]], and it plugs directly into [[Vercel]] for deployment and [[Supabase]] for backend.
+## How I Got Into It
 
-## What it is
+Once I started building more serious web and app projects, Next.js kept becoming the practical answer. It fit the kind of work I wanted to do, and over time it became part of my default stack rather than something I only reached for occasionally.
 
-A React-based framework for building full web applications. It handles routing, rendering, data fetching, and deployment in one cohesive model.
+I do not have an emotional attachment to frameworks for their own sake. Next.js earned its place because it kept helping me ship.
 
-## How I use it
+## The Learning Process
 
-- Building websites and product UIs for [[Duodode]] clients
-- Shipping full apps with backend routes and data layers
-- Pairing with [[Supabase]] for database and auth
-- Deploying through [[Vercel]] with no extra ops
-- Writing the front-end in modern [[JavaScript]] inside [[VS Code]]
+The learning curve was mostly about structure. Routing, rendering, project organization, and understanding how the pieces fit together instead of treating everything like loose React files. It took some time before the framework felt intuitive.
 
-## Why it fits my workflow
+What helped was building actual things with it. Once I had a few projects behind me, the mental model became much clearer.
 
-Next.js compresses the distance between idea and deployed product. That is exactly the point for a [[Build and Ship|build and ship]] operator. It also fits my preference for using the right tool for the job rather than over-identifying with any one framework (see [[Frontend Knowledge]] in Hendrix).
+## How I Use It Now
 
-## What it unlocks for me
+It is part of my normal web and app building stack now. I use it for front-end work, product surfaces, and full-stack builds when it makes sense to keep everything in one system. It works especially well alongside [[Supabase]], [[Vercel]], and day-to-day coding inside [[VS Code]].
 
-- Production-grade apps from a small setup
-- Native integration with [[Vercel]] for one-command deploys
-- A clean bridge from [[Figma]] designs into real, performant UI
-- Leverage for a lean operation like [[Duodode]]
+It also fits well with how I already work in [[JavaScript]] and [[Node.js]], so the stack stays coherent.
+
+## What It Changed
+
+Next.js lowered the distance between an idea and a deployed product. That changed a lot for me because speed matters in how I learn. If a stack helps me test faster, I grow faster inside it.
+
+It also made modern product building feel less fragmented. Front-end, routes, deployment, and backend integrations all started to feel like parts of one system instead of separate worlds.
 
 ## Related
 
-[[Node.js]] · [[Vercel]] · [[JavaScript]] · [[Frontend Frameworks]] · [[VS Code]] · [[Supabase]] · [[Deployment Workflows]]
+[[VS Code]] · [[JavaScript]] · [[Node.js]] · [[Supabase]] · [[Vercel]] · [[GitHub]]

@@ -1,6 +1,7 @@
 ---
 title: Future Orientation
 category: core
+section: concepts
 type: concept
 related: [Hendrix, Ambition, Strategic Thinking, Becoming, Long-term Upside, ROI-Driven Thinking]
 tags: [mindset, time, direction]

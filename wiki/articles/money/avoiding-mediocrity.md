@@ -1,6 +1,7 @@
 ---
 title: Avoiding Mediocrity
 category: money
+hidden: true
 type: concept
 related: [Self-Overcoming, Ambition, Financial Success, Practical Ambition, Nietzsche, Self-Development]
 tags: [mediocrity, ambition, drive]

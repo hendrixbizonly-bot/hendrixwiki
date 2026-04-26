@@ -1,6 +1,7 @@
 ---
 title: Natural Language
 category: communication
+hidden: true
 type: concept
 related: [Communication Preferences, Directness, Concise Writing, Tone Preferences]
 tags: [natural, language, writing]
