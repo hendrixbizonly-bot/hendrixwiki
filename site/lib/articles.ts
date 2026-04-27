@@ -271,8 +271,13 @@ export function loadArticle(slug: string): Article | null {
   return loadArticles().find(article => article.slug === slug) || null;
 }
 
-function normalizeLookup(value: string): string {
-  return value.trim().toLowerCase();
+export function displayTitle(article: Pick<Article, 'title' | 'body'>): string {
+  const heading = article.body.match(/^#\s+(.+)$/m)?.[1]?.trim();
+  return heading || article.title;
+}
+
+function normalizeLookup(value: unknown): string {
+  return String(value).trim().toLowerCase();
 }
 
 function stemFromSlug(slug: string): string {

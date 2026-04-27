@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound, redirect } from 'next/navigation';
 import {
+  displayTitle,
   getArticleToc,
   getRelatedArticles,
   loadArticle,
@@ -17,7 +18,7 @@ export async function generateMetadata({ params }: { params: { slug: string[] } 
   const slug = params.slug.join('/');
   const article = loadArticle(slug);
   const target = article?.redirectTo ? loadArticle(article.redirectTo) : article;
-  return { title: target ? `${target.title} | Hendrixpedia` : 'Chapter | Hendrixpedia' };
+  return { title: target ? `${displayTitle(target)} | Hendrixpedia` : 'Chapter | Hendrixpedia' };
 }
 
 export default function ArticlePage({ params }: { params: { slug: string[] } }) {
@@ -33,17 +34,18 @@ export default function ArticlePage({ params }: { params: { slug: string[] } }) 
   const section = sectionName(article.section);
   const toc = getArticleToc(article.body);
   const relatedArticles = getRelatedArticles(article, articles);
+  const visibleTitle = displayTitle(article);
 
   return (
     <div className="article-shell">
       <article className="article-page">
         <div className="breadcrumbs">
-          <Link href="/">Home</Link> {'>'} <Link href={`/#${article.section}`}>{section}</Link> {'>'} <span>{article.title}</span>
+          <Link href="/">Home</Link> {'>'} <Link href={`/#${article.section}`}>{section}</Link> {'>'} <span>{visibleTitle}</span>
         </div>
         <div className="article-meta">
           {section} | {article.type} | updated {article.updatedAt}
         </div>
-        <h1 className="article-title">{article.title}</h1>
+        <h1 className="article-title">{visibleTitle}</h1>
         <div id="overview" className="article" dangerouslySetInnerHTML={{ __html: html }} />
       </article>
 

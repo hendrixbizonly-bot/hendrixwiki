@@ -63,20 +63,19 @@ export const CATEGORY_COLORS: Record<string, string> = {
 export const SECTION_ORDER = [
   'navigation',
   'people',
-  'identity',
   'ventures',
+  'events',
+  'identity',
   'concepts',
   'skills',
-  'media',
-  'books',
-  'music',
-  'life',
-  'events',
-  'timeline',
   'curiosity',
+  'media',
+  'music',
+  'books',
+  'life',
 ] as const;
 
-export type SectionKey = (typeof SECTION_ORDER)[number];
+export type SectionKey = (typeof SECTION_ORDER)[number] | 'timeline';
 export type CuratedSectionEntry = string | { slug: string; title?: string };
 
 export const SECTION_NAMES: Record<SectionKey, string> = {

@@ -11,7 +11,7 @@ tags: [person]
 
 ## Who He Is
 
-Brian is one of the people closest to my early builder phase. He is tied to **[[Duodode]]** and **[[Hyped Indie]]**, and to that stretch of life when I was no longer satisfied with ideas staying in my head.
+Brian is a Vietnamese entrepreneur the co-founder of **[[Duodode]]** and **[[Hyped Indie]]**. He is one of the people closest to my early builder phase, the period when I was starting to become less satisfied with ideas staying only in my head.
 
 The first version of him I met felt reserved. He did not open himself quickly, and if the topic did not interest him, the conversation could stall out. Then the subject would shift toward work, direction, or something he actually cared about, and a different side would appear: precise, thoughtful, and much clearer than the quiet exterior suggested.
 

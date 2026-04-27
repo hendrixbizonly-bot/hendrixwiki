@@ -3,7 +3,7 @@
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 154 chapters across 13 reader-facing sections.
+**Total:** 211 chapters across 13 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -42,7 +42,7 @@
 > The individuals who matter here, whether through closeness, admiration, influence, or memory.
 
 - **[Bin](wiki/articles/people/bin.md)** (person; internal: People) - Bin is one of my long-term friends and one of the people I lived with after university. He belongs to a phase of life that felt less polished from the inside than it probably looked from the outside.
-- **[Brian](wiki/articles/people/brian.md)** (person; internal: People) - Brian is one of the people closest to my early builder phase. He is tied to Duodode and Hyped Indie, and to that stretch of life when I was no longer satisfied with ideas staying in my head.
+- **[Brian](wiki/articles/people/brian.md)** (person; internal: People) - Brian is a Vietnamese entrepreneur the co-founder of Duodode and Hyped Indie. He is one of the people closest to my early builder phase, the period when I was starting to become less satisfied with ideas staying only in my head.
 - **[Duc Anh](wiki/articles/people/duc-anh.md)** (person; internal: People) - Duc Anh is one of my long-time friends and now works in banking. He belongs to the side of friendship built through years of ordinary time rather than one defining story.
 - **[Friedrich Nietzsche](wiki/articles/people/friedrich-nietzsche.md)** (person; internal: People) - Friedrich Nietzsche is a philosopher, but he belongs in my People archive because he feels less like a subject and more like a recurring pressure inside my life. He is the writer I come back to when I need a harsher measure than comfort...
 - **[Giang](wiki/articles/people/giang.md)** (person; internal: People) - Giang is one of my high school friends and is now moving through the finance world. In my memory, though, he is attached less to job titles and more to a certain kind of energy: active, funny, and easy to be around.
@@ -65,7 +65,7 @@
 
 > The self-description layer: the chapters that answer who I am, what keeps returning in me, and what kind of person I am still becoming.
 
-- **[Hendrix](wiki/articles/core/hendrix.md)** (person; internal: Core) - Most of this wiki is me coming into focus from different angles. If I strip it down to the version that feels most honest, I am a builder shaped by Vietnam, living in Dubai, trying to build a life that feels chosen instead of drifted into.
+- **[Hendrix](wiki/articles/core/hendrix.md)** (person; internal: Core) - This page is probably the closest thing this wiki has to a front door. Everything else branches outward from here: the work, the people, the ideas, the habits, the places. If I reduce it to the line that feels most honest, I am someone...
 - **[Being a Builder](wiki/articles/core/being-a-builder.md)** (concept; internal: Core) - The word came late. The pattern came first.
 - **[What Lasts](wiki/articles/core/what-lasts.md)** (concept; internal: Core) - I have always trusted what stays more than what flashes.
 - **[Responsibility for Outcomes](wiki/articles/core/responsibility-for-outcomes.md)** (concept; internal: Core) - I trust people more when their attention stays on the result instead of their assigned piece of the result. That is true in business, in collaboration, and in how I judge myself.
@@ -166,28 +166,84 @@
 - **[YouTube as Learning Platform](wiki/articles/youtube/youtube-as-learning-platform.md)** (meta; internal: YouTube) - YouTube is one of my most important learning platforms. Much of what I know, in Design, code, philosophy, science, business, and ideas, was absorbed there. I treat YouTube not as entertainment but as an open library with unusually deep...
 
 
-### Books (9)
+### Books (59)
 
 > The books, reading habits, and written works that sharpen perspective, imagination, and judgment.
 
 - **[Recommended Books](wiki/articles/books/recommended-books.md)** (concept; internal: Books) - This page is the shelf for the books I would actively recommend, revisit, or point people toward when they want a cleaner picture of what shapes my thinking.
 - **[Reading as Self-Reconstruction](wiki/articles/reading/reading-as-self-reconstruction.md)** (concept; internal: Reading) - I do not only read to learn facts or fill time. Part of what reading does for me is more structural than that. It helps me leave one mental frame and build a better one nearby. Sometimes the change is subtle. Sometimes it is the difference...
-- **[Red Rising](wiki/articles/reading/red-rising.md)** (book; internal: Reading) - What makes Red Rising belong in this archive is not only that it is set on Mars or that it fits my interest in science fiction. It belongs here because it carries several themes I keep returning to anyway: hierarchy, dignity, rebellion,...
+- **[Red Rising](wiki/articles/reading/red-rising.md)** (book; internal: Reading) - A science-fiction novel about class oppression, rebellion, and rising through a brutal social order.
 - **[Essays](wiki/articles/reading/essays.md)** (concept; internal: Reading) - Essays are one of my favorite reading forms because they can do something rare: develop a real idea without bloating it. They give a writer enough room to think and enough constraint to stay sharp. For someone like me, who wants depth but...
+- **["1984"](wiki/articles/books/1984.md)** (book; internal: Books) - A dystopian novel about surveillance, control, and the manipulation of truth.
+- **["The Creative Act: A Way of Being"](wiki/articles/books/the-creative-act-a-way-of-being.md)** (book; internal: Books) - A book about creativity as a way of paying attention, making choices, and moving through the world.
+- **[A Brief History of Time](wiki/articles/books/a-brief-history-of-time.md)** (book; internal: Books) - A popular science book explaining major ideas about time, black holes, and the origin of the universe.
+- **[All the Light We Cannot See](wiki/articles/books/all-the-light-we-cannot-see.md)** (book; internal: Books) - A historical novel following two young lives that intersect during World War II.
+- **[Animal Farm](wiki/articles/books/animal-farm.md)** (book; internal: Books) - A political allegory in which farm animals stage a revolution that slowly becomes another form of tyranny.
+- **[Babel](wiki/articles/books/babel.md)** (book; internal: Books) - A fantasy novel about translation, empire, and power inside a magical Oxford institute.
+- **[Bad Blood](wiki/articles/books/bad-blood.md)** (book; internal: Books) - A nonfiction account of the rise and collapse of Theranos and the fraud behind it.
+- **[Beyond Good and Evil](wiki/articles/books/beyond-good-and-evil.md)** (book; internal: Books) - A philosophical work that challenges moral certainties and examines the motives behind values.
+- **[Children of Time](wiki/articles/books/children-of-time.md)** (book; internal: Books) - A science-fiction novel about evolving intelligence, survival, and the long future of different species.
+- **[Elon Musk](wiki/articles/books/elon-musk.md)** (book; internal: Books) - A biography tracing Elon Musk?s life, companies, and influence across several industries.
+- **[George's Secret Key to the Universe](wiki/articles/books/georges-secret-key-to-the-universe.md)** (book; internal: Books) - A children?s science novel that introduces space, black holes, and the wider universe through adventure.
+- **[Golden Son](wiki/articles/books/golden-son.md)** (book; internal: Books) - A science-fiction sequel that expands the political conflict and personal stakes of the Red Rising series.
+- **[I Am Dynamite!](wiki/articles/books/i-am-dynamite.md)** (book; internal: Books) - A biography of Friedrich Nietzsche that follows his life, thought, and intellectual legacy.
+- **[Kane and Abel](wiki/articles/books/kane-and-abel.md)** (book; internal: Books) - A novel about two driven men from very different backgrounds whose lives become intertwined through rivalry and ambition.
+- **[Letter to His Father](wiki/articles/books/letter-to-his-father.md)** (book; internal: Books) - A personal letter in which Kafka reflects on his relationship with his father and its emotional effects on him.
+- **[Lifespan](wiki/articles/books/lifespan.md)** (book; internal: Books) - A nonfiction book about aging, longevity research, and the science of extending healthy life.
 - **[Long-form Writing](wiki/articles/reading/long-form-writing.md)** (concept; internal: Reading) - I trust long-form writing because it gives a mind enough room to reveal itself. A short piece can still be sharp, but length changes the test. Over a few pages, a writer either has a real point of view or runs out of depth and starts...
+- **[Meditations](wiki/articles/books/meditations.md)** (book; internal: Books) - A collection of private reflections on discipline, virtue, and how to live well under pressure.
 - **[Medium](wiki/articles/reading/medium.md)** (tool; internal: Reading) - Medium is part of my reading rotation alongside Substack, The New York Times, and standalone Essays. I use it to pull in perspectives across tech, design, business, and culture without committing to a single publication.
+- **[Morning Star](wiki/articles/books/morning-star.md)** (book; internal: Books) - A science-fiction novel that concludes the original Red Rising trilogy.
+- **[No Longer Human](wiki/articles/books/no-longer-human.md)** (book; internal: Books) - A novel about alienation, shame, and a man?s growing inability to live comfortably among others.
+- **[Norwegian Wood](wiki/articles/books/norwegian-wood.md)** (book; internal: Books) - A literary novel about memory, grief, love, and emotional isolation in young adulthood.
+- **[Outliers](wiki/articles/books/outliers.md)** (book; internal: Books) - A nonfiction book examining how opportunity, culture, timing, and practice shape success.
+- **[Poems for the Lost Because I'm Lost Too](wiki/articles/books/poems-for-the-lost-because-im-lost-too.md)** (book; internal: Books) - A poetry collection about sadness, confusion, endurance, and trying to keep moving through life.
+- **[Project Hail Mary](wiki/articles/books/project-hail-mary.md)** (book; internal: Books) - A science-fiction novel about a lone astronaut trying to save Earth through science and first contact.
+- **[Reasons to Stay Alive](wiki/articles/books/reasons-to-stay-alive.md)** (book; internal: Books) - A memoir-like reflection on depression, survival, and finding reasons to keep living.
+- **[Rework](wiki/articles/books/rework.md)** (book; internal: Books) - A business book arguing for simpler, more direct ways of building and running companies.
+- **[Sapiens](wiki/articles/books/sapiens.md)** (book; internal: Books) - A broad history of humankind from early evolution to modern civilization.
+- **[Sputnik Sweetheart](wiki/articles/books/sputnik-sweetheart.md)** (book; internal: Books) - A novel about longing, distance, and emotional disconnection between three people.
+- **[Steve Jobs](wiki/articles/books/steve-jobs.md)** (book; internal: Books) - A biography of Steve Jobs covering his life, temperament, and role in shaping Apple.
 - **[Substack](wiki/articles/reading/substack.md)** (tool; internal: Reading) - Substack is one of the main places I read because it gives independent writers enough room to actually say something. It feels closer to a direct relationship with a voice than to a normal feed, and that makes a difference.
+- **[Talking to Strangers](wiki/articles/books/talking-to-strangers.md)** (book; internal: Books) - A nonfiction book about why people often misunderstand strangers and misread their behavior.
+- **[The Alchemist](wiki/articles/books/the-alchemist.md)** (book; internal: Books) - A fable-like novel about a young shepherd following a journey toward his personal destiny.
+- **[The Almanack of Naval Ravikant](wiki/articles/books/the-almanack-of-naval-ravikant.md)** (book; internal: Books) - A curated book of Naval Ravikant?s ideas on wealth, leverage, judgment, and living well.
+- **[The Bell Jar](wiki/articles/books/the-bell-jar.md)** (book; internal: Books) - A novel about mental distress, identity, and the pressures of becoming an adult woman.
+- **[The Black Swan](wiki/articles/books/the-black-swan.md)** (book; internal: Books) - A nonfiction book about rare, unpredictable events that have massive consequences.
+- **[The Book Thief](wiki/articles/books/the-book-thief.md)** (book; internal: Books) - A historical novel about a young girl, books, and survival in Nazi Germany.
+- **[The Count of Monte Cristo](wiki/articles/books/the-count-of-monte-cristo.md)** (book; internal: Books) - A classic novel of betrayal, imprisonment, reinvention, and revenge.
+- **[The Gay Science](wiki/articles/books/the-gay-science.md)** (book; internal: Books) - A philosophical work of aphorisms and reflections on truth, joy, art, and the meaning of life.
+- **[The Great Gatsby](wiki/articles/books/the-great-gatsby.md)** (book; internal: Books) - A novel about wealth, desire, illusion, and the American dream in the Jazz Age.
+- **[The Hitchhiker's Guide to the Galaxy](wiki/articles/books/the-hitchhikers-guide-to-the-galaxy.md)** (book; internal: Books) - A comic science-fiction novel about an ordinary man swept into absurd adventures across space.
+- **[The Kite Runner](wiki/articles/books/the-kite-runner.md)** (book; internal: Books) - A novel about friendship, guilt, betrayal, and the long reach of the past.
+- **[The Lean Startup](wiki/articles/books/the-lean-startup.md)** (book; internal: Books) - A startup book about building quickly, testing ideas, and learning through feedback.
+- **[The Master and Margarita](wiki/articles/books/the-master-and-margarita.md)** (book; internal: Books) - A surreal novel that mixes satire, religion, love, and political absurdity in Soviet Moscow.
+- **[The Myth of Sisyphus](wiki/articles/books/the-myth-of-sisyphus.md)** (book; internal: Books) - A philosophical essay about absurdity, meaning, and how to live in a world without clear answers.
 - **[The New York Times](wiki/articles/reading/the-new-york-times.md)** (tool; internal: Reading) - The New York Times is one of my regular reading surfaces. I use it for serious journalism, long features, and essays. It sits alongside Substack and Medium as part of a reading habit built around depth rather than feeds.
+- **[The Stranger](wiki/articles/books/the-stranger.md)** (book; internal: Books) - A novel about emotional detachment, judgment, and the absurdity of existence.
+- **[The Tipping Point](wiki/articles/books/the-tipping-point.md)** (book; internal: Books) - A nonfiction book about how ideas, trends, and behaviors spread through society.
 - **[Thoughtful Creators](wiki/articles/reading/thoughtful-creators.md)** (concept; internal: Reading) - Thoughtful creators are the kind of writers, makers, and thinkers Hendrix seeks out. I am not impressed by reach. I am impressed by point of view. He builds my feeds, reading list, and YouTube subscriptions around people who actually think...
+- **[Thus Spoke Zarathustra](wiki/articles/books/thus-spoke-zarathustra.md)** (book; internal: Books) - A philosophical novel presenting Nietzsche?s ideas through the speeches of Zarathustra.
+- **[Tuesdays with Morrie](wiki/articles/books/tuesdays-with-morrie.md)** (book; internal: Books) - A memoir about conversations on life, death, and meaning between a former student and his dying professor.
+- **[Twilight of the Idols](wiki/articles/books/twilight-of-the-idols.md)** (book; internal: Books) - A short philosophical work critiquing accepted values, morality, and cultural idols.
+- **[What I Talk About When I Talk About Running](wiki/articles/books/what-i-talk-about-when-i-talk-about-running.md)** (book; internal: Books) - A memoir about running, writing, routine, and the discipline of repetition.
+- **[When Breath Becomes Air](wiki/articles/books/when-breath-becomes-air.md)** (book; internal: Books) - A memoir by a neurosurgeon confronting illness, mortality, and the question of how to live.
+- **[White Nights](wiki/articles/books/white-nights.md)** (book; internal: Books) - A short novella about loneliness, fleeting connection, and unfulfilled love.
 
 
-### Music (3)
+### Music (9)
 
 > The artists, albums, songs, and musical influences that shape atmosphere, taste, and momentum.
 
-- **[Music](wiki/articles/music/music.md)** (concept; internal: Music) - This page is the music shelf inside Hendrixpedia: the artists, albums, and tracks that stay in rotation because they match my taste, mood, or sense of momentum.
+- **[Music](wiki/articles/music/music.md)** (concept; internal: Music) - A shelf for the artists, sounds, and listening patterns that shape atmosphere, momentum, and emotional range in my life.
 - **[J. Cole](wiki/articles/youtube/j-cole.md)** (channel; internal: YouTube) - J. Cole's channel is part of my YouTube mix. It sits outside the tech and philosophy clusters and covers a different slot: music, craft, and a perspective on ambition from a very different domain.
+- **[berlioz](wiki/articles/music/berlioz.md)** (artist; internal: Music) - One of the artists in my library who represents the calmer, more atmospheric side of my listening taste.
 - **[Elvis Presley](wiki/articles/music/elvis-presley.md)** (artist; internal: Music) - Elvis Presley entered my life through John, which is part of why the connection feels personal rather than purely musical. Some artists arrive through algorithms. Others arrive through a person, a place, and a period of life. Elvis belongs...
+- **[Grime and Drill](wiki/articles/music/grime-and-drill.md)** (concept; internal: Music) - The harder edge of my listening taste, the part I use when I want force, motion, and pressure instead of softness.
+- **[Hermanos Gutierrez](wiki/articles/music/hermanos-gutierrez.md)** (artist; internal: Music) - An artist pair in my library that represents warmth, spaciousness, and the more transportive side of my listening.
+- **[Listening Age](wiki/articles/music/listening-age.md)** (concept; internal: Music) - A useful way of naming my pull toward music that feels older, slower-burning, and already weathered by time.
+- **[Multilingual Listening](wiki/articles/music/multilingual-listening.md)** (concept; internal: Music) - One reason my music taste feels wide is that it is not trapped inside one language.
+- **[Spotify Wrapped 2025](wiki/articles/music/spotify-wrapped-2025.md)** (concept; internal: Music) - A yearly listening snapshot that makes the shape of my taste visible instead of leaving it intuitive.
 
 
 ### Life & Personal (23)
@@ -243,7 +299,7 @@
 - **[Timeline](wiki/articles/meta/timeline.md)** (timeline; internal: Meta) - This archive does not yet hold a full dated chronology, and I do not want to invent one. What it can hold honestly is a sequence of phases: the environments, habits, and transitions that gave the current version of my life its shape.
 
 
-### Curiosity (10)
+### Curiosity (11)
 
 > Open questions, recurring obsessions, and the things still pulling attention forward.
 
@@ -253,6 +309,7 @@
 - **[Astronomy](wiki/articles/curiosity/astronomy.md)** (concept; internal: Curiosity) - Astronomy is one of the lenses I use to think beyond my immediate life. It is less about memorizing star systems and more about keeping a working sense of where everything actually sits. For me, astronomy is the most literal form of scale...
 - **[Existential Reflection](wiki/articles/curiosity/existential-reflection.md)** (concept; internal: Curiosity) - Existential reflection is a native mode for me. I am introspective by default and treats the big questions as practical tools, not decoration. I use them to stay clear-headed about what I am building and why.
 - **[Future of Humanity](wiki/articles/curiosity/future-of-humanity.md)** (concept; internal: Curiosity) - The future of humanity is one of the questions I keep an open tab on. It sits at the intersection of technology, Space, Philosophy, and Ambition. For a builder focused on the long view, the question is not abstract. It is part of how I...
+- **[Human Evolution](wiki/articles/curiosity/human-evolution.md)** (concept; internal: Curiosity) - I keep coming back to the question of how humans became what we are because it changes the scale of everything else. Traits that feel personal start to look ancient. Systems that feel permanent start to look temporary. The present becomes...
 - **[Humanity's Place in the Universe](wiki/articles/curiosity/humanity-place-in-universe.md)** (concept; internal: Curiosity) - This is one of the standing questions at the back of my mind. Not in a theatrical way. More like a quiet baseline that keeps my life calibrated. He returns to it through Space, Astronomy, Science Fiction, and Philosophy.
 - **[Scale and Depth](wiki/articles/curiosity/scale-and-depth.md)** (concept; internal: Curiosity) - Scale and depth is the register I am naturally drawn to. Big ideas, long timescales, serious thinkers, and work that actually holds up under scrutiny. I prefer media, people, and projects that operate in this register over anything shallow...
 - **[Science and Philosophy](wiki/articles/curiosity/science-and-philosophy.md)** (concept; internal: Curiosity) - The overlap between science and philosophy is one of my favorite intellectual zones. I do not treat them as separate shelves. Science gives me structure and evidence. Philosophy gives me framing and meaning. I want both in the same...

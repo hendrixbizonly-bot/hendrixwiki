@@ -40,17 +40,16 @@ CATEGORY_NAMES = {
 SECTION_ORDER = [
     "navigation",
     "people",
-    "identity",
     "ventures",
+    "events",
+    "identity",
     "concepts",
     "skills",
-    "media",
-    "books",
-    "music",
-    "life",
-    "events",
-    "timeline",
     "curiosity",
+    "media",
+    "music",
+    "books",
+    "life",
 ]
 
 SECTION_NAMES = {

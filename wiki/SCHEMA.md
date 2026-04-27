@@ -40,6 +40,9 @@ Allowed internal categories:
 - `youtube`
 - `curiosity`
 - `reading`
+- `books`
+- `music`
+- `events`
 - `tools`
 - `tech`
 - `habits`
@@ -89,7 +92,7 @@ Every article starts with YAML frontmatter.
 ```yaml
 ---
 title: Article Title
-category: core|people|places|ventures|business|philosophy|building|design|language|culture|youtube|curiosity|reading|tools|tech|habits|money|communication|frictions|meta
+category: core|people|places|ventures|business|philosophy|building|design|language|culture|youtube|curiosity|reading|books|music|events|tools|tech|habits|money|communication|frictions|meta
 section: navigation|identity|people|ventures|concepts|skills|media|life|events|timeline|curiosity   # optional
 type: person|place|venture|concept|tool|skill|show|channel|book|habit|principle|friction|meta|timeline|experience
 aliases: [Alternate titles that should resolve to this page]   # optional

@@ -233,6 +233,41 @@ places_to_read:
 - Medium
 - The New York Times
 
+## music and listening
+music_relationship:
+- uses music to set atmosphere, momentum, and emotional temperature
+- listens in a way that is daily and structural rather than occasional background noise
+- likes the contrast between pressure music for movement and calmer music for atmosphere
+
+spotify_2025_snapshot:
+- listened for 31075 minutes across 272 days
+- had a 76 day listening streak
+- moved through 1317 artists and 2067 tracks
+- discovered 704 new artists
+- had a listening age of 83, anchored to the late 1950s
+
+listening_patterns:
+- strong pull toward grime, drill, rap, jazz house, retro soul, Latin indie, bossa nova, and orchestral calm
+- biggest music days swung between relentless energy and globally mixed listening rather than one narrow genre lane
+- multilingual listening shows up naturally through Spanish, French, Portuguese, Vietnamese, and English songs and playlists
+- uses aggressive playlists for momentum and calmer instrumental or atmospheric music for texture
+
+saved_music_figures:
+- Elvis Presley
+- J. Cole
+- berlioz
+- Hermanos Gutierrez
+- Miles Davis
+- Stromae
+- Cigarettes After Sex
+- Billy Joel
+- Ben E. King
+
+recurring_tracks_and_signals:
+- repeat and discovery highlights include So Easy (To Fall In Love), Santa Fe, Love in the Time of Socialism, I Thought I Saw Your Face Today, Londis, NOW OR NEVER, and One More Day
+- standout listening days included a 522 minute grime and drill run, a globally mixed queue with bossa nova, salsa, jazz house, and retro soul, and a nostalgic morning led by older pop and soul
+- music discovery is active rather than passive, with first-to-discover moments in both the UAE and Vietnam
+
 ## ambition
 long_term_goals:
 - become highly successful financially

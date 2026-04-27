@@ -59,6 +59,22 @@ Append-only record of ingests, regenerations, and structural changes.
 - Rewrote or added approved pages for Figma, Claude and Codex, HTML/CSS, Postman API Testing, Rive Animation, n8n Workflow with VPS, Bartending, Paid Marketing, Public Speaking, and the rest of the approved stack
 - Converted true duplicates such as `Codex`, `Claude Code`, `HTML`, `CSS`, `Postman`, and `API Testing` into hidden redirects so old links still resolve without cluttering navigation
 
+## 2026-04-27 - Turned `Books.txt` into a real books shelf
+- Split `c:\Users\User\Downloads\Books.txt` into reflective book essays across `/wiki/articles/books/` and refreshed `/wiki/articles/reading/red-rising.md`
+- Added new concept pages for uncertainty, absurdity, inner life, mortality, star friendship, loneliness, communication across difference, and human evolution so the shelf links back into the larger worldview
+- Updated `/wiki/SCHEMA.md` so the documented internal categories match the live `books`, `music`, and `events` structure
+- Rebuilt `/wiki/index.md` so the new books shelf and concept pages appear in the master catalog
+
+## 2026-04-27 - Reframed the books ingest into essay-plus-graph structure
+- Rewrote the recent books and concept pages into a consistent `Essay`, `Key Ideas`, and bullet-style `Related` format
+- Removed repeated summary-style openings so the prose reads more like internal thought and less like review copy
+- Strengthened the link graph by surfacing idea nodes directly in `Key Ideas` while keeping real `[[Wiki Links]]` in `Related`
+
+## 2026-04-27 - Turned the Spotify exports into a real music shelf
+- Expanded `/Raw/context.md` with a Spotify-based listening profile covering volume, range, older-music pull, multilingual listening, and the split between pressure music and atmospheric music
+- Added six new music essays under `/wiki/articles/music/`: `spotify-wrapped-2025`, `listening-age`, `grime-and-drill`, `multilingual-listening`, `berlioz`, and `hermanos-gutierrez`
+- Rewrote `/wiki/articles/music/music.md` so the shelf points directly to the new Spotify-derived chapters
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

@@ -1,0 +1,113 @@
+{
+  "stats" : [ {
+    "date" : "2026-04-13",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Remontada (feat. Blanco)",
+      "streamCount" : 1,
+      "secondsPlayed" : 40
+    } ],
+    "topArtists" : [ {
+      "name" : "Kidwild",
+      "streamCount" : 1,
+      "secondsPlayed" : 40
+    }, {
+      "name" : "Blanco",
+      "streamCount" : 1,
+      "secondsPlayed" : 40
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "So Easy (To Fall In Love)",
+      "country" : "AE",
+      "position" : 6,
+      "previousPosition" : 8,
+      "numberOfListeners" : 40691
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1E8Uvns6y6Lgjk",
+      "listeningPercentage" : 30.400398186041365
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "hype gym shit\uD83D\uDE2E‍\uD83D\uDCA8\uD83E\uDD0C\uD83C\uDFFC",
+      "listeningPercentage" : 77.67541334210742
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Santa Fe",
+      "country" : "AE",
+      "position" : 108
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "hype gym shit\uD83D\uDE2E‍\uD83D\uDCA8\uD83E\uDD0C\uD83C\uDFFC",
+      "listeningPercentage" : 56.11586110626418
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1E8CISdyjAw8HA",
+      "listeningPercentage" : 44.254510921177584
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Love in the Time of Socialism",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "I Thought I Saw Your Face Today",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "One More Day",
+      "country" : "AE",
+      "position" : 838
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Londis",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "NOW OR NEVER",
+      "streamCount" : 16
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Yes Mama, No Mama",
+      "country" : "VN",
+      "position" : 9369
+    }
+  } ]
+}

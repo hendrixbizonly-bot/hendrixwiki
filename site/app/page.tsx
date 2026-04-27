@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { articlesBySection, leadSentence, loadArticle, loadArticles, shortSummary, visibleArticles } from '@/lib/articles';
+import { articlesBySection, displayTitle, leadSentence, loadArticle, loadArticles, shortSummary, visibleArticles } from '@/lib/articles';
 
 export default function HomePage() {
   const articles = visibleArticles(loadArticles());
@@ -48,9 +48,9 @@ export default function HomePage() {
               <section className="category-browser-group" id={section.key} key={section.key}>
                 <h3>{section.name}</h3>
                 <ul className="category-browser-list">
-                  {section.articles.slice(0, 6).map(article => (
+                  {section.articles.map(article => (
                     <li className="browse-item" key={article.slug}>
-                      <Link href={`/a/${article.slug}`}>{article.title}</Link>
+                      <Link href={`/a/${article.slug}`}>{displayTitle(article)}</Link>
                       <span> — {shortSummary(article.body, 10) || 'One of the section spine chapters.'}</span>
                     </li>
                   ))}
