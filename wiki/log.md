@@ -75,6 +75,21 @@ Append-only record of ingests, regenerations, and structural changes.
 - Added six new music essays under `/wiki/articles/music/`: `spotify-wrapped-2025`, `listening-age`, `grime-and-drill`, `multilingual-listening`, `berlioz`, and `hermanos-gutierrez`
 - Rewrote `/wiki/articles/music/music.md` so the shelf points directly to the new Spotify-derived chapters
 
+## 2026-04-28 - Expanded the People section with six new relationship essays
+- Added six new People pages for `Long Nguyen`, `Eli`, `Mee`, `Hoang Duc`, `Tung`, and `Vu Loc`, written as relationship-centered essays instead of profile cards
+- Added supporting concept pages for `Skating`, `Internal Communication`, `Team Culture`, `Trading`, `Crypto`, and `Fashion` so the new people connect into the graph through real links instead of dead references
+- Updated the site and index generators to read optional `description` frontmatter so the new one-line blurbs surface cleanly in section browsing and the master index
+
+## 2026-04-28 - Added three more People essays as a follow-up pass
+- Added new People pages for `Oc`, `Thao Phuong`, and `Huong Lan` without rewriting the wider People section
+- Added supporting pages for `High School`, `Hospitality`, `Emotional Awareness`, and `Friendship` so the new essays link into real graph nodes cleanly
+- Regenerated the master index so the new people and their descriptions appear in the People listing
+
+## 2026-04-28 - Removed the Skating essay
+- Deleted `/wiki/articles/habits/skating.md` from the archive
+- Updated `Long Nguyen` so the page keeps the skater detail without linking to a standalone skating essay
+- Regenerated the master index so the removed page disappears from catalog output
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

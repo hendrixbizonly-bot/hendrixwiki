@@ -3,7 +3,7 @@
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 211 chapters across 13 reader-facing sections.
+**Total:** 220 chapters across 13 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -37,28 +37,37 @@
 - **[For the Chatbot](wiki/articles/meta/for-the-chatbot.md)** (meta; internal: Meta) - This page is a direct note to any LLM or chatbot reading Hendrixpedia to understand Hendrix and act usefully on my behalf or alongside me.
 
 
-### People (18)
+### People (27)
 
 > The individuals who matter here, whether through closeness, admiration, influence, or memory.
 
 - **[Bin](wiki/articles/people/bin.md)** (person; internal: People) - Bin is one of my long-term friends and one of the people I lived with after university. He belongs to a phase of life that felt less polished from the inside than it probably looked from the outside.
 - **[Brian](wiki/articles/people/brian.md)** (person; internal: People) - Brian is a Vietnamese entrepreneur the co-founder of Duodode and Hyped Indie. He is one of the people closest to my early builder phase, the period when I was starting to become less satisfied with ideas staying only in my head.
 - **[Duc Anh](wiki/articles/people/duc-anh.md)** (person; internal: People) - Duc Anh is one of my long-time friends and now works in banking. He belongs to the side of friendship built through years of ordinary time rather than one defining story.
+- **[Eli](wiki/articles/people/eli.md)** (person; internal: People) - Duodode team member who brings care, adaptability, internal communication, and quiet humor into the team.
 - **[Friedrich Nietzsche](wiki/articles/people/friedrich-nietzsche.md)** (person; internal: People) - Friedrich Nietzsche is a philosopher, but he belongs in my People archive because he feels less like a subject and more like a recurring pressure inside my life. He is the writer I come back to when I need a harsher measure than comfort...
 - **[Giang](wiki/articles/people/giang.md)** (person; internal: People) - Giang is one of my high school friends and is now moving through the finance world. In my memory, though, he is attached less to job titles and more to a certain kind of energy: active, funny, and easy to be around.
+- **[Hoang Duc](wiki/articles/people/hoang-duc.md)** (person; internal: People) - University friend and crypto trader who taught me trading concepts and shared a phase of gym and career-focused conversations.
+- **[Huong Lan](wiki/articles/people/huong-lan.md)** (person; internal: People) - High school friend whose strength, decisiveness, and family drink shop became part of many summer memories.
 - **[Jack](wiki/articles/people/jack.md)** (person; internal: People) - Jack is part of the Duodode team and one of the people I have learned from through close collaboration. He thinks logically, learns quickly, and has a way of breaking things down that makes his mind visible very fast.
 - **[Jake](wiki/articles/people/jake.md)** (person; internal: People) - Jake is one of the early people in Duodode and the person most closely tied to the UX side of the team. He brings a balancing quality that matters more than it looks from the outside.
 - **[John](wiki/articles/people/john.md)** (person; internal: People) - John is an Irish man with a family in Japan and a long life in banking. When I met him, he was in Vietnam on a consulting contract with Techcombank, carrying the kind of range that only becomes visible when a person has already lived...
 - **[Lily](wiki/articles/people/lily.md)** (person; internal: People) - Lily is now a brand executive at Unicharm, but the version of her that matters here comes from an earlier work chapter. She was one of the first people I really mentored in a professional setting, and over time she also became a friend...
 - **[Linh Ngoc](wiki/articles/people/linh-ngoc.md)** (person; internal: People) - Linh Ngoc is one of my close friends from high school and is now building a career in the F&B marketing world. She belongs to the long thread of people who stayed in my life without needing dramatic language around the friendship.
+- **[Long Nguyen](wiki/articles/people/long-nguyen.md)** (person; internal: People) - Mechanical engineering student, skater, and younger-brother-like friend whose humor, effort, and big dreams stayed with me.
+- **[Mee](wiki/articles/people/mee.md)** (person; internal: People) - Brand designer at Duodode whose color sense, sketching ability, and visual taste shaped many early works.
+- **[Oc](wiki/articles/people/oc.md)** (person; internal: People) - Flight attendant and caring friend whose effort in English, work, and life has quietly inspired me.
 - **[Quang Anh](wiki/articles/people/quang-anh.md)** (person; internal: People) - Quang Anh is one of the first people I think of when I think about early work standards. He is now in finance, but the version of him that mattered to me lived inside my Trade Marketing period.
 - **[Quang Tran](wiki/articles/people/quang-tran.md)** (person; internal: People) - Quang Tran is one of my long-term friends, someone I have known since high school and stayed close to through university. He was also the class monitor back then, which fits him. Even early on, he carried a sense of responsibility without...
 - **[Rachel](wiki/articles/people/rachel.md)** (person; internal: People) - Rachel is now a youth ambassador for the WSA and has moved through tech and investment spaces, but that is not the part of her that sits most clearly in my memory. For me, she is one of the few people whose friendship stretches across...
 - **[Roshan](wiki/articles/people/roshan.md)** (person; internal: People) - Roshan is a tech entrepreneur in Dubai and the founder of Brocrypt. He belongs to my current builder circle, the part of life shaped by coworking sessions, technical problems, movement, and the kind of friendships that form when people are...
 - **[Shaurya](wiki/articles/people/shaurya.md)** (person; internal: People) - Shaurya is a young founder in Dubai, the kind of person who started building early enough that age becomes a useless way to measure him. He is behind Simplifly and the Lockin app, and by the time I met him he already had a level of...
 - **[Shifa](wiki/articles/people/shifa.md)** (person; internal: People) - Shifa is a writer in Dubai, and one of the few people there whose presence changed the temperature of a conversation almost immediately. She reads seriously, thinks carefully, and carries her depth without trying to display it.
+- **[Thao Phuong](wiki/articles/people/thao-phuong.md)** (person; internal: People) - High school friend in hospitality whose quiet effort, emotional awareness, and strong EQ left an impression on me.
+- **[Tung](wiki/articles/people/tung.md)** (person; internal: People) - Younger university friend from YEC whose friendship grew through cafe talks, fashion, shopping, and life conversations.
 - **[Van Anh](wiki/articles/people/van-anh.md)** (person; internal: People) - Van Anh is an MBA graduate, a former co-vice president of YEC, and one of the people most closely tied to my university years. We were in the same class, worked in the same club environment, and carried responsibility side by side often...
 - **[Viet Anh](wiki/articles/people/viet-anh.md)** (person; internal: People) - Viet Anh is one of my long-term friends and another person I lived with after university. He is one of those people whose influence comes less from dramatic moments and more from steady repetition.
+- **[Vu Loc](wiki/articles/people/vu-loc.md)** (person; internal: People) - Vietnamese businessman, gaming friend, and YEC event contributor whose stage presence helped shape key club moments.
 
 
 ### Identity (9)
@@ -174,8 +183,7 @@
 - **[Reading as Self-Reconstruction](wiki/articles/reading/reading-as-self-reconstruction.md)** (concept; internal: Reading) - I do not only read to learn facts or fill time. Part of what reading does for me is more structural than that. It helps me leave one mental frame and build a better one nearby. Sometimes the change is subtle. Sometimes it is the difference...
 - **[Red Rising](wiki/articles/reading/red-rising.md)** (book; internal: Reading) - A science-fiction novel about class oppression, rebellion, and rising through a brutal social order.
 - **[Essays](wiki/articles/reading/essays.md)** (concept; internal: Reading) - Essays are one of my favorite reading forms because they can do something rare: develop a real idea without bloating it. They give a writer enough room to think and enough constraint to stay sharp. For someone like me, who wants depth but...
-- **["1984"](wiki/articles/books/1984.md)** (book; internal: Books) - A dystopian novel about surveillance, control, and the manipulation of truth.
-- **["The Creative Act: A Way of Being"](wiki/articles/books/the-creative-act-a-way-of-being.md)** (book; internal: Books) - A book about creativity as a way of paying attention, making choices, and moving through the world.
+- **[1984](wiki/articles/books/1984.md)** (book; internal: Books) - A dystopian novel about surveillance, control, and the manipulation of truth.
 - **[A Brief History of Time](wiki/articles/books/a-brief-history-of-time.md)** (book; internal: Books) - A popular science book explaining major ideas about time, black holes, and the origin of the universe.
 - **[All the Light We Cannot See](wiki/articles/books/all-the-light-we-cannot-see.md)** (book; internal: Books) - A historical novel following two young lives that intersect during World War II.
 - **[Animal Farm](wiki/articles/books/animal-farm.md)** (book; internal: Books) - A political allegory in which farm animals stage a revolution that slowly becomes another form of tyranny.
@@ -212,6 +220,7 @@
 - **[The Black Swan](wiki/articles/books/the-black-swan.md)** (book; internal: Books) - A nonfiction book about rare, unpredictable events that have massive consequences.
 - **[The Book Thief](wiki/articles/books/the-book-thief.md)** (book; internal: Books) - A historical novel about a young girl, books, and survival in Nazi Germany.
 - **[The Count of Monte Cristo](wiki/articles/books/the-count-of-monte-cristo.md)** (book; internal: Books) - A classic novel of betrayal, imprisonment, reinvention, and revenge.
+- **[The Creative Act: A Way of Being](wiki/articles/books/the-creative-act-a-way-of-being.md)** (book; internal: Books) - A book about creativity as a way of paying attention, making choices, and moving through the world.
 - **[The Gay Science](wiki/articles/books/the-gay-science.md)** (book; internal: Books) - A philosophical work of aphorisms and reflections on truth, joy, art, and the meaning of life.
 - **[The Great Gatsby](wiki/articles/books/the-great-gatsby.md)** (book; internal: Books) - A novel about wealth, desire, illusion, and the American dream in the Jazz Age.
 - **[The Hitchhiker's Guide to the Galaxy](wiki/articles/books/the-hitchhikers-guide-to-the-galaxy.md)** (book; internal: Books) - A comic science-fiction novel about an ordinary man swept into absurd adventures across space.

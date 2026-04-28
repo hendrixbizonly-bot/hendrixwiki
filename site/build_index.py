@@ -324,6 +324,11 @@ def parse(text: str):
         key, value = field.group(1), field.group(2).strip()
         if value.startswith("[") and value.endswith("]"):
             value = [chunk.strip() for chunk in value[1:-1].split(",") if chunk.strip()]
+        elif (
+            (value.startswith('"') and value.endswith('"'))
+            or (value.startswith("'") and value.endswith("'"))
+        ):
+            value = value[1:-1]
         fm[key] = value
     return fm, body
 
@@ -428,7 +433,7 @@ for cat_dir in sorted(ARTICLES_DIR.iterdir()):
         type_ = fm.get("type", "concept")
         slug = f"{category}/{md.stem}"
         section = resolve_section(category, type_, slug, fm.get("section"))
-        raw_summary = one_line_summary(body)
+        raw_summary = fm.get("description") or one_line_summary(body)
         summary = raw_summary if section == "people" else to_first_person(raw_summary)
         articles_by_section.setdefault(section, []).append(
             {

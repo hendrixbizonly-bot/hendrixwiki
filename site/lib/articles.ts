@@ -31,6 +31,7 @@ export type Article = {
   title: string;
   slug: string;
   category: string;
+  description: string;
   section: SectionKey;
   type: string;
   updatedAt: string;
@@ -241,6 +242,10 @@ export function loadArticles(): Article[] {
       title: (data.title as string) || stem.replace(/-/g, ' '),
       slug,
       category,
+      description:
+        typeof data.description === 'string'
+          ? data.description.trim()
+          : '',
       section: inferSection({
         category,
         type,

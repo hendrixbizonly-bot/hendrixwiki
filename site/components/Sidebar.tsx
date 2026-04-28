@@ -1,6 +1,6 @@
 import Image from 'next/image';
-import Link from 'next/link';
 import { articlesBySection } from '@/lib/articles';
+import { SidebarLink } from '@/components/SidebarLink';
 
 const navigationLinks = [
   { href: '/', label: 'Main Page' },
@@ -35,12 +35,12 @@ export function Sidebar() {
             <ul>
               {section.key === 'navigation' && navigationLinks.map(link => (
                 <li key={link.href}>
-                  <Link href={link.href}>{link.label}</Link>
+                  <SidebarLink href={link.href}>{link.label}</SidebarLink>
                 </li>
               ))}
               {section.key !== 'navigation' && section.articles.map(article => (
                 <li key={article.slug}>
-                  <Link href={`/a/${article.slug}`}>{article.title}</Link>
+                  <SidebarLink href={`/a/${article.slug}`}>{article.title}</SidebarLink>
                 </li>
               ))}
             </ul>

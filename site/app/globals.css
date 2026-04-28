@@ -197,6 +197,15 @@ pre {
   line-height: 1.28;
 }
 
+.side-link {
+  display: inline-block;
+}
+
+.side-link.active {
+  color: var(--color-text-secondary);
+  font-weight: 700;
+}
+
 .page-frame {
   min-height: calc(100vh - 47px);
   background: var(--color-surface-base);

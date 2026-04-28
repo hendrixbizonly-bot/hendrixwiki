@@ -287,7 +287,7 @@ function parseFrontmatter(text) {
       continue;
     }
 
-    data[key] = value;
+    data[key] = value.replace(/^"(.*)"$/, '$1').replace(/^'(.*)'$/, '$1');
   }
 
   return [data, body];
@@ -381,7 +381,7 @@ for (const category of fs.readdirSync(ARTICLES_DIR).sort()) {
     articlesBySection[section].push({
       title,
       slug,
-      summary: oneLineSummary(body),
+      summary: data.description || oneLineSummary(body),
       type,
       category,
       file: `wiki/articles/${category}/${fileName}`,

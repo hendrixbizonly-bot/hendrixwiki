@@ -6,7 +6,7 @@ export function TopBar() {
       <div className="topbar-inner">
         <div className="topbar-spacer" aria-hidden="true" />
         <div className="topbar-meta">
-          Hendrix&apos;s knowledge base (<Link href="/raw">unfiltered</Link> | <span className="topbar-version">v1</span>)
+          Hendrix&apos;s knowledge base (<span className="topbar-version">v1</span>)
         </div>
 
         <nav className="topbar-links" aria-label="Site">

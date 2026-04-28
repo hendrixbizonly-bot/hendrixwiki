@@ -51,7 +51,7 @@ export default function HomePage() {
                   {section.articles.map(article => (
                     <li className="browse-item" key={article.slug}>
                       <Link href={`/a/${article.slug}`}>{displayTitle(article)}</Link>
-                      <span> — {shortSummary(article.body, 10) || 'One of the section spine chapters.'}</span>
+                      <span> — {article.description || shortSummary(article.body, 10) || 'One of the section spine chapters.'}</span>
                     </li>
                   ))}
                 </ul>
