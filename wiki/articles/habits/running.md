@@ -2,7 +2,7 @@
 title: Running
 category: habits
 type: habit
-related: [Morning Runs, Mental Reset, Clearing the Mind, Daily Practice, Hendrix]
+related: [Aswathy, The Odyssey Challenge, Morning Runs, Mental Reset, Clearing the Mind, Daily Practice, Hendrix]
 tags: [running, habit, mental, flagship]
 ---
 
@@ -22,6 +22,8 @@ Part of the reason is repetition. Running replaces context-switching with one co
 
 It also helps that the practice pays back in more than one currency. Better energy. Better clarity. Better mood. Better judgment later in the day. For someone as ROI-conscious as I am, that makes running one of the easiest habits to defend.
 
+Running has also become social in new ways. Going out with [[Aswathy]] and folding physical effort into [[The Odyssey Challenge]] gives it a different texture from the solitary mental reset I usually associate with it.
+
 ## Morning runs and measurable progress
 
 The morning version has become especially important. [[Morning Runs]] let me set the tone of the day before noise starts multiplying. Recently that rhythm turned into something measurable as well: an 11.11 kilometer run in [[Dubai]] that included a new 10K personal record. I do not need running to become my identity for that to matter. It matters because it shows the habit compounding into something real.
@@ -32,4 +34,4 @@ Running connects directly to [[Mental Reset]], [[Clearing the Mind]], [[Introspe
 
 ## Related
 
-[[Morning Runs]] · [[Mental Reset]] · [[Clearing the Mind]] · [[Daily Practice]] · [[Introspection]] · Hendrix
+[[Aswathy]] · [[The Odyssey Challenge]] · [[Morning Runs]] · [[Mental Reset]] · [[Clearing the Mind]] · [[Daily Practice]] · [[Introspection]] · Hendrix

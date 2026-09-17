@@ -4,7 +4,7 @@ category: core
 section: concepts
 type: concept
 hidden: true
-related: [Hendrix, Hendrix Huynh, Being a Builder, Becoming, Introspection, Range]
+related: [On Changing, Action as Evidence, Hendrix, Hendrix Huynh, Being a Builder, Becoming, Introspection, Range]
 tags: [identity, self, core]
 ---
 
@@ -42,6 +42,8 @@ That is why [[Becoming]] matters so much here. I do not see identity as a static
 
 The life I want will demand more from me than the life I have already lived. Because of that, identity cannot stay passive.
 
+The transition is not always synchronized. [[On Changing]] is about the outside of life moving from Vietnam to Dubai while part of the mind continues to carry old rooms and old opinions. [[Action as Evidence]] looks at the same gap from another side: the version of me I describe has to become visible in what I repeatedly do.
+
 ## What I reject
 
 I reject identity built out of surface. I reject the version that depends on performance, aesthetic posture, or association with the right tools, scenes, or language. I reject identity as costume. I reject the lazy narrowing that comes from letting a single skill explain the whole person.
@@ -56,4 +58,4 @@ That is why this page ties so tightly to [[Being a Builder]], [[Range]], [[Intro
 
 ## Related
 
-[[Hendrix]] · [[Hendrix Huynh]] · [[Being a Builder]] · [[Becoming]] · [[Introspection]] · [[Range]]
+[[On Changing]] · [[Action as Evidence]] · [[Hendrix]] · [[Hendrix Huynh]] · [[Being a Builder]] · [[Becoming]] · [[Introspection]] · [[Range]]

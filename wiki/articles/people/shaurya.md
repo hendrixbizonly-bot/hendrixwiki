@@ -3,7 +3,7 @@ title: Shaurya
 category: people
 section: people
 type: person
-related: [Simplifly, Self-Learning, Build and Ship, Quranic Park, Running, Dubai]
+related: [Simplifly, Armaan, Aswathy, Self-Learning, Build and Ship, Quranic Park, Running, Dubai]
 tags: [person]
 ---
 
@@ -35,6 +35,8 @@ The friendship is built on work, but it is not limited to work. Some of the rhyt
 
 Those quieter moments matter because they keep the relationship from becoming transactional. He is intense, but the intensity does not cancel out the humor or the kindness.
 
+More recently, he has also been part of the padel and football orbit around [[Armaan]] and [[Aswathy]]. It is a different setting from late-night building, but recognizably the same group energy.
+
 ## Shared Projects
 
 - Worked together on **[[Simplifly]]**, where I helped shape the logo and UI direction.
@@ -46,6 +48,8 @@ Those quieter moments matter because they keep the relationship from becoming tr
 ## Related
 
 - [[Simplifly]]
+- [[Armaan]]
+- [[Aswathy]]
 - [[Self-Learning]]
 - [[Build and Ship]]
 - [[Quranic Park]]

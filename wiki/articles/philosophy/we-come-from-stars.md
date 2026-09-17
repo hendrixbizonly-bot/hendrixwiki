@@ -2,7 +2,7 @@
 title: We Come from Stars
 category: philosophy
 type: concept
-related: [Philosophy, Worldview, Becoming, Small Things Are Not Small, Space]
+related: [Carl Sagan, Cosmos, Pale Blue Dot, Astronomy, Philosophy, Worldview, Space]
 tags: [stars, universe, existence, perspective]
 ---
 
@@ -24,6 +24,8 @@ I think this idea puts a lot of ordinary problems back in proportion. It does no
 
 This is one of the reasons subjects like [[Space]] and [[Philosophy]] stay close to each other for me. They both change the frame. They both make life harder to read in a shallow way.
 
+[[Carl Sagan]] has made this more concrete for me recently. In [[Cosmos]], the continuity runs through stars, cells, trees, and people. The thought is no longer only that ancient stars produced the elements inside me. It is that life remains physically inside the universe it is trying to understand.
+
 ## What it leaves behind
 
 Mostly, it leaves me with perspective. A reminder that I am not outside the universe trying to understand it. I am made from it, inside it, thinking from within it.
@@ -33,6 +35,9 @@ That thought never becomes normal for me.
 ## Related
 
 - [[Philosophy]]
+- [[Carl Sagan]]
+- [[Cosmos]]
+- [[Pale Blue Dot]]
 - [[Worldview]]
 - [[Becoming]]
 - [[Small Things Are Not Small]]

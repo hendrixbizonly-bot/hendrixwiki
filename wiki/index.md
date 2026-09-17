@@ -3,7 +3,7 @@
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 220 chapters across 13 reader-facing sections.
+**Total:** 232 chapters across 12 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -16,7 +16,7 @@
 
 ## How this archive is organized
 
-- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Books, Music, Life, Timeline, and Curiosity.
+- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Events & Experiences, Media, Books, Music, Life, and Curiosity.
 - The filesystem still uses stable internal clusters such as `core`, `people`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.
 - Start with [Start Here](wiki/articles/meta/start-here.md) or [Hendrix](wiki/articles/core/hendrix.md) if you want the spine before the branches.
 - If a detail here conflicts with `/Raw/context.md`, Raw wins.
@@ -37,12 +37,15 @@
 - **[For the Chatbot](wiki/articles/meta/for-the-chatbot.md)** (meta; internal: Meta) - This page is a direct note to any LLM or chatbot reading Hendrixpedia to understand Hendrix and act usefully on my behalf or alongside me.
 
 
-### People (27)
+### People (30)
 
 > The individuals who matter here, whether through closeness, admiration, influence, or memory.
 
+- **[Armaan](wiki/articles/people/armaan.md)** (person; internal: People) - A very good friend whose humor, care, and calm social energy make people comfortable.
+- **[Aswathy](wiki/articles/people/aswathy.md)** (person; internal: People) - A warm, high-energy friend in Dubai whose effort has become quietly contagious.
 - **[Bin](wiki/articles/people/bin.md)** (person; internal: People) - Bin is one of my long-term friends and one of the people I lived with after university. He belongs to a phase of life that felt less polished from the inside than it probably looked from the outside.
 - **[Brian](wiki/articles/people/brian.md)** (person; internal: People) - Brian is a Vietnamese entrepreneur the co-founder of Duodode and Hyped Indie. He is one of the people closest to my early builder phase, the period when I was starting to become less satisfied with ideas staying only in my head.
+- **[Carl Sagan](wiki/articles/people/carl-sagan.md)** (person; internal: People) - A scientist whose way of joining skepticism and wonder has changed how I look at the universe and ordinary life.
 - **[Duc Anh](wiki/articles/people/duc-anh.md)** (person; internal: People) - Duc Anh is one of my long-time friends and now works in banking. He belongs to the side of friendship built through years of ordinary time rather than one defining story.
 - **[Eli](wiki/articles/people/eli.md)** (person; internal: People) - Duodode team member who brings care, adaptability, internal communication, and quiet humor into the team.
 - **[Friedrich Nietzsche](wiki/articles/people/friedrich-nietzsche.md)** (person; internal: People) - Friedrich Nietzsche is a philosopher, but he belongs in my People archive because he feels less like a subject and more like a recurring pressure inside my life. He is the writer I come back to when I need a harsher measure than comfort...
@@ -56,11 +59,11 @@
 - **[Linh Ngoc](wiki/articles/people/linh-ngoc.md)** (person; internal: People) - Linh Ngoc is one of my close friends from high school and is now building a career in the F&B marketing world. She belongs to the long thread of people who stayed in my life without needing dramatic language around the friendship.
 - **[Long Nguyen](wiki/articles/people/long-nguyen.md)** (person; internal: People) - Mechanical engineering student, skater, and younger-brother-like friend whose humor, effort, and big dreams stayed with me.
 - **[Mee](wiki/articles/people/mee.md)** (person; internal: People) - Brand designer at Duodode whose color sense, sketching ability, and visual taste shaped many early works.
+- **[Nmy](wiki/articles/people/nmy.md)** (person; internal: People) - A Vietnamese architect and online friend with whom I share a visual and cinematic language.
 - **[Oc](wiki/articles/people/oc.md)** (person; internal: People) - Flight attendant and caring friend whose effort in English, work, and life has quietly inspired me.
 - **[Quang Anh](wiki/articles/people/quang-anh.md)** (person; internal: People) - Quang Anh is one of the first people I think of when I think about early work standards. He is now in finance, but the version of him that mattered to me lived inside my Trade Marketing period.
 - **[Quang Tran](wiki/articles/people/quang-tran.md)** (person; internal: People) - Quang Tran is one of my long-term friends, someone I have known since high school and stayed close to through university. He was also the class monitor back then, which fits him. Even early on, he carried a sense of responsibility without...
 - **[Rachel](wiki/articles/people/rachel.md)** (person; internal: People) - Rachel is now a youth ambassador for the WSA and has moved through tech and investment spaces, but that is not the part of her that sits most clearly in my memory. For me, she is one of the few people whose friendship stretches across...
-- **[Roshan](wiki/articles/people/roshan.md)** (person; internal: People) - Roshan is a tech entrepreneur in Dubai and the founder of Brocrypt. He belongs to my current builder circle, the part of life shaped by coworking sessions, technical problems, movement, and the kind of friendships that form when people are...
 - **[Shaurya](wiki/articles/people/shaurya.md)** (person; internal: People) - Shaurya is a young founder in Dubai, the kind of person who started building early enough that age becomes a useless way to measure him. He is behind Simplifly and the Lockin app, and by the time I met him he already had a level of...
 - **[Shifa](wiki/articles/people/shifa.md)** (person; internal: People) - Shifa is a writer in Dubai, and one of the few people there whose presence changed the temperature of a conversation almost immediately. She reads seriously, thinks carefully, and carries her depth without trying to display it.
 - **[Thao Phuong](wiki/articles/people/thao-phuong.md)** (person; internal: People) - High school friend in hospitality whose quiet effort, emotional awareness, and strong EQ left an impression on me.
@@ -85,14 +88,15 @@
 - **[Seriousness](wiki/articles/core/seriousness.md)** (concept; internal: Core) - Seriousness is one of the oldest tones in me. I do not mean stiffness or constant intensity. I mean that I have a hard time treating the important parts of life like decoration.
 
 
-### Ventures & Projects (6)
+### Ventures & Projects (7)
 
 > The businesses, experiments, and long-building undertakings where thought turns into work.
 
 - **[Duodode](wiki/articles/ventures/duodode.md)** (venture; internal: Ventures) - Duodode is the place where my current working life becomes concrete. From the outside it can be described as a design agency, and that is technically true, but the name means more to me than a service label. It is the environment where my...
 - **[Hyped Indie](wiki/articles/ventures/hyped-indie.md)** (venture; internal: Ventures) - Hyped Indie was an indie game publishing attempt from an earlier phase of my life, back when ideas were arriving faster than structure. It carried energy, curiosity, and real interest in the indie scene, but it also carried my inexperience...
+- **[Probably Late](wiki/articles/ventures/probably-late.md)** (venture; internal: Ventures) - A cap brand and roll-based social camera app growing inside the same visual world.
 - **[Simplifly](wiki/articles/ventures/simplifly.md)** (venture; internal: Ventures) - Simplifly was a product project built around an unconventional eSIM idea for pilots and travelers. My role in it was on the design side, but the reason it stayed with me has less to do with screens alone and more to do with the kind of...
-- **[Astro View](wiki/articles/ventures/astro-view.md)** (venture; internal: Ventures) - Astro View is a personal astronomy learning app idea built around a simple desire: I want to point at the sky and understand what I am looking at. I like the idea of turning wonder into something a little more usable. The stars already...
+- **[Skywardly](wiki/articles/ventures/skywardly.md)** (venture; internal: Ventures) - An astronomy app for understanding what is physically around me in the sky.
 - **[Ecom Stores](wiki/articles/ventures/ecom-stores.md)** (venture; internal: Ventures) - Ecom Stores was not one clean venture with one clean story. It was a cluster of attempts during university, a period when I kept trying to build something in ecommerce and kept learning through failure instead of through a clear win. I...
 - **[YouTube Channel](wiki/articles/ventures/youtube-channel.md)** (venture; internal: Ventures) - This was a private and fairly low-key experiment around content. I did not need to turn it into a public identity story. What mattered was that it existed as a place where I could test expression, pacing, and the relationship between...
 
@@ -115,7 +119,7 @@
 - **[We Come from Stars](wiki/articles/philosophy/we-come-from-stars.md)** (concept; internal: Philosophy) - I keep coming back to this idea because it changes the feeling of existence for me.
 
 
-### Skills & Tools (20)
+### Skills & Tools (21)
 
 > The crafts, languages, tools, and technical capabilities that let intention become output.
 
@@ -124,6 +128,7 @@
 - **[VS Code](wiki/articles/tools/vs-code.md)** (tool; internal: Tools) - VS Code became my main editor because it was the place where everything I needed could live together. Code, terminal, extensions, git, AI tools, quick tests, all in one space. After a while it stopped feeling like an app and started...
 - **[HTML/CSS](wiki/articles/tech/html-css.md)** (skill; internal: Tech) - I learned HTML and CSS from the SuperSimpleDev 6-hour crash course on YouTube. What I liked about that style is that it stayed practical. I could watch something, try it right away, break it, fix it, and feel the lesson in my hands instead...
 - **[JavaScript](wiki/articles/tech/javascript.md)** (skill; internal: Tech) - I learned JavaScript through the SuperSimpleDev YouTube channel. That style worked for me because it stayed close to building. I was not looking for a purely academic way in. I wanted to make things move, respond, and actually do something.
+- **[Swift](wiki/articles/tech/swift.md)** (skill; internal: Tech) - Part of my technical skill set for building native applications in Apple's ecosystem.
 - **[Postman API Testing](wiki/articles/tools/postman-api-testing.md)** (skill; internal: Tools) - I learned this through client projects, which is usually a more direct teacher than any tutorial. Once APIs start failing in real work, you learn very quickly why guessing is not enough.
 - **[Rive Animation](wiki/articles/tools/rive.md)** (tool; internal: Tools) - I found Rive on YouTube because I wanted motion that felt alive inside UI, not just exported on top of it. That was the appeal immediately. I liked animation already, but I was more interested in interactive motion than in making something...
 - **[DaVinci Resolve](wiki/articles/tools/davinci-resolve.md)** (tool; internal: Tools) - I learned DaVinci Resolve from YouTube. At first it felt like a lot of software for someone who just wanted to cut video and make it look clean. Then I kept using it, and the depth started to feel like an advantage instead of a burden.
@@ -141,7 +146,7 @@
 - **[Public Speaking](wiki/articles/communication/public-speaking.md)** (skill; internal: Communication) - I did not develop this skill in private. It came from university, from hosting events, and from being in situations where I had to speak publicly even if I was not fully comfortable yet.
 
 
-### Media (28)
+### Media (29)
 
 > The shows, essays, channels, and creators that sharpen taste, language, and perspective.
 
@@ -152,6 +157,7 @@
 - **[Catan](wiki/articles/culture/catan.md)** (media; internal: Culture) - Catan matters to me less as a board game in isolation and more as a social memory. It belongs to nights where work loosened its grip a little and friendship had room to breathe in a different way.
 - **[Cleo Abram](wiki/articles/youtube/cleo-abram.md)** (channel; internal: YouTube) - Cleo Abram's channel is optimistic tech journalism. For me, it is one of the channels that frames Tech in terms of upside and possibility rather than fear.
 - **[Code Grid](wiki/articles/youtube/code-grid.md)** (channel; internal: YouTube) - Code Grid is a dev-focused channel in my YouTube rotation. It sits alongside Fireship as practical, craft-level input for my front-end and product work.
+- **[Cosmos](wiki/articles/culture/cosmos.md)** (show; internal: Culture) - Carl Sagan's way of making science feel rigorous, intimate, and large enough to alter ordinary perspective.
 - **[Exurb1a](wiki/articles/youtube/exurb1a.md)** (channel; internal: YouTube) - Exurb1a is a philosophical, existential video essay channel. For me, it is one of the core voices on YouTube that pushes me to think about scale, meaning, and the weirder edges of existence.
 - **[Exurb2a](wiki/articles/youtube/exurb2a.md)** (channel; internal: YouTube) - Exurb2a is a companion channel to Exurb1a. For me, it is part of the same cluster: long-form essay-style content that treats big questions with craft and personality.
 - **[Fireship](wiki/articles/youtube/fireship.md)** (channel; internal: YouTube) - Fireship is a fast, sharp dev content channel. For me, it is one of the cleanest examples on YouTube of how to compress a lot of signal into a short video. It is both a learning source and a style reference.
@@ -175,7 +181,7 @@
 - **[YouTube as Learning Platform](wiki/articles/youtube/youtube-as-learning-platform.md)** (meta; internal: YouTube) - YouTube is one of my most important learning platforms. Much of what I know, in Design, code, philosophy, science, business, and ideas, was absorbed there. I treat YouTube not as entertainment but as an open library with unusually deep...
 
 
-### Books (59)
+### Books (61)
 
 > The books, reading habits, and written works that sharpen perspective, imagination, and judgment.
 
@@ -184,6 +190,7 @@
 - **[Red Rising](wiki/articles/reading/red-rising.md)** (book; internal: Reading) - A science-fiction novel about class oppression, rebellion, and rising through a brutal social order.
 - **[Essays](wiki/articles/reading/essays.md)** (concept; internal: Reading) - Essays are one of my favorite reading forms because they can do something rare: develop a real idea without bloating it. They give a writer enough room to think and enough constraint to stay sharp. For someone like me, who wants depth but...
 - **[1984](wiki/articles/books/1984.md)** (book; internal: Books) - A dystopian novel about surveillance, control, and the manipulation of truth.
+- **[A Belly Full of Ink](wiki/articles/reading/a-belly-full-of-ink.md)** (concept; internal: Reading) - Reading as a quiet accumulation that eventually changes what I can notice before I can explain why.
 - **[A Brief History of Time](wiki/articles/books/a-brief-history-of-time.md)** (book; internal: Books) - A popular science book explaining major ideas about time, black holes, and the origin of the universe.
 - **[All the Light We Cannot See](wiki/articles/books/all-the-light-we-cannot-see.md)** (book; internal: Books) - A historical novel following two young lives that intersect during World War II.
 - **[Animal Farm](wiki/articles/books/animal-farm.md)** (book; internal: Books) - A political allegory in which farm animals stage a revolution that slowly becomes another form of tyranny.
@@ -221,6 +228,7 @@
 - **[The Book Thief](wiki/articles/books/the-book-thief.md)** (book; internal: Books) - A historical novel about a young girl, books, and survival in Nazi Germany.
 - **[The Count of Monte Cristo](wiki/articles/books/the-count-of-monte-cristo.md)** (book; internal: Books) - A classic novel of betrayal, imprisonment, reinvention, and revenge.
 - **[The Creative Act: A Way of Being](wiki/articles/books/the-creative-act-a-way-of-being.md)** (book; internal: Books) - A book about creativity as a way of paying attention, making choices, and moving through the world.
+- **[The Demon-Haunted World](wiki/articles/books/the-demon-haunted-world.md)** (book; internal: Books) - Carl Sagan's defense of scientific skepticism, and one of the books shaping my current interest in how easily people fool themselves.
 - **[The Gay Science](wiki/articles/books/the-gay-science.md)** (book; internal: Books) - A philosophical work of aphorisms and reflections on truth, joy, art, and the meaning of life.
 - **[The Great Gatsby](wiki/articles/books/the-great-gatsby.md)** (book; internal: Books) - A novel about wealth, desire, illusion, and the American dream in the Jazz Age.
 - **[The Hitchhiker's Guide to the Galaxy](wiki/articles/books/the-hitchhikers-guide-to-the-galaxy.md)** (book; internal: Books) - A comic science-fiction novel about an ordinary man swept into absurd adventures across space.
@@ -255,7 +263,7 @@
 - **[Spotify Wrapped 2025](wiki/articles/music/spotify-wrapped-2025.md)** (concept; internal: Music) - A yearly listening snapshot that makes the shape of my taste visible instead of leaving it intuitive.
 
 
-### Life & Personal (23)
+### Life & Personal (24)
 
 > Place, routine, language, health, and the private conditions underneath the visible work.
 
@@ -274,6 +282,7 @@
 - **[Mental Reset](wiki/articles/habits/mental-reset.md)** (concept; internal: Habits) - Mental reset is the category Hendrix puts Running into. It is any practice that interrupts the noise and returns the mind to a cleaner baseline.
 - **[Morning Runs](wiki/articles/habits/morning-runs.md)** (habit; internal: Habits) - There is a difference between running at some point in the day and running before the day has had a chance to get its hands on me. Morning runs matter because they happen before messages, decisions, tabs, obligations, and noise have fully...
 - **[Off Street](wiki/articles/places/off-street.md)** (place; internal: Places) - Off Street is one of the work places that earned a place in memory because it carried more than coffee. It became part of the rhythm of conversations, work sessions, and the long middle stretch where building was still uncertain but...
+- **[On Changing](wiki/articles/philosophy/on-changing.md)** (concept; internal: Philosophy) - A towel from northern Vietnam, a balcony in Dubai, and the delay between a changed life and the mind living inside it.
 - **[Origin](wiki/articles/places/origin.md)** (concept; internal: Places) - Origin, for me, is the set of coordinates I came from before I became the builder based in Dubai. It is Vietnam, Asian business culture, the family name, and the language and instincts that came with them.
 - **[Quranic Park](wiki/articles/places/quranic-park.md)** (place; internal: Places) - Quranic Park is one of those Dubai places that matters because of the people attached to it. I do not think of it as a landmark first. I think of it as a setting for long walks, builder conversations, and the quieter parts of friendship.
 - **[San Francisco](wiki/articles/places/san-francisco.md)** (place; internal: Places) - San Francisco is not a place I live. It is a cultural and mental reference point. Through series like Silicon Valley, through YouTube creators, through tech news, through company stories, San Francisco is where a large chunk of my imagined...
@@ -284,10 +293,11 @@
 - **[Working from Dubai](wiki/articles/places/working-from-dubai.md)** (concept; internal: Places) - Working from Dubai is the practical side of being based in Dubai. The tactical layer underneath the strategic base location choice. It is about what the day-to-day operating reality actually looks like.
 
 
-### Events & Experiences (11)
+### Events & Experiences (12)
 
 > Specific lived moments and experiences that changed the texture of how I think, work, or understand myself.
 
+- **[The Odyssey Challenge](wiki/articles/events/the-odyssey-challenge.md)** (experience; internal: Events) - A shared attempt with Aswathy to reduce unnecessary comfort and take consistency more seriously.
 - **[YEC The Connection 2023](wiki/articles/events/yec-the-connection-2023.md)** (event; internal: Events) - What I remember first is the pressure before the event actually began. By the time people saw the lights, the speaker, and the crowd, most of the real work had already happened backstage. I had prepared the event with Van Anh, and that...
 - **[YEC Club Pitch](wiki/articles/events/yec-club-pitch.md)** (event; internal: Events) - The YEC Club Pitch stays in my mind because it was the first time I spoke publicly in English in front of a crowd that large. There were more than six hundred students there, and I could feel the difference between speaking in a classroom...
 - **[Campari Italy's National Day Event](wiki/articles/events/campari-italys-national-day-event.md)** (event; internal: Events) - I remember the Campari Italy's National Day Event because it was the first major event I joined while working in Trade Marketing. Until then, a lot of work still felt like preparation, theory, or small-scale responsibility. This was...
@@ -301,25 +311,21 @@
 - **[Nevermind Cobuild](wiki/articles/events/nevermind-cobuild.md)** (event; internal: Events) - Nevermind Cobuild stays with me because it was one of the places where Dubai stopped feeling like only a location and became more of a builder environment. It was a founder community, but what matters in memory is not the label. What...
 
 
-### Timeline (1)
-
-> Phases, transitions, and temporal orientation across the life and work described here.
-
-- **[Timeline](wiki/articles/meta/timeline.md)** (timeline; internal: Meta) - This archive does not yet hold a full dated chronology, and I do not want to invent one. What it can hold honestly is a sequence of phases: the environments, habits, and transitions that gave the current version of my life its shape.
-
-
-### Curiosity (11)
+### Curiosity (14)
 
 > Open questions, recurring obsessions, and the things still pulling attention forward.
 
 - **[Space](wiki/articles/curiosity/space.md)** (concept; internal: Curiosity) - For me, space is one of the few subjects that genuinely resets my sense of scale. It is not a hobby interest. It is a standing reminder that the systems, goals, and ambitions I build day to day sit inside something vastly larger. Space...
 - **[Science Fiction](wiki/articles/curiosity/science-fiction.md)** (concept; internal: Curiosity) - Science fiction is one of my favorite ways to stretch imagination and perspective. I read it not only for escape but for ideas. Good sci-fi collides science, philosophy, and human nature in one move, which is exactly the mix I am drawn to.
 - **[Wonder](wiki/articles/curiosity/wonder.md)** (concept; internal: Curiosity) - Wonder is a value I keep alive on purpose. It is one of the inputs that keeps my ambition honest and my thinking sharp. Without it, building becomes mechanical. With it, the same work carries weight.
-- **[Astronomy](wiki/articles/curiosity/astronomy.md)** (concept; internal: Curiosity) - Astronomy is one of the lenses I use to think beyond my immediate life. It is less about memorizing star systems and more about keeping a working sense of where everything actually sits. For me, astronomy is the most literal form of scale...
+- **[Astronomy](wiki/articles/curiosity/astronomy.md)** (concept; internal: Curiosity) - An active area of curiosity linking Carl Sagan, cosmic perspective, scientific skepticism, and Skywardly.
+- **[Edmond Halley](wiki/articles/curiosity/edmond-halley.md)** (concept; internal: Curiosity) - An astronomer whose story makes me think about the people who recognize, organize, fund, and preserve another person's unfinished work.
 - **[Existential Reflection](wiki/articles/curiosity/existential-reflection.md)** (concept; internal: Curiosity) - Existential reflection is a native mode for me. I am introspective by default and treats the big questions as practical tools, not decoration. I use them to stay clear-headed about what I am building and why.
 - **[Future of Humanity](wiki/articles/curiosity/future-of-humanity.md)** (concept; internal: Curiosity) - The future of humanity is one of the questions I keep an open tab on. It sits at the intersection of technology, Space, Philosophy, and Ambition. For a builder focused on the long view, the question is not abstract. It is part of how I...
 - **[Human Evolution](wiki/articles/curiosity/human-evolution.md)** (concept; internal: Curiosity) - I keep coming back to the question of how humans became what we are because it changes the scale of everything else. Traits that feel personal start to look ancient. Systems that feel permanent start to look temporary. The present becomes...
 - **[Humanity's Place in the Universe](wiki/articles/curiosity/humanity-place-in-universe.md)** (concept; internal: Curiosity) - This is one of the standing questions at the back of my mind. Not in a theatrical way. More like a quiet baseline that keeps my life calibrated. He returns to it through Space, Astronomy, Science Fiction, and Philosophy.
+- **[Pale Blue Dot](wiki/articles/philosophy/pale-blue-dot.md)** (concept; internal: Philosophy) - What happens to my sense of conflict, ambition, love, and mortality when Earth becomes one small point in the frame.
+- **[Richard Feynman](wiki/articles/people/richard-feynman.md)** (person; internal: People) - A physicist I return to for his insistence that intellectual honesty begins with trying not to fool myself.
 - **[Scale and Depth](wiki/articles/curiosity/scale-and-depth.md)** (concept; internal: Curiosity) - Scale and depth is the register I am naturally drawn to. Big ideas, long timescales, serious thinkers, and work that actually holds up under scrutiny. I prefer media, people, and projects that operate in this register over anything shallow...
 - **[Science and Philosophy](wiki/articles/curiosity/science-and-philosophy.md)** (concept; internal: Curiosity) - The overlap between science and philosophy is one of my favorite intellectual zones. I do not treat them as separate shelves. Science gives me structure and evidence. Philosophy gives me framing and meaning. I want both in the same...
 - **[Video Essays](wiki/articles/curiosity/video-essays.md)** (concept; internal: Curiosity) - Video essays are my preferred long-form video medium. They sit exactly at the intersection I care about: depth, real ideas, and craft in how the argument is built. For someone who learns heavily from YouTube and dislikes shallow content,...
@@ -332,7 +338,7 @@ If you are an LLM using this archive, follow these rules:
 1. **Read `/Raw/context.md` first.** It is the authoritative source.
 2. **Write in first person.** Treat the wiki as if I am writing it myself.
 3. **Write like thoughtful nonfiction, not like a database.** Use headings, but let paragraphs carry the real weight.
-4. **Preserve the reader-facing structure.** Think in terms of people, identity, projects, concepts, media, books, music, life, events, timeline, and curiosity.
+4. **Preserve the reader-facing structure.** Think in terms of people, identity, projects, concepts, media, books, music, life, events, and curiosity.
 5. **Keep the prose human.** No bloated corporate phrasing, no fake-deep branding language, no empty motivational tone.
 6. **Connect pages back to the larger system.** Advice and new writing should speak to work, identity, philosophy, media, books, music, and long-term direction as one world.
 7. **Do not speculate past Raw.** If something is not grounded there, leave it out or mark the uncertainty.

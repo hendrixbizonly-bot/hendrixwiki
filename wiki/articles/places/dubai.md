@@ -2,7 +2,7 @@
 title: Dubai
 category: places
 type: place
-related: [Hendrix, UAE, Vietnam, Base Location, Working from Dubai, Global Perspective]
+related: [On Changing, Hendrix, UAE, Vietnam, Base Location, Working from Dubai, Global Perspective]
 tags: [place, base, city]
 ---
 
@@ -42,6 +42,8 @@ It is a working [[Base Location|base]], chosen for operational reasons.
 
 Dubai ties to [[UAE]], [[Base Location]], [[Working from Dubai]], [[Global Perspective]], [[Duodode]], and [[Ambition]]. It is the physical layer of the larger [[Becoming|becoming]] project.
 
+[[On Changing]] catches a quieter version of the city: a balcony around 6pm, a brutal sun, and the strange delay between moving somewhere new and feeling internally caught up with the move.
+
 ## Related
 
-[[UAE]] · [[Vietnam]] · [[Base Location]] · [[Working from Dubai]] · [[Global Perspective]] · [[Home]] · [[Duodode]]
+[[On Changing]] · [[UAE]] · [[Vietnam]] · [[Base Location]] · [[Working from Dubai]] · [[Global Perspective]] · [[Home]] · [[Duodode]]

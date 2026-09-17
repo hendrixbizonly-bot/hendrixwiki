@@ -352,6 +352,7 @@ technical_skills:
 - HTML
 - CSS
 - JavaScript
+- Swift
 - working familiarity with multiple front-end frameworks
 - AI-assisted development
 - API testing
@@ -377,6 +378,7 @@ motion_and_interaction_skills:
 
 backend_and_infrastructure_familiarity:
 - familiar with modern product and deployment workflows
+- has working familiarity with Swift for native application development in Apple's ecosystem
 - has working knowledge of Next.js and Vercel
 - understands how to work with Supabase for database and backend use cases
 - familiar with n8n for automation and workflow building
@@ -509,6 +511,19 @@ people_note:
 - later on, this wiki can include entries for specific people
 - this can cover people who matter personally, professionally, or intellectually
 - each person entry can include name, relationship, relevance, traits, memories, and things to remember
+
+current_people_and_projects_update:
+- Aswathy runs her family oil and gas business and is involved with Loki, an app for finding things to do in Dubai
+- Aswathy is warm, caring, socially mature, athletic, and unusually energetic; we play padel and football and run together
+- Aswathy and I started the Odyssey Challenge, an attempt to reduce unnecessary comfort and pursue consistency and excellence; our shared album and activities have influenced how I think about Probably Late
+- Armaan is one of my very good friends, an entrepreneur, and founder of Revor; our humor matches, he jokingly life-coaches me, and we often play padel or football with Shaurya and Aswathy
+- Nmy is a Vietnamese architect and online friend; we talk about film, design, aesthetics, shape, visual culture, and life; she helped me think through the camera filters for Probably Late
+- Probably Late is an active cap and social-camera venture; the caps use NFC and the app is developing around private or shared rolls rather than a conventional public feed
+- Probably Late should feel photographic, tactile, artistic, influenced by real cameras and Polaroid photography, with the physical and digital products belonging to one universe
+- Skywardly is the current name of the astronomy app previously called Astro View
+- Skywardly is intended to help a person understand what is overhead, near the horizon, and physically in the direction they are looking, using real astronomical data, position, and time where appropriate
+- recent reading and curiosity include Carl Sagan, Cosmos, Pale Blue Dot, The Demon-Haunted World, Richard Feynman, Edmond Halley, Newton, astronomy, and the universe
+- current personal writing themes include external change outpacing internal identity, the disappearance of empty childhood boredom, attention becoming scarce while intelligence becomes abundant, reading as accumulated intuition, cosmic humility, finitude, and scientific skepticism
 
 ## assistant guidance layer
 assistant_should:

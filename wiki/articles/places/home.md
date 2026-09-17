@@ -2,7 +2,7 @@
 title: Home
 category: places
 type: concept
-related: [Hendrix, Vietnam, Dubai, Origin, Base Location, Identity]
+related: [On Changing, Hendrix, Vietnam, Dubai, Origin, Base Location, Identity]
 tags: [concept, home, place]
 ---
 
@@ -25,6 +25,8 @@ For a builder, home is also the physical base that supports the work. Quiet enou
 
 Home is also part of [[Identity]]. It is tied to who I am, where I came from, and how I carry myself. The [[Asian Business Culture|Asian business culture]] baseline and the Vietnamese thread are not left behind because I moved. They travel with me.
 
+[[On Changing]] catches the less organized version of that sentence. Sometimes what travels is an old towel. Sometimes it is an opinion from someone I no longer speak to. The address changes before every idea of home does.
+
 ## What I avoid
 
 - Treating home as only sentimental.
@@ -38,4 +40,4 @@ Home ties to [[Vietnam]], [[Dubai]], [[Origin]], [[Base Location]], [[Identity]]
 
 ## Related
 
-[[Vietnam]] · [[Dubai]] · [[Origin]] · [[Base Location]] · [[Identity]] · [[Becoming]]
+[[On Changing]] · [[Vietnam]] · [[Dubai]] · [[Origin]] · [[Base Location]] · [[Identity]] · [[Becoming]]

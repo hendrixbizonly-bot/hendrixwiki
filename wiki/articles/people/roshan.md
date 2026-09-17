@@ -5,6 +5,7 @@ section: people
 type: person
 related: [Brocrypt, Dubai, Running, Quranic Park, Working from Dubai]
 tags: [person]
+hidden: true
 ---
 
 # Roshan

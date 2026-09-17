@@ -2,7 +2,7 @@
 title: Vietnam
 category: places
 type: place
-related: [Hendrix, Hendrix Huynh, Origin, Asian Business Culture, Home, Dubai]
+related: [On Changing, Nmy, Hendrix, Hendrix Huynh, Origin, Asian Business Culture, Home, Dubai]
 tags: [place, origin, country]
 ---
 
@@ -25,6 +25,8 @@ I did not absorb a fluffy, aesthetic view of business. I absorbed an operating v
 
 Even as my base is now [[Dubai]], Vietnam is not the past. It is one of the continuing layers of [[Identity]] and [[Home]]. I do not distance myself from it. It shows up in how I work, how I value work, and how I carry myself.
 
+It also keeps reappearing in less orderly ways: in the old towel that travelled with me in [[On Changing]], and in present friendships such as [[Nmy]]. The move did not divide life into a clean before and after.
+
 ## What this article is not
 
 Not a travel article. Not a neutral country entry. This is about what Vietnam is for me.
@@ -35,4 +37,4 @@ Vietnam ties to [[Origin]], Hendrix Huynh, [[Asian Business Culture]], [[Home]],
 
 ## Related
 
-[[Origin]] · Hendrix Huynh · [[Asian Business Culture]] · [[Home]] · [[Identity]] · [[Dubai]]
+[[On Changing]] · [[Nmy]] · [[Origin]] · Hendrix Huynh · [[Asian Business Culture]] · [[Home]] · [[Identity]] · [[Dubai]]

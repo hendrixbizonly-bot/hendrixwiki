@@ -3,7 +3,7 @@ title: Design Philosophy
 category: design
 type: principle
 aliases: [Design]
-related: [Intentional Design, Timeless Design, Consistent Design, Taste, Duodode, Hendrix]
+related: [Probably Late, Intentional Design, Timeless Design, Consistent Design, Taste, Duodode, Hendrix]
 tags: [design, philosophy, principles, flagship]
 ---
 
@@ -19,9 +19,9 @@ my design philosophy rests on three principles: [[Intentional Design|intentional
 
 ## Where it comes from
 
-It comes from how I think about work in general. I am [[ROI-Driven Thinking|ROI-driven]], [[Execution Over Talk|execution-first]], and [[No-BS|allergic to fluff]]. I do not respect [[Fake Work|work for work's sake]]. Design, in my view, has to earn its place by creating [[Business Value|real outcomes]]. The three principles are the cheapest way to keep design honest.
+It comes from how I think about work in general. I am [[ROI-Driven Thinking|ROI-driven]], [[Execution Over Talk|execution-first]], and [[No-BS|allergic to fluff]]. I do not respect [[Fake Work|work for work's sake]]. Design, in my view, has to earn its place by creating [[Real Outcomes|real outcomes]]. The three principles are the cheapest way to keep design honest.
 
-I also sees design as only one leverage point inside a bigger system. Look at [[Design As Leverage]] and [[Designer vs Builder]] for that side of it.
+I also see design as only one leverage point inside a bigger system. Look at [[Design As Leverage]] and [[Designer vs Builder]] for that side of it.
 
 ## How it shows up in Duodode
 
@@ -37,9 +37,11 @@ I also sees design as only one leverage point inside a bigger system. Look at [[
 
 ## How it connects to the rest of my system
 
-The philosophy mirrors the [[Build and Ship|build and ship]] mindset: ship things that are real, not things that are pretty. It mirrors my [[Money View]]: design should compound, not decorate. It mirrors my [[Taste]]: sharp, grounded, serious. It mirrors my [[Communication Preferences|communication style]]: [[Directness|direct]], [[Concise Writing|concise]], no theatre.
+The philosophy mirrors the [[Build and Ship|build and ship]] mindset: ship things that are real, not things that are pretty. It mirrors my [[Money]] view: design should compound, not decorate. It mirrors my [[Taste]]: sharp, grounded, serious. It mirrors my [[Communication Preferences|communication style]]: [[Directness|direct]], [[Concise Writing|concise]], no theatre.
 
 Design is not separate from my life. It is a way of thinking about everything.
+
+[[Probably Late]] stretches this philosophy into a more tactile and deliberately imperfect direction. Intentional does not have to mean polished flatness. A hand-drawn element or analogue camera texture can still be the precise choice when the product world calls for it.
 
 ## Why three principles and not ten
 
@@ -47,4 +49,4 @@ Because ten would be theatre. Three is enough to make every decision fast. Inten
 
 ## Related
 
-[[Intentional Design]] · [[Timeless Design]] · [[Consistent Design]] · [[Taste]] · [[Visual Rigor]] · [[UI Design]] · [[UX Thinking]] · [[Design As Leverage]] · [[Designer vs Builder]] · [[Duodode]]
+[[Probably Late]] · [[Intentional Design]] · [[Timeless Design]] · [[Consistent Design]] · [[Taste]] · [[Visual Rigor]] · [[UI Design]] · [[UX Thinking]] · [[Design As Leverage]] · [[Designer vs Builder]] · [[Duodode]]

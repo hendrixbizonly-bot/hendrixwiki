@@ -126,8 +126,9 @@ SECTION_PRIORITY = {
     "ventures": [
         "ventures/duodode",
         "ventures/hyped-indie",
+        "ventures/probably-late",
         "ventures/simplifly",
-        "ventures/astro-view",
+        "ventures/skywardly",
         "ventures/ecom-stores",
         "ventures/youtube-channel",
     ],
@@ -151,6 +152,7 @@ SECTION_PRIORITY = {
     "music": ["music/music", "youtube/j-cole"],
     "life": ["places/dubai", "places/vietnam", "habits/running", "habits/reading-habit"],
     "events": [
+        "events/the-odyssey-challenge",
         "events/yec-the-connection-2023",
         "events/yec-club-pitch",
         "events/campari-italys-national-day-event",
@@ -171,8 +173,9 @@ SECTION_CURATED = {
     "ventures": [
         "ventures/duodode",
         "ventures/hyped-indie",
+        "ventures/probably-late",
         "ventures/simplifly",
-        "ventures/astro-view",
+        "ventures/skywardly",
         "ventures/ecom-stores",
         "ventures/youtube-channel",
     ],
@@ -207,6 +210,7 @@ SECTION_CURATED = {
         "tools/vs-code",
         "tech/html-css",
         "tech/javascript",
+        "tech/swift",
         "tools/postman-api-testing",
         "tools/rive",
         "tools/davinci-resolve",
@@ -224,6 +228,7 @@ SECTION_CURATED = {
         "communication/public-speaking",
     ],
     "events": [
+        "events/the-odyssey-challenge",
         "events/yec-the-connection-2023",
         "events/yec-club-pitch",
         "events/campari-italys-national-day-event",
@@ -501,7 +506,7 @@ if compressed:
     lines.append(f"> {compressed}\n")
 
 lines.append("\n## How this archive is organized\n")
-lines.append("- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Media, Books, Music, Life, Timeline, and Curiosity.")
+lines.append("- The site presents chapters through reader-facing sections such as People, Identity, Ventures & Projects, Events & Experiences, Media, Books, Music, Life, and Curiosity.")
 lines.append("- The filesystem still uses stable internal clusters such as `core`, `people`, `ventures`, `philosophy`, `reading`, `books`, `music`, and `tools`.")
 lines.append("- Start with [Start Here](wiki/articles/meta/start-here.md) or [Hendrix](wiki/articles/core/hendrix.md) if you want the spine before the branches.")
 lines.append("- If a detail here conflicts with `/Raw/context.md`, Raw wins.\n")
@@ -527,7 +532,7 @@ lines.append("""If you are an LLM using this archive, follow these rules:
 1. **Read `/Raw/context.md` first.** It is the authoritative source.
 2. **Write in first person.** Treat the wiki as if I am writing it myself.
 3. **Write like thoughtful nonfiction, not like a database.** Use headings, but let paragraphs carry the real weight.
-4. **Preserve the reader-facing structure.** Think in terms of people, identity, projects, concepts, media, books, music, life, events, timeline, and curiosity.
+4. **Preserve the reader-facing structure.** Think in terms of people, identity, projects, concepts, media, books, music, life, events, and curiosity.
 5. **Keep the prose human.** No bloated corporate phrasing, no fake-deep branding language, no empty motivational tone.
 6. **Connect pages back to the larger system.** Advice and new writing should speak to work, identity, philosophy, media, books, music, and long-term direction as one world.
 7. **Do not speculate past Raw.** If something is not grounded there, leave it out or mark the uncertainty.

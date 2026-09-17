@@ -168,8 +168,9 @@ export const SECTION_PRIORITY_SLUGS: Partial<Record<SectionKey, string[]>> = {
   ventures: [
     'ventures/duodode',
     'ventures/hyped-indie',
+    'ventures/probably-late',
     'ventures/simplifly',
-    'ventures/astro-view',
+    'ventures/skywardly',
     'ventures/ecom-stores',
     'ventures/youtube-channel',
   ],
@@ -187,6 +188,7 @@ export const SECTION_PRIORITY_SLUGS: Partial<Record<SectionKey, string[]>> = {
   music: ['music/music', 'youtube/j-cole'],
   life: ['places/dubai', 'places/vietnam', 'habits/running', 'habits/reading-habit'],
   events: [
+    'events/the-odyssey-challenge',
     'events/yec-the-connection-2023',
     'events/yec-club-pitch',
     'events/campari-italys-national-day-event',
@@ -207,8 +209,9 @@ export const SECTION_CURATED_SLUGS: Partial<Record<SectionKey, CuratedSectionEnt
   ventures: [
     'ventures/duodode',
     'ventures/hyped-indie',
+    'ventures/probably-late',
     'ventures/simplifly',
-    'ventures/astro-view',
+    'ventures/skywardly',
     'ventures/ecom-stores',
     'ventures/youtube-channel',
   ],
@@ -243,6 +246,7 @@ export const SECTION_CURATED_SLUGS: Partial<Record<SectionKey, CuratedSectionEnt
     'tools/vs-code',
     'tech/html-css',
     'tech/javascript',
+    'tech/swift',
     'tools/postman-api-testing',
     'tools/rive',
     'tools/davinci-resolve',
@@ -260,6 +264,7 @@ export const SECTION_CURATED_SLUGS: Partial<Record<SectionKey, CuratedSectionEnt
     'communication/public-speaking',
   ],
   events: [
+    'events/the-odyssey-challenge',
     'events/yec-the-connection-2023',
     'events/yec-club-pitch',
     'events/campari-italys-national-day-event',

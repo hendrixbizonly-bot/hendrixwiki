@@ -3,6 +3,7 @@ title: Timeline
 category: meta
 section: timeline
 type: timeline
+hidden: true
 related: [Hendrix, Vietnam, Dubai, Duodode, Running, Formative Experiences]
 tags: [timeline, phases, chronology]
 ---

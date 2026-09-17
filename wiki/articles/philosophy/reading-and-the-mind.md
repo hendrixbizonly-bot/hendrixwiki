@@ -2,7 +2,7 @@
 title: Reading and the Mind
 category: philosophy
 type: concept
-related: [Language as Thought, Intellectual Life, Clarity, Becoming, Books]
+related: [A Belly Full of Ink, Language as Thought, Intellectual Life, Clarity, Becoming, Recommended Books]
 tags: [reading, mind, thought, language]
 ---
 
@@ -22,6 +22,8 @@ That matters because without it, everything starts sounding the same. My own thi
 
 When I read consistently, I usually notice better articulation, sharper distinctions, and more room inside my own ideas. When I stop, the opposite happens. My thinking gets more reactive. Less intentional. Less alive.
 
+Some of the change appears before I can explain it. One book alters how I read another; repeated exposure becomes taste; accumulated knowledge begins behaving like intuition. I think of that quieter process as [[A Belly Full of Ink]].
+
 This is one reason I keep reading tied to the larger project of becoming. It is a quiet habit, but it changes almost everything downstream from it.
 
 ## Why I take it seriously
@@ -33,7 +35,8 @@ I want a mind with range in it.
 ## Related
 
 - [[Language as Thought]]
+- [[A Belly Full of Ink]]
 - [[Intellectual Life]]
 - [[Clarity]]
 - [[Becoming]]
-- [[Books]]
+- [[Recommended Books]]

@@ -90,6 +90,13 @@ Append-only record of ingests, regenerations, and structural changes.
 - Updated `Long Nguyen` so the page keeps the skater detail without linking to a standalone skating essay
 - Regenerated the master index so the removed page disappears from catalog output
 
+## 2026-09-17 - Added the changing, attention, people, and astronomy chapters
+- Expanded `/Raw/context.md` with Probably Late, Skywardly, Aswathy, Armaan, Nmy, the Odyssey Challenge, and the current astronomy and reading themes
+- Added personal essays on changing, lost boredom, accumulated reading, action, cosmic perspective, finite love, skepticism, and Edmond Halley's role in bringing Newton's work into print
+- Added People pages for Aswathy, Armaan, Nmy, Carl Sagan, and Richard Feynman; kept Feynman in Curiosity and removed Roshan from visible navigation without deleting his page
+- Renamed Astro View to Skywardly with a hidden redirect and added Probably Late to the curated Ventures & Projects list
+- Reconnected the astronomy cluster around Carl Sagan, Cosmos, Pale Blue Dot, The Demon-Haunted World, Edmond Halley, Richard Feynman, and Skywardly
+
 ## Format for future entries
 ```text
 ## YYYY-MM-DD — Short description

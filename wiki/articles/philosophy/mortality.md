@@ -2,7 +2,7 @@
 title: Mortality
 category: philosophy
 type: concept
-related: [Why to Live, What Lasts, Meditations, When Breath Becomes Air, Reasons to Stay Alive]
+related: [Why to Live, What Lasts, Pale Blue Dot, We Found Each Other in the Cosmos, Meditations, When Breath Becomes Air, Reasons to Stay Alive]
 tags: [mortality, life, death, meaning]
 ---
 
@@ -16,10 +16,14 @@ I do not experience that as a purely dark thought. It is part grief, part orient
 
 That is why books that touch death or survival often stay with me. They force a different scale of honesty. Underneath the productivity layer and the ambition layer, mortality keeps asking the oldest question: if time is limited, what deserves my attention while I still have it.
 
+Recently [[Pale Blue Dot]] and [[We Found Each Other in the Cosmos]] have given the thought a larger frame. A temporary life on a small world can be physically minor and still contain everything that mattered to the people living it.
+
 ## Key Ideas
 
 - [[Why to Live]]
 - [[What Lasts]]
+- [[Pale Blue Dot]]
+- [[We Found Each Other in the Cosmos]]
 - [[Meditations]]
 - [[When Breath Becomes Air]]
 - [[Reasons to Stay Alive]]

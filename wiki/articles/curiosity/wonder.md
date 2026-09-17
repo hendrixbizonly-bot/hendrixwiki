@@ -2,7 +2,7 @@
 title: Wonder
 category: curiosity
 type: concept
-related: [Space, Astronomy, Science Fiction, Scale and Depth, Humanity's Place in the Universe, Science and Philosophy]
+related: [Carl Sagan, The Demon-Haunted World, Pale Blue Dot, Space, Astronomy, Science Fiction, Science and Philosophy]
 tags: [wonder, values, perspective, curiosity]
 ---
 
@@ -25,7 +25,7 @@ I am [[ROI-Driven Thinking|ROI-driven]] and serious about outcomes, but I do not
 
 ## What it is not
 
-It is not cheap awe. It is not a moodboard. It is not the fake-deep tone I dislike across [[Communication Preferences|communication]] and [[Writing Preferences|writing]]. Real wonder is quiet, grounded, and useful.
+It is not cheap awe. It is not a moodboard. It is not the fake-deep tone I dislike across [[Communication Preferences|communication]] and [[Natural Language|writing]]. Real wonder is quiet, grounded, and useful.
 
 ## How it shows up in my work
 
@@ -33,6 +33,8 @@ Wonder is one reason I keep my creative taste sharp. It is why [[Duodode]] is me
 
 It also matters because wonder is not always bright. Sometimes it sits close to darkness, scale, insignificance, and the uncomfortable edge of awareness. I am interested in that version too. The universe can deepen awe and unease at the same time.
 
+My recent reading around [[Carl Sagan]] has sharpened another version of it: wonder that does not need a supernatural explanation and does not become weaker when evidence is taken seriously. *[[The Demon-Haunted World]]* makes skepticism feel protective rather than flattening.
+
 ## Related
 
-[[Space]] · [[Astronomy]] · [[Science Fiction]] · [[Scale and Depth]] · [[Humanity's Place in the Universe]] · [[Science and Philosophy]] · [[Thoughtful Creators]]
+[[Carl Sagan]] · [[The Demon-Haunted World]] · [[Pale Blue Dot]] · [[Space]] · [[Astronomy]] · [[Science Fiction]] · [[Science and Philosophy]]
