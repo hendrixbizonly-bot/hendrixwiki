@@ -239,6 +239,12 @@ export const SECTION_CURATED_SLUGS: Partial<Record<SectionKey, CuratedSectionEnt
     'philosophy/reading-and-the-mind',
     'philosophy/language-as-thought',
     'philosophy/we-come-from-stars',
+    'philosophy/action-as-evidence',
+    'philosophy/the-boredom-we-lost',
+    'philosophy/how-easy-it-is-to-fool-ourselves',
+    'philosophy/we-found-each-other-in-the-cosmos',
+    'philosophy/star-friendship',
+    'business/compounding',
   ],
   skills: [
     'tools/figma',

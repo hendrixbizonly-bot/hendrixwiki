@@ -3,7 +3,7 @@
 *The full table of contents for Hendrixpedia. Read it as a living archive of identity, work, ideas, media, books, music, life, and curiosity. It should preserve the clarity of a wiki while feeling closer to a nonfiction book.*
 
 
-**Total:** 232 chapters across 12 reader-facing sections.
+**Total:** 238 chapters across 12 reader-facing sections.
 
 
 ## Who I am (one paragraph)
@@ -101,7 +101,7 @@
 - **[YouTube Channel](wiki/articles/ventures/youtube-channel.md)** (venture; internal: Ventures) - This was a private and fairly low-key experiment around content. I did not need to turn it into a public identity story. What mattered was that it existed as a place where I could test expression, pacing, and the relationship between...
 
 
-### Concepts & Philosophy (12)
+### Concepts & Philosophy (18)
 
 > The operating system: the principles, frames, and philosophical lines that shape how I think, decide, and build.
 
@@ -117,6 +117,12 @@
 - **[Reading and the Mind](wiki/articles/philosophy/reading-and-the-mind.md)** (concept; internal: Philosophy) - When I stop reading for too long, I can feel something in my thinking get smaller.
 - **[Language as Thought](wiki/articles/philosophy/language-as-thought.md)** (concept; internal: Philosophy) - I do not really believe thought comes first in some pure form and then gets translated into words after.
 - **[We Come from Stars](wiki/articles/philosophy/we-come-from-stars.md)** (concept; internal: Philosophy) - I keep coming back to this idea because it changes the feeling of existence for me.
+- **[Action as Evidence](wiki/articles/philosophy/action-as-evidence.md)** (concept; internal: Philosophy) - The self I describe remains hypothetical until some part of it appears in behavior.
+- **[The Boredom We Lost](wiki/articles/philosophy/the-boredom-we-lost.md)** (concept; internal: Philosophy) - The empty territory of a childhood car ride, before every quiet moment came with somewhere else to go.
+- **[How Easy It Is to Fool Ourselves](wiki/articles/philosophy/how-easy-it-is-to-fool-ourselves.md)** (concept; internal: Philosophy) - Carl Sagan, Richard Feynman, and the uncomfortable fact that intelligence can make a false belief easier to defend.
+- **[We Found Each Other in the Cosmos](wiki/articles/philosophy/we-found-each-other-in-the-cosmos.md)** (concept; internal: Philosophy) - Ann Druyan's response to Carl Sagan's death, and why finitude can intensify love without needing to promise another life.
+- **[Star Friendship](wiki/articles/philosophy/star-friendship.md)** (concept; internal: Philosophy) - The idea of star friendship stayed with me because it describes a kind of closeness that does not require collapse into sameness. Two people can matter deeply to each other and still remain distinct, distant, even on separate paths, like...
+- **[Compounding](wiki/articles/business/compounding.md)** (concept; internal: Business) - Compounding is one of the ideas sitting under most of my long-term thinking. It is the reason I choose certain kinds of work and avoids others. He picks the ones that pay back more than once.
 
 
 ### Skills & Tools (21)
